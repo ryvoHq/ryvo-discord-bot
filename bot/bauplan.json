@@ -196,16 +196,6 @@
           "name": "risk-disclaimer",
           "thema": "Read this before acting on anything you see here.",
           "text": "disclaimer.md"
-        },
-        {
-          "name": "faq",
-          "thema": "Frequently asked questions.",
-          "text": "faq.md"
-        },
-        {
-          "name": "roadmap",
-          "thema": "What is live, what is being built, what comes next.",
-          "text": "roadmap.md"
         }
       ]
     },
@@ -216,23 +206,23 @@
       "kanaele": [
         {
           "name": "market-board",
-          "thema": "Live prices: crypto, indices, commodities, FX and large stocks. Updated every 10 minutes.",
-          "text": "market-board.md"
+          "thema": "Live prices: crypto, indices, commodities, FX and large stocks. Updated every 10 minutes."
         },
         {
           "name": "market-news",
-          "thema": "Market headlines (title, source, link) from official agencies and established outlets. Posted automatically.",
-          "text": "market-news.md"
+          "thema": "Market headlines (title, source, link) from official agencies and established outlets. Posted automatically."
         },
         {
           "name": "market-brief",
-          "thema": "Descriptive market brief twice a day. Facts and numbers, no forecasts, no signals.",
-          "text": "market-brief.md"
+          "thema": "Descriptive market brief twice a day. Facts and numbers, no forecasts, no signals."
+        },
+        {
+          "name": "indicators",
+          "thema": "FVG and SMT events from the RYVO Terminal, with charts. Descriptive, not signals."
         },
         {
           "name": "momentum-alerts",
-          "thema": "Automatic alerts when a major market moves fast within the hour. Descriptive, not signals.",
-          "text": "momentum-alerts.md"
+          "thema": "Automatic alerts when a major market moves fast within the hour. Descriptive, not signals."
         }
       ]
     },
@@ -248,23 +238,19 @@
         {
           "name": "introductions",
           "thema": "Say hi: what you trade, your timeframe, what you want to get better at.",
-          "langsam": 30,
-          "text": "introductions.md"
+          "langsam": 30
         },
         {
           "name": "ask-anything",
-          "thema": "No question is too basic. Beginners welcome.",
-          "text": "ask-anything.md"
+          "thema": "No question is too basic. Beginners welcome."
         },
         {
           "name": "charts",
-          "thema": "Share charts with context: market, timeframe, your idea.",
-          "text": "charts.md"
+          "thema": "Share charts with context: market, timeframe, your idea."
         },
         {
           "name": "wins-and-losses",
-          "thema": "Post your wins AND your losses, with what you learned. Honest journaling beats flexing.",
-          "text": "wins-and-losses.md"
+          "thema": "Post your wins AND your losses, with what you learned. Honest journaling beats flexing."
         },
         {
           "name": "memes",
@@ -288,8 +274,7 @@
         {
           "name": "swing-board",
           "schreiben": "niemand",
-          "thema": "Daily snapshot for swing traders after the US close: change, averages, 20-day range, chart.",
-          "text": "swing-board.md"
+          "thema": "Daily snapshot for swing traders after the US close: change, averages, 20-day range, chart."
         },
         {
           "name": "swing-ideas",
@@ -305,14 +290,6 @@
             "Commodities",
             "Closed: Win",
             "Closed: Loss"
-          ],
-          "beitraege": [
-            {
-              "titel": "How to post a swing idea",
-              "text": "forum-swing-ideas.md",
-              "tags": [],
-              "angepinnt": true
-            }
           ]
         },
         {
@@ -336,8 +313,7 @@
       "kanaele": [
         {
           "name": "daytrading-chat",
-          "thema": "Intraday talk. Execution, levels, sessions.",
-          "text": "daytrading-chat.md"
+          "thema": "Intraday talk. Execution, levels, sessions."
         },
         {
           "name": "futures-indices",
@@ -361,8 +337,7 @@
         {
           "name": "meme-momentum",
           "schreiben": "niemand",
-          "thema": "Automatic alerts when a large memecoin moves 6%+ within the hour. Descriptive, not signals.",
-          "text": "meme-momentum.md"
+          "thema": "Automatic alerts when a large memecoin moves 6%+ within the hour. Descriptive, not signals."
         },
         {
           "name": "meme-chat",
@@ -371,13 +346,11 @@
         {
           "name": "meme-calls",
           "thema": "One call per message, fixed format (see pinned). Disclose whether you hold it. No pump coordination.",
-          "langsam": 120,
-          "text": "meme-calls.md"
+          "langsam": 120
         },
         {
           "name": "rug-check",
-          "thema": "Post a contract address and ask the community to check it before you buy.",
-          "text": "rug-check.md"
+          "thema": "Post a contract address and ask the community to check it before you buy."
         }
       ]
     },
@@ -410,8 +383,7 @@
         {
           "name": "terminal-updates",
           "schreiben": "niemand",
-          "thema": "New versions and changes of the RYVO Terminal.",
-          "text": "terminal.md"
+          "thema": "New versions and changes of the RYVO Terminal."
         },
         {
           "name": "terminal-help",
@@ -424,14 +396,6 @@
             "Account",
             "Mobile",
             "Solved"
-          ],
-          "beitraege": [
-            {
-              "titel": "Getting started with the RYVO Terminal",
-              "text": "forum-terminal-start.md",
-              "tags": [],
-              "angepinnt": true
-            }
           ]
         },
         {
@@ -446,39 +410,6 @@
             "Design",
             "Planned",
             "Done"
-          ],
-          "beitraege": [
-            {
-              "titel": "How to request a feature",
-              "text": "forum-feature-how.md",
-              "tags": [],
-              "angepinnt": true
-            },
-            {
-              "titel": "Orderflow chart with volume bubbles",
-              "text": "forum-feature-orderflow.md",
-              "tags": [
-                "Charts",
-                "Planned"
-              ]
-            },
-            {
-              "titel": "More markets: stocks, indices, commodities, FX",
-              "text": "forum-feature-markets.md",
-              "tags": [
-                "Data",
-                "Stocks",
-                "Planned"
-              ]
-            },
-            {
-              "titel": "Cleaner home screen with a larger main chart",
-              "text": "forum-feature-layout.md",
-              "tags": [
-                "Design",
-                "Planned"
-              ]
-            }
           ]
         },
         {
@@ -491,14 +422,6 @@
             "Data",
             "Display",
             "Fixed"
-          ],
-          "beitraege": [
-            {
-              "titel": "How to report a bug",
-              "text": "forum-bug-how.md",
-              "tags": [],
-              "angepinnt": true
-            }
           ]
         }
       ]
@@ -550,14 +473,6 @@
             "Pro",
             "Report a user",
             "Solved"
-          ],
-          "beitraege": [
-            {
-              "titel": "Read this first",
-              "text": "forum-support.md",
-              "tags": [],
-              "angepinnt": true
-            }
           ]
         }
       ]
@@ -571,35 +486,30 @@
           "name": "deutsch",
           "zugang": "rolle:Deutsch",
           "thema": "Deutschsprachiger Chat. Hier kommt auch der Lage-Bericht auf Deutsch.",
-          "text": "sprache-de.md",
           "sprache": "de"
         },
         {
           "name": "español",
           "zugang": "rolle:Español",
           "thema": "Chat en español. Aquí también llega el boletín del mercado en español.",
-          "text": "sprache-es.md",
           "sprache": "es"
         },
         {
           "name": "français",
           "zugang": "rolle:Français",
           "thema": "Discussion en français. Le point de marché arrive aussi ici en français.",
-          "text": "sprache-fr.md",
           "sprache": "fr"
         },
         {
           "name": "italiano",
           "zugang": "rolle:Italiano",
           "thema": "Chat in italiano. Qui arriva anche il quadro di mercato in italiano.",
-          "text": "sprache-it.md",
           "sprache": "it"
         },
         {
           "name": "türkçe",
           "zugang": "rolle:Türkçe",
           "thema": "Türkçe sohbet. Piyasa raporu da burada Türkçe paylaşılır.",
-          "text": "sprache-tr.md",
           "sprache": "tr"
         }
       ]
@@ -643,10 +553,9 @@
       "rules",
       "announcements",
       "risk-disclaimer",
-      "faq",
-      "roadmap",
       "market-board",
       "market-news",
+      "indicators",
       "market-brief",
       "general",
       "introductions",
@@ -1002,5 +911,9 @@
       "it": "Solo descrittivo. Non è consulenza finanziaria né un segnale.",
       "tr": "Yalnızca bilgilendirme amaçlıdır. Yatırım tavsiyesi veya sinyal değildir."
     }
-  }
+  },
+  "entfernen": [
+    "faq",
+    "roadmap"
+  ]
 }

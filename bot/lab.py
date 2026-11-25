@@ -16,6 +16,7 @@ import time
 from datetime import datetime, timezone
 
 import markt
+import grafik
 
 HIER = os.path.dirname(os.path.abspath(__file__))
 TRADES = os.path.join(HIER, "lab", "trades.json")
@@ -29,8 +30,7 @@ TRAD = [("xyz:SP500", "S&P 500"), ("xyz:XYZ100", "Nasdaq 100"), ("xyz:GOLD", "Go
         ("xyz:EUR", "EUR/USD"), ("xyz:NVDA", "NVDA"), ("xyz:TSLA", "TSLA")]
 UNIVERSUM = MAJORS + MEMES + TRAD
 NAME = dict(UNIVERSUM)
-FUSS = ("RYVO Lab · simulated paper trade from a fixed rules-based model. No real money, not financial advice. "
-        "Every result is logged, losses included.")
+FUSS = "-# RYVO Lab · simulated paper trade · fixed rule set · not financial advice"
 
 
 def laden():
@@ -159,11 +159,18 @@ class Lab:
                 continue
             t = {"id": "%s-%s" % (heute, coin), "coin": coin, "name": name, "seite": s["seite"], "eroeffnet": datetime.now(timezone.utc).isoformat(),
                  "einstieg": preis, "stop": stop, "ziel": ziel, "grund": s["grund"], "status": "offen", "hoch": preis, "tief": preis}
-            text = ("**%s %s** · entry %s · stop %s · target %s (2R)\n\n**Why:** %s\n**Stop / target:** 1.5× / 3× the 14-day ATR (%s). "
-                    "Time exit after 15 days.\n\nWhat do you think? Discuss in <#%s>.") % (
-                s["seite"].upper(), name, markt.zahl(preis), markt.zahl(stop), markt.zahl(ziel), s["grund"], markt.zahl(a), self.p.kanal("lab-discussion"))
-            m = self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-trades"), {"embeds": [self.embed("RYVO Lab · new paper trade · %s %s" % (s["seite"].upper(), name), text)]})
-            t["nachricht"] = m.get("id")
+            text = "**%s %s** · entry %s · SL %s · TP %s (2R)\n%s\n%s" % (
+                s["seite"].upper(), name, markt.zahl(preis), markt.zahl(stop), markt.zahl(ziel), s["grund"], FUSS)
+            try:
+                k = markt.kerzen(coin, 200)
+                kv = k[-90:]
+                bild = grafik.kerzenchart(kv, "RYVO Lab · %s %s" % (s["seite"].upper(), name), s["grund"], intervall="1d",
+                                          position=dict(von=len(kv) - 1, einstieg=preis, stop=stop, ziel=ziel, seite=s["seite"]), mittel=[50])
+                m = self.p.dc.datei("POST", "/channels/%s/messages" % self.p.kanal("lab-trades"), {"content": text, "allowed_mentions": {"parse": []}}, "lab.png", bild)
+            except Exception:
+                m = self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-trades"), {"content": text, "allowed_mentions": {"parse": []}})
+            t["nachricht"] = (m or {}).get("id")
+            self.z.setdefault("lab_tageslog", []).append("%s %s %s UTC, open at %s" % (s["seite"].capitalize(), name, datetime.now(timezone.utc).strftime("%H:%M"), markt.zahl(preis)))
             trades.append(t)
             neu += 1
         speichern(trades)
@@ -204,11 +211,11 @@ class Lab:
                 t["lehre"] = "Breakout carried to 2R in %.0f days." % alter
             else:
                 t["lehre"] = "No follow-through in 15 days (best point %+.1fR)." % bestes
-            farbe = 0x9A9A9A if t["r"] <= 0 else 0xFFFFFF
-            text = ("**%s %s** closed: **%s** at %s → **%+.2fR**\nEntry %s · stop %s · target %s · held %.1f days\n\n**Lesson:** %s\n\n%s") % (
-                t["seite"].upper(), t["name"], {"stop": "stop hit", "target": "target hit", "time": "time exit"}[ausgang], markt.zahl(p), t["r"],
-                markt.zahl(t["einstieg"]), markt.zahl(t["stop"]), markt.zahl(t["ziel"]), alter, t["lehre"], bilanz_text(trades))
-            self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-trades"), {"embeds": [self.embed("RYVO Lab · closed · %s %s · %+.2fR" % (t["seite"].upper(), t["name"], t["r"]), text, farbe)]})
+            text = "**%s %s closed** · %s at %s · **%+.2fR** · %.1f days\n%s\n%s\n%s" % (
+                t["seite"].upper(), t["name"], {"stop": "stop hit", "target": "target hit", "time": "time exit"}[ausgang], markt.zahl(p), t["r"], alter,
+                t["lehre"], bilanz_text(trades), FUSS)
+            self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-trades"), {"content": text, "allowed_mentions": {"parse": []}})
+            self.z.setdefault("lab_tageslog", []).append("%s %s closed, %s %+.2fR" % (t["seite"].capitalize(), t["name"], "win" if t["r"] > 0 else "loss", t["r"]))
             geschlossen += 1
         speichern(trades)
         if geschlossen:
@@ -228,8 +235,21 @@ class Lab:
             zeilen.append("· %s %s %+.2fR – %s" % (t["seite"], t["name"], t["r"], t.get("lehre", "")))
         zeilen.append("\n**All time:** " + bilanz_text(trades))
         zeilen.append("Full trade library: https://github.com/ryvoHq/ryvo-discord-bot/blob/main/bot/lab/BIBLIOTHEK.md")
-        self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-scorecard"), {"embeds": [self.embed("RYVO Lab · weekly scorecard · " + woche, "\n".join(zeilen))]})
+        self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-scorecard"), {"content": "**RYVO Lab · week %s**\n%s\n%s" % (woche, "\n".join(zeilen), FUSS), "allowed_mentions": {"parse": []}})
         self.z["lab_woche"] = woche
+
+    # --- 23:50 UTC: Tageslog (eine Nachricht je Tag) ---
+    def tageslog(self):
+        jetzt = datetime.now(timezone.utc)
+        tag = jetzt.strftime("%Y-%m-%d")
+        if jetzt.hour != 23 or jetzt.minute < 50 or self.z.get("lab_log_tag") == tag:
+            return
+        eintraege = self.z.get("lab_tageslog", [])
+        if eintraege:
+            self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-trades"),
+                           {"content": "%s\n%s\n%s" % (jetzt.strftime("%m-%d-%Y"), "\n".join(eintraege), bilanz_text(laden())), "allowed_mentions": {"parse": []}})
+        self.z["lab_tageslog"] = []
+        self.z["lab_log_tag"] = tag
 
     # --- jeden Lauf: Momentum-Hinweise (beschreibend) ---
     SCHWELLE = {"major": 0.025, "meme": 0.06, "trad": 0.015}
@@ -244,7 +264,7 @@ class Lab:
                 if jetzt - sperre.get(coin, 0) < 3 * 3600:
                     continue
                 try:
-                    roh = markt._post({"type": "candleSnapshot", "req": {"coin": coin, "interval": "1h", "startTime": int((jetzt - 26 * 3600) * 1000), "endTime": int(jetzt * 1000)}})
+                    roh = markt._post({"type": "candleSnapshot", "req": {"coin": coin, "interval": "1h", "startTime": int((jetzt - 50 * 3600) * 1000), "endTime": int(jetzt * 1000)}})
                 except Exception:
                     continue
                 if not roh or len(roh) < 3:
@@ -255,13 +275,16 @@ class Lab:
                 aend = c / p - 1 if p else 0
                 if abs(aend) < self.SCHWELLE[art]:
                     continue
-                mittel = sum(x[2] for x in k[:-1]) / max(1, len(k) - 1)
-                tag = c / k[0][0] - 1
-                text = "**%s** moved **%+.1f%%** since the last hourly close, now %s.\n24h: %+.1f%% · volume this hour so far: %.1f× the hourly average of the last day." % (
+                mittel = sum(x[2] for x in k[-25:-1]) / max(1, len(k[-25:-1]))
+                tag = c / k[-25][0] - 1 if len(k) >= 25 else c / k[0][0] - 1
+                text = "**%s %+.1f%%** this hour · %s · 24h %+.1f%% · volume %.1f× hourly avg\n-# Hyperliquid perps · describes a move, not a signal · not financial advice" % (
                     name, aend * 100, markt.zahl(c), tag * 100, (v / mittel) if mittel else 0)
-                embed = {"color": 0xFFFFFF, "title": "Momentum · %s %s" % (name, "up" if aend > 0 else "down"), "description": text,
-                         "footer": {"text": markt.QUELLE_HL + " Describes a price move. Not a signal, not advice."}}
-                self.p.dc.post("/channels/%s/messages" % self.p.kanal(kanal), {"embeds": [embed]})
+                try:
+                    kk = [(int(x["t"]), float(x["o"]), float(x["h"]), float(x["l"]), float(x["c"]), float(x["v"])) for x in roh][-48:]
+                    bild = grafik.kerzenchart(kk, "%s %+.1f%% this hour" % (name, aend * 100), "Hourly candles, last 48 hours", intervall="1h")
+                    self.p.dc.datei("POST", "/channels/%s/messages" % self.p.kanal(kanal), {"content": text, "allowed_mentions": {"parse": []}}, "move.png", bild)
+                except Exception:
+                    self.p.dc.post("/channels/%s/messages" % self.p.kanal(kanal), {"content": text, "allowed_mentions": {"parse": []}})
                 sperre[coin] = jetzt
                 n += 1
         if n:

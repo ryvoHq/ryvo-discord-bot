@@ -28,7 +28,7 @@ GRUPPEN = [
 SWING = [("BTC", "BTC"), ("ETH", "ETH"), ("SOL", "SOL"), ("xyz:SP500", "S&P 500"), ("xyz:XYZ100", "Nasdaq 100"),
          ("xyz:GOLD", "Gold"), ("xyz:SILVER", "Silver"), ("xyz:CL", "WTI crude"), ("xyz:EUR", "EUR/USD"),
          ("xyz:NVDA", "NVDA"), ("xyz:TSLA", "TSLA")]
-QUELLE_HL = "Prices: Hyperliquid perpetual contracts. They track the underlying market but are not official exchange quotes."
+QUELLE_HL = "Hyperliquid perps, not official quotes."
 
 
 def _post(daten, versuche=3):
@@ -145,7 +145,7 @@ def board_embeds(ctx, fg=None):
         embeds.append({"color": 0xFFFFFF, "title": "Sentiment",
                        "description": "Crypto Fear & Greed Index: **%d** (%s), yesterday %d.\nSource: [alternative.me](https://alternative.me/crypto/fear-and-greed-index/)" % (wert, klasse.lower(), gestern)})
     if embeds:
-        embeds[-1]["footer"] = {"text": "Live board, updated every 5 min · last update %s · %s Descriptive only. Not investment advice, no signals." % (uhrzeit(), QUELLE_HL)}
+        embeds[-1]["footer"] = {"text": "Live · every 5 min · %s · %s Not financial advice." % (uhrzeit(), QUELLE_HL)}
     return embeds
 
 
@@ -172,11 +172,10 @@ def swing_zeilen(daten):
 
 def swing_embed(daten):
     zeilen = swing_zeilen(daten)
-    beschreibung = ("Daily snapshot for swing traders. **50D / 200D** = distance to the 50- and 200-day average. "
-                    "**20D range** = where price sits between its 20-day low (0%) and high (100%).\n\n" + "\n\n".join(zeilen))
+    beschreibung = "50D / 200D: distance to the average · 20D range: 0% = low, 100% = high\n\n" + "\n\n".join(zeilen)
     return {"color": 0xFFFFFF, "title": "Swing board · " + datetime.now(timezone.utc).strftime("%a %d %b %Y"),
             "description": beschreibung[:4096],
-            "footer": {"text": "Daily closes (UTC) · %s Descriptive only. Not investment advice, no signals." % QUELLE_HL}}
+            "footer": {"text": "Daily closes UTC · %s Not financial advice." % QUELLE_HL}}
 
 
 # ---------- Charts ----------

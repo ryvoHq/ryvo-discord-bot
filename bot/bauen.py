@@ -495,6 +495,59 @@ class Bau:
                                 self.offen.append("Beitrag nicht angepinnt (%s): %s" % (schl, e.status))
                     self.z["nachrichten"][schl] = {"thread": tid, "hash": h}
 
+    def aufraeumen(self):
+        """Löscht, was nicht mehr im Bauplan steht: alte Texte, Forum-Beiträge, Kanäle aus 'entfernen' und die
+        Discord-Hinweise „hat eine Nachricht angepinnt“. Nur Beiträge des Bots, nie Beiträge von Mitgliedern."""
+        soll_text = set()
+        soll_beitrag = set()
+        for kat in self.plan["kategorien"]:
+            for kanal in kat["kanaele"]:
+                if kanal.get("text"):
+                    soll_text.add(kanal["name"])
+                for b in kanal.get("beitraege", []):
+                    soll_beitrag.add("%s#%s" % (kanal["name"], b["titel"]))
+        for schl in list(self.z["nachrichten"]):
+            eintrag = self.z["nachrichten"][schl]
+            try:
+                if "#" in schl and schl not in soll_beitrag and eintrag.get("thread"):
+                    self.dc.anfrage("DELETE", "/channels/%s" % eintrag["thread"], grund=GRUND)
+                    log("Forum-Beitrag gelöscht: %s" % schl)
+                elif "#" not in schl and schl not in soll_text and eintrag.get("id"):
+                    self.dc.anfrage("DELETE", "/channels/%s/messages/%s" % (self.z["kanaele"][schl], eintrag["id"]), grund=GRUND)
+                    log("Text gelöscht: #%s" % schl)
+                else:
+                    continue
+            except DiscordFehler as e:
+                if e.status != 404:
+                    self.offen.append("Löschen %s: %s" % (schl, e.status))
+                    continue
+            del self.z["nachrichten"][schl]
+        for name in self.plan.get("entfernen", []):
+            kid = self.z["kanaele"].get(name)
+            if not kid:
+                continue
+            try:
+                self.dc.anfrage("DELETE", "/channels/%s" % kid, grund=GRUND)
+                log("Kanal gelöscht: #%s" % name)
+            except DiscordFehler as e:
+                if e.status != 404:
+                    self.offen.append("Kanal %s nicht gelöscht: %s" % (name, e.status))
+                    continue
+            del self.z["kanaele"][name]
+        if self.trocken:
+            return
+        for kat in self.plan["kategorien"]:
+            for kanal in kat["kanaele"]:
+                kid = self.z["kanaele"].get(kanal["name"])
+                if not kid or kanal.get("typ", "text") not in ("text", "ankuendigung"):
+                    continue
+                try:
+                    for m in self.dc.get("/channels/%s/messages?limit=50" % kid) or []:
+                        if m.get("type") == 6 and m.get("author", {}).get("id") == self.ich["id"]:
+                            self.dc.anfrage("DELETE", "/channels/%s/messages/%s" % (kid, m["id"]))
+                except DiscordFehler:
+                    pass
+
     # ---------- Onboarding, Willkommensseite, AutoMod, Einladung ----------
     def onboarding(self):
         o = self.plan["onboarding"]
@@ -607,6 +660,7 @@ class Bau:
         self.reihenfolge()
         self.texte()
         self.beitraege()
+        self.aufraeumen()
         self.onboarding()
         self.willkommensseite()
         self.automod()

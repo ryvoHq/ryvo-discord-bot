@@ -29,12 +29,12 @@
   "deutsch": "1575109817247473694",
   "discord-updates": "1575109839712030720",
   "español": "1575109818799231027",
-  "faq": "1575109757751140445",
   "feature-requests": "1575109852601131061",
   "forex": "1575109785441935422",
   "français": "1575109820623753276",
   "futures-indices": "1575109788948242475",
   "general": "1575109767066550332",
+  "indicators": "1575160559782076529",
   "introductions": "1575109768219983976",
   "italiano": "1575109822389682186",
   "lab-discussion": "1575155303492751421",
@@ -54,7 +54,6 @@
   "pro-info": "1575109805796761620",
   "pro-lounge": "1575109806832885843",
   "risk-disclaimer": "1575109756660482229",
-  "roadmap": "1575109759802150945",
   "rug-check": "1575109799132266526",
   "rules": "1575109753976262727",
   "stocks": "1575109784279973958",
@@ -70,141 +69,25 @@
   "wins-and-losses": "1575109773232312425"
  },
  "nachrichten": {
-  "ask-anything": {
-   "hash": "b1791c264e6c23f0cbc53ee8320d72ff11f6e8ab803cfc5369793e120db25da8",
-   "id": "1575119571894014054"
-  },
-  "bug-reports#How to report a bug": {
-   "hash": "2e741d41db821e111e4f4adbcc137b41c75698676704c3c0c9fadea93cab9d65",
-   "thread": "1575119611932839937"
-  },
-  "charts": {
-   "hash": "6615e6486e475be226a762d3616b5051ff7b5a8eedddcd2aee8088033dc82e60",
-   "id": "1575119575035543554"
-  },
-  "daytrading-chat": {
-   "hash": "172b6830d5afd816a3ff1e7166e6d01e937b87942f9c4cc37de8502198f5adc7",
-   "id": "1575119583629541427"
-  },
-  "deutsch": {
-   "hash": "77be46a65d461d150b59a580468151510a9ade7d12841f1fc9a2af1777450235",
-   "id": "1575109963192336526"
-  },
-  "español": {
-   "hash": "26f6243cfe92e9b7c48ebe91c5f1f892512e0b1f425ae01851a2c75f1c52c6b0",
-   "id": "1575109967298437181"
-  },
-  "faq": {
-   "hash": "0b31a0e8806c12bf5790d9ac6b61126135b73037d202861b0979487d118c8fa6",
-   "id": "1575109935262343222"
-  },
-  "feature-requests#Cleaner home screen with a larger main chart": {
-   "hash": "64f978958131ca7a5f327af4c6c50b559f07158eba76ffdeb6f075540d64b3c8",
-   "thread": "1575119609365921793"
-  },
-  "feature-requests#How to request a feature": {
-   "hash": "b2ad6898e69a63dd64ac7d58298c05280763ea15a63dcbd2140f177d7df80600",
-   "thread": "1575119604030767206"
-  },
-  "feature-requests#More markets: stocks, indices, commodities, FX": {
-   "hash": "9b2862ad1ad282f5838a46a4f0b00505de3fd19fd95bf1fe97d4f629b1dc157b",
-   "thread": "1575119607570759794"
-  },
-  "feature-requests#Orderflow chart with volume bubbles": {
-   "hash": "f06a6d8d3278fa271e5810945373932f0d0e2a516c88d9b839bd0da4c1d51f44",
-   "thread": "1575119606551683113"
-  },
-  "français": {
-   "hash": "d9d24afbae7ca7516cf18c7949ac1c30223810aa451fe7d8f91935d1503fdc18",
-   "id": "1575109970545086567"
-  },
-  "introductions": {
-   "hash": "9b5710ff161ba3c3c286e47909932dac0efcb7abb2c989c7bd27fa1bddb5b074",
-   "id": "1575119568811327601"
-  },
-  "italiano": {
-   "hash": "11db8d330353263b09fe06929a6c254cc4ef302920f2aa3c2c478d1b8fece253",
-   "id": "1575109973636288555"
-  },
   "lab-trades": {
-   "hash": "1d77cff7152bf814450c9bd8f73289bd8c568d51fda2b8324d9b15e30976deae",
+   "hash": "1c84dc3414c709ff4fec6bb76b88aac2d1f070fccc9148f58df291b565c05377",
    "id": "1575155320005853326"
   },
-  "market-board": {
-   "hash": "3343bd9adc9ad395153ab9012a02182c081ed7ef9e7facd38f57ef9969bc07cd",
-   "id": "1575119565380255978"
-  },
-  "market-brief": {
-   "hash": "0ceb65cd197ecdc9a76faa215f698a4ca128f9ab4d8a3addd0d29633b5dc2bab",
-   "id": "1575109949611311231"
-  },
-  "market-news": {
-   "hash": "e4df56d7036093b1bc4a78d5832f78ceb69b5ab1746e7449efcfcebbf48709bd",
-   "id": "1575109946343821424"
-  },
-  "meme-calls": {
-   "hash": "8e48b21fa8940b86f2eaa93c7ea55ad32c650bfd532dbd37d1088a8582ae8a56",
-   "id": "1575109954036310149"
-  },
-  "meme-momentum": {
-   "hash": "8dd79c3defc1e4589a0047ebbc01548b898d5c7b2a44a9f20d87b9ec573a0953",
-   "id": "1575155317443133532"
-  },
-  "momentum-alerts": {
-   "hash": "299780b0602feae39f037247911d789dfd6cbab34b4ee700a0fe4d999f3c5cf4",
-   "id": "1575155314293211158"
-  },
   "pro-info": {
-   "hash": "4fd34be4ebe3412018efedda8b8eb1b5dfa88309f70abf1fe62d5e228f7b921e",
+   "hash": "0b5ed9c0f8f9bf40807846ac3238ecf71b1c094d8c8bd9010129b7f459f87884",
    "id": "1575109960075841637"
   },
   "risk-disclaimer": {
-   "hash": "75e42b8f27880bf4f123301c60a44b9faca32da6ac170aa81557db576e70b7d4",
+   "hash": "860fae7cdf47efb8f2bea1e9a2e1b48e389ddb481e1ee8c80dec1ccf6a16f426",
    "id": "1575109931911225468"
   },
-  "roadmap": {
-   "hash": "032ca16816cb114a4042137e84289fa7aaf665eefd9622d55064fc13312dbe03",
-   "id": "1575109939033149483"
-  },
-  "rug-check": {
-   "hash": "c2b5da5d80148c729a7e20c4cd4683cd1a568dde7309ba64a71157d541c62fae",
-   "id": "1575119586259640352"
-  },
   "rules": {
-   "hash": "a846e391a477250d9f22c10a086f9d16bcbf7ed57090604e730dacfdc7810b75",
+   "hash": "96099e480bb508d69d7e0b072076374ff2a62bf95b676754a63bee11c528028a",
    "id": "1575109928648179783"
   },
-  "support#Read this first": {
-   "hash": "f2e2ee37401d9ebcfbffe8232fca90319f1b0e40c6b238f20f5abd24090ce233",
-   "thread": "1575119615720431737"
-  },
-  "swing-board": {
-   "hash": "37c4c9158bcc978ff35f81d22d2ffec56113780ec6d152dae81f7ac926d04e3f",
-   "id": "1575119580953841875"
-  },
-  "swing-ideas#How to post a swing idea": {
-   "hash": "505c2ba63f7a68b579b36662e56080af690b038e56795197bc668c58f23f2433",
-   "thread": "1575119590676111382"
-  },
-  "terminal-help#Getting started with the RYVO Terminal": {
-   "hash": "4bd1158ed18b626dca0826e9cac666d221d19d2fe9ac4bbf9161cf9a7fc03ff0",
-   "thread": "1575119594568552562"
-  },
-  "terminal-updates": {
-   "hash": "78158dcf2de65c22216af9ca9d0faeb9c2847e7b0a5f56bbfe1919384447db25",
-   "id": "1575109957026586696"
-  },
-  "türkçe": {
-   "hash": "ee4e35c120de7e9ccbee6c9906e6211edbaaea9a86568575a5565796f27497ba",
-   "id": "1575109976517513238"
-  },
   "welcome": {
-   "hash": "8e59820fb84f92c2d6ef399735dcb40948aab0d9173991d0d95ae54b6c76cb11",
+   "hash": "f3d028164df16d75d0c487fc3ea0a39b29cf2ab53bc7f5f29bb2474d1797bc6f",
    "id": "1575109922545205261"
-  },
-  "wins-and-losses": {
-   "hash": "3acf7b2be57c328753554edd9e696220bc7e5e37b2144c471460750f30743edf",
-   "id": "1575119578483134586"
   }
  },
  "rollen": {

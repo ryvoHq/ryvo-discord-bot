@@ -26,6 +26,8 @@ from datetime import datetime, timezone
 from discord_api import Discord, DiscordFehler, token_lesen
 import markt
 import lab
+import grafik
+import signale
 
 HIER = os.path.dirname(os.path.abspath(__file__))
 PLAN = os.path.join(HIER, "bauplan.json")
@@ -260,8 +262,8 @@ class Poster:
             return
         daten = {c: markt.kerzen(c) for c, _ in markt.SWING}
         embed = markt.swing_embed(daten)
-        bild = markt.chart_png([("BTC", daten["BTC"]), ("S&P 500", daten["xyz:SP500"]), ("Nasdaq 100", daten["xyz:XYZ100"]), ("Gold", daten["xyz:GOLD"])],
-                               "Swing board · last 6 months", markt.QUELLE_HL)
+        bild = grafik.raster([("BTC", daten["BTC"][-90:]), ("S&P 500", daten["xyz:SP500"][-90:]), ("Nasdaq 100", daten["xyz:XYZ100"][-90:]), ("Gold", daten["xyz:GOLD"][-90:])],
+                             "Swing board · " + datetime.now(timezone.utc).strftime("%d %b %Y"), "Daily candles, last 90 days", intervall="1d")
         embed["image"] = {"url": "attachment://swing-board.png"}
         self.dc.datei("POST", "/channels/%s/messages" % self.kanal("swing-board"), {"embeds": [embed]}, "swing-board.png", bild)
         self.z["swing_tag"] = heute
@@ -280,21 +282,16 @@ class Poster:
         coin, name = self.CHART_REIHE[nr]
         k = markt.kerzen(coin)
         kz = markt.kennzahlen(k)
-        bild = markt.chart_png([(name, k)], "Chart of the day · " + name, markt.QUELLE_HL, tage=365)
         def p(x):
             return "–" if x is None else "%+.1f%%" % (x * 100)
-        text = ("**%s** last daily close **%s**\n"
-                "1 week %s · 1 month %s\n"
-                "vs 50-day average %s · vs 200-day average %s\n"
-                "20-day range %s – %s · 52-week range %s – %s\n\n"
-                "What do you see on this chart? Post your read in this channel: levels, structure, timeframe. "
-                "Opinions only, no financial advice.") % (
-            name, markt.zahl(kz["preis"]), p(kz["1w"]), p(kz["1m"]), p(kz["50d"]), p(kz["200d"]),
-            markt.zahl(kz["tief20"]), markt.zahl(kz["hoch20"]), markt.zahl(kz["tief52"]), markt.zahl(kz["hoch52"]))
-        embed = {"color": 0xFFFFFF, "title": "Chart of the day · " + name, "description": text,
-                 "image": {"url": "attachment://chart-of-the-day.png"},
-                 "footer": {"text": markt.QUELLE_HL + " Descriptive only. Not investment advice, no signals."}}
-        self.dc.datei("POST", "/channels/%s/messages" % self.kanal("charts"), {"embeds": [embed]}, "chart-of-the-day.png", bild)
+        text = ("**Chart of the day · %s · 1D**\nLast %s · 1W %s · 1M %s · vs 50D %s · vs 200D %s\n52-week range %s – %s\n"
+                "-# Hyperliquid perps, not official quotes. Not financial advice.") % (
+            name, markt.zahl(kz["preis"]), p(kz["1w"]), p(kz["1m"]), p(kz["50d"]), p(kz["200d"]), markt.zahl(kz["tief52"]), markt.zahl(kz["hoch52"]))
+        try:
+            inhalt, endung = grafik.video(k[-90:], "Chart of the day · %s · 1D" % name, "Last 90 daily candles", intervall="1d")
+        except Exception:
+            inhalt, endung = grafik.kerzenchart(k[-120:], "Chart of the day · %s · 1D" % name, "Last 120 daily candles", intervall="1d", mittel=[50]), "png"
+        self.dc.datei("POST", "/channels/%s/messages" % self.kanal("charts"), {"content": text, "allowed_mentions": {"parse": []}}, "chart-of-the-day." + endung, inhalt)
         self.z["chart_tag"] = heute
         self.ergebnis["Chart des Tages"] = name
 
@@ -308,17 +305,11 @@ class Poster:
         for coin, name in (("BTC", "BTC"), ("ETH", "ETH"), ("xyz:SP500", "S&P 500"), ("xyz:XYZ100", "Nasdaq 100"), ("xyz:GOLD", "Gold"), ("xyz:CL", "WTI crude")):
             c = ctx.get(coin)
             if c and c["vortag"]:
-                zeilen.append("%s %s (%+.1f%% 24h)" % (name, markt.zahl(c["preis"]), (c["preis"] / c["vortag"] - 1) * 100))
-        tag = datetime.now(timezone.utc).strftime("%A %d %B")
-        embed = {"color": 0xFFFFFF, "title": "Daily discussion · " + tag,
-                 "description": ("Good morning, traders. What are you watching today?\n\n"
-                                 "· Your markets and timeframe\n· Levels you care about\n· Your plan, and what would prove you wrong\n"
-                                 "· One lesson from yesterday\n\n**Snapshot:** " + " · ".join(zeilen) +
-                                 "\n\nLive prices: <#" + self.kanal("market-board") + "> · Today's brief: <#" + self.kanal("market-brief") + ">"),
-                 "footer": {"text": "Reply in the thread below. Opinions only, not financial advice."}}
-        m = self.dc.post("/channels/%s/messages" % self.kanal("general"), {"embeds": [embed]})
+                zeilen.append("%s %s %+.1f%%" % (name, markt.zahl(c["preis"]), (c["preis"] / c["vortag"] - 1) * 100))
+        tag = datetime.now(timezone.utc).strftime("%a %d %b")
+        m = self.dc.post("/channels/%s/messages" % self.kanal("general"), {"content": "**%s** · %s" % (tag, " · ".join(zeilen)), "allowed_mentions": {"parse": []}})
         self.dc.post("/channels/%s/messages/%s/threads" % (self.kanal("general"), m["id"]),
-                     {"name": "Daily discussion · " + datetime.now(timezone.utc).strftime("%d %b"), "auto_archive_duration": 1440})
+                     {"name": "Daily thread · " + datetime.now(timezone.utc).strftime("%d %b"), "auto_archive_duration": 1440})
         self.z["thread_tag"] = heute
         self.ergebnis["Tagesthread"] = "gepostet"
 
@@ -364,7 +355,7 @@ class Poster:
 
     def _senden_embed(self, kanal, titel, teile, fuss_zusatz=""):
         embed = {"color": 0xFFFFFF, "title": titel, "description": "\n\n".join(teile)[:4096],
-                 "footer": {"text": (fuss_zusatz + markt.QUELLE_HL + " 24h change vs the previous UTC day. Descriptive only. Not investment advice, no signals.")[:2048]}}
+                 "footer": {"text": (fuss_zusatz + markt.QUELLE_HL + " 24h vs previous UTC day. Not financial advice.")[:2048]}}
         ziel = getattr(self, "_bearbeiten", {}).get(kanal)
         if ziel:
             self.dc.patch("/channels/%s/messages/%s" % (self.kanal(kanal), ziel), {"embeds": [embed]})
@@ -421,8 +412,13 @@ class Poster:
             z = [self._zeile(name, ctx[c]) for c, name in liste if c in ctx and ctx[c]["vortag"]]
             if z:
                 teile.append("**%s**\n%s" % (titel, "\n".join(z)))
-        teile.append("US cash session opens 14:30 UTC (winter). Session times are pinned in <#%s>." % self.kanal("daytrading-chat"))
-        self._senden_embed("futures-indices", "Before the US open · " + datetime.now(timezone.utc).strftime("%a %d %b"), teile)
+        try:
+            from zoneinfo import ZoneInfo
+            ny = datetime.now(ZoneInfo("America/New_York")).replace(hour=9, minute=30, second=0, microsecond=0)
+            teile.append("US cash open %s UTC" % ny.astimezone(timezone.utc).strftime("%H:%M"))
+        except Exception:
+            pass
+        self._senden_embed("futures-indices", "Pre-market · " + datetime.now(timezone.utc).strftime("%a %d %b"), teile)
         self.z["indizes_tag"] = heute
         self.ergebnis["Indizes-Übersicht"] = "gepostet"
 
@@ -471,8 +467,8 @@ def main():
     dc = Discord(token, trocken=TROCKEN, protokoll=log)
     p = Poster(dc, plan, server, z)
     fehler = []
-    for schritt in (p.postausgang, p.board, p.schlagzeilen, p.lagebrief, p.terminal, p.tagesthread, p.chart_des_tages, p.swing_board, p.ezb, p.krypto_tag, p.aktien_tag, p.indizes_tag,
-                    lab.Lab(p).pruefen, lab.Lab(p).scan, lab.Lab(p).momentum, lab.Lab(p).wochenbilanz):
+    for schritt in (p.postausgang, p.board, signale.Signale(p).lauf, p.schlagzeilen, p.lagebrief, p.terminal, p.tagesthread, p.chart_des_tages, p.swing_board, p.ezb, p.krypto_tag, p.aktien_tag, p.indizes_tag,
+                    lab.Lab(p).pruefen, lab.Lab(p).scan, lab.Lab(p).momentum, lab.Lab(p).wochenbilanz, lab.Lab(p).tageslog):
         try:
             schritt()
         except Exception as e:

@@ -1,0 +1,49 @@
+== RYVO-Discord bauen (ECHT) – 25.11.2026 15:45 ==
+Server: RYVO (1565067584729120898), Bot: RYVO
+Angelegt: # indicators
+Nicht im Bauplan, unverändert gelassen: faq
+Nicht im Bauplan, unverändert gelassen: roadmap
+Reihenfolge: 2 Kanäle sortiert
+Text aktualisiert: #welcome
+Text aktualisiert: #rules
+Text aktualisiert: #risk-disclaimer
+Text aktualisiert: #lab-trades
+Text aktualisiert: #pro-info
+Text gelöscht: #ask-anything
+Forum-Beitrag gelöscht: bug-reports#How to report a bug
+Text gelöscht: #charts
+Text gelöscht: #daytrading-chat
+Text gelöscht: #deutsch
+Text gelöscht: #español
+Text gelöscht: #faq
+Forum-Beitrag gelöscht: feature-requests#Cleaner home screen with a larger main chart
+Forum-Beitrag gelöscht: feature-requests#How to request a feature
+Forum-Beitrag gelöscht: feature-requests#More markets: stocks, indices, commodities, FX
+Forum-Beitrag gelöscht: feature-requests#Orderflow chart with volume bubbles
+Text gelöscht: #français
+Text gelöscht: #introductions
+Text gelöscht: #italiano
+Text gelöscht: #market-board
+Text gelöscht: #market-brief
+Text gelöscht: #market-news
+Text gelöscht: #meme-calls
+Text gelöscht: #meme-momentum
+Text gelöscht: #momentum-alerts
+Text gelöscht: #roadmap
+Text gelöscht: #rug-check
+Forum-Beitrag gelöscht: support#Read this first
+Text gelöscht: #swing-board
+Forum-Beitrag gelöscht: swing-ideas#How to post a swing idea
+Forum-Beitrag gelöscht: terminal-help#Getting started with the RYVO Terminal
+Text gelöscht: #terminal-updates
+Text gelöscht: #türkçe
+Text gelöscht: #wins-and-losses
+Kanal gelöscht: #faq
+Kanal gelöscht: #roadmap
+Onboarding gesetzt: 5 Fragen, 21 Standardkanäle
+Willkommensseite gesetzt
+Schreibvorgänge: 70
+OFFEN:
+  - Server-Icon fehlt: /Users/philipsimon/Arbeit/ryvo-discord/cloud/ryvo-icon.png
+  - Farbverlauf für 'Founder' noch nicht möglich (Discord verlangt 3 Server-Boosts) – Rolle ist vorerst weiß; wird beim nächsten Bau automatisch gesetzt
+Einladung: https://discord.gg/KBwcXhFwtW
