@@ -158,52 +158,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 141,
+ "laeufe": 142,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795645771.2777596,
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "dauer": 0.0013742446899414062,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
-    "name": "Grodia",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Grodia",
-    "t": 1795645621.5130782
-   },
-   {
-    "mint": "wpL5xhb45JVR6g7nLJyWSW99NBcvBHnazHQSQtHpump",
-    "spaet": true,
-    "t": 1795645696.376985
-   },
-   {
-    "dauer": 703.4959285259247,
-    "ersteller_verkauft": false,
-    "kaeufer": 210,
-    "mint": "3jAB5ksB13Kgm2Q39NU6d2USUxBy2f9LaTvyay6Gpump",
-    "name": "clancat",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ccat",
-    "t": 1795645739.509061
-   },
-   {
-    "dauer": 240.99900126457214,
-    "ersteller_verkauft": false,
-    "kaeufer": 548,
-    "mint": "9w6QTJczaw1aP5GLry3wRJoFjkzs6DRSB56VwVCdpump",
-    "name": "Butternald",
-    "sol": 51.7195021619999,
-    "spaet": false,
-    "symbol": "Butternald",
-    "t": 1795645746.9217603
-   },
    {
     "mint": "EtYFxZLcFNNnr566eg2vNfkYACRLYCWP5VamuxV3pump",
     "spaet": true,
@@ -329,6 +290,43 @@
     "mint": "UBxg87ufviXoHUwjmhAs9yryh6VB4i1RZZAjMaZpump",
     "spaet": true,
     "t": 1795649028.6379316
+   },
+   {
+    "mint": "HJxaaQv6zenNfMFgknnaWBNPetVXSAv7cEup1yAgpump",
+    "spaet": true,
+    "t": 1795649330.4255927
+   },
+   {
+    "mint": "G8q8PCEvzTmnrWgLovHSGMvGsFoqZiaQ2yyzmp7NxJBF",
+    "spaet": true,
+    "t": 1795649332.5364501
+   },
+   {
+    "mint": "7XQZTFxKGuk3xg1zA6puVwYqnjAmKSwXCjMaUkmWpump",
+    "spaet": true,
+    "t": 1795649345.3331187
+   },
+   {
+    "dauer": 62.86939072608948,
+    "ersteller_verkauft": true,
+    "kaeufer": 309,
+    "mint": "9BSnMp1ePp4ANcE5FZW5gua55S4dA6MUtUqsMtu7pump",
+    "name": "Yee",
+    "sol": 83.90996999999994,
+    "spaet": false,
+    "symbol": "YEE",
+    "t": 1795649372.6786737
+   },
+   {
+    "dauer": 287.65689992904663,
+    "ersteller_verkauft": false,
+    "kaeufer": 204,
+    "mint": "KBtdgrc116uL7Z3SzUWuABxMSoMGWgpXna6J5Hypump",
+    "name": "Jensen Is Back",
+    "sol": 84.882822841,
+    "spaet": false,
+    "symbol": "JENSEN",
+    "t": 1795649489.866894
    }
   ],
   "uebersicht": 1795647314.6004097
