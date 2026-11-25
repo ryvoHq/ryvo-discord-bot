@@ -148,34 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 104,
+ "laeufe": 105,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "dauer": 180.1124029159546,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "5eiJvQpBTdMVqzrBZX7js2NJ15oTZkjY39x94uSdpump",
-    "name": "The Chosen",
-    "sol": -0.27143592400000016,
-    "spaet": false,
-    "symbol": "ComeSee",
-    "t": 1795635589.7540364
-   },
-   {
-    "mint": "DQJbRqrQkG9sqChwWXSxwWxi8K9gtVdr5w6vCEx4pump",
-    "spaet": true,
-    "t": 1795635646.5382261
-   },
-   {
-    "mint": "Btwbrmj7HMmsuTKC75qcYkoULxGaDqjPakSnoT2upump",
-    "spaet": true,
-    "t": 1795635660.8488235
-   },
    {
     "mint": "3qineFvZCaTzxiRvAo9ZAPJeA8gRTEEjVo48iaScpump",
     "spaet": true,
@@ -428,6 +407,17 @@
     "spaet": false,
     "symbol": "BAH",
     "t": 1795638947.4545379
+   },
+   {
+    "dauer": 173.0685498714447,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "9APX2PxqovL95ERSeegtEAnWtDKBFkj7PJYZ1khGpump",
+    "name": "grokbot",
+    "sol": 0.21204347200000015,
+    "spaet": false,
+    "symbol": "sol",
+    "t": 1795639284.174183
    }
   ],
   "uebersicht": 1795635947.4659443
