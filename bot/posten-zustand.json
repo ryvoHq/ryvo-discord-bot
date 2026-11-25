@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 100,
+ "laeufe": 101,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
@@ -376,6 +376,22 @@
     "mint": "6M2fjWqfmh3eBpmWfCCT1kn9L7x9TF8yBNPRUK8Ypump",
     "spaet": true,
     "t": 1795637677.2249684
+   },
+   {
+    "mint": "7FvQ5yFc5qTMYFXqueteQT8W7oj3LDFk95828mtApump",
+    "spaet": true,
+    "t": 1795637945.3535457
+   },
+   {
+    "dauer": 0.0006496906280517578,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "H2iscCQ4RiZ5ufu3UTBS2VDrVqbNY8gN7eVSSASBpump",
+    "name": "ポムポムプリン",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Pompompurin",
+    "t": 1795637950.1886382
    }
   ],
   "uebersicht": 1795635947.4659443
