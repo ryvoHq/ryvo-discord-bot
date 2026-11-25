@@ -148,29 +148,15 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 120,
+ "laeufe": 121,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795641804.2792244,
-   1795642404.7453332
+   1795642404.7453332,
+   1795643671.281514
   ],
   "stunde": [
-   {
-    "mint": "hCM8Mga76sK983j3Gvui427SakSGYnG1tDi4Tsipump",
-    "spaet": true,
-    "t": 1795639779.9980178
-   },
-   {
-    "mint": "5kgzvmKvRgYft9SjqUxR6xqmNGKwpEDBrrNWhYwvpump",
-    "spaet": true,
-    "t": 1795639842.7235312
-   },
-   {
-    "mint": "6CXTCNaM4f3QAgs9D2Sojo7CBvRyrMUn1GNdQ9capump",
-    "spaet": true,
-    "t": 1795639990.7576125
-   },
    {
     "mint": "DMhmzwzNo12xkUh5mwRMRdYVDDgMEedXbfTCr9vfus5m",
     "spaet": true,
@@ -404,9 +390,31 @@
     "mint": "ZSaVAfsaPdyn8sYX4mzXV6P8cNpxqF7iYHfYoeypump",
     "spaet": true,
     "t": 1795643260.0484817
+   },
+   {
+    "dauer": 165.9175260066986,
+    "ersteller_verkauft": true,
+    "kaeufer": 31,
+    "mint": "9ZhkWgfW2yPtF771f7qY46YAiVcJbUmJnD1FUPtCpump",
+    "name": "PIKMAN",
+    "sol": 0.4628371329999995,
+    "spaet": false,
+    "symbol": "PIKMAN",
+    "t": 1795643404.6399848
+   },
+   {
+    "dauer": 649.7788050174713,
+    "ersteller_verkauft": true,
+    "kaeufer": 641,
+    "mint": "BJ6ep8bPYdE31ngrmKKmANaY85PdhqBNHAJEFyTmpump",
+    "name": "inu",
+    "sol": 91.51901992899981,
+    "spaet": false,
+    "symbol": "inu",
+    "t": 1795643515.6849558
    }
   ],
-  "uebersicht": 1795639587.4552824
+  "uebersicht": 1795643671.281514
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
