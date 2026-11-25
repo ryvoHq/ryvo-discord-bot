@@ -105,7 +105,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 67,
+ "laeufe": 68,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
@@ -179,6 +179,49 @@
     "spaet": false,
     "symbol": "TOLY",
     "t": 1795628494.3507652
+   },
+   {
+    "dauer": 0.0012924671173095703,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "WcFC2r7TBTkuqEFBfLjAVGnzfkgnxTNCJ2hjXb8pump",
+    "name": "PORTAL DOG",
+    "sol": 85.00535907500002,
+    "spaet": false,
+    "symbol": "PORTAL",
+    "t": 1795628637.2942426
+   },
+   {
+    "mint": "GmfXa5dujmqPEtM4bdaFUnxzXk6gUjD3tTBsVpjipump",
+    "spaet": true,
+    "t": 1795628695.2002406
+   },
+   {
+    "dauer": 87.8448965549469,
+    "ersteller_verkauft": false,
+    "kaeufer": 157,
+    "mint": "8DREuSDFdsrabCWNkivgnXsjNasaePiqQE9L3veWpump",
+    "name": "Jensen’s Egg",
+    "sol": 47.40889094200003,
+    "spaet": false,
+    "symbol": "JGG",
+    "t": 1795628755.998467
+   },
+   {
+    "dauer": 167.8605296611786,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "HWSfnJnEwLfqK6h2FWEsjFJkoBpJt2jic9HscRr5pump",
+    "name": "beer",
+    "sol": -0.03224935999999998,
+    "spaet": false,
+    "symbol": "beer",
+    "t": 1795628787.462904
+   },
+   {
+    "mint": "HAB9APPV2Vyx8tEUCp69fgY11GfhP52MfWmhVVbMpump",
+    "spaet": true,
+    "t": 1795628854.3085465
    }
   ],
   "uebersicht": 1795628631.7736564
