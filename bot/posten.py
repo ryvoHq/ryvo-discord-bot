@@ -27,6 +27,7 @@ from discord_api import Discord, DiscordFehler, token_lesen
 import markt
 import lab
 import grafik
+import ebenen
 import signale
 
 HIER = os.path.dirname(os.path.abspath(__file__))
@@ -467,7 +468,7 @@ def main():
     dc = Discord(token, trocken=TROCKEN, protokoll=log)
     p = Poster(dc, plan, server, z)
     fehler = []
-    for schritt in (p.postausgang, p.board, signale.Signale(p).lauf, p.schlagzeilen, p.lagebrief, p.terminal, p.tagesthread, p.chart_des_tages, p.swing_board, p.ezb, p.krypto_tag, p.aktien_tag, p.indizes_tag,
+    for schritt in (p.postausgang, p.board, signale.Signale(p).lauf, ebenen.Ebenen(p).lauf, p.schlagzeilen, p.lagebrief, p.terminal, p.tagesthread, p.chart_des_tages, p.swing_board, p.ezb, p.krypto_tag, p.aktien_tag, p.indizes_tag,
                     lab.Lab(p).pruefen, lab.Lab(p).scan, lab.Lab(p).momentum, lab.Lab(p).wochenbilanz, lab.Lab(p).tageslog):
         try:
             schritt()

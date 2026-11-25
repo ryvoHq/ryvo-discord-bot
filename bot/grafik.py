@@ -55,7 +55,7 @@ def _achse(ax):
 def _zeitachse(ax, kerzen, intervall):
     n = len(kerzen)
     schritte = max(1, n // 7)
-    pos = list(range(0, n, schritte))
+    pos = list(range(schritte // 2, n, schritte))               # nicht bei 0 beginnen: das erste Etikett wurde am linken Rand abgeschnitten
     fmt = "%d %b" if intervall in ("1d", "4h") else "%d %b %H:%M"
     ax.set_xticks(pos)
     ax.set_xticklabels([datetime.fromtimestamp(kerzen[i][0] / 1000, timezone.utc).strftime(fmt) for i in pos])
