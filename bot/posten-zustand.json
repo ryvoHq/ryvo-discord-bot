@@ -148,28 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 111,
+ "laeufe": 112,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "mint": "JcVCbKoJEpAnzHggtwydEu5eypiZMPKEsE24CSDpump",
-    "spaet": true,
-    "t": 1795637485.4349644
-   },
-   {
-    "mint": "7TwUV35Dd45JeMxKVAQKWrFLz7fLphX8aKkPuzBXpump",
-    "spaet": true,
-    "t": 1795637562.0820754
-   },
-   {
-    "mint": "oAijLfaa2dqq34xjr1RAxSkn4uRZUCYLJRMxJJfpump",
-    "spaet": true,
-    "t": 1795637595.0319731
-   },
    {
     "dauer": 434.26495456695557,
     "ersteller_verkauft": false,
@@ -419,6 +404,37 @@
     "mint": "Fzv28eiousx43bkZyMxyx8S7EXJ3ccXTFReFoFtupump",
     "spaet": true,
     "t": 1795640853.599312
+   },
+   {
+    "dauer": 125.77933192253113,
+    "ersteller_verkauft": true,
+    "kaeufer": 390,
+    "mint": "FxkR21WyFnuousstm8SupHhRqYNZdNFCyLmbgJfypump",
+    "name": "The Neuralink Chip",
+    "sol": 84.84277459899994,
+    "spaet": false,
+    "symbol": "CATLINK",
+    "t": 1795640931.5280137
+   },
+   {
+    "mint": "8H1JmBgtjxVfVM4vVJ5qrJm5VFDfBsDBzPJYX5Fypump",
+    "spaet": true,
+    "t": 1795641045.6759713
+   },
+   {
+    "mint": "9L2NH5rNUXYjWw4NRbXyW8H6ghw4NipnfHYa4jMUpump",
+    "spaet": true,
+    "t": 1795641056.891679
+   },
+   {
+    "mint": "6ufTs9pN2ACYZBqTcNKxeYzp7Y8X5PABWWYQZJKfpump",
+    "spaet": true,
+    "t": 1795641094.6736753
+   },
+   {
+    "mint": "5BV4aqazQjuKGeqVGByiaLKSrNVz21EF1jMoVxEmpump",
+    "spaet": true,
+    "t": 1795641179.676527
    }
   ],
   "uebersicht": 1795639587.4552824
