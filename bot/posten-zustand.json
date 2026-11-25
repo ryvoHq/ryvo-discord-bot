@@ -148,25 +148,14 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 115,
+ "laeufe": 116,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795638687.845879,
-   1795641804.2792244
+   1795641804.2792244,
+   1795642404.7453332
   ],
   "stunde": [
-   {
-    "dauer": 565.0985593795776,
-    "ersteller_verkauft": true,
-    "kaeufer": 513,
-    "mint": "CKWk8T9stykpugEPkgQMvdfYaH76WFwjL4mZWasfpump",
-    "name": "Peanut the Squirrel",
-    "sol": 72.83911657499945,
-    "spaet": false,
-    "symbol": "Pnut",
-    "t": 1795638526.4038687
-   },
    {
     "dauer": 73.25707483291626,
     "ersteller_verkauft": true,
@@ -389,6 +378,38 @@
     "mint": "8vSuXCFgQFSmTx4okY687iMyZYSSSmaytnr4WSdFpump",
     "spaet": true,
     "t": 1795642031.200211
+   },
+   {
+    "mint": "6GKQJ5aJNbCWASAiFsxoSNFujMWVHnkBiMpK9FiHFUND",
+    "spaet": true,
+    "t": 1795642189.957679
+   },
+   {
+    "mint": "9dG7ALoXMrAYzi7DBFnLAZCdG5GdAQ2FfNro9gvnpump",
+    "spaet": true,
+    "t": 1795642248.9539254
+   },
+   {
+    "dauer": 225.56790971755981,
+    "ersteller_verkauft": true,
+    "kaeufer": 502,
+    "mint": "GKtQhhU6bVotBgw49TX7aZaBZZfwTShHjrv6eyeMpump",
+    "name": "P = NP",
+    "sol": 79.9851617759999,
+    "spaet": false,
+    "symbol": "P=NP",
+    "t": 1795642303.0821328
+   },
+   {
+    "dauer": 195.0423321723938,
+    "ersteller_verkauft": true,
+    "kaeufer": 11,
+    "mint": "F68gGPEoPwxh7PNRnCzmuY12rb4DrJGPxoHRuRGpump",
+    "name": "GAROA TURBO",
+    "sol": 0.22785916000000012,
+    "spaet": false,
+    "symbol": "GAROAT",
+    "t": 1795642352.802394
    }
   ],
   "uebersicht": 1795639587.4552824
