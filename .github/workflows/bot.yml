@@ -1,0 +1,25 @@
+name: RYVO Discord Bot
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: ryvo-discord-bot
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install --quiet matplotlib==3.9.4
+      - name: Bot (55 Minuten, alle 5 Minuten ein Durchgang)
+        run: python bot/laufen.py --minuten 55 --takt 300
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          RYVO_CLOUD: "1"

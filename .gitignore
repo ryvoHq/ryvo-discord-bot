@@ -1,0 +1,7 @@
+bot.token
+*.log
+*.out
+__pycache__/
+.posten.sperre
+*.tmp
+_sicherung/

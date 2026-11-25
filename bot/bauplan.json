@@ -1,0 +1,1006 @@
+{
+  "_hinweis": "Bauplan des RYVO-Discords. bauen.py liest diese Datei. Namen sind die Schlüssel: Umbenennen nur hier und dann bauen.py erneut laufen lassen. Nichts wird gelöscht.",
+  "server": {
+    "name": "RYVO",
+    "beschreibung": "International trading community: memecoins, swing, day trading, market news and the RYVO Terminal. Education and discussion only, not financial advice.",
+    "icon": "../ryvo-icon.png",
+    "sprache": "en-US",
+    "verifizierung": 2,
+    "inhaltsfilter": 2,
+    "benachrichtigungen": 1,
+    "systemkanal": "introductions",
+    "regelkanal": "rules",
+    "updatekanal": "discord-updates",
+    "einladungskanal": "welcome"
+  },
+  "everyone_rechte": [
+    "VIEW_CHANNEL",
+    "SEND_MESSAGES",
+    "SEND_MESSAGES_IN_THREADS",
+    "CREATE_PUBLIC_THREADS",
+    "ADD_REACTIONS",
+    "READ_MESSAGE_HISTORY",
+    "EMBED_LINKS",
+    "ATTACH_FILES",
+    "USE_EXTERNAL_EMOJIS",
+    "CONNECT",
+    "SPEAK",
+    "STREAM",
+    "USE_VAD",
+    "CHANGE_NICKNAME",
+    "USE_APPLICATION_COMMANDS",
+    "CREATE_INSTANT_INVITE"
+  ],
+  "rollen": [
+    {
+      "name": "Founder",
+      "farbe": "#FFFFFF",
+      "farbverlauf": [
+        "#FFFFFF",
+        "#5C5C5C"
+      ],
+      "abgesetzt": true,
+      "erwaehnbar": false,
+      "rechte": [
+        "ADMINISTRATOR"
+      ],
+      "besitzer": true
+    },
+    {
+      "name": "RYVO Team",
+      "farbe": "#FFFFFF",
+      "abgesetzt": true,
+      "erwaehnbar": false,
+      "rechte": [
+        "VIEW_AUDIT_LOG",
+        "MANAGE_MESSAGES",
+        "MANAGE_THREADS",
+        "MODERATE_MEMBERS",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_NICKNAMES",
+        "MUTE_MEMBERS",
+        "MOVE_MEMBERS",
+        "MENTION_EVERYONE",
+        "MANAGE_EVENTS"
+      ]
+    },
+    {
+      "name": "Moderator",
+      "farbe": "#B8B8B8",
+      "abgesetzt": true,
+      "erwaehnbar": false,
+      "rechte": [
+        "VIEW_AUDIT_LOG",
+        "MANAGE_MESSAGES",
+        "MANAGE_THREADS",
+        "MODERATE_MEMBERS",
+        "KICK_MEMBERS",
+        "MANAGE_NICKNAMES",
+        "MUTE_MEMBERS",
+        "MOVE_MEMBERS"
+      ]
+    },
+    {
+      "name": "RYVO Pro",
+      "farbe": "#A78BFA",
+      "abgesetzt": true,
+      "erwaehnbar": false,
+      "rechte": []
+    },
+    {
+      "name": "Founding Member",
+      "farbe": "#4ADE80",
+      "abgesetzt": false,
+      "erwaehnbar": false,
+      "rechte": []
+    },
+    {
+      "name": "Memecoins",
+      "rechte": []
+    },
+    {
+      "name": "Crypto",
+      "rechte": []
+    },
+    {
+      "name": "Stocks",
+      "rechte": []
+    },
+    {
+      "name": "Forex",
+      "rechte": []
+    },
+    {
+      "name": "Futures",
+      "rechte": []
+    },
+    {
+      "name": "Swing Trader",
+      "rechte": []
+    },
+    {
+      "name": "Day Trader",
+      "rechte": []
+    },
+    {
+      "name": "Beginner",
+      "rechte": []
+    },
+    {
+      "name": "Intermediate",
+      "rechte": []
+    },
+    {
+      "name": "Experienced",
+      "rechte": []
+    },
+    {
+      "name": "Deutsch",
+      "rechte": []
+    },
+    {
+      "name": "Español",
+      "rechte": []
+    },
+    {
+      "name": "Français",
+      "rechte": []
+    },
+    {
+      "name": "Italiano",
+      "rechte": []
+    },
+    {
+      "name": "Türkçe",
+      "rechte": []
+    },
+    {
+      "name": "Market Brief Ping",
+      "erwaehnbar": false,
+      "rechte": []
+    },
+    {
+      "name": "Terminal Updates Ping",
+      "erwaehnbar": false,
+      "rechte": []
+    },
+    {
+      "name": "Pro Launch Ping",
+      "erwaehnbar": false,
+      "rechte": []
+    }
+  ],
+  "kategorien": [
+    {
+      "name": "START HERE",
+      "zugang": "alle",
+      "schreiben": "niemand",
+      "kanaele": [
+        {
+          "name": "welcome",
+          "thema": "Start here: what RYVO is and where to go first.",
+          "text": "welcome.md"
+        },
+        {
+          "name": "rules",
+          "thema": "Server rules. By staying here you accept them.",
+          "text": "rules.md"
+        },
+        {
+          "name": "announcements",
+          "typ": "ankuendigung",
+          "thema": "Official RYVO announcements."
+        },
+        {
+          "name": "risk-disclaimer",
+          "thema": "Read this before acting on anything you see here.",
+          "text": "disclaimer.md"
+        },
+        {
+          "name": "faq",
+          "thema": "Frequently asked questions.",
+          "text": "faq.md"
+        },
+        {
+          "name": "roadmap",
+          "thema": "What is live, what is being built, what comes next.",
+          "text": "roadmap.md"
+        }
+      ]
+    },
+    {
+      "name": "MARKETS",
+      "zugang": "alle",
+      "schreiben": "niemand",
+      "kanaele": [
+        {
+          "name": "market-board",
+          "thema": "Live prices: crypto, indices, commodities, FX and large stocks. Updated every 10 minutes.",
+          "text": "market-board.md"
+        },
+        {
+          "name": "market-news",
+          "thema": "Market headlines (title, source, link) from official agencies and established outlets. Posted automatically.",
+          "text": "market-news.md"
+        },
+        {
+          "name": "market-brief",
+          "thema": "Descriptive market brief twice a day. Facts and numbers, no forecasts, no signals.",
+          "text": "market-brief.md"
+        },
+        {
+          "name": "momentum-alerts",
+          "thema": "Automatic alerts when a major market moves fast within the hour. Descriptive, not signals.",
+          "text": "momentum-alerts.md"
+        }
+      ]
+    },
+    {
+      "name": "COMMUNITY",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "general",
+          "thema": "Talk markets, trading and everything around it. English please (language channels are in Channels & Roles)."
+        },
+        {
+          "name": "introductions",
+          "thema": "Say hi: what you trade, your timeframe, what you want to get better at.",
+          "langsam": 30,
+          "text": "introductions.md"
+        },
+        {
+          "name": "ask-anything",
+          "thema": "No question is too basic. Beginners welcome.",
+          "text": "ask-anything.md"
+        },
+        {
+          "name": "charts",
+          "thema": "Share charts with context: market, timeframe, your idea.",
+          "text": "charts.md"
+        },
+        {
+          "name": "wins-and-losses",
+          "thema": "Post your wins AND your losses, with what you learned. Honest journaling beats flexing.",
+          "text": "wins-and-losses.md"
+        },
+        {
+          "name": "memes",
+          "thema": "Trading memes. Keep it clean."
+        },
+        {
+          "name": "Lounge",
+          "typ": "sprache"
+        },
+        {
+          "name": "Live Room",
+          "typ": "sprache"
+        }
+      ]
+    },
+    {
+      "name": "SWING & POSITION",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "swing-board",
+          "schreiben": "niemand",
+          "thema": "Daily snapshot for swing traders after the US close: change, averages, 20-day range, chart.",
+          "text": "swing-board.md"
+        },
+        {
+          "name": "swing-ideas",
+          "typ": "forum",
+          "thema": "One post per idea. Title: TICKER · Long/Short · timeframe. Include entry zone, invalidation (stop), targets, reasoning, and whether you hold a position.",
+          "tags": [
+            "Long",
+            "Short",
+            "Crypto",
+            "Stocks",
+            "Forex",
+            "Futures",
+            "Commodities",
+            "Closed: Win",
+            "Closed: Loss"
+          ],
+          "beitraege": [
+            {
+              "titel": "How to post a swing idea",
+              "text": "forum-swing-ideas.md",
+              "tags": [],
+              "angepinnt": true
+            }
+          ]
+        },
+        {
+          "name": "swing-chat",
+          "thema": "Discussion of multi-day and multi-week setups."
+        },
+        {
+          "name": "stocks",
+          "thema": "Stocks, ETFs, earnings."
+        },
+        {
+          "name": "forex",
+          "thema": "Currencies and macro."
+        }
+      ]
+    },
+    {
+      "name": "DAY TRADING",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "daytrading-chat",
+          "thema": "Intraday talk. Execution, levels, sessions.",
+          "text": "daytrading-chat.md"
+        },
+        {
+          "name": "futures-indices",
+          "thema": "NQ, ES, YM, DAX and other index futures."
+        },
+        {
+          "name": "crypto-trading",
+          "thema": "BTC, ETH and large caps: spot and perps. Leverage is a risk, not a feature."
+        },
+        {
+          "name": "Trading Floor",
+          "typ": "sprache"
+        }
+      ]
+    },
+    {
+      "name": "MEMECOINS",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "meme-momentum",
+          "schreiben": "niemand",
+          "thema": "Automatic alerts when a large memecoin moves 6%+ within the hour. Descriptive, not signals.",
+          "text": "meme-momentum.md"
+        },
+        {
+          "name": "meme-chat",
+          "thema": "Memecoin talk. Extremely high risk: most new coins go to zero."
+        },
+        {
+          "name": "meme-calls",
+          "thema": "One call per message, fixed format (see pinned). Disclose whether you hold it. No pump coordination.",
+          "langsam": 120,
+          "text": "meme-calls.md"
+        },
+        {
+          "name": "rug-check",
+          "thema": "Post a contract address and ask the community to check it before you buy.",
+          "text": "rug-check.md"
+        }
+      ]
+    },
+    {
+      "name": "RYVO LAB",
+      "zugang": "alle",
+      "schreiben": "niemand",
+      "kanaele": [
+        {
+          "name": "lab-trades",
+          "thema": "Simulated paper trades from RYVO's fixed rules-based model: every entry, stop, target and result. Not advice.",
+          "text": "lab-trades.md"
+        },
+        {
+          "name": "lab-scorecard",
+          "thema": "Weekly scorecard of the RYVO Lab, wins and losses."
+        },
+        {
+          "name": "lab-discussion",
+          "schreiben": "alle",
+          "thema": "Discuss Lab trades: what worked, what failed, what you would do differently."
+        }
+      ]
+    },
+    {
+      "name": "RYVO TERMINAL",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "terminal-updates",
+          "schreiben": "niemand",
+          "thema": "New versions and changes of the RYVO Terminal.",
+          "text": "terminal.md"
+        },
+        {
+          "name": "terminal-help",
+          "typ": "forum",
+          "thema": "Questions about using the RYVO Terminal. One post per question.",
+          "tags": [
+            "Charts",
+            "Orderflow",
+            "News",
+            "Account",
+            "Mobile",
+            "Solved"
+          ],
+          "beitraege": [
+            {
+              "titel": "Getting started with the RYVO Terminal",
+              "text": "forum-terminal-start.md",
+              "tags": [],
+              "angepinnt": true
+            }
+          ]
+        },
+        {
+          "name": "feature-requests",
+          "typ": "forum",
+          "thema": "What should the RYVO Terminal do next? One request per post, upvote with a reaction.",
+          "tags": [
+            "Data",
+            "Charts",
+            "Memecoins",
+            "Stocks",
+            "Design",
+            "Planned",
+            "Done"
+          ],
+          "beitraege": [
+            {
+              "titel": "How to request a feature",
+              "text": "forum-feature-how.md",
+              "tags": [],
+              "angepinnt": true
+            },
+            {
+              "titel": "Orderflow chart with volume bubbles",
+              "text": "forum-feature-orderflow.md",
+              "tags": [
+                "Charts",
+                "Planned"
+              ]
+            },
+            {
+              "titel": "More markets: stocks, indices, commodities, FX",
+              "text": "forum-feature-markets.md",
+              "tags": [
+                "Data",
+                "Stocks",
+                "Planned"
+              ]
+            },
+            {
+              "titel": "Cleaner home screen with a larger main chart",
+              "text": "forum-feature-layout.md",
+              "tags": [
+                "Design",
+                "Planned"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bug-reports",
+          "typ": "forum",
+          "thema": "Something broken? Device, browser, what you did, what happened, screenshot.",
+          "tags": [
+            "Desktop",
+            "Mobile",
+            "Data",
+            "Display",
+            "Fixed"
+          ],
+          "beitraege": [
+            {
+              "titel": "How to report a bug",
+              "text": "forum-bug-how.md",
+              "tags": [],
+              "angepinnt": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RYVO PRO",
+      "zugang": "rolle:RYVO Pro",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "pro-info",
+          "zugang": "alle",
+          "schreiben": "niemand",
+          "thema": "What RYVO Pro is and when it opens.",
+          "text": "pro.md"
+        },
+        {
+          "name": "pro-lounge",
+          "thema": "Chat for RYVO Pro members."
+        },
+        {
+          "name": "pro-briefing",
+          "schreiben": "niemand",
+          "thema": "Extended market briefing for Pro members. Descriptive, no signals."
+        },
+        {
+          "name": "pro-alerts",
+          "schreiben": "niemand",
+          "thema": "Real-time data alerts from the RYVO Terminal for Pro members."
+        },
+        {
+          "name": "Pro Room",
+          "typ": "sprache"
+        }
+      ]
+    },
+    {
+      "name": "SUPPORT",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "support",
+          "typ": "forum",
+          "thema": "Need help with the server or your account? Open a post. Never share passwords, seed phrases or private keys, not even with staff.",
+          "tags": [
+            "Server",
+            "Roles",
+            "Pro",
+            "Report a user",
+            "Solved"
+          ],
+          "beitraege": [
+            {
+              "titel": "Read this first",
+              "text": "forum-support.md",
+              "tags": [],
+              "angepinnt": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LANGUAGES",
+      "zugang": "alle",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "deutsch",
+          "zugang": "rolle:Deutsch",
+          "thema": "Deutschsprachiger Chat. Hier kommt auch der Lage-Bericht auf Deutsch.",
+          "text": "sprache-de.md",
+          "sprache": "de"
+        },
+        {
+          "name": "español",
+          "zugang": "rolle:Español",
+          "thema": "Chat en español. Aquí también llega el boletín del mercado en español.",
+          "text": "sprache-es.md",
+          "sprache": "es"
+        },
+        {
+          "name": "français",
+          "zugang": "rolle:Français",
+          "thema": "Discussion en français. Le point de marché arrive aussi ici en français.",
+          "text": "sprache-fr.md",
+          "sprache": "fr"
+        },
+        {
+          "name": "italiano",
+          "zugang": "rolle:Italiano",
+          "thema": "Chat in italiano. Qui arriva anche il quadro di mercato in italiano.",
+          "text": "sprache-it.md",
+          "sprache": "it"
+        },
+        {
+          "name": "türkçe",
+          "zugang": "rolle:Türkçe",
+          "thema": "Türkçe sohbet. Piyasa raporu da burada Türkçe paylaşılır.",
+          "text": "sprache-tr.md",
+          "sprache": "tr"
+        }
+      ]
+    },
+    {
+      "name": "TEAM",
+      "zugang": "team",
+      "schreiben": "alle",
+      "kanaele": [
+        {
+          "name": "team-chat",
+          "thema": "Internal."
+        },
+        {
+          "name": "mod-log",
+          "thema": "AutoMod alerts and moderation notes."
+        },
+        {
+          "name": "bot-status",
+          "thema": "Health of the RYVO bot (one message, updated every run)."
+        },
+        {
+          "name": "discord-updates",
+          "thema": "Notices from Discord to community servers."
+        },
+        {
+          "name": "content-plan",
+          "thema": "TikTok and post ideas that drive people here."
+        }
+      ]
+    }
+  ],
+  "alte_kategorien": {
+    "_hinweis": "Alles, was nicht im Bauplan steht (z. B. die alten RYVO-GmbH-Kanäle mit den Webhooks), wird NICHT gelöscht, sondern nur für das Team sichtbar gemacht.",
+    "praefix": "INTERN · ",
+    "sammelkategorie": "INTERN · ARCHIVE"
+  },
+  "onboarding": {
+    "standardkanaele": [
+      "welcome",
+      "rules",
+      "announcements",
+      "risk-disclaimer",
+      "faq",
+      "roadmap",
+      "market-board",
+      "market-news",
+      "market-brief",
+      "general",
+      "introductions",
+      "ask-anything",
+      "charts",
+      "wins-and-losses",
+      "memes",
+      "terminal-updates",
+      "pro-info",
+      "support",
+      "Lounge",
+      "lab-trades",
+      "lab-discussion",
+      "momentum-alerts"
+    ],
+    "fragen": [
+      {
+        "titel": "What do you trade?",
+        "mehrfach": true,
+        "pflicht": true,
+        "optionen": [
+          {
+            "titel": "Memecoins",
+            "beschreibung": "New coins, calls, rug checks",
+            "emoji": "🐸",
+            "rollen": [
+              "Memecoins"
+            ],
+            "kanaele": [
+              "meme-momentum",
+              "meme-chat",
+              "meme-calls",
+              "rug-check"
+            ]
+          },
+          {
+            "titel": "Crypto",
+            "beschreibung": "BTC, ETH, large caps, perps",
+            "emoji": "🪙",
+            "rollen": [
+              "Crypto"
+            ],
+            "kanaele": [
+              "crypto-trading"
+            ]
+          },
+          {
+            "titel": "Stocks & ETFs",
+            "beschreibung": "Equities and earnings",
+            "emoji": "📈",
+            "rollen": [
+              "Stocks"
+            ],
+            "kanaele": [
+              "stocks"
+            ]
+          },
+          {
+            "titel": "Forex",
+            "beschreibung": "Currencies and macro",
+            "emoji": "💱",
+            "rollen": [
+              "Forex"
+            ],
+            "kanaele": [
+              "forex"
+            ]
+          },
+          {
+            "titel": "Futures & indices",
+            "beschreibung": "NQ, ES, DAX and more",
+            "emoji": "📊",
+            "rollen": [
+              "Futures"
+            ],
+            "kanaele": [
+              "futures-indices"
+            ]
+          }
+        ]
+      },
+      {
+        "titel": "How do you trade?",
+        "mehrfach": true,
+        "pflicht": true,
+        "optionen": [
+          {
+            "titel": "Swing trading",
+            "beschreibung": "Days to weeks",
+            "emoji": "🌊",
+            "rollen": [
+              "Swing Trader"
+            ],
+            "kanaele": [
+              "swing-board",
+              "swing-ideas",
+              "swing-chat"
+            ]
+          },
+          {
+            "titel": "Day trading",
+            "beschreibung": "Minutes to hours",
+            "emoji": "⚡",
+            "rollen": [
+              "Day Trader"
+            ],
+            "kanaele": [
+              "daytrading-chat",
+              "Trading Floor"
+            ]
+          },
+          {
+            "titel": "Just learning",
+            "beschreibung": "Watching, reading, asking",
+            "emoji": "📚",
+            "rollen": [
+              "Beginner"
+            ],
+            "kanaele": [
+              "ask-anything"
+            ]
+          }
+        ]
+      },
+      {
+        "titel": "Your experience",
+        "mehrfach": false,
+        "pflicht": false,
+        "optionen": [
+          {
+            "titel": "Beginner",
+            "beschreibung": "Less than a year",
+            "emoji": "🌱",
+            "rollen": [
+              "Beginner"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Intermediate",
+            "beschreibung": "1 to 3 years",
+            "emoji": "🔹",
+            "rollen": [
+              "Intermediate"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Experienced",
+            "beschreibung": "3+ years",
+            "emoji": "🔷",
+            "rollen": [
+              "Experienced"
+            ],
+            "kanaele": []
+          }
+        ],
+        "im_onboarding": false
+      },
+      {
+        "titel": "Other languages (optional)",
+        "mehrfach": true,
+        "pflicht": false,
+        "optionen": [
+          {
+            "titel": "Deutsch",
+            "beschreibung": "Deutscher Chat und Lage-Bericht",
+            "emoji": "🇩🇪",
+            "rollen": [
+              "Deutsch"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Español",
+            "beschreibung": "Chat y boletín en español",
+            "emoji": "🇪🇸",
+            "rollen": [
+              "Español"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Français",
+            "beschreibung": "Discussion et point de marché",
+            "emoji": "🇫🇷",
+            "rollen": [
+              "Français"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Italiano",
+            "beschreibung": "Chat e quadro di mercato",
+            "emoji": "🇮🇹",
+            "rollen": [
+              "Italiano"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Türkçe",
+            "beschreibung": "Sohbet ve piyasa raporu",
+            "emoji": "🇹🇷",
+            "rollen": [
+              "Türkçe"
+            ],
+            "kanaele": []
+          }
+        ]
+      },
+      {
+        "titel": "Notifications",
+        "mehrfach": true,
+        "pflicht": false,
+        "optionen": [
+          {
+            "titel": "Market brief",
+            "beschreibung": "Ping twice a day when the brief is out",
+            "emoji": "🗞️",
+            "rollen": [
+              "Market Brief Ping"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "Terminal updates",
+            "beschreibung": "Ping when the RYVO Terminal gets an update",
+            "emoji": "🖥️",
+            "rollen": [
+              "Terminal Updates Ping"
+            ],
+            "kanaele": []
+          },
+          {
+            "titel": "RYVO Pro launch",
+            "beschreibung": "One ping when Pro opens",
+            "emoji": "💜",
+            "rollen": [
+              "Pro Launch Ping"
+            ],
+            "kanaele": []
+          }
+        ],
+        "im_onboarding": false
+      }
+    ]
+  },
+  "willkommensseite": {
+    "beschreibung": "International trading community. Market news, a daily brief and honest discussion. Not financial advice.",
+    "kanaele": [
+      {
+        "kanal": "rules",
+        "text": "Read the rules first",
+        "emoji": "📜"
+      },
+      {
+        "kanal": "market-board",
+        "text": "Live market board",
+        "emoji": "📊"
+      },
+      {
+        "kanal": "general",
+        "text": "Join the conversation",
+        "emoji": "💬"
+      },
+      {
+        "kanal": "swing-ideas",
+        "text": "Swing ideas with stops and targets",
+        "emoji": "🌊"
+      },
+      {
+        "kanal": "terminal-updates",
+        "text": "What's new in the RYVO Terminal",
+        "emoji": "🖥️"
+      }
+    ]
+  },
+  "automod": [
+    {
+      "name": "RYVO · harmful words",
+      "art": "vorlage",
+      "vorlagen": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "RYVO · spam",
+      "art": "spam"
+    },
+    {
+      "name": "RYVO · mass mentions",
+      "art": "erwaehnungen",
+      "grenze": 5
+    },
+    {
+      "name": "RYVO · scams & solicitation",
+      "art": "woerter",
+      "woerter": [
+        "*dm me for*",
+        "*dm me to*",
+        "*send me a dm*",
+        "*message me on telegram*",
+        "*whatsapp me*",
+        "*guaranteed profit*",
+        "*guaranteed returns*",
+        "*risk free profit*",
+        "*100x guaranteed*",
+        "*account management*",
+        "*i manage accounts*",
+        "*recover your funds*",
+        "*recover lost funds*",
+        "*wallet validation*",
+        "*validate your wallet*",
+        "*seed phrase*",
+        "*private key*",
+        "*free nitro*",
+        "*claim your airdrop*"
+      ],
+      "erlaubt": [
+        "*never share your seed phrase*",
+        "*never share your private key*"
+      ]
+    },
+    {
+      "name": "RYVO · invite & referral links",
+      "art": "muster",
+      "muster": [
+        "(?i)(discord\\.gg|discord(app)?\\.com/invite)/[a-z0-9-]+",
+        "(?i)(t\\.me|telegram\\.me)/[a-z0-9_+]+",
+        "(?i)(binance|bybit|okx|mexc|bitget|blofin|kucoin|gate|bingx|weex|phemex|axiom)\\.[a-z.]+/\\S*(ref|invite|referral|register\\?)\\S*"
+      ]
+    }
+  ],
+  "posten": {
+    "schlagzeilen_url": "https://ryvohq.github.io/ryvo-terminal/daten/schlagzeilen.json",
+    "lagebrief_url": "https://ryvohq.github.io/ryvo-terminal/daten/lagebrief.json",
+    "terminal_url": "https://ryvohq.github.io/ryvo-terminal/",
+    "schlagzeilen_kanal": "market-news",
+    "schlagzeilen_je_lauf": 6,
+    "schlagzeilen_hoechstalter_std": 6,
+    "lagebrief_kanal": "market-brief",
+    "lagebrief_ping": "Market Brief Ping",
+    "terminal_kanal": "terminal-updates",
+    "terminal_ping": "Terminal Updates Ping",
+    "status_kanal": "bot-status",
+    "fusszeile": {
+      "en": "Descriptive only. Not investment advice, no signals.",
+      "de": "Nur beschreibend. Keine Anlageberatung, keine Signale.",
+      "es": "Solo descriptivo. No es asesoramiento de inversión ni señales.",
+      "fr": "Purement descriptif. Ni conseil en investissement, ni signal.",
+      "it": "Solo descrittivo. Non è consulenza finanziaria né un segnale.",
+      "tr": "Yalnızca bilgilendirme amaçlıdır. Yatırım tavsiyesi veya sinyal değildir."
+    }
+  }
+}

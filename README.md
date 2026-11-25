@@ -1,0 +1,9 @@
+# RYVO Discord Bot
+
+Runs the RYVO Discord server bot on GitHub Actions: live market board, headlines, market brief in six languages, swing board, chart of the day, momentum alerts and the **RYVO Lab** (a fixed rules-based model trading on paper, every result logged).
+
+- Code: `bot/` · schedule: `.github/workflows/bot.yml` (a 55-minute loop, one pass every 5 minutes)
+- Secret: `DISCORD_BOT_TOKEN` (repository secret, never in the code)
+- Lab trade library: [`bot/lab/BIBLIOTHEK.md`](bot/lab/BIBLIOTHEK.md)
+
+Everything the bot posts is descriptive or simulated. Nothing here is financial advice.
