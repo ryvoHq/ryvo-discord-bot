@@ -158,23 +158,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 142,
+ "laeufe": 143,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "mint": "EtYFxZLcFNNnr566eg2vNfkYACRLYCWP5VamuxV3pump",
-    "spaet": true,
-    "t": 1795646002.9732876
-   },
-   {
-    "mint": "vzPHvLA6997zgn7WPcfpQwgWTWDZ1wJznYqQrQXfr5M",
-    "spaet": true,
-    "t": 1795646047.5230896
-   },
    {
     "dauer": 201.904194355011,
     "ersteller_verkauft": true,
@@ -327,6 +317,44 @@
     "spaet": false,
     "symbol": "JENSEN",
     "t": 1795649489.866894
+   },
+   {
+    "dauer": 404.58605909347534,
+    "ersteller_verkauft": true,
+    "kaeufer": 24,
+    "mint": "BH4PQJCEg5hT5Tv8cyeshfVA7yJ5NmMWcmNC4ehCpump",
+    "name": "The Chosen",
+    "sol": 0.2502816059999999,
+    "spaet": false,
+    "symbol": "ComeSee",
+    "t": 1795649540.4620664
+   },
+   {
+    "mint": "GRXSoGBqmTkS78Rrvm8QyBJH9XMe8562eZojzHj2pump",
+    "spaet": true,
+    "t": 1795649552.5045712
+   },
+   {
+    "dauer": 327.9345681667328,
+    "ersteller_verkauft": true,
+    "kaeufer": 65,
+    "mint": "ApQx5NamiYxfC5GEM42AohMcft6Hx6X8hYoFaQn5pump",
+    "name": "DUDE",
+    "sol": 7.78166924800001,
+    "spaet": false,
+    "symbol": "DUDE",
+    "t": 1795649650.6716325
+   },
+   {
+    "dauer": 86.12418532371521,
+    "ersteller_verkauft": true,
+    "kaeufer": 169,
+    "mint": "Fe69LR7tTtAzz3bjESQ95ubMQnkbFhchbdYxL6Kupump",
+    "name": "REGULATION CRYPTO ASSETS",
+    "sol": 85.97511448300007,
+    "spaet": false,
+    "symbol": "RCA",
+    "t": 1795649763.8653681
    }
   ],
   "uebersicht": 1795647314.6004097
