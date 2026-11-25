@@ -158,29 +158,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 144,
+ "laeufe": 145,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "dauer": 201.904194355011,
-    "ersteller_verkauft": true,
-    "kaeufer": 164,
-    "mint": "5mgqgmEkWQFv648G49WZMzTwXk3ZpqAkMBXpa1uopump",
-    "name": "Elons dog",
-    "sol": 45.62216206699988,
-    "spaet": false,
-    "symbol": "Loki",
-    "t": 1795646536.4848592
-   },
-   {
-    "mint": "Br3YLeZuvVTBMnWrFbxcY6xiwiLdxr5oNVnXBrSVpump",
-    "spaet": true,
-    "t": 1795646660.6282892
-   },
    {
     "mint": "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump",
     "spaet": true,
@@ -399,6 +383,39 @@
     "spaet": false,
     "symbol": "YEE",
     "t": 1795649989.750394
+   },
+   {
+    "dauer": 142.73704361915588,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "2oxv7j1tseweCPuioFwcRQDUqr6DX4SGKrTxo6jMpump",
+    "name": "STENKS",
+    "sol": 0.3586665029999994,
+    "spaet": false,
+    "symbol": "STENKS",
+    "t": 1795650107.2102091
+   },
+   {
+    "dauer": 68.20644950866699,
+    "ersteller_verkauft": true,
+    "kaeufer": 259,
+    "mint": "HfHbSZwd6wpMVqtrQJaUukEPipRSfB8JEJ6PMJJHpump",
+    "name": "Very Valuable Vagina",
+    "sol": 85.846360059,
+    "spaet": false,
+    "symbol": "VVV",
+    "t": 1795650349.4361224
+   },
+   {
+    "dauer": 262.1209247112274,
+    "ersteller_verkauft": false,
+    "kaeufer": 142,
+    "mint": "u3g7DfbKB9GWpdwkkhMW9HtjRqUAsrLQ7g1Bt6Npump",
+    "name": "Anthropic | Official Team",
+    "sol": 85.0053595629999,
+    "spaet": false,
+    "symbol": "Anthropic",
+    "t": 1795650366.5458915
    }
   ],
   "uebersicht": 1795647314.6004097
