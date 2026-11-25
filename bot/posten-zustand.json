@@ -148,39 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 105,
+ "laeufe": 106,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "mint": "3qineFvZCaTzxiRvAo9ZAPJeA8gRTEEjVo48iaScpump",
-    "spaet": true,
-    "t": 1795635861.9642706
-   },
-   {
-    "mint": "4y4iBmMgiSWLcCsa6X9EEw9B6mrhyZixV4hWeJWVpump",
-    "spaet": true,
-    "t": 1795635874.4741738
-   },
-   {
-    "dauer": 270.88007521629333,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "F6995odxJcHEuZmET3ZnPjp3rG17waX9gxvBAuVFpump",
-    "name": "The Chosen",
-    "sol": -0.10973917600000013,
-    "spaet": false,
-    "symbol": "ComeSee",
-    "t": 1795635903.218218
-   },
-   {
-    "mint": "EEjW9RZXjpvGywMxyQABnUYoRxUrnkpEzPmaxx5tpump",
-    "spaet": true,
-    "t": 1795635953.020965
-   },
    {
     "mint": "Gfv4ofg95ZpBmgb2SzAFXzPmBQm5bAfJWhYxPnN6pump",
     "spaet": true,
@@ -418,9 +392,14 @@
     "spaet": false,
     "symbol": "sol",
     "t": 1795639284.174183
+   },
+   {
+    "mint": "A7dthcuM6yKfsbYiR3WPYwKgZSfsn77nisM9Twqrpump",
+    "spaet": true,
+    "t": 1795639452.0055928
    }
   ],
-  "uebersicht": 1795635947.4659443
+  "uebersicht": 1795639587.4552824
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
