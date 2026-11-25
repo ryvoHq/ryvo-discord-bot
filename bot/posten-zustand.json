@@ -2,7 +2,7 @@
  "aktien_tag": "2026-11-25",
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-25",
- "ezb_tag": "2026-11-24",
+ "ezb_tag": "2026-11-25",
  "gesehen": [
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
@@ -103,7 +103,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 31,
+ "laeufe": 32,
  "lagebrief_stand": 1795577400,
  "momentum_sperre": {
   "xyz:NVDA": 1795617060.222036,
