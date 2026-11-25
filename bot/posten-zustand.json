@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 123,
+ "laeufe": 124,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -158,55 +158,6 @@
    1795643971.0761774
   ],
   "stunde": [
-   {
-    "dauer": 158.80129957199097,
-    "ersteller_verkauft": false,
-    "kaeufer": 188,
-    "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete",
-    "name": "Neuralink 1nu",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "N1",
-    "t": 1795640692.9873579
-   },
-   {
-    "dauer": 24.5364191532135,
-    "ersteller_verkauft": true,
-    "kaeufer": 118,
-    "mint": "8ut2yUzuTzAqtPmPZVEkFffD16XkjVtLsktJV79rpump",
-    "name": "NEURALINK MONKEY",
-    "sol": 85.00535922799995,
-    "spaet": false,
-    "symbol": "PAGER",
-    "t": 1795640751.361197
-   },
-   {
-    "dauer": 0.0003523826599121094,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump",
-    "name": "Norfeather",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "NORFEATH",
-    "t": 1795640764.1989434
-   },
-   {
-    "mint": "Fzv28eiousx43bkZyMxyx8S7EXJ3ccXTFReFoFtupump",
-    "spaet": true,
-    "t": 1795640853.599312
-   },
-   {
-    "dauer": 125.77933192253113,
-    "ersteller_verkauft": true,
-    "kaeufer": 390,
-    "mint": "FxkR21WyFnuousstm8SupHhRqYNZdNFCyLmbgJfypump",
-    "name": "The Neuralink Chip",
-    "sol": 84.84277459899994,
-    "spaet": false,
-    "symbol": "CATLINK",
-    "t": 1795640931.5280137
-   },
    {
     "mint": "8H1JmBgtjxVfVM4vVJ5qrJm5VFDfBsDBzPJYX5Fypump",
     "spaet": true,
@@ -412,6 +363,39 @@
     "spaet": false,
     "symbol": "Grinch",
     "t": 1795644218.976141
+   },
+   {
+    "dauer": 92.9276351928711,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "DTjdGJ6SxTGXXWXEfxr6i1cpjV7jxbJ9HjovufHopump",
+    "name": "67%",
+    "sol": 1.2593410149999997,
+    "spaet": false,
+    "symbol": "SXSN",
+    "t": 1795644320.9492352
+   },
+   {
+    "dauer": 1182.145430803299,
+    "ersteller_verkauft": false,
+    "kaeufer": 678,
+    "mint": "G7A1QbTBjCk9XNFi2bweLzgHWDyCQ96TrnoLo5PFz7zc",
+    "name": "4 Chan Mascot",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "YOTSUBA",
+    "t": 1795644421.9605
+   },
+   {
+    "dauer": 347.179762840271,
+    "ersteller_verkauft": true,
+    "kaeufer": 327,
+    "mint": "2wFZyxefrN4bSDwh2Dj69v4GPnsDRqMGaJwxwT7z8rwM",
+    "name": "Inucoin",
+    "sol": 84.3663741080002,
+    "spaet": false,
+    "symbol": "Inu",
+    "t": 1795644552.5982852
    }
   ],
   "uebersicht": 1795643671.281514
