@@ -148,29 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 108,
+ "laeufe": 109,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "mint": "FYroRMdw6raENS5K9pZgv8jYqmgYyazdsAnYgumpump",
-    "spaet": true,
-    "t": 1795636425.7672312
-   },
-   {
-    "dauer": 0.3230142593383789,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "EG1ZT4synGMY4XbeCkNUEzRqZdnSi68WMNQjBBctpump",
-    "name": "Sixerr",
-    "sol": 85.00535907400003,
-    "spaet": false,
-    "symbol": "SIXERR",
-    "t": 1795636674.0628846
-   },
    {
     "mint": "ErfdcsXZSZHZYkT35jZRG7nBW4uLE5vAZP3gUtenpump",
     "spaet": true,
