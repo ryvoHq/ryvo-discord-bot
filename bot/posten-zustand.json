@@ -105,27 +105,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 75,
+ "laeufe": 76,
  "lagebrief_stand": 1795577400,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795631107.679572
+  ],
   "stunde": [
-   {
-    "dauer": 0.002864360809326172,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "BDkYXdHCZZQTNn6LqFDS2WrKhD2rZmuQioqTW1wupump",
-    "name": "Christmass Inu",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "CI",
-    "t": 1795627499.0933967
-   },
-   {
-    "mint": "rM1LajNWfk2YnwdE8j3ADokL7htZ8CzikeJTHo4pump",
-    "spaet": true,
-    "t": 1795627507.399877
-   },
    {
     "dauer": 514.199503660202,
     "ersteller_verkauft": false,
@@ -257,6 +243,17 @@
     "mint": "JgGbp5wxqa4ZLxVtQankZqkUhDjMSbaKYYysxUrpump",
     "spaet": true,
     "t": 1795630740.3098772
+   },
+   {
+    "dauer": 258.84118366241455,
+    "ersteller_verkauft": true,
+    "kaeufer": 350,
+    "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
+    "name": "Snowball",
+    "sol": 71.2012691719999,
+    "spaet": false,
+    "symbol": "Snowball",
+    "t": 1795630932.8900797
    }
   ],
   "uebersicht": 1795628631.7736564
