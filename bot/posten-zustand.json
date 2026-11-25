@@ -103,10 +103,11 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 34,
+ "laeufe": 35,
  "lagebrief_stand": 1795577400,
  "momentum_sperre": {
   "xyz:NVDA": 1795617060.222036,
+  "xyz:SILVER": 1795619796.6290345,
   "xyz:TSLA": 1795617060.222036
  },
  "signale": {},
