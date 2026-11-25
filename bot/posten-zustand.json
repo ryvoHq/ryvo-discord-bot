@@ -148,27 +148,11 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 89,
+ "laeufe": 90,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 136.3539867401123,
-    "ersteller_verkauft": false,
-    "kaeufer": 124,
-    "mint": "DiuBnUUwgJxQAju6m5ostHWs8ArHR2Ejp2j1PoVepump",
-    "name": "Anthropic Coin",
-    "sol": 84.645729031,
-    "spaet": false,
-    "symbol": "ANT",
-    "t": 1795631151.3405097
-   },
-   {
-    "mint": "g7Stw2wWMTTDa4aGpuwBTDkbyL77Uc8a2iUK7q7pump",
-    "spaet": true,
-    "t": 1795631153.3041463
-   },
    {
     "mint": "3ZxVAthR4YdYR8ZPMmbU9QEUUBTRFb8ttECjavp3pump",
     "spaet": true,
@@ -319,6 +303,16 @@
     "spaet": false,
     "symbol": "DINO",
     "t": 1795634724.9067585
+   },
+   {
+    "mint": "4gpwBgviegCiNp1g7MfD2RNyRCPntdqJfjxYYVoGpump",
+    "spaet": true,
+    "t": 1795634844.5451012
+   },
+   {
+    "mint": "CDhqyx75wVuCCzFsrZByAze233tg2VYHY8Yrvtqdpump",
+    "spaet": true,
+    "t": 1795634977.4203935
    }
   ],
   "uebersicht": 1795632307.3934839
