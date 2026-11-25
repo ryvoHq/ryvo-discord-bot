@@ -216,10 +216,31 @@ class Lab:
                 t["lehre"], bilanz_text(trades), FUSS)
             self.p.dc.post("/channels/%s/messages" % self.p.kanal("lab-trades"), {"content": text, "allowed_mentions": {"parse": []}})
             self.z.setdefault("lab_tageslog", []).append("%s %s closed, %s %+.2fR" % (t["seite"].capitalize(), t["name"], "win" if t["r"] > 0 else "loss", t["r"]))
+            try:
+                self.ergebnis_bild(t, trades, alter)
+            except Exception:
+                pass                                         # das Bild ist Zugabe: der Abschluss steht schon in #lab-trades
             geschlossen += 1
         speichern(trades)
         if geschlossen:
             self.p.ergebnis["Lab"] = "%d geschlossen" % geschlossen
+
+    # --- jeder Abschluss als Chart in #wins-and-losses: Gewinner wie Verlierer, ohne Auswahl ---
+    def ergebnis_bild(self, t, trades, alter):
+        if not self.p.kanaele.get("wins-and-losses"):
+            return
+        k = markt.kerzen(t["coin"], 200)[-90:]
+        auf = datetime.fromisoformat(t["eroeffnet"]).timestamp() * 1000
+        von = next((i for i, x in enumerate(k) if x[0] + 86400 * 1000 > auf), len(k) - 1)      # die Tageskerze, in der eröffnet wurde
+        wort = "WIN" if t["r"] > 0 else "LOSS"
+        ausgang = {"stop": "stop hit", "target": "target hit", "time": "time exit"}[t["ausgang"]]
+        titel = "%s · %s %s · %+.2fR" % (wort, t["seite"].upper(), t["name"], t["r"])
+        bild = grafik.kerzenchart(k, "RYVO Lab · " + titel, "Entry %s · exit %s (%s) · %.1f days" % (markt.zahl(t["einstieg"]), markt.zahl(t["ausstieg"]), ausgang, alter),
+                                  intervall="1d", position=dict(von=von, einstieg=t["einstieg"], stop=t["stop"], ziel=t["ziel"], seite=t["seite"]),
+                                  marken=[(len(k) - 1, t["ausstieg"], "v" if t["ausstieg"] >= t["einstieg"] else "^", "exit")])
+        text = "**%s** · entry %s → exit %s (%s) · %.1f days\n%s\n%s\n%s" % (
+            titel, markt.zahl(t["einstieg"]), markt.zahl(t["ausstieg"]), ausgang, alter, t.get("lehre", ""), bilanz_text(trades), FUSS)
+        self.p.dc.datei("POST", "/channels/%s/messages" % self.p.kanal("wins-and-losses"), {"content": text, "allowed_mentions": {"parse": []}}, "lab-result.png", bild)
 
     # --- Sonntag 18 UTC: Wochenbilanz ---
     def wochenbilanz(self):

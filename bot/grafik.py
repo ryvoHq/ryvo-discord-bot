@@ -155,9 +155,13 @@ def kerzenchart(kerzen, titel, unterzeile="", intervall="1h", zonen=(), position
     ax.set_ylim(unten - rand, oben + rand)
     _preismarke(ax, schluss[-1], n)
     _zeitachse(ax, kerzen, intervall)
-    plt.setp(ax.get_xticklabels(), visible=False)
-    _volumen(axv, kerzen)
-    _zeitachse(axv, kerzen, intervall)
+    if len(kerzen[0]) >= 6:
+        plt.setp(ax.get_xticklabels(), visible=False)
+        _volumen(axv, kerzen)
+        _zeitachse(axv, kerzen, intervall)
+    else:
+        ax.set_position([0.012, 0.085, 0.905, 0.785])        # den freien Platz des Volumens nutzt der Kurs-Chart
+        axv.set_visible(False)                               # ohne Volumen (Tageskerzen) trägt der Kurs-Chart die Zeitachse selbst – sonst fehlte sie ganz
     if mittel:
         leg = ax.legend(loc="upper left", fontsize=7.5, frameon=False)
         for t in leg.get_texts():
