@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 93,
+ "laeufe": 94,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
@@ -296,6 +296,26 @@
     "spaet": false,
     "symbol": "ComeSee",
     "t": 1795635903.218218
+   },
+   {
+    "mint": "EEjW9RZXjpvGywMxyQABnUYoRxUrnkpEzPmaxx5tpump",
+    "spaet": true,
+    "t": 1795635953.020965
+   },
+   {
+    "mint": "Gfv4ofg95ZpBmgb2SzAFXzPmBQm5bAfJWhYxPnN6pump",
+    "spaet": true,
+    "t": 1795636016.8719718
+   },
+   {
+    "mint": "3778b6K6KGVfJT162Fhq658VGkvt19RB7v3HtwYPpump",
+    "spaet": true,
+    "t": 1795636072.2085342
+   },
+   {
+    "mint": "CsBDN1naL311a1wUuAWDAQ3asD3Mrb6aAUmyzXHPpump",
+    "spaet": true,
+    "t": 1795636081.2594674
    }
   ],
   "uebersicht": 1795635947.4659443
