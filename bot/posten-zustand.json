@@ -105,40 +105,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 80,
+ "laeufe": 81,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795631107.679572
   ],
   "stunde": [
-   {
-    "dauer": 87.8448965549469,
-    "ersteller_verkauft": false,
-    "kaeufer": 157,
-    "mint": "8DREuSDFdsrabCWNkivgnXsjNasaePiqQE9L3veWpump",
-    "name": "Jensen’s Egg",
-    "sol": 47.40889094200003,
-    "spaet": false,
-    "symbol": "JGG",
-    "t": 1795628755.998467
-   },
-   {
-    "dauer": 167.8605296611786,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "HWSfnJnEwLfqK6h2FWEsjFJkoBpJt2jic9HscRr5pump",
-    "name": "beer",
-    "sol": -0.03224935999999998,
-    "spaet": false,
-    "symbol": "beer",
-    "t": 1795628787.462904
-   },
-   {
-    "mint": "HAB9APPV2Vyx8tEUCp69fgY11GfhP52MfWmhVVbMpump",
-    "spaet": true,
-    "t": 1795628854.3085465
-   },
    {
     "mint": "F3CEgPP6EMUPK5intrtDakp4y7xCfpHQCmbNhwDRpump",
     "spaet": true,
@@ -268,6 +241,17 @@
     "mint": "93UA32Baowc1gbAoM35CG9Lj5Cw2Pz6T3VfhK63Kpump",
     "spaet": true,
     "t": 1795632167.0553925
+   },
+   {
+    "dauer": 89.09826421737671,
+    "ersteller_verkauft": true,
+    "kaeufer": 10,
+    "mint": "5Chq5z54MQNnfjTyPyTdHCE9g2AyXxMmnYJEUn2Mpump",
+    "name": "🚀",
+    "sol": 0.17577885999999998,
+    "spaet": false,
+    "symbol": "🚀",
+    "t": 1795632335.977481
    }
   ],
   "uebersicht": 1795632307.3934839
