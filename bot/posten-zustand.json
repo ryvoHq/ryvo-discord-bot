@@ -148,48 +148,11 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 92,
+ "laeufe": 93,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "EoABGusJ4s9GP4ogugroHT3qaYGTov7UPevZaYSTpump",
-    "spaet": true,
-    "t": 1795632082.6085002
-   },
-   {
-    "dauer": 266.3022162914276,
-    "ersteller_verkauft": false,
-    "kaeufer": 51,
-    "mint": "Ef8c4G1f7SgHAVGG3UZyVeHuyVthZ5eT8yGQPbzpump",
-    "name": "ABU HOSSIEN",
-    "sol": 4.468900657000006,
-    "spaet": false,
-    "symbol": "$ABU",
-    "t": 1795632119.3952951
-   },
-   {
-    "mint": "8Uk9f5WfJndkC9VkFRLDwEpHgD2KD8BcFbqh5zuBpump",
-    "spaet": true,
-    "t": 1795632162.8796318
-   },
-   {
-    "mint": "93UA32Baowc1gbAoM35CG9Lj5Cw2Pz6T3VfhK63Kpump",
-    "spaet": true,
-    "t": 1795632167.0553925
-   },
-   {
-    "dauer": 89.09826421737671,
-    "ersteller_verkauft": true,
-    "kaeufer": 10,
-    "mint": "5Chq5z54MQNnfjTyPyTdHCE9g2AyXxMmnYJEUn2Mpump",
-    "name": "🚀",
-    "sol": 0.17577885999999998,
-    "spaet": false,
-    "symbol": "🚀",
-    "t": 1795632335.977481
-   },
    {
     "mint": "5RzdwxJGUDH8NzoZCS9toz7muL6sNvKkM9XkjbU1pump",
     "spaet": true,
@@ -307,9 +270,35 @@
     "mint": "DQJbRqrQkG9sqChwWXSxwWxi8K9gtVdr5w6vCEx4pump",
     "spaet": true,
     "t": 1795635646.5382261
+   },
+   {
+    "mint": "Btwbrmj7HMmsuTKC75qcYkoULxGaDqjPakSnoT2upump",
+    "spaet": true,
+    "t": 1795635660.8488235
+   },
+   {
+    "mint": "3qineFvZCaTzxiRvAo9ZAPJeA8gRTEEjVo48iaScpump",
+    "spaet": true,
+    "t": 1795635861.9642706
+   },
+   {
+    "mint": "4y4iBmMgiSWLcCsa6X9EEw9B6mrhyZixV4hWeJWVpump",
+    "spaet": true,
+    "t": 1795635874.4741738
+   },
+   {
+    "dauer": 270.88007521629333,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "F6995odxJcHEuZmET3ZnPjp3rG17waX9gxvBAuVFpump",
+    "name": "The Chosen",
+    "sol": -0.10973917600000013,
+    "spaet": false,
+    "symbol": "ComeSee",
+    "t": 1795635903.218218
    }
   ],
-  "uebersicht": 1795632307.3934839
+  "uebersicht": 1795635947.4659443
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
