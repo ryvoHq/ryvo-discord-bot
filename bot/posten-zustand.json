@@ -105,18 +105,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 83,
+ "laeufe": 84,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795631107.679572
   ],
   "stunde": [
-   {
-    "mint": "3Qmzsf7zh15n88JaPAQpyQuz38TmhcdsMEnCuG4Xpump",
-    "spaet": true,
-    "t": 1795629731.575837
-   },
    {
     "mint": "5R885Tr8BWXNWE6WZaqhZQox3uRdkfjSoyRpH4UDpump",
     "spaet": true,
@@ -257,6 +252,17 @@
     "mint": "GdT415G2bF9gemWNeYYMua6gy8RwyGcfGSsP7dxmpump",
     "spaet": true,
     "t": 1795633191.3408139
+   },
+   {
+    "dauer": 112.08392357826233,
+    "ersteller_verkauft": true,
+    "kaeufer": 7,
+    "mint": "ERvFuSuKKCj6MJeebV5BtuvuhaF716xjKqvrH72Jpump",
+    "name": "The Chosen",
+    "sol": -0.024111671999999876,
+    "spaet": false,
+    "symbol": "ComeSee",
+    "t": 1795633474.0121388
    }
   ],
   "uebersicht": 1795632307.3934839
