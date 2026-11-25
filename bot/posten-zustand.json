@@ -158,24 +158,14 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 135,
+ "laeufe": 136,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795645771.2777596
+   1795645771.2777596,
+   1795647915.4043698
   ],
   "stunde": [
-   {
-    "dauer": 757.5740232467651,
-    "ersteller_verkauft": true,
-    "kaeufer": 194,
-    "mint": "J1b5HnRzmXsYK5akPTFtBR7B4E74JG8eyULodd7ypump",
-    "name": "Grinch",
-    "sol": 91.05762132499991,
-    "spaet": false,
-    "symbol": "Grinch",
-    "t": 1795644218.976141
-   },
    {
     "dauer": 92.9276351928711,
     "ersteller_verkauft": false,
@@ -373,6 +363,17 @@
     "mint": "G5ffokBzGxoMjnozhVSpHt3K47NkpfEANt2yfnRKpump",
     "spaet": true,
     "t": 1795647372.6701825
+   },
+   {
+    "dauer": 1108.7236108779907,
+    "ersteller_verkauft": false,
+    "kaeufer": 497,
+    "mint": "9MuzqHwm6T2v1rteCTcynQNZVJ1v4CeSxLwXE89Npump",
+    "name": "PUMP INU",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "PI",
+    "t": 1795647783.730234
    }
   ],
   "uebersicht": 1795647314.6004097
