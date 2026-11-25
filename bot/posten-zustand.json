@@ -105,7 +105,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 65,
+ "laeufe": 66,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
@@ -125,11 +125,28 @@
     "mint": "rM1LajNWfk2YnwdE8j3ADokL7htZ8CzikeJTHo4pump",
     "spaet": true,
     "t": 1795627507.399877
+   },
+   {
+    "dauer": 514.199503660202,
+    "ersteller_verkauft": false,
+    "kaeufer": 118,
+    "mint": "A7y71o77GxTVCU4Cwo9rfU7zsUcR12Moddq6oMkspump",
+    "name": "United States Index 6900",
+    "sol": 64.962823846,
+    "spaet": false,
+    "symbol": "USA6900",
+    "t": 1795628288.3782063
+   },
+   {
+    "mint": "9CymBxrGwVK7GwV2hTBMm2QSvK4yLzTdENJ5rHtVpump",
+    "spaet": true,
+    "t": 1795628326.4719079
    }
   ],
   "uebersicht": 0
  },
  "momentum_sperre": {
+  "HYPE": 1795628333.8068695,
   "MOODENG": 1795620997.2946393,
   "xyz:NVDA": 1795617060.222036,
   "xyz:SILVER": 1795619796.6290345,
