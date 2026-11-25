@@ -148,43 +148,11 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 91,
+ "laeufe": 92,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 495.4783101081848,
-    "ersteller_verkauft": false,
-    "kaeufer": 36,
-    "mint": "FF5V2c6MTrboTxh8ep8sNgmXsgji2wn6FfH7Cxvkpump",
-    "name": "Solana2",
-    "sol": 78.629515312,
-    "spaet": false,
-    "symbol": "SOL2",
-    "t": 1795631764.2289813
-   },
-   {
-    "dauer": 495.47807717323303,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "Bs4QJg876voASSYpoBv68uWg6c3vachDJcrgVxGtpump",
-    "name": "Toly",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TOLY",
-    "t": 1795631764.2289813
-   },
-   {
-    "mint": "GMEwdHpQZTcM6GYYGVXqdNvMPK6SmS159TAYm6Yzpump",
-    "spaet": true,
-    "t": 1795631789.2858016
-   },
-   {
-    "mint": "3oGd3qtgYHN1zqVGWhRSC7Gvqd1z6WbJpujQaB21pump",
-    "spaet": true,
-    "t": 1795631808.3886883
-   },
    {
     "mint": "EoABGusJ4s9GP4ogugroHT3qaYGTov7UPevZaYSTpump",
     "spaet": true,
@@ -318,6 +286,27 @@
     "mint": "ALLherSTscpAErYo5Jja3ysVocaa2oeZkUvgmvhZpump",
     "spaet": true,
     "t": 1795635305.9978795
+   },
+   {
+    "mint": "23x2RoMSTUwUhf4RLXVrpSix69e9srKyYQmnv4BWpump",
+    "spaet": true,
+    "t": 1795635358.2050276
+   },
+   {
+    "dauer": 180.1124029159546,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "5eiJvQpBTdMVqzrBZX7js2NJ15oTZkjY39x94uSdpump",
+    "name": "The Chosen",
+    "sol": -0.27143592400000016,
+    "spaet": false,
+    "symbol": "ComeSee",
+    "t": 1795635589.7540364
+   },
+   {
+    "mint": "DQJbRqrQkG9sqChwWXSxwWxi8K9gtVdr5w6vCEx4pump",
+    "spaet": true,
+    "t": 1795635646.5382261
    }
   ],
   "uebersicht": 1795632307.3934839
