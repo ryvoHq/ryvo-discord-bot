@@ -148,42 +148,11 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 101,
+ "laeufe": 102,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "HT1kSiP2rNn1vwhUHteyPhDw6xXjjAfSCv8VnWmgpump",
-    "spaet": true,
-    "t": 1795634524.3003576
-   },
-   {
-    "mint": "9Xdr1trBydrVprQvvfe7ueCJTuTVEee1XWrufSQdpump",
-    "spaet": true,
-    "t": 1795634546.7121596
-   },
-   {
-    "mint": "47DCqnzs1scjVEVMe25MMJkXr63gWyW3r1qrrWWWpump",
-    "spaet": true,
-    "t": 1795634569.29728
-   },
-   {
-    "mint": "88TavQPfhH5KbgT5EnJR3pqJeSa6v98r4MB4AUkypump",
-    "spaet": true,
-    "t": 1795634578.230037
-   },
-   {
-    "dauer": 243.8087191581726,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "BPY3MJWE3zqGKx8SHJSQBzhgtWGJZwRoE8Kgx3FMpump",
-    "name": "DINOBOSS",
-    "sol": 0.3709446840000007,
-    "spaet": false,
-    "symbol": "DINO",
-    "t": 1795634724.9067585
-   },
    {
     "mint": "4gpwBgviegCiNp1g7MfD2RNyRCPntdqJfjxYYVoGpump",
     "spaet": true,
@@ -392,6 +361,63 @@
     "spaet": false,
     "symbol": "Pompompurin",
     "t": 1795637950.1886382
+   },
+   {
+    "mint": "6tyWH5VE3HG9MXjM9PwzZWwHkUUoFWNiyL79RuWopump",
+    "spaet": true,
+    "t": 1795638119.709317
+   },
+   {
+    "mint": "DB5RhhXvw7sfCqzRzEpozhLfzqEwN3FEbJ1pDfSWpump",
+    "spaet": true,
+    "t": 1795638126.9028962
+   },
+   {
+    "mint": "FvpcLEPGp7xi3vdFajLEDyxk7CH59VVsdV8p6s9Epump",
+    "spaet": true,
+    "t": 1795638182.9895298
+   },
+   {
+    "mint": "9Yb7afiJ1Ure7sLQpQNDsRyU3bitLWDUkvTcjLpvpump",
+    "spaet": true,
+    "t": 1795638203.3604748
+   },
+   {
+    "mint": "2NJGXauC3wxEGzjRHHdMY9ojB5M21fgtk6isY9Nqpump",
+    "spaet": true,
+    "t": 1795638237.7405114
+   },
+   {
+    "dauer": 0.021881580352783203,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "AGyQW6inE99G3Js63ooQWzAeEeBRu8718zjiSKPBpump",
+    "name": "Pompom Bao",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "POMBAO",
+    "t": 1795638240.1674128
+   },
+   {
+    "dauer": 0.003690958023071289,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "Hudu27ENXuje9FLiPiBFm6ZavgueyXgerQbX8K5Qpump",
+    "name": "Muffin",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Muffin",
+    "t": 1795638243.6872578
+   },
+   {
+    "mint": "9KxVah9iuWXyM1PyGqpCrhDiLx71HCgT58rJbY6ycsP2",
+    "spaet": true,
+    "t": 1795638301.2856164
+   },
+   {
+    "mint": "HzXzDp3rpXWZLqisHtFV31fpCntdQvYjfK2fructpump",
+    "spaet": true,
+    "t": 1795638367.057494
    }
   ],
   "uebersicht": 1795635947.4659443
