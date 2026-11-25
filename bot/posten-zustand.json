@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 136,
+ "laeufe": 137,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -166,50 +166,6 @@
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "dauer": 92.9276351928711,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "DTjdGJ6SxTGXXWXEfxr6i1cpjV7jxbJ9HjovufHopump",
-    "name": "67%",
-    "sol": 1.2593410149999997,
-    "spaet": false,
-    "symbol": "SXSN",
-    "t": 1795644320.9492352
-   },
-   {
-    "dauer": 1182.145430803299,
-    "ersteller_verkauft": false,
-    "kaeufer": 678,
-    "mint": "G7A1QbTBjCk9XNFi2bweLzgHWDyCQ96TrnoLo5PFz7zc",
-    "name": "4 Chan Mascot",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "YOTSUBA",
-    "t": 1795644421.9605
-   },
-   {
-    "dauer": 347.179762840271,
-    "ersteller_verkauft": true,
-    "kaeufer": 327,
-    "mint": "2wFZyxefrN4bSDwh2Dj69v4GPnsDRqMGaJwxwT7z8rwM",
-    "name": "Inucoin",
-    "sol": 84.3663741080002,
-    "spaet": false,
-    "symbol": "Inu",
-    "t": 1795644552.5982852
-   },
-   {
-    "dauer": 170.37547492980957,
-    "ersteller_verkauft": true,
-    "kaeufer": 135,
-    "mint": "8Ahdr1sED5xSQed9NSfAD5UQdPWzV5ihrDFNsRCUpump",
-    "name": "GTA6",
-    "sol": 85.22768642799997,
-    "spaet": false,
-    "symbol": "GTA 6 Coin",
-    "t": 1795644584.8406248
-   },
    {
     "mint": "vvGRjvKVPcuBCSfgxZdwiSkveug2ENF1YNrXnyapump",
     "spaet": true,
@@ -374,6 +330,33 @@
     "spaet": false,
     "symbol": "PI",
     "t": 1795647783.730234
+   },
+   {
+    "mint": "GeUnGPLFku8zn1dJUNZpj6VymUxt7A3t9DqRL5WJpump",
+    "spaet": true,
+    "t": 1795647980.2162595
+   },
+   {
+    "dauer": 44.62874245643616,
+    "ersteller_verkauft": true,
+    "kaeufer": 107,
+    "mint": "hY6W6moD9mH7YoPBND9XAqfVxGZ14HHKmcw64zrpump",
+    "name": "Super Cycle Inu",
+    "sol": 44.69485712799997,
+    "spaet": false,
+    "symbol": "SCI",
+    "t": 1795648117.4989142
+   },
+   {
+    "dauer": 275.44044733047485,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "8inL13ZhFhX8x3Nd41AQNz1uGEKdMJGNddWRJH6Hpump",
+    "name": "SOLANA2",
+    "sol": 1.971563329000001,
+    "spaet": false,
+    "symbol": "SOL",
+    "t": 1795648191.0543473
    }
   ],
   "uebersicht": 1795647314.6004097
