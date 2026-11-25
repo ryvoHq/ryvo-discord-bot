@@ -157,19 +157,16 @@
  ],
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
+ "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 145,
+ "lab_tageslog": [],
+ "laeufe": 146,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "mint": "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump",
-    "spaet": true,
-    "t": 1795646974.418631
-   },
    {
     "mint": "FE7zN2fJJppwrU71mQfuXmjgKmcGfVuCpMYrhwAhpump",
     "spaet": true,
@@ -416,6 +413,22 @@
     "spaet": false,
     "symbol": "Anthropic",
     "t": 1795650366.5458915
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "DeACAbp2GMzapB6Z2K8qdkTZupmNbKc6EZx9bnbCpump",
+    "name": "Money Coin",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "MONEY",
+    "t": 1795650486.868653
+   },
+   {
+    "mint": "4xGG2v3KZVgGF6QYWAkAVQz7wgVGdKFy6oWPGgrZpump",
+    "spaet": true,
+    "t": 1795650671.1612873
    }
   ],
   "uebersicht": 1795647314.6004097
