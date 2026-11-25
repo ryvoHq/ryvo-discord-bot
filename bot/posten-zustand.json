@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 125,
+ "laeufe": 126,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -168,32 +168,6 @@
    1795643971.0761774
   ],
   "stunde": [
-   {
-    "dauer": 81.21908593177795,
-    "ersteller_verkauft": false,
-    "kaeufer": 8,
-    "mint": "7biTG4HUxiawxsqsgL7Cf2jGWAqCpndsjFmKJybKpump",
-    "name": "wind",
-    "sol": 0.10536955100000002,
-    "spaet": false,
-    "symbol": "wind",
-    "t": 1795641273.1713421
-   },
-   {
-    "mint": "GhR4RyVyw1ts4ZsyCC51npyZsRF6LdyUYv3pZ8F8pump",
-    "spaet": true,
-    "t": 1795641377.3574262
-   },
-   {
-    "mint": "HHgUrL97cBEK6V6t42i5qomgFqjuL3xd1AHaZi21pump",
-    "spaet": true,
-    "t": 1795641409.9175694
-   },
-   {
-    "mint": "Bu1ST4hqEvbefDsscrw3pA7HHB9wu3xtt5mRzET5pump",
-    "spaet": true,
-    "t": 1795641554.9069204
-   },
    {
     "mint": "FeBG8AEG4j7LT7xQF38gPXQFBRBtXBTNzhZjSa3bpump",
     "spaet": true,
@@ -424,6 +398,33 @@
     "spaet": false,
     "symbol": "sl0p",
     "t": 1795644763.6649454
+   },
+   {
+    "mint": "84gyHcyAWSDPRpmQrfg1JShNWhREhwNBabKgtR4rpump",
+    "spaet": true,
+    "t": 1795644880.8226933
+   },
+   {
+    "dauer": 161.29762864112854,
+    "ersteller_verkauft": true,
+    "kaeufer": 458,
+    "mint": "6nbsAyTcwczu6LeAEZkXHcWkq86VwyZs7veGPqzcpump",
+    "name": "1 share and a dream",
+    "sol": 82.78627001899991,
+    "spaet": false,
+    "symbol": "SPCX",
+    "t": 1795644912.0175426
+   },
+   {
+    "dauer": 154.68248414993286,
+    "ersteller_verkauft": true,
+    "kaeufer": 127,
+    "mint": "FUycpeu1eU1XSZKs2YMfiCEJsLK4WD9hnkw7JStopump",
+    "name": "if",
+    "sol": 71.66451240799994,
+    "spaet": false,
+    "symbol": "if",
+    "t": 1795645168.110223
    }
   ],
   "uebersicht": 1795643671.281514
