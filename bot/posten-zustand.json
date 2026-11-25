@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 132,
+ "laeufe": 133,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -167,22 +167,6 @@
    1795645771.2777596
   ],
   "stunde": [
-   {
-    "mint": "ZSaVAfsaPdyn8sYX4mzXV6P8cNpxqF7iYHfYoeypump",
-    "spaet": true,
-    "t": 1795643260.0484817
-   },
-   {
-    "dauer": 165.9175260066986,
-    "ersteller_verkauft": true,
-    "kaeufer": 31,
-    "mint": "9ZhkWgfW2yPtF771f7qY46YAiVcJbUmJnD1FUPtCpump",
-    "name": "PIKMAN",
-    "sol": 0.4628371329999995,
-    "spaet": false,
-    "symbol": "PIKMAN",
-    "t": 1795643404.6399848
-   },
    {
     "dauer": 649.7788050174713,
     "ersteller_verkauft": true,
@@ -408,6 +392,11 @@
     "mint": "Br3YLeZuvVTBMnWrFbxcY6xiwiLdxr5oNVnXBrSVpump",
     "spaet": true,
     "t": 1795646660.6282892
+   },
+   {
+    "mint": "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump",
+    "spaet": true,
+    "t": 1795646974.418631
    }
   ],
   "uebersicht": 1795643671.281514
