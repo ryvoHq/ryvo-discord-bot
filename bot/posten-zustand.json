@@ -158,26 +158,14 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 133,
+ "laeufe": 134,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795643671.281514,
    1795643971.0761774,
    1795645771.2777596
   ],
   "stunde": [
-   {
-    "dauer": 649.7788050174713,
-    "ersteller_verkauft": true,
-    "kaeufer": 641,
-    "mint": "BJ6ep8bPYdE31ngrmKKmANaY85PdhqBNHAJEFyTmpump",
-    "name": "inu",
-    "sol": 91.51901992899981,
-    "spaet": false,
-    "symbol": "inu",
-    "t": 1795643515.6849558
-   },
    {
     "mint": "B4sokvtVLtXaiDCT21DNkrBX3mFX8Sc86RdbF1bppump",
     "spaet": true,
@@ -397,9 +385,19 @@
     "mint": "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump",
     "spaet": true,
     "t": 1795646974.418631
+   },
+   {
+    "mint": "FE7zN2fJJppwrU71mQfuXmjgKmcGfVuCpMYrhwAhpump",
+    "spaet": true,
+    "t": 1795647109.0329094
+   },
+   {
+    "mint": "2W459tbQE25AWpJkZ9qNgLJxdhQWqMc8QMDzYtXPpump",
+    "spaet": true,
+    "t": 1795647160.631086
    }
   ],
-  "uebersicht": 1795643671.281514
+  "uebersicht": 1795647314.6004097
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
