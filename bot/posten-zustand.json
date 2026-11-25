@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 137,
+ "laeufe": 138,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -166,49 +166,6 @@
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "mint": "vvGRjvKVPcuBCSfgxZdwiSkveug2ENF1YNrXnyapump",
-    "spaet": true,
-    "t": 1795644636.450742
-   },
-   {
-    "dauer": 154.22737622261047,
-    "ersteller_verkauft": false,
-    "kaeufer": 35,
-    "mint": "6HBwhMme9zZdA5on1uDf8tH1FS9GHrRcQszBxrjTpump",
-    "name": "JUSTICE FOR ALICE HUANG",
-    "sol": -0.07331232399999989,
-    "spaet": false,
-    "symbol": "ALICE",
-    "t": 1795644702.5613942
-   },
-   {
-    "dauer": 37.1830370426178,
-    "ersteller_verkauft": false,
-    "kaeufer": 174,
-    "mint": "AxPUs8sDFDxpSMqVVs4W9FAaW8RWm8ne66iCeLLpump",
-    "name": "sl0p",
-    "sol": 86.26021122499988,
-    "spaet": false,
-    "symbol": "sl0p",
-    "t": 1795644763.6649454
-   },
-   {
-    "mint": "84gyHcyAWSDPRpmQrfg1JShNWhREhwNBabKgtR4rpump",
-    "spaet": true,
-    "t": 1795644880.8226933
-   },
-   {
-    "dauer": 161.29762864112854,
-    "ersteller_verkauft": true,
-    "kaeufer": 458,
-    "mint": "6nbsAyTcwczu6LeAEZkXHcWkq86VwyZs7veGPqzcpump",
-    "name": "1 share and a dream",
-    "sol": 82.78627001899991,
-    "spaet": false,
-    "symbol": "SPCX",
-    "t": 1795644912.0175426
-   },
    {
     "dauer": 154.68248414993286,
     "ersteller_verkauft": true,
