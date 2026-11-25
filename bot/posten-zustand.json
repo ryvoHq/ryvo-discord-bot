@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 128,
+ "laeufe": 129,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -168,11 +168,6 @@
    1795645771.2777596
   ],
   "stunde": [
-   {
-    "mint": "6GKQJ5aJNbCWASAiFsxoSNFujMWVHnkBiMpK9FiHFUND",
-    "spaet": true,
-    "t": 1795642189.957679
-   },
    {
     "mint": "9dG7ALoXMrAYzi7DBFnLAZCdG5GdAQ2FfNro9gvnpump",
     "spaet": true,
