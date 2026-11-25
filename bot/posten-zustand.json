@@ -148,51 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 110,
+ "laeufe": 111,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "mint": "ErfdcsXZSZHZYkT35jZRG7nBW4uLE5vAZP3gUtenpump",
-    "spaet": true,
-    "t": 1795637087.0591474
-   },
-   {
-    "dauer": 16.941565990447998,
-    "ersteller_verkauft": false,
-    "kaeufer": 4,
-    "mint": "FW3GDjRVohSEBJpZcmP6nEX9ii3VX3zkcdYW5L1hpump",
-    "name": "Post Production",
-    "sol": 74.064399798,
-    "spaet": false,
-    "symbol": "PostProd",
-    "t": 1795637119.6665437
-   },
-   {
-    "dauer": 0.0008862018585205078,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "H4eqZumNhGk7LKLB5QpJb84EYZ1yHbEg9HiwwLqkpump",
-    "name": "Only Up",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "OnlyUp",
-    "t": 1795637145.752044
-   },
-   {
-    "dauer": 76.1630756855011,
-    "ersteller_verkauft": true,
-    "kaeufer": 11,
-    "mint": "HCT6mdarnAUEx6zZX5q1DqsyjCt3E38iY8JrraHVpump",
-    "name": "Way Up High",
-    "sol": 37.496908715000004,
-    "spaet": false,
-    "symbol": "WUUUH",
-    "t": 1795637180.628162
-   },
    {
     "mint": "JcVCbKoJEpAnzHggtwydEu5eypiZMPKEsE24CSDpump",
     "spaet": true,
@@ -408,6 +370,55 @@
     "spaet": false,
     "symbol": "inulink",
     "t": 1795640516.5108914
+   },
+   {
+    "dauer": 0.0006361007690429688,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "EmU2QZ3RKBxaydKn8ix9rrSrWbzPNVifVTa4NLH4pump",
+    "name": "SpaceX Squirrel",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Squirrel",
+    "t": 1795640652.7844918
+   },
+   {
+    "dauer": 158.80129957199097,
+    "ersteller_verkauft": false,
+    "kaeufer": 188,
+    "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete",
+    "name": "Neuralink 1nu",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "N1",
+    "t": 1795640692.9873579
+   },
+   {
+    "dauer": 24.5364191532135,
+    "ersteller_verkauft": true,
+    "kaeufer": 118,
+    "mint": "8ut2yUzuTzAqtPmPZVEkFffD16XkjVtLsktJV79rpump",
+    "name": "NEURALINK MONKEY",
+    "sol": 85.00535922799995,
+    "spaet": false,
+    "symbol": "PAGER",
+    "t": 1795640751.361197
+   },
+   {
+    "dauer": 0.0003523826599121094,
+    "ersteller_verkauft": false,
+    "kaeufer": 7,
+    "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump",
+    "name": "Norfeather",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "NORFEATH",
+    "t": 1795640764.1989434
+   },
+   {
+    "mint": "Fzv28eiousx43bkZyMxyx8S7EXJ3ccXTFReFoFtupump",
+    "spaet": true,
+    "t": 1795640853.599312
    }
   ],
   "uebersicht": 1795639587.4552824
