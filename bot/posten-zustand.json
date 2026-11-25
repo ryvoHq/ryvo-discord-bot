@@ -148,40 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 112,
+ "laeufe": 113,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "dauer": 434.26495456695557,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "8e2NgKkbT3vrJSopJArakwnS4oWhy4Ks75Enj1F3pump",
-    "name": "Polymarket Mascot",
-    "sol": 85.37473141199999,
-    "spaet": false,
-    "symbol": "Paulie",
-    "t": 1795637605.064951
-   },
-   {
-    "dauer": 69.73378705978394,
-    "ersteller_verkauft": false,
-    "kaeufer": 190,
-    "mint": "CGWNyzcTtihzTLMuLL6EHY7YtxVZuMCBJ1GUJJy9pump",
-    "name": "Susie",
-    "sol": 53.321263823,
-    "spaet": false,
-    "symbol": "Susie",
-    "t": 1795637644.8833773
-   },
-   {
-    "mint": "6M2fjWqfmh3eBpmWfCCT1kn9L7x9TF8yBNPRUK8Ypump",
-    "spaet": true,
-    "t": 1795637677.2249684
-   },
    {
     "mint": "7FvQ5yFc5qTMYFXqueteQT8W7oj3LDFk95828mtApump",
     "spaet": true,
@@ -435,6 +408,27 @@
     "mint": "5BV4aqazQjuKGeqVGByiaLKSrNVz21EF1jMoVxEmpump",
     "spaet": true,
     "t": 1795641179.676527
+   },
+   {
+    "dauer": 81.21908593177795,
+    "ersteller_verkauft": false,
+    "kaeufer": 8,
+    "mint": "7biTG4HUxiawxsqsgL7Cf2jGWAqCpndsjFmKJybKpump",
+    "name": "wind",
+    "sol": 0.10536955100000002,
+    "spaet": false,
+    "symbol": "wind",
+    "t": 1795641273.1713421
+   },
+   {
+    "mint": "GhR4RyVyw1ts4ZsyCC51npyZsRF6LdyUYv3pZ8F8pump",
+    "spaet": true,
+    "t": 1795641377.3574262
+   },
+   {
+    "mint": "HHgUrL97cBEK6V6t42i5qomgFqjuL3xd1AHaZi21pump",
+    "spaet": true,
+    "t": 1795641409.9175694
    }
   ],
   "uebersicht": 1795639587.4552824
