@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 116,
+ "laeufe": 117,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -156,17 +156,6 @@
    1795642404.7453332
   ],
   "stunde": [
-   {
-    "dauer": 73.25707483291626,
-    "ersteller_verkauft": true,
-    "kaeufer": 222,
-    "mint": "3DwaaYhRVszExb28f7GFfDXQyff4bmx8EjghYjcVpump",
-    "name": "Buy and Hold",
-    "sol": 57.98264992800003,
-    "spaet": false,
-    "symbol": "BAH",
-    "t": 1795638947.4545379
-   },
    {
     "dauer": 173.0685498714447,
     "ersteller_verkauft": true,
@@ -410,6 +399,11 @@
     "spaet": false,
     "symbol": "GAROAT",
     "t": 1795642352.802394
+   },
+   {
+    "mint": "PG2mxjtqAhXqCT7u5vY6mMF7bUe96re2NXWVuBipump",
+    "spaet": true,
+    "t": 1795642427.8470514
    }
   ],
   "uebersicht": 1795639587.4552824
