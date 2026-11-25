@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 131,
+ "laeufe": 132,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -167,22 +167,6 @@
    1795645771.2777596
   ],
   "stunde": [
-   {
-    "dauer": 65.02022528648376,
-    "ersteller_verkauft": true,
-    "kaeufer": 361,
-    "mint": "2CNZwC6a4nngTiz7PySgujhhk6fc4jd88HiKFAFZpump",
-    "name": "Flying Space Datacenter",
-    "sol": 84.578914778,
-    "spaet": false,
-    "symbol": "FSD",
-    "t": 1795642846.7978978
-   },
-   {
-    "mint": "8g7BgshVGoSQzrXRkX83K4WBYr22FhPUttETF6RJpump",
-    "spaet": true,
-    "t": 1795642863.7440546
-   },
    {
     "mint": "ZSaVAfsaPdyn8sYX4mzXV6P8cNpxqF7iYHfYoeypump",
     "spaet": true,
@@ -408,6 +392,22 @@
     "mint": "vzPHvLA6997zgn7WPcfpQwgWTWDZ1wJznYqQrQXfr5M",
     "spaet": true,
     "t": 1795646047.5230896
+   },
+   {
+    "dauer": 201.904194355011,
+    "ersteller_verkauft": true,
+    "kaeufer": 164,
+    "mint": "5mgqgmEkWQFv648G49WZMzTwXk3ZpqAkMBXpa1uopump",
+    "name": "Elons dog",
+    "sol": 45.62216206699988,
+    "spaet": false,
+    "symbol": "Loki",
+    "t": 1795646536.4848592
+   },
+   {
+    "mint": "Br3YLeZuvVTBMnWrFbxcY6xiwiLdxr5oNVnXBrSVpump",
+    "spaet": true,
+    "t": 1795646660.6282892
    }
   ],
   "uebersicht": 1795643671.281514
