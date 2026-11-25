@@ -105,34 +105,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 78,
+ "laeufe": 79,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795631107.679572
   ],
   "stunde": [
-   {
-    "dauer": 514.199503660202,
-    "ersteller_verkauft": false,
-    "kaeufer": 118,
-    "mint": "A7y71o77GxTVCU4Cwo9rfU7zsUcR12Moddq6oMkspump",
-    "name": "United States Index 6900",
-    "sol": 64.962823846,
-    "spaet": false,
-    "symbol": "USA6900",
-    "t": 1795628288.3782063
-   },
-   {
-    "mint": "9CymBxrGwVK7GwV2hTBMm2QSvK4yLzTdENJ5rHtVpump",
-    "spaet": true,
-    "t": 1795628326.4719079
-   },
-   {
-    "mint": "Gd6CNyQfH63KKReNifBWfKJLWcciVBvrdDb7RtWAPnd",
-    "spaet": true,
-    "t": 1795628363.20556
-   },
    {
     "dauer": 3.59956693649292,
     "ersteller_verkauft": false,
@@ -280,6 +259,38 @@
     "mint": "2BD831xmk14x3FhdfLJqvnwmciaysgRz8D7RTi7apump",
     "spaet": true,
     "t": 1795631491.251295
+   },
+   {
+    "dauer": 495.4783101081848,
+    "ersteller_verkauft": false,
+    "kaeufer": 36,
+    "mint": "FF5V2c6MTrboTxh8ep8sNgmXsgji2wn6FfH7Cxvkpump",
+    "name": "Solana2",
+    "sol": 78.629515312,
+    "spaet": false,
+    "symbol": "SOL2",
+    "t": 1795631764.2289813
+   },
+   {
+    "dauer": 495.47807717323303,
+    "ersteller_verkauft": false,
+    "kaeufer": 15,
+    "mint": "Bs4QJg876voASSYpoBv68uWg6c3vachDJcrgVxGtpump",
+    "name": "Toly",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "TOLY",
+    "t": 1795631764.2289813
+   },
+   {
+    "mint": "GMEwdHpQZTcM6GYYGVXqdNvMPK6SmS159TAYm6Yzpump",
+    "spaet": true,
+    "t": 1795631789.2858016
+   },
+   {
+    "mint": "3oGd3qtgYHN1zqVGWhRSC7Gvqd1z6WbJpujQaB21pump",
+    "spaet": true,
+    "t": 1795631808.3886883
    }
   ],
   "uebersicht": 1795628631.7736564
