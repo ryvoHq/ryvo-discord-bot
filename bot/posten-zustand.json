@@ -103,9 +103,12 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 24,
+ "laeufe": 25,
  "lagebrief_stand": 1795577400,
- "momentum_sperre": {},
+ "momentum_sperre": {
+  "xyz:NVDA": 1795617060.222036,
+  "xyz:TSLA": 1795617060.222036
+ },
  "status_nachricht": "1575110333385801839",
  "swing_tag": "2026-11-25",
  "terminal_hash": "72856675800e8502de88b236d805b27f772946d10f8dadee5d8b4d4ee94fdc2e",
