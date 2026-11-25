@@ -148,33 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 103,
+ "laeufe": 104,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795638687.845879
   ],
   "stunde": [
-   {
-    "mint": "3XxrqYcY75vtrDk9mpsXGvHd81HMbWuS7KyJj9aypump",
-    "spaet": true,
-    "t": 1795635134.9990118
-   },
-   {
-    "mint": "6Umpv69D61Bf7k51emr5nJrSQoGiQmZE7aWHjTd4pump",
-    "spaet": true,
-    "t": 1795635207.025228
-   },
-   {
-    "mint": "ALLherSTscpAErYo5Jja3ysVocaa2oeZkUvgmvhZpump",
-    "spaet": true,
-    "t": 1795635305.9978795
-   },
-   {
-    "mint": "23x2RoMSTUwUhf4RLXVrpSix69e9srKyYQmnv4BWpump",
-    "spaet": true,
-    "t": 1795635358.2050276
-   },
    {
     "dauer": 180.1124029159546,
     "ersteller_verkauft": true,
@@ -437,6 +417,17 @@
     "spaet": false,
     "symbol": "Pnut",
     "t": 1795638526.4038687
+   },
+   {
+    "dauer": 73.25707483291626,
+    "ersteller_verkauft": true,
+    "kaeufer": 222,
+    "mint": "3DwaaYhRVszExb28f7GFfDXQyff4bmx8EjghYjcVpump",
+    "name": "Buy and Hold",
+    "sol": 57.98264992800003,
+    "spaet": false,
+    "symbol": "BAH",
+    "t": 1795638947.4545379
    }
   ],
   "uebersicht": 1795635947.4659443
