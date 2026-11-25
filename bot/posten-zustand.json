@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 114,
+ "laeufe": 115,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -156,59 +156,6 @@
    1795641804.2792244
   ],
   "stunde": [
-   {
-    "mint": "2NJGXauC3wxEGzjRHHdMY9ojB5M21fgtk6isY9Nqpump",
-    "spaet": true,
-    "t": 1795638237.7405114
-   },
-   {
-    "dauer": 0.021881580352783203,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "AGyQW6inE99G3Js63ooQWzAeEeBRu8718zjiSKPBpump",
-    "name": "Pompom Bao",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "POMBAO",
-    "t": 1795638240.1674128
-   },
-   {
-    "dauer": 0.003690958023071289,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "Hudu27ENXuje9FLiPiBFm6ZavgueyXgerQbX8K5Qpump",
-    "name": "Muffin",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Muffin",
-    "t": 1795638243.6872578
-   },
-   {
-    "mint": "9KxVah9iuWXyM1PyGqpCrhDiLx71HCgT58rJbY6ycsP2",
-    "spaet": true,
-    "t": 1795638301.2856164
-   },
-   {
-    "mint": "HzXzDp3rpXWZLqisHtFV31fpCntdQvYjfK2fructpump",
-    "spaet": true,
-    "t": 1795638367.057494
-   },
-   {
-    "mint": "3ma1XVuNwj8SphBxg1j8XoHZPbRCqF45fqw2Rtbqpump",
-    "spaet": true,
-    "t": 1795638400.6442626
-   },
-   {
-    "dauer": 1680.408903837204,
-    "ersteller_verkauft": false,
-    "kaeufer": 151,
-    "mint": "HWcpXXAYHs32Nb5HhuUEfkyHr9A17FnNzoxqGJ2zpump",
-    "name": "Jensen Is Back",
-    "sol": 84.1061072289999,
-    "spaet": false,
-    "symbol": "JENSEN",
-    "t": 1795638418.6508036
-   },
    {
     "dauer": 565.0985593795776,
     "ersteller_verkauft": true,
@@ -426,6 +373,22 @@
     "spaet": false,
     "symbol": "fuckfort",
     "t": 1795641772.4207766
+   },
+   {
+    "dauer": 110.56667876243591,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "34XMthfq38Pu66WfmvWNLPghqwkLXz2c9y8KgYmYpump",
+    "name": "Dats my Cat!",
+    "sol": 0.19714019999999993,
+    "spaet": false,
+    "symbol": "UGLYCAT",
+    "t": 1795642022.9122677
+   },
+   {
+    "mint": "8vSuXCFgQFSmTx4okY687iMyZYSSSmaytnr4WSdFpump",
+    "spaet": true,
+    "t": 1795642031.200211
    }
   ],
   "uebersicht": 1795639587.4552824
