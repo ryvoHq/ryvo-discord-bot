@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 138,
+ "laeufe": 139,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -166,17 +166,6 @@
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "dauer": 154.68248414993286,
-    "ersteller_verkauft": true,
-    "kaeufer": 127,
-    "mint": "FUycpeu1eU1XSZKs2YMfiCEJsLK4WD9hnkw7JStopump",
-    "name": "if",
-    "sol": 71.66451240799994,
-    "spaet": false,
-    "symbol": "if",
-    "t": 1795645168.110223
-   },
    {
     "dauer": 78.03389501571655,
     "ersteller_verkauft": true,
@@ -314,6 +303,33 @@
     "spaet": false,
     "symbol": "SOL",
     "t": 1795648191.0543473
+   },
+   {
+    "dauer": 0.0007216930389404297,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "2ndz2hhsxDFgU1sQHi8Qjro7KRrTPgen1NJdUtNDpump",
+    "name": "All Meme Days",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "AMD",
+    "t": 1795648656.3167732
+   },
+   {
+    "dauer": 0.08422970771789551,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump",
+    "name": "Universal High Income",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "UHI",
+    "t": 1795648738.062079
+   },
+   {
+    "mint": "EN9T3cXoj38hrQ7RLYEVz4VadnkP9Tw8xZg9WhRnpump",
+    "spaet": true,
+    "t": 1795648738.7939932
    }
   ],
   "uebersicht": 1795647314.6004097
