@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 109,
+ "laeufe": 110,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -381,6 +381,33 @@
     "mint": "6CXTCNaM4f3QAgs9D2Sojo7CBvRyrMUn1GNdQ9capump",
     "spaet": true,
     "t": 1795639990.7576125
+   },
+   {
+    "mint": "DMhmzwzNo12xkUh5mwRMRdYVDDgMEedXbfTCr9vfus5m",
+    "spaet": true,
+    "t": 1795640373.1184106
+   },
+   {
+    "dauer": 75.97524213790894,
+    "ersteller_verkauft": false,
+    "kaeufer": 37,
+    "mint": "FrCWZW1SSAbmNGH98UBwjQyEBKFpvBR5cq5eQLLzpump",
+    "name": "nasty pussy club",
+    "sol": 10.999417700000006,
+    "spaet": false,
+    "symbol": "NPC",
+    "t": 1795640514.0968766
+   },
+   {
+    "dauer": 111.02498841285706,
+    "ersteller_verkauft": true,
+    "kaeufer": 174,
+    "mint": "AwBkUdMcoa4uHXeM93vSwBwt3XKCkG1gQvCGwcUEpump",
+    "name": "inulink",
+    "sol": 83.17414538799996,
+    "spaet": false,
+    "symbol": "inulink",
+    "t": 1795640516.5108914
    }
   ],
   "uebersicht": 1795639587.4552824
