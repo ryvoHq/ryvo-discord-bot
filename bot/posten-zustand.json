@@ -105,7 +105,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 76,
+ "laeufe": 77,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -254,6 +254,22 @@
     "spaet": false,
     "symbol": "Snowball",
     "t": 1795630932.8900797
+   },
+   {
+    "dauer": 136.3539867401123,
+    "ersteller_verkauft": false,
+    "kaeufer": 124,
+    "mint": "DiuBnUUwgJxQAju6m5ostHWs8ArHR2Ejp2j1PoVepump",
+    "name": "Anthropic Coin",
+    "sol": 84.645729031,
+    "spaet": false,
+    "symbol": "ANT",
+    "t": 1795631151.3405097
+   },
+   {
+    "mint": "g7Stw2wWMTTDa4aGpuwBTDkbyL77Uc8a2iUK7q7pump",
+    "spaet": true,
+    "t": 1795631153.3041463
    }
   ],
   "uebersicht": 1795628631.7736564
@@ -263,7 +279,7 @@
   "MOODENG": 1795620997.2946393,
   "xyz:NVDA": 1795628633.7291481,
   "xyz:SILVER": 1795619796.6290345,
-  "xyz:TSLA": 1795617060.222036,
+  "xyz:TSLA": 1795631409.8383093,
   "xyz:XYZ100": 1795628633.7291481
  },
  "signale": {},
