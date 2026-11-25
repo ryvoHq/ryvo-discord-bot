@@ -158,7 +158,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 140,
+ "laeufe": 141,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -166,22 +166,6 @@
    1795647915.4043698
   ],
   "stunde": [
-   {
-    "dauer": 78.03389501571655,
-    "ersteller_verkauft": true,
-    "kaeufer": 351,
-    "mint": "BjxcyaVMkVgzPYXPufJ8jeZj3ACcVKcNiPU2cz3Mpump",
-    "name": "lean inu",
-    "sol": 83.51308046199992,
-    "spaet": false,
-    "symbol": "LI",
-    "t": 1795645400.9654973
-   },
-   {
-    "mint": "Ac8qKuiuYAdFoLYqgJKVR7YF3VhkpNmyLHkgVNzxpump",
-    "spaet": true,
-    "t": 1795645520.2291074
-   },
    {
     "dauer": 0.0013742446899414062,
     "ersteller_verkauft": false,
@@ -330,6 +314,21 @@
     "mint": "EN9T3cXoj38hrQ7RLYEVz4VadnkP9Tw8xZg9WhRnpump",
     "spaet": true,
     "t": 1795648738.7939932
+   },
+   {
+    "mint": "FJQGvPJsXCVistQGCgPjj5eCY3iAv7ThG4jyapRspump",
+    "spaet": true,
+    "t": 1795648900.0840433
+   },
+   {
+    "mint": "F6aSYFB2Ab3PAcnM9B5MGhqQTp4jcXambRaoE6kupump",
+    "spaet": true,
+    "t": 1795648918.745475
+   },
+   {
+    "mint": "UBxg87ufviXoHUwjmhAs9yryh6VB4i1RZZAjMaZpump",
+    "spaet": true,
+    "t": 1795649028.6379316
    }
   ],
   "uebersicht": 1795647314.6004097
