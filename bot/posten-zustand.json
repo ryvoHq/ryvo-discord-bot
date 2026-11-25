@@ -160,28 +160,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
  "lab_tageslog": [],
- "laeufe": 146,
+ "laeufe": 147,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795647915.4043698
+   1795647915.4043698,
+   1795650995.5606854
   ],
   "stunde": [
-   {
-    "mint": "FE7zN2fJJppwrU71mQfuXmjgKmcGfVuCpMYrhwAhpump",
-    "spaet": true,
-    "t": 1795647109.0329094
-   },
-   {
-    "mint": "2W459tbQE25AWpJkZ9qNgLJxdhQWqMc8QMDzYtXPpump",
-    "spaet": true,
-    "t": 1795647160.631086
-   },
-   {
-    "mint": "G5ffokBzGxoMjnozhVSpHt3K47NkpfEANt2yfnRKpump",
-    "spaet": true,
-    "t": 1795647372.6701825
-   },
    {
     "dauer": 1108.7236108779907,
     "ersteller_verkauft": false,
@@ -429,9 +415,31 @@
     "mint": "4xGG2v3KZVgGF6QYWAkAVQz7wgVGdKFy6oWPGgrZpump",
     "spaet": true,
     "t": 1795650671.1612873
+   },
+   {
+    "dauer": 223.10395407676697,
+    "ersteller_verkauft": true,
+    "kaeufer": 564,
+    "mint": "5uXnsaxdcrJZRLpAJd91sdgHPyu12u4SwHSME83Dpump",
+    "name": "Rocket Inu",
+    "sol": 84.52420404500006,
+    "spaet": false,
+    "symbol": "RI",
+    "t": 1795650807.8971262
+   },
+   {
+    "dauer": 490.35962557792664,
+    "ersteller_verkauft": true,
+    "kaeufer": 46,
+    "mint": "EK4Nx3MdrCdh8tg9GQj3D1DiNiDXGvp3EX1ki2Htpump",
+    "name": "The Chosen",
+    "sol": -0.3396142969999996,
+    "spaet": false,
+    "symbol": "ComeSee",
+    "t": 1795650868.2947001
    }
   ],
-  "uebersicht": 1795647314.6004097
+  "uebersicht": 1795650995.5606854
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
