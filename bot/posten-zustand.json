@@ -158,40 +158,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 134,
+ "laeufe": 135,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795643971.0761774,
    1795645771.2777596
   ],
   "stunde": [
-   {
-    "mint": "B4sokvtVLtXaiDCT21DNkrBX3mFX8Sc86RdbF1bppump",
-    "spaet": true,
-    "t": 1795643728.0485902
-   },
-   {
-    "dauer": 692.0294284820557,
-    "ersteller_verkauft": false,
-    "kaeufer": 366,
-    "mint": "FW1jbvnrFYfbxbTnHEF82PiYPMXhQ6fUuyxzZjzypump",
-    "name": "LoreChan",
-    "sol": 60.201497196999945,
-    "spaet": false,
-    "symbol": "LoreChan",
-    "t": 1795643740.6488566
-   },
-   {
-    "mint": "HCYwVX9y61YFZuRwMDxvr5MNvA64QTjUfLZstoU8pump",
-    "spaet": true,
-    "t": 1795643849.4081602
-   },
-   {
-    "mint": "H15WCZMYPsAxsPykhsU6dA2kcQhBFmkLwpL2cQdwpump",
-    "spaet": true,
-    "t": 1795643979.3250816
-   },
    {
     "dauer": 757.5740232467651,
     "ersteller_verkauft": true,
@@ -395,6 +368,11 @@
     "mint": "2W459tbQE25AWpJkZ9qNgLJxdhQWqMc8QMDzYtXPpump",
     "spaet": true,
     "t": 1795647160.631086
+   },
+   {
+    "mint": "G5ffokBzGxoMjnozhVSpHt3K47NkpfEANt2yfnRKpump",
+    "spaet": true,
+    "t": 1795647372.6701825
    }
   ],
   "uebersicht": 1795647314.6004097
