@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 122,
+ "laeufe": 123,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -158,44 +158,6 @@
    1795643971.0761774
   ],
   "stunde": [
-   {
-    "mint": "DMhmzwzNo12xkUh5mwRMRdYVDDgMEedXbfTCr9vfus5m",
-    "spaet": true,
-    "t": 1795640373.1184106
-   },
-   {
-    "dauer": 75.97524213790894,
-    "ersteller_verkauft": false,
-    "kaeufer": 37,
-    "mint": "FrCWZW1SSAbmNGH98UBwjQyEBKFpvBR5cq5eQLLzpump",
-    "name": "nasty pussy club",
-    "sol": 10.999417700000006,
-    "spaet": false,
-    "symbol": "NPC",
-    "t": 1795640514.0968766
-   },
-   {
-    "dauer": 111.02498841285706,
-    "ersteller_verkauft": true,
-    "kaeufer": 174,
-    "mint": "AwBkUdMcoa4uHXeM93vSwBwt3XKCkG1gQvCGwcUEpump",
-    "name": "inulink",
-    "sol": 83.17414538799996,
-    "spaet": false,
-    "symbol": "inulink",
-    "t": 1795640516.5108914
-   },
-   {
-    "dauer": 0.0006361007690429688,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "EmU2QZ3RKBxaydKn8ix9rrSrWbzPNVifVTa4NLH4pump",
-    "name": "SpaceX Squirrel",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Squirrel",
-    "t": 1795640652.7844918
-   },
    {
     "dauer": 158.80129957199097,
     "ersteller_verkauft": false,
@@ -434,6 +396,22 @@
     "mint": "HCYwVX9y61YFZuRwMDxvr5MNvA64QTjUfLZstoU8pump",
     "spaet": true,
     "t": 1795643849.4081602
+   },
+   {
+    "mint": "H15WCZMYPsAxsPykhsU6dA2kcQhBFmkLwpL2cQdwpump",
+    "spaet": true,
+    "t": 1795643979.3250816
+   },
+   {
+    "dauer": 757.5740232467651,
+    "ersteller_verkauft": true,
+    "kaeufer": 194,
+    "mint": "J1b5HnRzmXsYK5akPTFtBR7B4E74JG8eyULodd7ypump",
+    "name": "Grinch",
+    "sol": 91.05762132499991,
+    "spaet": false,
+    "symbol": "Grinch",
+    "t": 1795644218.976141
    }
   ],
   "uebersicht": 1795643671.281514
