@@ -105,62 +105,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 79,
+ "laeufe": 80,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795631107.679572
   ],
   "stunde": [
-   {
-    "dauer": 3.59956693649292,
-    "ersteller_verkauft": false,
-    "kaeufer": 33,
-    "mint": "HkjQAQjNegsyNct8nbLqcYdGT7SEZLhbqmBiM5eUpump",
-    "name": "Buy The Egg",
-    "sol": 85.00535910799998,
-    "spaet": false,
-    "symbol": "EGG",
-    "t": 1795628452.202486
-   },
-   {
-    "dauer": 837.8651397228241,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "5sKYQJijDiZjJvCopE4Ln9X1Qk964gZcULSCFJvnpump",
-    "name": "Solana2",
-    "sol": 83.75024470099999,
-    "spaet": false,
-    "symbol": "SOL2",
-    "t": 1795628494.3507652
-   },
-   {
-    "dauer": 837.8638119697571,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "Cpfo2hd919ed4ZMxGadahYo5DaaxhADqdMS1LwJ4pump",
-    "name": "Toly",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TOLY",
-    "t": 1795628494.3507652
-   },
-   {
-    "dauer": 0.0012924671173095703,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "WcFC2r7TBTkuqEFBfLjAVGnzfkgnxTNCJ2hjXb8pump",
-    "name": "PORTAL DOG",
-    "sol": 85.00535907500002,
-    "spaet": false,
-    "symbol": "PORTAL",
-    "t": 1795628637.2942426
-   },
-   {
-    "mint": "GmfXa5dujmqPEtM4bdaFUnxzXk6gUjD3tTBsVpjipump",
-    "spaet": true,
-    "t": 1795628695.2002406
-   },
    {
     "dauer": 87.8448965549469,
     "ersteller_verkauft": false,
@@ -291,15 +242,41 @@
     "mint": "3oGd3qtgYHN1zqVGWhRSC7Gvqd1z6WbJpujQaB21pump",
     "spaet": true,
     "t": 1795631808.3886883
+   },
+   {
+    "mint": "EoABGusJ4s9GP4ogugroHT3qaYGTov7UPevZaYSTpump",
+    "spaet": true,
+    "t": 1795632082.6085002
+   },
+   {
+    "dauer": 266.3022162914276,
+    "ersteller_verkauft": false,
+    "kaeufer": 51,
+    "mint": "Ef8c4G1f7SgHAVGG3UZyVeHuyVthZ5eT8yGQPbzpump",
+    "name": "ABU HOSSIEN",
+    "sol": 4.468900657000006,
+    "spaet": false,
+    "symbol": "$ABU",
+    "t": 1795632119.3952951
+   },
+   {
+    "mint": "8Uk9f5WfJndkC9VkFRLDwEpHgD2KD8BcFbqh5zuBpump",
+    "spaet": true,
+    "t": 1795632162.8796318
+   },
+   {
+    "mint": "93UA32Baowc1gbAoM35CG9Lj5Cw2Pz6T3VfhK63Kpump",
+    "spaet": true,
+    "t": 1795632167.0553925
    }
   ],
-  "uebersicht": 1795628631.7736564
+  "uebersicht": 1795632307.3934839
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
   "MOODENG": 1795620997.2946393,
   "xyz:NVDA": 1795628633.7291481,
-  "xyz:SILVER": 1795619796.6290345,
+  "xyz:SILVER": 1795632310.2234206,
   "xyz:TSLA": 1795631409.8383093,
   "xyz:XYZ100": 1795628633.7291481
  },
