@@ -105,11 +105,28 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 63,
+ "laeufe": 64,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
-  "stunde": [],
+  "stunde": [
+   {
+    "dauer": 0.002864360809326172,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "BDkYXdHCZZQTNn6LqFDS2WrKhD2rZmuQioqTW1wupump",
+    "name": "Christmass Inu",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "CI",
+    "t": 1795627499.0933967
+   },
+   {
+    "mint": "rM1LajNWfk2YnwdE8j3ADokL7htZ8CzikeJTHo4pump",
+    "spaet": true,
+    "t": 1795627507.399877
+   }
+  ],
   "uebersicht": 0
  },
  "momentum_sperre": {
