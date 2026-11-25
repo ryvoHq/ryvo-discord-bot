@@ -158,31 +158,16 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 127,
+ "laeufe": 128,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795642404.7453332,
    1795643671.281514,
-   1795643971.0761774
+   1795643971.0761774,
+   1795645771.2777596
   ],
   "stunde": [
-   {
-    "dauer": 110.56667876243591,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "34XMthfq38Pu66WfmvWNLPghqwkLXz2c9y8KgYmYpump",
-    "name": "Dats my Cat!",
-    "sol": 0.19714019999999993,
-    "spaet": false,
-    "symbol": "UGLYCAT",
-    "t": 1795642022.9122677
-   },
-   {
-    "mint": "8vSuXCFgQFSmTx4okY687iMyZYSSSmaytnr4WSdFpump",
-    "spaet": true,
-    "t": 1795642031.200211
-   },
    {
     "mint": "6GKQJ5aJNbCWASAiFsxoSNFujMWVHnkBiMpK9FiHFUND",
     "spaet": true,
@@ -408,6 +393,49 @@
     "spaet": false,
     "symbol": "LI",
     "t": 1795645400.9654973
+   },
+   {
+    "mint": "Ac8qKuiuYAdFoLYqgJKVR7YF3VhkpNmyLHkgVNzxpump",
+    "spaet": true,
+    "t": 1795645520.2291074
+   },
+   {
+    "dauer": 0.0013742446899414062,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
+    "name": "Grodia",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Grodia",
+    "t": 1795645621.5130782
+   },
+   {
+    "mint": "wpL5xhb45JVR6g7nLJyWSW99NBcvBHnazHQSQtHpump",
+    "spaet": true,
+    "t": 1795645696.376985
+   },
+   {
+    "dauer": 703.4959285259247,
+    "ersteller_verkauft": false,
+    "kaeufer": 210,
+    "mint": "3jAB5ksB13Kgm2Q39NU6d2USUxBy2f9LaTvyay6Gpump",
+    "name": "clancat",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ccat",
+    "t": 1795645739.509061
+   },
+   {
+    "dauer": 240.99900126457214,
+    "ersteller_verkauft": false,
+    "kaeufer": 548,
+    "mint": "9w6QTJczaw1aP5GLry3wRJoFjkzs6DRSB56VwVCdpump",
+    "name": "Butternald",
+    "sol": 51.7195021619999,
+    "spaet": false,
+    "symbol": "Butternald",
+    "t": 1795645746.9217603
    }
   ],
   "uebersicht": 1795643671.281514
