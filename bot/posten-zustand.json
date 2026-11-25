@@ -148,21 +148,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 102,
+ "laeufe": 103,
  "lagebrief_stand": 1795577400,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795638687.845879
+  ],
   "stunde": [
-   {
-    "mint": "4gpwBgviegCiNp1g7MfD2RNyRCPntdqJfjxYYVoGpump",
-    "spaet": true,
-    "t": 1795634844.5451012
-   },
-   {
-    "mint": "CDhqyx75wVuCCzFsrZByAze233tg2VYHY8Yrvtqdpump",
-    "spaet": true,
-    "t": 1795634977.4203935
-   },
    {
     "mint": "3XxrqYcY75vtrDk9mpsXGvHd81HMbWuS7KyJj9aypump",
     "spaet": true,
@@ -418,6 +410,33 @@
     "mint": "HzXzDp3rpXWZLqisHtFV31fpCntdQvYjfK2fructpump",
     "spaet": true,
     "t": 1795638367.057494
+   },
+   {
+    "mint": "3ma1XVuNwj8SphBxg1j8XoHZPbRCqF45fqw2Rtbqpump",
+    "spaet": true,
+    "t": 1795638400.6442626
+   },
+   {
+    "dauer": 1680.408903837204,
+    "ersteller_verkauft": false,
+    "kaeufer": 151,
+    "mint": "HWcpXXAYHs32Nb5HhuUEfkyHr9A17FnNzoxqGJ2zpump",
+    "name": "Jensen Is Back",
+    "sol": 84.1061072289999,
+    "spaet": false,
+    "symbol": "JENSEN",
+    "t": 1795638418.6508036
+   },
+   {
+    "dauer": 565.0985593795776,
+    "ersteller_verkauft": true,
+    "kaeufer": 513,
+    "mint": "CKWk8T9stykpugEPkgQMvdfYaH76WFwjL4mZWasfpump",
+    "name": "Peanut the Squirrel",
+    "sol": 72.83911657499945,
+    "spaet": false,
+    "symbol": "Pnut",
+    "t": 1795638526.4038687
    }
   ],
   "uebersicht": 1795635947.4659443
