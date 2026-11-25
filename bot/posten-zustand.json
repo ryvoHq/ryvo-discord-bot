@@ -105,18 +105,13 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 82,
+ "laeufe": 83,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795631107.679572
   ],
   "stunde": [
-   {
-    "mint": "2NLT84LW5jEgRLcfHC9FvkkQwKK4ckNZw7gXXmoTpump",
-    "spaet": true,
-    "t": 1795629354.8667428
-   },
    {
     "mint": "3Qmzsf7zh15n88JaPAQpyQuz38TmhcdsMEnCuG4Xpump",
     "spaet": true,
@@ -252,6 +247,16 @@
     "mint": "5RzdwxJGUDH8NzoZCS9toz7muL6sNvKkM9XkjbU1pump",
     "spaet": true,
     "t": 1795632804.6891108
+   },
+   {
+    "mint": "36Pehf4d3idLj71xtvBWdeacdXbgyhNomvPsCfJcpump",
+    "spaet": true,
+    "t": 1795633018.8421612
+   },
+   {
+    "mint": "GdT415G2bF9gemWNeYYMua6gy8RwyGcfGSsP7dxmpump",
+    "spaet": true,
+    "t": 1795633191.3408139
    }
   ],
   "uebersicht": 1795632307.3934839
@@ -264,7 +269,36 @@
   "xyz:TSLA": 1795631409.8383093,
   "xyz:XYZ100": 1795628633.7291481
  },
- "signale": {},
+ "signale": {
+  "fvg:BTC": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  },
+  "fvg:ETH": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  },
+  "fvg:SOL": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  },
+  "fvg:xyz:GOLD": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  },
+  "fvg:xyz:SP500": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  },
+  "fvg:xyz:XYZ100": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  },
+  "smt:BTC:ETH": {
+   "t": 1795629600000,
+   "zeit": 1795633206.42857
+  }
+ },
  "status_nachricht": "1575110333385801839",
  "swing_tag": "2026-11-25",
  "terminal_hash": "72856675800e8502de88b236d805b27f772946d10f8dadee5d8b4d4ee94fdc2e",
