@@ -148,7 +148,7 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 118,
+ "laeufe": 119,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -156,22 +156,6 @@
    1795642404.7453332
   ],
   "stunde": [
-   {
-    "dauer": 173.0685498714447,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "9APX2PxqovL95ERSeegtEAnWtDKBFkj7PJYZ1khGpump",
-    "name": "grokbot",
-    "sol": 0.21204347200000015,
-    "spaet": false,
-    "symbol": "sol",
-    "t": 1795639284.174183
-   },
-   {
-    "mint": "A7dthcuM6yKfsbYiR3WPYwKgZSfsn77nisM9Twqrpump",
-    "spaet": true,
-    "t": 1795639452.0055928
-   },
    {
     "mint": "2Dya91TxmxdQp2GCsZeQ4AM4CyDW9Uxwq1UbSbKRpump",
     "spaet": true,
@@ -404,6 +388,22 @@
     "mint": "PG2mxjtqAhXqCT7u5vY6mMF7bUe96re2NXWVuBipump",
     "spaet": true,
     "t": 1795642427.8470514
+   },
+   {
+    "dauer": 65.02022528648376,
+    "ersteller_verkauft": true,
+    "kaeufer": 361,
+    "mint": "2CNZwC6a4nngTiz7PySgujhhk6fc4jd88HiKFAFZpump",
+    "name": "Flying Space Datacenter",
+    "sol": 84.578914778,
+    "spaet": false,
+    "symbol": "FSD",
+    "t": 1795642846.7978978
+   },
+   {
+    "mint": "8g7BgshVGoSQzrXRkX83K4WBYr22FhPUttETF6RJpump",
+    "spaet": true,
+    "t": 1795642863.7440546
    }
   ],
   "uebersicht": 1795639587.4552824
