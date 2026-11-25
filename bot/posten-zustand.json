@@ -148,24 +148,11 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
- "laeufe": 88,
+ "laeufe": 89,
  "lagebrief_stand": 1795577400,
  "meme": {
-  "sofort": [
-   1795631107.679572
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 258.84118366241455,
-    "ersteller_verkauft": true,
-    "kaeufer": 350,
-    "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
-    "name": "Snowball",
-    "sol": 71.2012691719999,
-    "spaet": false,
-    "symbol": "Snowball",
-    "t": 1795630932.8900797
-   },
    {
     "dauer": 136.3539867401123,
     "ersteller_verkauft": false,
@@ -301,6 +288,37 @@
     "mint": "GnZyVkdyVdLeNGYzLk2sdqir3v55L8tU6s3taTGkpump",
     "spaet": true,
     "t": 1795634107.7948127
+   },
+   {
+    "mint": "HT1kSiP2rNn1vwhUHteyPhDw6xXjjAfSCv8VnWmgpump",
+    "spaet": true,
+    "t": 1795634524.3003576
+   },
+   {
+    "mint": "9Xdr1trBydrVprQvvfe7ueCJTuTVEee1XWrufSQdpump",
+    "spaet": true,
+    "t": 1795634546.7121596
+   },
+   {
+    "mint": "47DCqnzs1scjVEVMe25MMJkXr63gWyW3r1qrrWWWpump",
+    "spaet": true,
+    "t": 1795634569.29728
+   },
+   {
+    "mint": "88TavQPfhH5KbgT5EnJR3pqJeSa6v98r4MB4AUkypump",
+    "spaet": true,
+    "t": 1795634578.230037
+   },
+   {
+    "dauer": 243.8087191581726,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "BPY3MJWE3zqGKx8SHJSQBzhgtWGJZwRoE8Kgx3FMpump",
+    "name": "DINOBOSS",
+    "sol": 0.3709446840000007,
+    "spaet": false,
+    "symbol": "DINO",
+    "t": 1795634724.9067585
    }
   ],
   "uebersicht": 1795632307.3934839
