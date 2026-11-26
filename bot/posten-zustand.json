@@ -210,34 +210,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 375,
+ "laeufe": 376,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795713538.256644
   ],
   "stunde": [
-   {
-    "dauer": 210.69692182540894,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "DXX8fTdpBa1hwifhMp5DnhPDZZm6nueZ498TN7GEpump",
-    "name": "dogbaton",
-    "sol": 0.8287964949999999,
-    "spaet": false,
-    "symbol": "dogbaton",
-    "t": 1795711884.157043
-   },
-   {
-    "mint": "GhfrmJTnbSqFxT1WbRmjvLvfWX3tEDx8ZhayHQhWpump",
-    "spaet": true,
-    "t": 1795711914.8218513
-   },
-   {
-    "mint": "7JHFtT5LLzX5gesVFj2uPZsxAyeteALrwshjtx1Npump",
-    "spaet": true,
-    "t": 1795711959.9116476
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
