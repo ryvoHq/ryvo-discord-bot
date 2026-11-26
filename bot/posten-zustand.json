@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 362,
+ "laeufe": 363,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -219,22 +219,6 @@
    1795710792.3029368
   ],
   "stunde": [
-   {
-    "mint": "7EfZgcA6K7qibDtbCmTqHTUkkWpuSAJLjedRJduVpump",
-    "spaet": true,
-    "t": 1795708222.124635
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "CZt7wX37NiJQnDvwdd6JsrDLeX1XDDe7JBZEX296pump",
-    "name": "Thanksgiving Coin",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "TURKEY",
-    "t": 1795708354.5165374
-   },
    {
     "mint": "GZiuLMvUMnz4X2RCmUgV6iTSnApoLh3t6cRJzzt9pump",
     "spaet": true,
@@ -476,6 +460,38 @@
     "spaet": false,
     "symbol": "Investor",
     "t": 1795711682.8470263
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "AaY6XtQZYYaxQ4fV8R8acConnMsgjg9zrZs341HUpump",
+    "name": "Kuro Shiba Inu",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "KURO",
+    "t": 1795711739.0966644
+   },
+   {
+    "dauer": 210.69692182540894,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "DXX8fTdpBa1hwifhMp5DnhPDZZm6nueZ498TN7GEpump",
+    "name": "dogbaton",
+    "sol": 0.8287964949999999,
+    "spaet": false,
+    "symbol": "dogbaton",
+    "t": 1795711884.157043
+   },
+   {
+    "mint": "GhfrmJTnbSqFxT1WbRmjvLvfWX3tEDx8ZhayHQhWpump",
+    "spaet": true,
+    "t": 1795711914.8218513
+   },
+   {
+    "mint": "7JHFtT5LLzX5gesVFj2uPZsxAyeteALrwshjtx1Npump",
+    "spaet": true,
+    "t": 1795711959.9116476
    }
   ],
   "uebersicht": 1795709291.9324813
