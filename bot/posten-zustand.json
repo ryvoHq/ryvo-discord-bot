@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 358,
+ "laeufe": 359,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -220,27 +220,6 @@
    1795710792.3029368
   ],
   "stunde": [
-   {
-    "dauer": 351.2529065608978,
-    "ersteller_verkauft": true,
-    "kaeufer": 15,
-    "mint": "BQvMi8JhVqMTcuyHYbEQfHm5m2sPV7ngsVYcFnTZpump",
-    "name": "Haaland Hair",
-    "sol": 0.006984321000000029,
-    "spaet": false,
-    "symbol": "HALH",
-    "t": 1795707240.1886876
-   },
-   {
-    "mint": "8EqPftrSDdcVvE9Xd69Yh8AKUQ4PyVKVsSmL2MyGpump",
-    "spaet": true,
-    "t": 1795707397.1301124
-   },
-   {
-    "mint": "2fYRFfcwwz4wJg7inYwDkpWVdxTGf93WT9SRekFfpump",
-    "spaet": true,
-    "t": 1795707432.17238
-   },
    {
     "mint": "E6gZFbJ8cmz7bD7djSc1mAJk23Akq69H1H4WJZaopump",
     "spaet": true,
