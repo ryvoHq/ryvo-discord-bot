@@ -160,31 +160,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-25",
  "lab_tageslog": [],
- "laeufe": 148,
+ "laeufe": 149,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795647915.4043698,
    1795650995.5606854,
    1795651295.709376
   ],
   "stunde": [
-   {
-    "dauer": 1108.7236108779907,
-    "ersteller_verkauft": false,
-    "kaeufer": 497,
-    "mint": "9MuzqHwm6T2v1rteCTcynQNZVJ1v4CeSxLwXE89Npump",
-    "name": "PUMP INU",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "PI",
-    "t": 1795647783.730234
-   },
-   {
-    "mint": "GeUnGPLFku8zn1dJUNZpj6VymUxt7A3t9DqRL5WJpump",
-    "spaet": true,
-    "t": 1795647980.2162595
-   },
    {
     "dauer": 44.62874245643616,
     "ersteller_verkauft": true,
@@ -449,6 +432,28 @@
     "spaet": false,
     "symbol": "bucket",
     "t": 1795651130.396447
+   },
+   {
+    "dauer": 31.97690224647522,
+    "ersteller_verkauft": true,
+    "kaeufer": 156,
+    "mint": "GWxRPk42vzpsf1Ys4gaam9thiGjaGRoV9DzZWjQ9pump",
+    "name": "VCAT",
+    "sol": 85.00535929699998,
+    "spaet": false,
+    "symbol": "VCAT",
+    "t": 1795651299.8457408
+   },
+   {
+    "dauer": 648.5086095333099,
+    "ersteller_verkauft": false,
+    "kaeufer": 135,
+    "mint": "45wGzHzs3egykGAgdAN4TfGmt7E8UfGTaRucjUYXpump",
+    "name": "nefelibata",
+    "sol": 81.05912501099999,
+    "spaet": false,
+    "symbol": "NEFELIBATA",
+    "t": 1795651430.442144
    }
   ],
   "uebersicht": 1795650995.5606854
