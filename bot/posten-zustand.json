@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 271,
+ "laeufe": 272,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,17 +190,6 @@
    1795686177.3374379
   ],
   "stunde": [
-   {
-    "dauer": 75.96244692802429,
-    "ersteller_verkauft": true,
-    "kaeufer": 16,
-    "mint": "FwAfrts22LkEzxVQ3488jmJwwG3VWG5FHrj1bAGpump",
-    "name": "FAT LUCIA",
-    "sol": 0.43330860600000054,
-    "spaet": false,
-    "symbol": "FLUC",
-    "t": 1795682590.1660197
-   },
    {
     "dauer": 309.9949860572815,
     "ersteller_verkauft": true,
