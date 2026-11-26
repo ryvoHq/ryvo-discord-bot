@@ -163,35 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 176,
+ "laeufe": 177,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 151.21189188957214,
-    "ersteller_verkauft": true,
-    "kaeufer": 23,
-    "mint": "2fjKYK9bCPW6PaWarKhdFy4kewmiPuUQ8F6VcJgzpump",
-    "name": "Soljack",
-    "sol": -0.38810181499999974,
-    "spaet": false,
-    "symbol": "$SLJK",
-    "t": 1795655442.7961726
-   },
-   {
-    "dauer": 0.017333507537841797,
-    "ersteller_verkauft": false,
-    "kaeufer": 4,
-    "mint": "4QE4FDuqArqkGxGM1zBLYHXnvr4k9TuYBuhcULukpump",
-    "name": "American Oil Dividend Trust",
-    "sol": 85.00535905999999,
-    "spaet": false,
-    "symbol": "AODT",
-    "t": 1795655601.0776978
-   },
    {
     "dauer": 132.40716218948364,
     "ersteller_verkauft": false,
@@ -282,6 +260,22 @@
     "mint": "8HEMEDhrTD3t7YMZ7w1GVSzRT2wShvM6JhpKZoSGpump",
     "spaet": true,
     "t": 1795656995.9890423
+   },
+   {
+    "dauer": 351.83584475517273,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "672adgXh3xEHBt2DgUAVBCbBsbcGzDm5Um58fNWBpump",
+    "name": "GTA 6 COIN",
+    "sol": -0.13517736300000022,
+    "spaet": false,
+    "symbol": "$GTA6",
+    "t": 1795659132.717792
+   },
+   {
+    "mint": "3XQeJEFVsB1C3pBEiUwVgRZ2TDG913Feg9nV1kK6pump",
+    "spaet": true,
+    "t": 1795659194.8003345
    }
   ],
   "uebersicht": 1795658964.334879
