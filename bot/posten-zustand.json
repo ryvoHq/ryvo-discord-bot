@@ -181,29 +181,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 263,
+ "laeufe": 264,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795683026.1122732
   ],
   "stunde": [
-   {
-    "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump",
-    "spaet": true,
-    "t": 1795680290.198005
-   },
-   {
-    "dauer": 51.47473764419556,
-    "ersteller_verkauft": false,
-    "kaeufer": 203,
-    "mint": "qfp3QWVASGEeiFhayeKdvnFCK7A2mePgxTC1G75pump",
-    "name": "DarkPool",
-    "sol": 85.00535953399994,
-    "spaet": false,
-    "symbol": "DARKPOOL",
-    "t": 1795680464.6764596
-   },
    {
     "dauer": 218.33240485191345,
     "ersteller_verkauft": false,
@@ -356,6 +340,17 @@
     "spaet": false,
     "symbol": "WIENER",
     "t": 1795683390.896797
+   },
+   {
+    "dauer": 168.41066670417786,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "67QukvqWpwb29zBxvJpwyRY7wQnCq8T9vaAcSRCBpump",
+    "name": "ELONMAS",
+    "sol": 0.2551835649999999,
+    "spaet": false,
+    "symbol": "ELON",
+    "t": 1795683953.3257298
    }
   ],
   "uebersicht": 1795681825.5290093
