@@ -160,7 +160,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 152,
+ "laeufe": 153,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -168,43 +168,6 @@
    1795651295.709376
   ],
   "stunde": [
-   {
-    "dauer": 0.0007216930389404297,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "2ndz2hhsxDFgU1sQHi8Qjro7KRrTPgen1NJdUtNDpump",
-    "name": "All Meme Days",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "AMD",
-    "t": 1795648656.3167732
-   },
-   {
-    "dauer": 0.08422970771789551,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump",
-    "name": "Universal High Income",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "UHI",
-    "t": 1795648738.062079
-   },
-   {
-    "mint": "EN9T3cXoj38hrQ7RLYEVz4VadnkP9Tw8xZg9WhRnpump",
-    "spaet": true,
-    "t": 1795648738.7939932
-   },
-   {
-    "mint": "FJQGvPJsXCVistQGCgPjj5eCY3iAv7ThG4jyapRspump",
-    "spaet": true,
-    "t": 1795648900.0840433
-   },
-   {
-    "mint": "F6aSYFB2Ab3PAcnM9B5MGhqQTp4jcXambRaoE6kupump",
-    "spaet": true,
-    "t": 1795648918.745475
-   },
    {
     "mint": "UBxg87ufviXoHUwjmhAs9yryh6VB4i1RZZAjMaZpump",
     "spaet": true,
@@ -491,6 +454,17 @@
     "mint": "8HRMDdiScGHR2pNQdLMYhjBYgwff81Y8hiCNgqD3pump",
     "spaet": true,
     "t": 1795652198.1359966
+   },
+   {
+    "dauer": 0.008048295974731445,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "73R7L2jLfnweJTXxTiccHMZV6mECaVELPUy3PkHopump",
+    "name": "Pump Dog",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "PUMPDOG",
+    "t": 1795652523.9334059
    }
   ],
   "uebersicht": 1795650995.5606854
