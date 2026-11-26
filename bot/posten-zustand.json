@@ -217,23 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 430,
+ "laeufe": 431,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "mint": "HpKjCnvJbgZ2ymjDvae5ZZ29t21FqECWN8ohWCFcpump",
-    "spaet": true,
-    "t": 1795727151.050499
-   },
-   {
-    "mint": "Fqj3XrUuvj463PnPmL1uDjPCqSbTYMbgsuSphxiLpump",
-    "spaet": true,
-    "t": 1795727251.3359172
-   },
    {
     "dauer": 587.413830280304,
     "ersteller_verkauft": false,
@@ -529,6 +519,22 @@
     "spaet": false,
     "symbol": "Vetocat",
     "t": 1795730510.4759932
+   },
+   {
+    "mint": "D1ZWRNVQYAwrnoUqvZfAFh6EtH6QTujonhT3u2MP5wNs",
+    "spaet": true,
+    "t": 1795730705.7325563
+   },
+   {
+    "dauer": 59.72345685958862,
+    "ersteller_verkauft": true,
+    "kaeufer": 212,
+    "mint": "B4vg9PaGiEamivDhBW85N8vPmGr9JJw5yyzjaaQ4pump",
+    "name": "SpaceX Kids",
+    "sol": 86.96486444899999,
+    "spaet": false,
+    "symbol": "babyX",
+    "t": 1795730783.146972
    }
   ],
   "uebersicht": 1795727879.9348903
