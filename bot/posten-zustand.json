@@ -221,33 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 438,
+ "laeufe": 439,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 140.4187183380127,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "75kEr3WxRJQaCFsLSszKJYqjpfPgfP43j9PkxaVppump",
-    "name": "pulsar",
-    "sol": 0.46854092400000014,
-    "spaet": false,
-    "symbol": "pulsar",
-    "t": 1795729251.5725381
-   },
-   {
-    "dauer": 22.375046968460083,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "FXvRR653yP3qQwzSXqrPsesfQkb9BPezcWi2ktm8pump",
-    "name": "COGE CAT",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "COGE",
-    "t": 1795729303.431867
-   },
    {
     "dauer": 117.16159987449646,
     "ersteller_verkauft": false,
@@ -439,6 +417,28 @@
     "spaet": false,
     "symbol": "VIDA",
     "t": 1795732574.308341
+   },
+   {
+    "dauer": 208.32261991500854,
+    "ersteller_verkauft": false,
+    "kaeufer": 15,
+    "mint": "By7dpJJM4qkRkqtDYYdDYtwfvYhUR5iQTKhT4bGmpump",
+    "name": "BetOnBlack",
+    "sol": 2.764517894000001,
+    "spaet": false,
+    "symbol": "BetOnBlak",
+    "t": 1795733062.015311
+   },
+   {
+    "dauer": 153.73369216918945,
+    "ersteller_verkauft": true,
+    "kaeufer": 406,
+    "mint": "6uQ5UpNzo65w42aY1ChA4iX8HDGphaJHP7fouUQDpump",
+    "name": "Alien Inu",
+    "sol": 82.65963640900006,
+    "spaet": false,
+    "symbol": "AI",
+    "t": 1795733067.3361137
    }
   ],
   "uebersicht": 1795731519.2123363
