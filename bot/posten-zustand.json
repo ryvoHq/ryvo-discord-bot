@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 214,
+ "laeufe": 215,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -180,17 +180,6 @@
    1795669616.596927
   ],
   "stunde": [
-   {
-    "dauer": 264.1575653553009,
-    "ersteller_verkauft": false,
-    "kaeufer": 145,
-    "mint": "4pBegkSFhFQGjoTpT7tMbrPuAck9KLSHcmcqyFVxpump",
-    "name": "Basket",
-    "sol": 85.06645559600003,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795666106.827524
-   },
    {
     "mint": "3iwcmhCD3SVxo3MSEyYuoPj3eXrpp3hchC73vPo8pump",
     "spaet": true,
@@ -298,9 +287,20 @@
     "spaet": false,
     "symbol": "1RING2RULE",
     "t": 1795669577.7979946
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "91Nahzz8NX1p9dc466RF5me5Q1LGDfY4KjBbyrnmpump",
+    "name": "GOTF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "GOTF",
+    "t": 1795669691.4929454
    }
   ],
-  "uebersicht": 1795666273.6556141
+  "uebersicht": 1795669916.9233382
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
