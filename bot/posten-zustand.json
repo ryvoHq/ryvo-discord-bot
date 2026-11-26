@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 274,
+ "laeufe": 275,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -189,17 +189,6 @@
    1795686177.3374379
   ],
   "stunde": [
-   {
-    "dauer": 86.71528744697571,
-    "ersteller_verkauft": false,
-    "kaeufer": 6,
-    "mint": "8BDkDfj3ZUvcG9caGzF2XnHfwg7K6fjfKKDvX6SCpump",
-    "name": "wienercoin",
-    "sol": 85.222643012,
-    "spaet": false,
-    "symbol": "WIENER",
-    "t": 1795683390.896797
-   },
    {
     "dauer": 168.41066670417786,
     "ersteller_verkauft": false,
@@ -351,6 +340,16 @@
     "spaet": false,
     "symbol": "YEE",
     "t": 1795686785.2539253
+   },
+   {
+    "mint": "9bj8yMQ3gZ36cd2d4efU49dqZsaw3gA6CCaWrbKmpump",
+    "spaet": true,
+    "t": 1795686908.6362116
+   },
+   {
+    "mint": "4Zy3CyQESE6BUHZPxKsjgMGG3HgKGcRA35PeX5zXpump",
+    "spaet": true,
+    "t": 1795687102.4803762
    }
   ],
   "uebersicht": 1795685577.733602
