@@ -181,41 +181,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 270,
+ "laeufe": 271,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795683026.1122732,
-   1795684377.3718648
+   1795684377.3718648,
+   1795686177.3374379
   ],
   "stunde": [
-   {
-    "mint": "8U1hBv7hqPBRknesExcMpmxTTBTTwfynpHtePRoSpump",
-    "spaet": true,
-    "t": 1795682286.054468
-   },
-   {
-    "dauer": 59.45279264450073,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "Ea8c6ZSo6rCFXNce1tiEqynA6Eq76HpcS4AMpYhpump",
-    "name": "bullcoin",
-    "sol": 10.572577406000002,
-    "spaet": false,
-    "symbol": "bull",
-    "t": 1795682348.7183537
-   },
-   {
-    "dauer": 0.0005245208740234375,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "9hTjkeV6TqqXZEXZZdjXzaFSBqgbC9pCeWaGDfBbpump",
-    "name": "SEXY ANIMAL",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "SEXYANIMAL",
-    "t": 1795682442.7007902
-   },
    {
     "dauer": 75.96244692802429,
     "ersteller_verkauft": true,
@@ -351,6 +325,44 @@
     "spaet": false,
     "symbol": "JENSEN",
     "t": 1795685866.124099
+   },
+   {
+    "dauer": 235.1410698890686,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "4HEBcF6zKQfDepaZBQofCpjMAzk6uPNvhw6Yw8Kbpump",
+    "name": "cat cow",
+    "sol": 0.12791731599999995,
+    "spaet": false,
+    "symbol": "$CCOW",
+    "t": 1795685884.727246
+   },
+   {
+    "mint": "CT7FEvVWA6CWDSQJWXkRxMLePRQPnsWkghyi6Tzapump",
+    "spaet": true,
+    "t": 1795685941.455345
+   },
+   {
+    "dauer": 839.2294414043427,
+    "ersteller_verkauft": false,
+    "kaeufer": 501,
+    "mint": "4ga7twF6UR1A4eovjUVeRU1PhoymsHz7SWVwqkL7gKxs",
+    "name": "Yee",
+    "sol": 80.29701725199982,
+    "spaet": false,
+    "symbol": "YEE",
+    "t": 1795685949.0255146
+   },
+   {
+    "dauer": 228.62162256240845,
+    "ersteller_verkauft": false,
+    "kaeufer": 156,
+    "mint": "FpFTbUVUPRV4dYq6aunoeEucZ9nnbVpotVb2KM9Vpump",
+    "name": "Cash Inu",
+    "sol": 74.53788271399999,
+    "spaet": false,
+    "symbol": "CI",
+    "t": 1795685997.9569793
    }
   ],
   "uebersicht": 1795685577.733602
