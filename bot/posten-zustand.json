@@ -217,41 +217,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 417,
+ "laeufe": 418,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "9SpR1DFYD96Tmmajtig1zkxaqKPXWuia1zpRgyXgpump",
-    "spaet": true,
-    "t": 1795723413.7264194
-   },
-   {
-    "mint": "4wp9qpfHzwEdgZnkz5E7iK43SJwtRKbRXYaqWUMmpump",
-    "spaet": true,
-    "t": 1795723436.2380884
-   },
-   {
-    "mint": "AeubX62znN6jHPLzxsQ16hoSULb9TmRiMssFsBMqpump",
-    "spaet": true,
-    "t": 1795723461.8948884
-   },
-   {
-    "mint": "9p2qh3pFk3vpDkJQhz92NRszJNUotHxcwDJ8t5PApump",
-    "spaet": true,
-    "t": 1795723580.4993017
-   },
-   {
-    "mint": "F3nDjaP1jvdqg2QAt94Zh4jQon8aFDy257Y71U4gpump",
-    "spaet": true,
-    "t": 1795723609.907555
-   },
-   {
-    "mint": "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump",
-    "spaet": true,
-    "t": 1795723679.4180791
-   },
    {
     "dauer": 0.0028345584869384766,
     "ersteller_verkauft": false,
@@ -594,6 +564,27 @@
     "spaet": false,
     "symbol": "Thanksgiving",
     "t": 1795726748.5261123
+   },
+   {
+    "dauer": 50.680487632751465,
+    "ersteller_verkauft": false,
+    "kaeufer": 183,
+    "mint": "CQVRQ1MyL6cw9VPqZS7ep8pyNy1yKFijASmNzLubYx7z",
+    "name": "boringcoin",
+    "sol": 36.773366437999854,
+    "spaet": false,
+    "symbol": "boring",
+    "t": 1795727018.6595013
+   },
+   {
+    "mint": "HpKjCnvJbgZ2ymjDvae5ZZ29t21FqECWN8ohWCFcpump",
+    "spaet": true,
+    "t": 1795727151.050499
+   },
+   {
+    "mint": "Fqj3XrUuvj463PnPmL1uDjPCqSbTYMbgsuSphxiLpump",
+    "spaet": true,
+    "t": 1795727251.3359172
    }
   ],
   "uebersicht": 1795724244.4573483
