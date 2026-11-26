@@ -160,38 +160,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 159,
+ "laeufe": 160,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795650995.5606854,
    1795651295.709376,
    1795653144.5292451,
    1795654044.0227242
   ],
   "stunde": [
-   {
-    "dauer": 223.10395407676697,
-    "ersteller_verkauft": true,
-    "kaeufer": 564,
-    "mint": "5uXnsaxdcrJZRLpAJd91sdgHPyu12u4SwHSME83Dpump",
-    "name": "Rocket Inu",
-    "sol": 84.52420404500006,
-    "spaet": false,
-    "symbol": "RI",
-    "t": 1795650807.8971262
-   },
-   {
-    "dauer": 490.35962557792664,
-    "ersteller_verkauft": true,
-    "kaeufer": 46,
-    "mint": "EK4Nx3MdrCdh8tg9GQj3D1DiNiDXGvp3EX1ki2Htpump",
-    "name": "The Chosen",
-    "sol": -0.3396142969999996,
-    "spaet": false,
-    "symbol": "ComeSee",
-    "t": 1795650868.2947001
-   },
    {
     "dauer": 469.62078046798706,
     "ersteller_verkauft": false,
@@ -372,7 +349,7 @@
     "t": 1795654138.2664838
    }
   ],
-  "uebersicht": 1795650995.5606854
+  "uebersicht": 1795654644.887717
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
