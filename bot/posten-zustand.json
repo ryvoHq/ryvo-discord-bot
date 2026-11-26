@@ -6,10 +6,16 @@
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-25",
  "gesehen": [
+  "https://www.n-tv.de/wirtschaft/Bericht-Spanier-Hernandez-de-Cos-wird-Chef-der-EZB-id31581106.html",
+  "https://www.cityam.com/bank-of-england-sounds-alarm-on-opaque-ai-financing/",
+  "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms",
+  "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-rebounds-bitcoin-reclaims-60000-ethereum-nears-1700-as-buying-interest-returns/articleshow/136193384.cms",
   "https://www.moneycontrol.com/news/business/markets/gold-wavers-near-15-month-low-as-traders-eye-fed-path-ai-stocks-14089768.html",
   "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+  "https://www.business-standard.com/world-news/opec-may-roll-over-current-oil-output-targets-at-its-sunday-meeting-126112601024_1.html",
   "https://www.morningstar.com/news/dow-jones/202611262285/bank-of-england-proposes-cut-to-uk-bank-capital-requirements",
   "https://www.hindustantimes.com/world-news/us-news/global-stocks-rebound-after-ai-sell-off-as-investors-assess-trumps-tariffs-oil-prices-and-inflation-risks-101795689444252.html",
+  "https://www.rte.ie/news/business/2026/1126/1600746-world-oil-prices/",
   "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111",
   "https://www.theglobeandmail.com/investing/article-oil-prices-fall-as-supply-concerns-linger-after-iran-claims-mine/",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-global-stock-rally-dents-safe-haven-demand/articleshow/136185124.cms",
@@ -65,20 +71,20 @@
   "https://www.moneycontrol.com/news/business/banks/rupee-strengthens-in-november-as-portfolio-inflows-return-nri-deposits-ecb-flows-remain-strong-14089029.html",
   "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872",
   "https://www.moneycontrol.com/news/business/banks/fed-s-monetary-policy-signals-linked-to-rupee-depreciation-higher-bond-yields-according-to-rbi-study-14089026.html",
-  "https://www.businesstimes.com.sg/international/us-inflation-rises-further-october",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+  "https://www.businesstimes.com.sg/international/us-inflation-rises-further-october",
   "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
   "https://www.foxbusiness.com/economy/october-2026-pce-inflation",
   "https://www.n-tv.de/ticker/EZB-Erstmals-wird-im-Euroraum-mehr-mit-Karte-als-mit-Bargeld-bezahlt-id31575395.html",
   "https://www.businesstoday.in/latest/economy/story/beyond-crude-oil-how-gold-and-precious-metals-have-emerged-as-indias-new-imported-inflation-drivers-569512-2026-11-25",
   "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
   "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
-  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.spiegel.de/wirtschaft/service/kryptowaehrung-je-mehr-ich-ueber-den-bitcoin-lerne-umso-skeptischer-werde-ich-a-2bf6bccb-f2a2-4199-97b7-8fac826f23f9",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
   "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424",
   "https://www.rte.ie/news/business/2026/1125/1600625-card-payments-overtake-cash-in-euro-zone-shops/",
   "https://financialpost.com/economy/canadian-dollar-inflation-warning/",
@@ -193,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 328,
+ "laeufe": 329,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -203,27 +209,6 @@
    1795701608.067284
   ],
   "stunde": [
-   {
-    "dauer": 105.25265979766846,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "2s5N4cLxgWVQbGYx8J2VUGiM46Timhnp6kxnCq8Bpump",
-    "name": "XMASBOSS",
-    "sol": 0.23846457799999998,
-    "spaet": false,
-    "symbol": "XMAS",
-    "t": 1795698812.682055
-   },
-   {
-    "mint": "BkpwWYHLVEYM2SSUEb3WL1roWR9y3WN2dLCcUUZ6pump",
-    "spaet": true,
-    "t": 1795698914.29645
-   },
-   {
-    "mint": "ErrhWENqx6GYDoz1naUZY1SMEhSzaqm39qb6PGJbpump",
-    "spaet": true,
-    "t": 1795698930.2999754
-   },
    {
     "mint": "a8YVqyaxw7HensjyoTBzLpC4J6M9uTYzvAu1arWpump",
     "spaet": true,
@@ -509,6 +494,17 @@
     "mint": "HCgRicDtiKd67V7Fg1T23fqiQ36SGSsGpBXX7w7BE3MW",
     "spaet": true,
     "t": 1795702053.7993228
+   },
+   {
+    "dauer": 110.4087929725647,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "BSMz6chW26adx25hkfRZvmTSu6q4d3ieixPx73hQpump",
+    "name": "Irochancoin",
+    "sol": 15.034764859999969,
+    "spaet": false,
+    "symbol": "Irochan",
+    "t": 1795702399.722271
    }
   ],
   "uebersicht": 1795701008.133407
