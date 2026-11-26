@@ -181,11 +181,10 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 273,
+ "laeufe": 274,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795683026.1122732,
    1795684377.3718648,
    1795686177.3374379
   ],
@@ -330,6 +329,28 @@
     "spaet": false,
     "symbol": "CI",
     "t": 1795685997.9569793
+   },
+   {
+    "dauer": 135.43987607955933,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "6Sjxs8hgrqh1yaxiTd1Y83DDHjY8mYFgjSWLzExhpump",
+    "name": "green cat",
+    "sol": 5.483836355,
+    "spaet": false,
+    "symbol": "GrenCAT",
+    "t": 1795686620.0411472
+   },
+   {
+    "dauer": 52.9579758644104,
+    "ersteller_verkauft": false,
+    "kaeufer": 8,
+    "mint": "BKGidSAf6RkUUymQYYoN8ifm3VMsLkeFTocvza3Spump",
+    "name": "Yee",
+    "sol": 85.005359064,
+    "spaet": false,
+    "symbol": "YEE",
+    "t": 1795686785.2539253
    }
   ],
   "uebersicht": 1795685577.733602
