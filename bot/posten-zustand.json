@@ -163,35 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 175,
+ "laeufe": 176,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 0.00023674964904785156,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "CnozX9VZrfTSCzssxicM4ee86GTuf497G5t94rUvpump",
-    "name": "skinpuss",
-    "sol": 85.00535906100001,
-    "spaet": false,
-    "symbol": "SKINPUSS",
-    "t": 1795655149.8897536
-   },
-   {
-    "dauer": 119.80394983291626,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "2qMDA1d1QXUGjnypSxGn1rnzhoDSs4dkGh5qpKJ3pump",
-    "name": "MoonChacha",
-    "sol": 3.8147119160000007,
-    "spaet": false,
-    "symbol": "MCH",
-    "t": 1795655363.7835617
-   },
    {
     "dauer": 151.21189188957214,
     "ersteller_verkauft": true,
@@ -306,7 +284,7 @@
     "t": 1795656995.9890423
    }
   ],
-  "uebersicht": 1795654644.887717
+  "uebersicht": 1795658964.334879
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
