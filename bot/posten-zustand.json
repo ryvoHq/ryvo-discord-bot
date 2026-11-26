@@ -160,7 +160,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 153,
+ "laeufe": 154,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -168,11 +168,6 @@
    1795651295.709376
   ],
   "stunde": [
-   {
-    "mint": "UBxg87ufviXoHUwjmhAs9yryh6VB4i1RZZAjMaZpump",
-    "spaet": true,
-    "t": 1795649028.6379316
-   },
    {
     "mint": "HJxaaQv6zenNfMFgknnaWBNPetVXSAv7cEup1yAgpump",
     "spaet": true,
@@ -465,6 +460,11 @@
     "spaet": false,
     "symbol": "PUMPDOG",
     "t": 1795652523.9334059
+   },
+   {
+    "mint": "E5kA7z678PShpxnxM9KKTu5nErBMu6DVyf4H8BGcpump",
+    "spaet": true,
+    "t": 1795652573.806804
    }
   ],
   "uebersicht": 1795650995.5606854
