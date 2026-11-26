@@ -221,16 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 437,
+ "laeufe": 438,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "3putVacmV5BYPEXichHfBF61F8ibUV9fqDMdgx3Tpump",
-    "spaet": true,
-    "t": 1795729112.6148653
-   },
    {
     "dauer": 140.4187183380127,
     "ersteller_verkauft": false,
@@ -428,6 +423,22 @@
     "spaet": false,
     "symbol": "ELIZABETH",
     "t": 1795732326.304546
+   },
+   {
+    "mint": "HPHDn8APPpDoukaCzb17LzV4F1k4d8kdPUMgQorBpump",
+    "spaet": true,
+    "t": 1795732533.3142154
+   },
+   {
+    "dauer": 9.920788764953613,
+    "ersteller_verkauft": false,
+    "kaeufer": 47,
+    "mint": "8NnchH8Y6Z4ieWcqDEqF2w9531xm2oE4YwZyA2ybpump",
+    "name": "PROJECT VIDA",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "VIDA",
+    "t": 1795732574.308341
    }
   ],
   "uebersicht": 1795731519.2123363
