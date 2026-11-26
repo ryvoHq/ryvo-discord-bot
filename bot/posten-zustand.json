@@ -217,67 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 419,
+ "laeufe": 420,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "mint": "3cNqtXapssatNcnZ8JXtzK8hgcCdwJiqfUSfWgDEpump",
-    "spaet": true,
-    "t": 1795723986.364493
-   },
-   {
-    "mint": "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump",
-    "spaet": true,
-    "t": 1795724005.0095618
-   },
-   {
-    "dauer": 0.0009353160858154297,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "ChYn9ZpCUzrwd8rcpUtr7K7iKgDWUfJijM4xwxBCpump",
-    "name": "Elonmas",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Elonmas",
-    "t": 1795724151.8005533
-   },
-   {
-    "dauer": 802.7128224372864,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "6gwGhxrth77pTpU23ssyxRrtqExw4mWwDrkYgg8Bpump",
-    "name": "CATECOIN",
-    "sol": -0.06589554699999846,
-    "spaet": false,
-    "symbol": "$CAT",
-    "t": 1795724154.0971608
-   },
-   {
-    "dauer": 37.44531536102295,
-    "ersteller_verkauft": true,
-    "kaeufer": 12,
-    "mint": "3mmkctzyZJKWpUQvLeQwsvr2ShtHDbXDEhYnqGXapump",
-    "name": "My second coin",
-    "sol": 2.5699522829999997,
-    "spaet": false,
-    "symbol": "MSC",
-    "t": 1795724198.0158315
-   },
-   {
-    "dauer": 101.99882864952087,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "6sEDY3iPZLMWMsKNqaNSRNE5ytXF4X8gbqt3Rq5ypump",
-    "name": "COOLS",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "COOLS",
-    "t": 1795724243.5410147
-   },
    {
     "mint": "GHZ3crguwug4zVYQCm4JCiiMU3Psp4yudFw1jSNUpump",
     "spaet": true,
@@ -608,9 +554,36 @@
     "spaet": false,
     "symbol": "SURV",
     "t": 1795727453.3493435
+   },
+   {
+    "dauer": 0.022051095962524414,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "Bb38n8AVLMh9amo8qtjLvqE8nPtfs8GEsyzg1pC6pump",
+    "name": "Cateball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Cateball",
+    "t": 1795727607.2115452
+   },
+   {
+    "mint": "F1zghDfFHwWWtwdh6ohNierxqcMtnjnSpAdRqJfnpump",
+    "spaet": true,
+    "t": 1795727622.6740339
+   },
+   {
+    "dauer": 455.7408359050751,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "HL7PfZBgWrwhkX7PF3yDaJi3J8sJS79F23yNA3DYpump",
+    "name": "OFFICIAL KAI TRUMP COIN",
+    "sol": 0.22680628700000027,
+    "spaet": false,
+    "symbol": "KAI",
+    "t": 1795727788.6995735
    }
   ],
-  "uebersicht": 1795724244.4573483
+  "uebersicht": 1795727879.9348903
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
