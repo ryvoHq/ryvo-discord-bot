@@ -217,57 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 394,
+ "laeufe": 395,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795717178.5607083,
    1795717836.593989
   ],
   "stunde": [
-   {
-    "dauer": 33.21050810813904,
-    "ersteller_verkauft": true,
-    "kaeufer": 132,
-    "mint": "3cAPLwifny4T1WCEKGgEsqkMe7ebo4KEGgSvAfy7pump",
-    "name": "The Turkey Trump",
-    "sol": 60.25930241100001,
-    "spaet": false,
-    "symbol": "Trump",
-    "t": 1795717011.9687614
-   },
-   {
-    "dauer": 295.10022711753845,
-    "ersteller_verkauft": false,
-    "kaeufer": 480,
-    "mint": "5WawLKvNxAyh6XfTLQQHeQam4ePYkrQZnvYrM63U1dPN",
-    "name": "ジョージ",
-    "sol": 69.15528409499998,
-    "spaet": false,
-    "symbol": "George",
-    "t": 1795717063.5957751
-   },
-   {
-    "dauer": 121.04991602897644,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "DYfRZ3PNEioppxYkYMWRHYuMuEaTYZq8wLbZr7rYpump",
-    "name": "Sent AI Labs",
-    "sol": 1.8687106870000005,
-    "spaet": false,
-    "symbol": "SENTAI",
-    "t": 1795717082.9741669
-   },
-   {
-    "mint": "AzdGMaqnwsTPUTKVn8w5gh9BTX9AcNYio3LXiSM1pump",
-    "spaet": true,
-    "t": 1795717173.7769978
-   },
-   {
-    "mint": "wfbsMPkx7mYKmPogHEGvyegQPVKvZkqY3DSHM2Gpump",
-    "spaet": true,
-    "t": 1795717281.5363731
-   },
    {
     "mint": "2JU4rVoA6Fjx5sSTZqVNvfS7T6h9fTFT2thbY6aypump",
     "spaet": true,
@@ -442,6 +398,49 @@
     "spaet": false,
     "symbol": "vDino",
     "t": 1795720586.4174786
+   },
+   {
+    "dauer": 123.99718189239502,
+    "ersteller_verkauft": false,
+    "kaeufer": 70,
+    "mint": "GDFUtxAnVSuS3bCP6tJXJshKwsBv24nywATFGpycpump",
+    "name": "FLOAT",
+    "sol": 50.390206563999975,
+    "spaet": false,
+    "symbol": "FLOAT",
+    "t": 1795720717.5410721
+   },
+   {
+    "dauer": 0.36652636528015137,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "8p9orB6AJDoWKYhaD5mmJgL1akKR13dn3nZahgqnpump",
+    "name": "ジョージ",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "George",
+    "t": 1795720732.8796515
+   },
+   {
+    "mint": "ygyU5YDcRBWPDScQ96cSh6toTxmeqLXrxLY3hXopump",
+    "spaet": true,
+    "t": 1795720750.9528413
+   },
+   {
+    "dauer": 75.49144744873047,
+    "ersteller_verkauft": true,
+    "kaeufer": 191,
+    "mint": "2irkzpjLZLKPyyuDbwRC49488xiDNoaVK6Y3wSgqpump",
+    "name": "whitepill",
+    "sol": 59.474853627999956,
+    "spaet": false,
+    "symbol": "whitepill",
+    "t": 1795720850.8942957
+   },
+   {
+    "mint": "5VBwNFgb62fZmzvgGcJsNnvEy3Sb2ZBSZv1N2APHpump",
+    "spaet": true,
+    "t": 1795720878.5827935
    }
   ],
   "uebersicht": 1795720236.7698689
