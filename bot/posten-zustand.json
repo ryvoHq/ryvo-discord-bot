@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 255,
+ "laeufe": 256,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,17 +190,6 @@
    1795679942.019533
   ],
   "stunde": [
-   {
-    "dauer": 143.52889323234558,
-    "ersteller_verkauft": true,
-    "kaeufer": 161,
-    "mint": "8pbTCQ4gBgNYaviGC1Bi6TxNQAScHyTQ1UjTxwZYpump",
-    "name": "Grok AI",
-    "sol": 85.00535946900006,
-    "spaet": false,
-    "symbol": "Grok AI",
-    "t": 1795678215.3267994
-   },
    {
     "dauer": 589.9545292854309,
     "ersteller_verkauft": true,
@@ -362,9 +351,31 @@
     "spaet": false,
     "symbol": "$BWIZ",
     "t": 1795680942.7310433
+   },
+   {
+    "dauer": 119.26209259033203,
+    "ersteller_verkauft": true,
+    "kaeufer": 182,
+    "mint": "4QYMzJXV1YzCZttfeNiNJfysVAwsgWykydikLm7ipump",
+    "name": "Basket",
+    "sol": 85.00535938599995,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795681579.5078168
+   },
+   {
+    "dauer": 653.5335404872894,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "FCLVypP6Y7TfobNZxheYFjtTYS9hg9ZaxPvnK7XNpump",
+    "name": "Solana Inu VI",
+    "sol": 0.041629961999999965,
+    "spaet": false,
+    "symbol": "SOLVI",
+    "t": 1795681622.3962011
    }
   ],
-  "uebersicht": 1795678142.391696
+  "uebersicht": 1795681825.5290093
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
