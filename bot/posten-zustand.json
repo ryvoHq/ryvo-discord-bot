@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 348,
+ "laeufe": 349,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -208,17 +208,6 @@
    1795708046.864389
   ],
   "stunde": [
-   {
-    "dauer": 191.96685338020325,
-    "ersteller_verkauft": true,
-    "kaeufer": 148,
-    "mint": "GAeRsXWoXzFz2Dz36MyDinjH7CxzyF1XqriTkCU1pump",
-    "name": "ZeroSumEnjoyer",
-    "sol": 74.34066794300003,
-    "spaet": false,
-    "symbol": "Zero",
-    "t": 1795704481.1298957
-   },
    {
     "mint": "Hnv5e4c8amHREbBDgzxGtaYPVSt7nhrW5AUNS6Q7pump",
     "spaet": true,
