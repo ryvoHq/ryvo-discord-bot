@@ -193,59 +193,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 322,
+ "laeufe": 323,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795697370.2715933,
    1795699807.7484126,
    1795700107.5496376,
    1795700707.938028
   ],
   "stunde": [
-   {
-    "dauer": 215.84784412384033,
-    "ersteller_verkauft": false,
-    "kaeufer": 435,
-    "mint": "EWCfhnj8YjPEbvQXEtwkxMT54WhBpZBLQDFncRoypump",
-    "name": "Pair",
-    "sol": 85.15681124199988,
-    "spaet": false,
-    "symbol": "Pair",
-    "t": 1795697116.0398123
-   },
-   {
-    "dauer": 103.97027540206909,
-    "ersteller_verkauft": false,
-    "kaeufer": 147,
-    "mint": "5yi5i8tKGzGZS1CnEedRag27wN1J9GRNHXtCCUr9pump",
-    "name": "SpaceXCoin",
-    "sol": 74.170791421,
-    "spaet": false,
-    "symbol": "SpaceXCoin",
-    "t": 1795697309.1746216
-   },
-   {
-    "mint": "6XEDurGMTwoW95aCY7Q3msxxgJ3RNePqttNnKVK7pump",
-    "spaet": true,
-    "t": 1795697341.652782
-   },
-   {
-    "mint": "BKnuZTG1YVPi5DC9tUk5TH1mEgwAZgunnvrAx4Ycpump",
-    "spaet": true,
-    "t": 1795697357.7102306
-   },
-   {
-    "dauer": 927.2578828334808,
-    "ersteller_verkauft": false,
-    "kaeufer": 108,
-    "mint": "2wX8fA5hMfKEpYSjmcnt1j99tfH73mimvrz142Hzpump",
-    "name": "Grodia",
-    "sol": 85.00535920599995,
-    "spaet": false,
-    "symbol": "GRODIA",
-    "t": 1795697363.42463
-   },
    {
     "dauer": 292.04699420928955,
     "ersteller_verkauft": true,
@@ -499,9 +455,47 @@
     "spaet": false,
     "symbol": "Zero",
     "t": 1795700689.954504
+   },
+   {
+    "dauer": 367.529746055603,
+    "ersteller_verkauft": true,
+    "kaeufer": 5,
+    "mint": "84TWXKeqSKn3JY4cdvbeq1N1gemyVvxFkNa6jFq2pump",
+    "name": "2008",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "2008",
+    "t": 1795700723.8483813
+   },
+   {
+    "dauer": 890.678252696991,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "3BCG6CCubkG3tVYSmv5jkLPGfdJJVbgH8kvGXDJfpump",
+    "name": "party partybot lol",
+    "sol": 0.1815686620000001,
+    "spaet": false,
+    "symbol": "goat",
+    "t": 1795700735.021059
+   },
+   {
+    "mint": "HkPSDYRcw4uqgRzZMDd5sRnMpE4ungR1K8MRNXnBVtQ2",
+    "spaet": true,
+    "t": 1795700928.8343198
+   },
+   {
+    "dauer": 0.0008993148803710938,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "EMd4HYWqkQvnmSAor4H44VM4D8ARzcTxsXsYTKazpump",
+    "name": "Komari",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "KOMARI",
+    "t": 1795700940.524644
    }
   ],
-  "uebersicht": 1795697370.2715933
+  "uebersicht": 1795701008.133407
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
