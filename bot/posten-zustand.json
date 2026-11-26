@@ -181,41 +181,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 262,
+ "laeufe": 263,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795679942.019533,
-   1795679942.019533,
    1795683026.1122732
   ],
   "stunde": [
-   {
-    "dauer": 496.0738070011139,
-    "ersteller_verkauft": false,
-    "kaeufer": 38,
-    "mint": "ASG3vv3HL3ukNb2cmKCHePuprmsMSQ6AeGnqz36ypump",
-    "name": "BABY PIG",
-    "sol": 0.14605659299999996,
-    "spaet": false,
-    "symbol": "BEPE",
-    "t": 1795679935.1162872
-   },
-   {
-    "mint": "2yhrqpvMF4WLHv4spPaRAKSKPkKq1LghR3xE4Ynqpump",
-    "spaet": true,
-    "t": 1795680038.5735652
-   },
-   {
-    "mint": "28iZ2axBtH4h38FgtDDXRb7h8uvpDVtz9MDaqSMbpump",
-    "spaet": true,
-    "t": 1795680070.2518408
-   },
-   {
-    "mint": "J9RLSXNqrYhChcBrLQk8EhwtQHo3d5jyMfKaQB4Tpump",
-    "spaet": true,
-    "t": 1795680157.2257695
-   },
    {
     "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump",
     "spaet": true,
