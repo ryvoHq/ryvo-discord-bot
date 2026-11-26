@@ -221,39 +221,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 444,
+ "laeufe": 445,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795734286.1914365
   ],
   "stunde": [
-   {
-    "mint": "6ZoRvDnWWHyy3iM26nAQRa3Qf7Yz2SvfjtMaQyMMpump",
-    "spaet": true,
-    "t": 1795730991.412486
-   },
-   {
-    "mint": "DGc9JmnZayqCwaCmu22JFCZKieSbb3271m1RstTrpump",
-    "spaet": true,
-    "t": 1795731037.2318962
-   },
-   {
-    "dauer": 612.4414412975311,
-    "ersteller_verkauft": false,
-    "kaeufer": 4,
-    "mint": "CGyKybi2kBiJQ7j7z3wCzV62tRgZp5vP3ZmjphNkpump",
-    "name": "Vetocat",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Vetocat",
-    "t": 1795731211.177388
-   },
-   {
-    "mint": "7Z2DwbzWDjZtJucqQZjVDJidiY5Xsk1SUKd8C5nFpump",
-    "spaet": true,
-    "t": 1795731278.5170302
-   },
    {
     "mint": "GmsPdyQYzqpztLcZvaUsgacFZKABkYiSJFqV2aY5pump",
     "spaet": true,
@@ -457,6 +431,22 @@
     "spaet": false,
     "symbol": "Gemma",
     "t": 1795734222.5867767
+   },
+   {
+    "mint": "8TyoqSMouLjxh1kM1yApR9dZSS5Chgkh2puq25JTpump",
+    "spaet": true,
+    "t": 1795734757.6927328
+   },
+   {
+    "dauer": 127.14892888069153,
+    "ersteller_verkauft": true,
+    "kaeufer": 214,
+    "mint": "EAkpnBwTP5LAdeLaQSx9fTGhtqJtpHGi5a5qTCucpump",
+    "name": "There's our little investor",
+    "sol": 77.5319322919999,
+    "spaet": false,
+    "symbol": "Investor",
+    "t": 1795734797.451895
    }
   ],
   "uebersicht": 1795731519.2123363
