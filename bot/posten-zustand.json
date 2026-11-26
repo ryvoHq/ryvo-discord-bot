@@ -171,42 +171,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 221,
+ "laeufe": 222,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795668117.1404805,
    1795668716.6899574,
    1795669616.596927
   ],
   "stunde": [
-   {
-    "dauer": 203.0141110420227,
-    "ersteller_verkauft": false,
-    "kaeufer": 324,
-    "mint": "3iDmzk4UZXp6zoQRudyB5vPqDGjqUjsFGwreUd6upump",
-    "name": "miuu",
-    "sol": 82.71969962499983,
-    "spaet": false,
-    "symbol": "miuu",
-    "t": 1795667936.7507238
-   },
-   {
-    "dauer": 0.005326986312866211,
-    "ersteller_verkauft": false,
-    "kaeufer": 10,
-    "mint": "4VMwK3shXxsaMbiJ4qtBMMEgi63riezBSWFHfA6Vpump",
-    "name": "Fritz the Hippo",
-    "sol": 85.005359067,
-    "spaet": false,
-    "symbol": "FRITZ",
-    "t": 1795667985.7933753
-   },
-   {
-    "mint": "ChFvaeEZqmcRMJDt3KfY9NuTBzbuVXzsiwrP3mN5pump",
-    "spaet": true,
-    "t": 1795668030.831514
-   },
    {
     "dauer": 113.17885971069336,
     "ersteller_verkauft": false,
@@ -403,6 +375,28 @@
     "spaet": false,
     "symbol": "GTAVI",
     "t": 1795671440.3158784
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "osXbVsbn1E4nwogdQrTNvn7AV448UGJFmjnWmhApump",
+    "name": "United Bitcoin Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795671502.9077277
+   },
+   {
+    "dauer": 92.31998467445374,
+    "ersteller_verkauft": false,
+    "kaeufer": 140,
+    "mint": "26eAyWoHTZfwGj8BvczSkRnyDAFXVx8HVxoXRNaSpump",
+    "name": "牛来",
+    "sol": 84.29605225799995,
+    "spaet": false,
+    "symbol": "牛来",
+    "t": 1795671612.6340582
    }
   ],
   "uebersicht": 1795669916.9233382
