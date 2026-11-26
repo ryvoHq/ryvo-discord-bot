@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 401,
+ "laeufe": 402,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,16 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "mint": "5BV4g2kVsiTbueGDE29bBXCRVaZoP3DV2GNHD83tpump",
-    "spaet": true,
-    "t": 1795719130.077831
-   },
-   {
-    "mint": "CNdKtM4y19AGBSMctsAuhPV2hYRqwyYfvqW7ZGjSpump",
-    "spaet": true,
-    "t": 1795719331.6366107
-   },
    {
     "dauer": 0.013214826583862305,
     "ersteller_verkauft": false,
@@ -573,6 +563,33 @@
     "spaet": false,
     "symbol": "SUNDANCE",
     "t": 1795722641.8248053
+   },
+   {
+    "dauer": 0.0007314682006835938,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "EMhHvdxs3L1T38pV1yNe9JXF6KfkxFTShNLaxL7rpump",
+    "name": "Dogeball",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Dogeball",
+    "t": 1795722764.0143523
+   },
+   {
+    "dauer": 159.38007497787476,
+    "ersteller_verkauft": true,
+    "kaeufer": 394,
+    "mint": "Fyn4p35y8Umcedsuxp7NDhYzJbViWpuqoKoJGCpnpump",
+    "name": "Fomocoin",
+    "sol": 88.2821885689997,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795722817.7688425
+   },
+   {
+    "mint": "6qzRn98Jiw8hsX3sqS2rLVPFVWqwyfdTGMqTbkMYpump",
+    "spaet": true,
+    "t": 1795722905.2368124
    }
   ],
   "uebersicht": 1795720236.7698689
