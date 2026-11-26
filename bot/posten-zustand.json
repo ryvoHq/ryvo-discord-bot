@@ -187,24 +187,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 292,
+ "laeufe": 293,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795691875.5381765
+   1795691875.5381765,
+   1795692775.3964045
   ],
   "stunde": [
-   {
-    "dauer": 0.3877737522125244,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "AxPEou2ppLFNeJU9fCemg9wfqDjaVsKdevcQgYDopump",
-    "name": "Sleigh X",
-    "sol": 85.00535907700001,
-    "spaet": false,
-    "symbol": "SLEIGHX",
-    "t": 1795688914.0010695
-   },
    {
     "dauer": 222.0276837348938,
     "ersteller_verkauft": false,
@@ -466,6 +456,28 @@
     "spaet": false,
     "symbol": "MONY",
     "t": 1795692325.6275291
+   },
+   {
+    "dauer": 278.4884479045868,
+    "ersteller_verkauft": true,
+    "kaeufer": 23,
+    "mint": "HfTd2w2xWdv1kZ4cwbHqrovrXZGUeZSUUdABiPR6pump",
+    "name": "yepearl",
+    "sol": 0.23300519599999972,
+    "spaet": false,
+    "symbol": "YEPEARL",
+    "t": 1795692511.8488138
+   },
+   {
+    "dauer": 763.9711422920227,
+    "ersteller_verkauft": false,
+    "kaeufer": 296,
+    "mint": "Gngq4r84xEJe5EssETLu9s9dhamSGTAWsmPbq7x2zjrt",
+    "name": "NUBU",
+    "sol": 80.94538298799989,
+    "spaet": false,
+    "symbol": "NUBU",
+    "t": 1795692624.3377562
    }
   ],
   "uebersicht": 1795689221.233631
