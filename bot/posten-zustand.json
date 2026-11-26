@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 403,
+ "laeufe": 404,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,28 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "dauer": 0.013214826583862305,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "FrazpvxVBFwvA1ycX3CKVBLx1Jq8dzExJ7eaYsYSpump",
-    "name": "ジョージ",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "George",
-    "t": 1795719719.0822508
-   },
-   {
-    "dauer": 5.012972593307495,
-    "ersteller_verkauft": false,
-    "kaeufer": 34,
-    "mint": "FNfesEHrCfdFBTqhfwBV72bPi9bf4mCpotDazxA1pump",
-    "name": "Humanoid Robots",
-    "sol": 27.98833511600001,
-    "spaet": false,
-    "symbol": "HUMBOT",
-    "t": 1795719734.3296957
-   },
    {
     "dauer": 0.0006270408630371094,
     "ersteller_verkauft": false,
