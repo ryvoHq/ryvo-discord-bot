@@ -6,11 +6,21 @@
  "ebenen_trad": "2026-11-25",
  "ezb_tag": "2026-11-25",
  "gesehen": [
+  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-strengthen-as-strong-growth-fuels-inflation/articleshow/136181063.cms",
+  "https://economictimes.indiatimes.com/mf/mf-news/gold-silver-etfs-rally-up-to-6-as-precious-metal-prices-rebound-despite-us-inflation-concerns/articleshow/136180767.cms",
+  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-tamura-calls-for-faster-rate-hikes-as-inflation-risks-mount/articleshow/136179728.cms",
+  "https://abcnews.com/Business/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458863",
+  "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
+  "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-rises-on-reports-of-houthi-attack-on-saudi-refinery/article71745177.ece",
+  "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html",
+  "https://www.business-standard.com/finance/personal-finance/how-interest-rate-changes-affect-debt-funds-short-vs-long-duration-funds-126112501024_1.html",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike/articleshow/136176244.cms",
   "https://www.businesstoday.in/markets/stocks/story/buy-bpcl-iocl-shares-as-crude-oil-prices-fall-risk-reward-favourable-says-jefferies-569567-2026-11-26",
+  "https://www.business-standard.com/economy/news/inflation-more-generalised-more-categories-seeing-price-hikes-rbi-paper-126112600055_1.html",
   "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-edges-lower-us-inflation-data-fuels-bets-rate-hikes",
   "https://www.livemint.com/global/wild-market-swings-are-colliding-with-a-fed-bent-on-taming-inflation-11795656733183.html",
   "https://www.livemint.com/economy/south-korea-raises-rates-to-2-year-high-as-inflation-and-housing-prices-remain-a-worry-11795655573553.html",
+  "https://www.abc.net.au/listen/programs/worldtoday/parents-bearing-the-brunt-of-rising-inflation/107429960",
   "https://www.koreatimes.co.kr/economy/20261126/bok-raises-key-rate-by-quarter-point-to-325-as-inflation-concerns-mount",
   "https://www.thehindubusinessline.com/opinion/inflation-and-monetary-policy-limitations/article71743345.ece",
   "https://www.afr.com/policy/economy/treasury-loses-chief-economist-during-inflation-shock-20261126-p61hfd",
@@ -73,6 +83,9 @@
   "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece",
   "https://www.business-standard.com/industry/news/air-passenger-services-see-35-inflation-in-q2-banking-witness-deflation-126112500453_1.html",
   "https://www.moneycontrol.com/news/business/startup/two-in-five-indian-family-offices-uhnis-have-invested-in-cryptocurrencies-bitdelta-report-14088716.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
   "https://www.thehindubusinessline.com/markets/commodities/gold-slips-as-fed-hike-bets-weigh-silver-crude-base-metals-also-under-pressure/article71741631.ece",
   "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
   "https://www.abc.net.au/listen/programs/abc-news-top-stories/acoss-inflation-beau-lamarre-condon-first-nations/107427586",
@@ -83,9 +96,6 @@
   "https://www.hindustantimes.com/india-news/get-govt-to-announce-parliament-schedule-cpi-mp-sandosh-kumar-asks-rs-chairman-101795589269098.html",
   "https://www.koreatimes.co.kr/economy/cryptocurrency/20261125/koreas-crypto-exchanges-face-ownership-shake-up-under-new-digital-asset-basic-act",
   "https://www.smh.com.au/national/petrol-and-power-prices-drive-surge-in-inflation-figures-20261125-p61hbf.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
   "https://www.morningstar.com/news/dow-jones/2026112541/emea-morning-briefing-us-inflation-data-in-focus",
   "https://www.abc.net.au/listen/programs/pm/inflation-surges-to-three-year-high-/107336280",
   "https://www.moneycontrol.com/news/business/markets/crude-oil-prices-fall-over-1-5-as-supply-glut-fears-offset-middle-east-disruption-tensions-brent-below-88-wti-near-81-14088392.html",
@@ -171,21 +181,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 239,
+ "laeufe": 240,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "Di89tBdRfjiYWY1bbKaG9PzwoCZ3FrSEbmnjKTqppump",
-    "spaet": true,
-    "t": 1795673567.355029
-   },
-   {
-    "mint": "554dPFprmeu9J2mPKpJ41rxKDQgfsNvj9XGgiykepump",
-    "spaet": true,
-    "t": 1795673604.6612868
-   },
    {
     "mint": "C32ZRmDooNpbR4R3KCWUzbVQPdi3fTiUGbSMsktWpump",
     "spaet": true,
@@ -335,6 +335,11 @@
     "spaet": false,
     "symbol": "CI",
     "t": 1795676238.171535
+   },
+   {
+    "mint": "8sKGQVyg653njPq21kQBzcsfLwbm6bQceQfpzAcWpump",
+    "spaet": true,
+    "t": 1795677167.6064217
    }
   ],
   "uebersicht": 1795674496.7929566
