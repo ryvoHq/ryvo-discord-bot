@@ -217,24 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 423,
+ "laeufe": 424,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "dauer": 1.253915548324585,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "7Ra3MpkkzGE8ibdt1AevUfpCToGy1fzE4kAkpngjVoYS",
-    "name": "Zolana Coin",
-    "sol": 85.005359104,
-    "spaet": false,
-    "symbol": "ZCOIN",
-    "t": 1795725184.2004845
-   },
    {
     "mint": "4sG2k4ezbQ4VcxgaWRsAUvmAT3KyAhKVcVBv8E2Ypump",
     "spaet": true,
@@ -615,6 +604,11 @@
     "spaet": false,
     "symbol": "Mercedes",
     "t": 1795728772.3496976
+   },
+   {
+    "mint": "ARsCXBzVhyY81FeRJjtXgqe1oNUA66nhNx6yaDewpump",
+    "spaet": true,
+    "t": 1795728811.409882
    }
   ],
   "uebersicht": 1795727879.9348903
