@@ -221,25 +221,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 449,
+ "laeufe": 450,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795734286.1914365,
-   1795735486.0610247
+   1795735486.0610247,
+   1795736127.7741737
   ],
   "stunde": [
-   {
-    "dauer": 50.96812605857849,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "ChLKLLMNJeWGcEnkbTzEUQU9GuRJrV9VJ9d76Kprpump",
-    "name": "The Amazon Monkey",
-    "sol": 2.055109723,
-    "spaet": false,
-    "symbol": "ELIZABETH",
-    "t": 1795732326.304546
-   },
    {
     "mint": "HPHDn8APPpDoukaCzb17LzV4F1k4d8kdPUMgQorBpump",
     "spaet": true,
@@ -476,6 +466,44 @@
     "mint": "GRJ5PgitXnDo4iufLWUqS7iRADKKgdj2tMUWS2HBpump",
     "spaet": true,
     "t": 1795735707.2074273
+   },
+   {
+    "mint": "FxWDDcxosMaRnFRzzDQisFjN4a5Gip5ECs7MtsQYFLoW",
+    "spaet": true,
+    "t": 1795735953.4485555
+   },
+   {
+    "dauer": 48.512616872787476,
+    "ersteller_verkauft": true,
+    "kaeufer": 202,
+    "mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+    "name": "North Korean captcha",
+    "sol": 75.68487601399998,
+    "spaet": false,
+    "symbol": "FKim",
+    "t": 1795735964.0861464
+   },
+   {
+    "dauer": 0.0009641647338867188,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "9J2cy3AfDquDDKqjteYaFSrYEvUAGnb1Qxw8pZQApump",
+    "name": "Vetocat",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Vetocat",
+    "t": 1795736000.2921693
+   },
+   {
+    "dauer": 406.32830262184143,
+    "ersteller_verkauft": true,
+    "kaeufer": 638,
+    "mint": "81TW4gTEH4aNsSaKCoBhoznx9AG8AiYoBXfvEzJkpump",
+    "name": "Togi Coin",
+    "sol": 99.99828731699985,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736042.5048656
    }
   ],
   "uebersicht": 1795735188.828268
