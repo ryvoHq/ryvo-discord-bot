@@ -210,38 +210,16 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 357,
+ "laeufe": 358,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795707147.5383089,
    1795708046.864389,
    1795709891.8784258,
-   1795709891.8784258
+   1795709891.8784258,
+   1795710792.3029368
   ],
   "stunde": [
-   {
-    "dauer": 182.0382604598999,
-    "ersteller_verkauft": true,
-    "kaeufer": 34,
-    "mint": "2ApoeSoS3pgiMdSu7PWrRMzXmE4AMxXGwxZYsFNxpump",
-    "name": "$HAVE A GOOD DAY",
-    "sol": -0.8038977559999996,
-    "spaet": false,
-    "symbol": "$LA BEAST",
-    "t": 1795707070.302036
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "vXCsmnN5k1HsRyk3GuracZfJ2heMmoR9Sjz6e4epump",
-    "name": "United Bitcoin Reserve",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795707160.4106958
-   },
    {
     "dauer": 351.2529065608978,
     "ersteller_verkauft": true,
@@ -487,6 +465,28 @@
     "spaet": false,
     "symbol": "BASKET",
     "t": 1795710471.3869252
+   },
+   {
+    "dauer": 288.43850564956665,
+    "ersteller_verkauft": false,
+    "kaeufer": 28,
+    "mint": "FsJhAqfqWkhwZt8KDN9LbkqeSmYAW2p3eBAaMyACpump",
+    "name": "OMEGA",
+    "sol": 1.880492093999998,
+    "spaet": false,
+    "symbol": "OMEGA",
+    "t": 1795710567.7657998
+   },
+   {
+    "dauer": 713.9521601200104,
+    "ersteller_verkauft": false,
+    "kaeufer": 406,
+    "mint": "92y9KkVPyni8FBrjqzrwfkWTwV1cXZCXQKTBWRZEpump",
+    "name": "testicles",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "TESTICLES",
+    "t": 1795710621.8166847
    }
   ],
   "uebersicht": 1795709291.9324813
