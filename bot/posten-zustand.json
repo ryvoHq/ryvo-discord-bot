@@ -193,7 +193,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 320,
+ "laeufe": 321,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -202,22 +202,6 @@
    1795700107.5496376
   ],
   "stunde": [
-   {
-    "mint": "B8VsMQ53HdzYpsoR1ExjBeXvxsndyCLAz8bJbpo8pump",
-    "spaet": true,
-    "t": 1795696522.7053885
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "7zFhiLEeDSWGKDtgQqccJa4w6Ph59fywkDKu36jipump",
-    "name": "UBR",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795696798.0586245
-   },
    {
     "dauer": 331.0258855819702,
     "ersteller_verkauft": false,
@@ -497,6 +481,17 @@
     "mint": "DmR7M2exZrSSPLv3CHULWcuo7HyYox7vZdmZsbEvpump",
     "spaet": true,
     "t": 1795700041.9529023
+   },
+   {
+    "dauer": 148.25842475891113,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "GGBH37uiGHbCBXQXwMqdPJ34JtceyWbno33MxbSMpump",
+    "name": "ここちゃん",
+    "sol": 2.8200094059999996,
+    "spaet": false,
+    "symbol": "Koko",
+    "t": 1795700304.7955656
    }
   ],
   "uebersicht": 1795697370.2715933
