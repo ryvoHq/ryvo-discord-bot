@@ -217,38 +217,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 415,
+ "laeufe": 416,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 159.38007497787476,
-    "ersteller_verkauft": true,
-    "kaeufer": 394,
-    "mint": "Fyn4p35y8Umcedsuxp7NDhYzJbViWpuqoKoJGCpnpump",
-    "name": "Fomocoin",
-    "sol": 88.2821885689997,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795722817.7688425
-   },
-   {
-    "mint": "6qzRn98Jiw8hsX3sqS2rLVPFVWqwyfdTGMqTbkMYpump",
-    "spaet": true,
-    "t": 1795722905.2368124
-   },
-   {
-    "dauer": 204.67228507995605,
-    "ersteller_verkauft": true,
-    "kaeufer": 41,
-    "mint": "Cn1FB8JH1EcsNVpPgZSSM9JuHmmjovXrooa7qkvrpump",
-    "name": "Master Nyan coin",
-    "sol": 0.6597662769999983,
-    "spaet": false,
-    "symbol": "mnyan",
-    "t": 1795723031.3482728
-   },
    {
     "mint": "9SpR1DFYD96Tmmajtig1zkxaqKPXWuia1zpRgyXgpump",
     "spaet": true,
@@ -562,6 +535,54 @@
     "mint": "DoR5kPE33bken8yr2UGNniscE2LkeZRYyyqKr3zDpump",
     "spaet": true,
     "t": 1795726284.99113
+   },
+   {
+    "dauer": 0.004526853561401367,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "9SVj5ZTAL41tqswVNwT1TT9yv3oSHYMYv8zqoHtPpump",
+    "name": "Zolana Inu",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "ZINU",
+    "t": 1795726381.8613546
+   },
+   {
+    "mint": "CVCkUiheSUrn97sFVsWdhedrmu4LXZxJubpFebgHpump",
+    "spaet": true,
+    "t": 1795726401.4317174
+   },
+   {
+    "mint": "E3JLPbDNQxGvLS5n1bziJzLS9pcJUiGApQQAcZmXpump",
+    "spaet": true,
+    "t": 1795726421.860792
+   },
+   {
+    "dauer": 122.67347931861877,
+    "ersteller_verkauft": true,
+    "kaeufer": 10,
+    "mint": "61hWjVpbn7Np28Ev8FmdHi4AAUdtWdFywrZJfAF8pump",
+    "name": "The Toad Cat",
+    "sol": 1.4423777530000008,
+    "spaet": false,
+    "symbol": "TOAD",
+    "t": 1795726505.8394747
+   },
+   {
+    "mint": "XYDLGP5MYUYMUZzhQqADygY8eP6MTXQxncfvVpVpump",
+    "spaet": true,
+    "t": 1795726551.0934083
+   },
+   {
+    "dauer": 2.35465145111084,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "GmSiz5ZW5aAycQsS59buCLFRUY6cRUkQ5XvqoJEMpump",
+    "name": "OFFICIAL BARRON",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BARRON",
+    "t": 1795726592.6884613
    }
   ],
   "uebersicht": 1795724244.4573483
