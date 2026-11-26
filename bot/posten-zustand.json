@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 342,
+ "laeufe": 343,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,17 +207,6 @@
    1795704962.4614937
   ],
   "stunde": [
-   {
-    "dauer": 62.47034430503845,
-    "ersteller_verkauft": true,
-    "kaeufer": 9,
-    "mint": "AbN7LWN5aF9JZgZZpmcYsTjvZwBGMGjSKrB5pJuopump",
-    "name": "Duckroll",
-    "sol": 15.335199681999983,
-    "spaet": false,
-    "symbol": "Duckroll",
-    "t": 1795702684.6664875
-   },
    {
     "mint": "7WvZFEyRyGGfkc1U4h1d4PN6beSaRGrEhp2nbf3pump",
     "spaet": true,
@@ -464,6 +453,49 @@
     "spaet": false,
     "symbol": "PIG",
     "t": 1795706192.470812
+   },
+   {
+    "dauer": 93.0824146270752,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "y9LHp2fV3iWBnmvEce9vgSCshNuKBi5dFgTDksWpump",
+    "name": "DONT BUY ",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "DONT BUY",
+    "t": 1795706283.3361502
+   },
+   {
+    "mint": "4QnsX5yhyr8nkcf8rVAcHVZyyP4VS3h7p5h3sveapump",
+    "spaet": true,
+    "t": 1795706302.5985253
+   },
+   {
+    "dauer": 178.11379671096802,
+    "ersteller_verkauft": false,
+    "kaeufer": 141,
+    "mint": "6r5r9mUQSi3jCKZTUTugovkkdcZRbfjahqKuNeJpump",
+    "name": "Twitter | Official Team",
+    "sol": 82.170568142,
+    "spaet": false,
+    "symbol": "X",
+    "t": 1795706314.1842282
+   },
+   {
+    "mint": "3DxjFWBjon6Si9gWnGKvhidfLmoKREL46JVnJwe8pump",
+    "spaet": true,
+    "t": 1795706381.7718031
+   },
+   {
+    "dauer": 238.20723962783813,
+    "ersteller_verkauft": true,
+    "kaeufer": 45,
+    "mint": "6SwzhLggcMzfYRifqEjJXFAbLFQrCfEXkuxrsL7Spump",
+    "name": "MOON BUCK$",
+    "sol": -1.466516952000002,
+    "spaet": false,
+    "symbol": "🌙 BUCK",
+    "t": 1795706477.6035216
    }
   ],
   "uebersicht": 1795704662.8075502
