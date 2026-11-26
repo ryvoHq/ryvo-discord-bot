@@ -217,60 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 420,
+ "laeufe": 421,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "mint": "GHZ3crguwug4zVYQCm4JCiiMU3Psp4yudFw1jSNUpump",
-    "spaet": true,
-    "t": 1795724374.1588352
-   },
-   {
-    "mint": "pxtYggcfeuY5bjr3zxm4omZJHpuWWKZiVMyhve1pump",
-    "spaet": true,
-    "t": 1795724374.9461775
-   },
-   {
-    "mint": "CToE79KZGJGFqwG8g5QSCoqY8ZvRUzcLcs6hscivpump",
-    "spaet": true,
-    "t": 1795724389.8274276
-   },
-   {
-    "mint": "GWCrKQD9d2nq9wPXbFqEhJFjHLCzTHJoCsvxuu39pump",
-    "spaet": true,
-    "t": 1795724426.5207622
-   },
-   {
-    "dauer": 122.20167517662048,
-    "ersteller_verkauft": false,
-    "kaeufer": 327,
-    "mint": "HLDU8dNCFiyQXvgfh8sJ1hCcH45i39U3AdWJKQPNpump",
-    "name": "rip dan",
-    "sol": 74.39329588200002,
-    "spaet": false,
-    "symbol": "dan",
-    "t": 1795724434.1242094
-   },
-   {
-    "dauer": 139.74210953712463,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "8TiczfG3pPgT9vD63dLZuzAK2B5HhdWmsoVBdFi3pump",
-    "name": "DERPCAT",
-    "sol": 0.26296216800000016,
-    "spaet": false,
-    "symbol": "DERP",
-    "t": 1795724499.5112214
-   },
-   {
-    "mint": "DSYuQGcQ3kGhhvAMi7WHEtFBmiUUXhbsNdSkuvHhpump",
-    "spaet": true,
-    "t": 1795724563.9398928
-   },
    {
     "dauer": 33.39495635032654,
     "ersteller_verkauft": false,
@@ -581,6 +534,66 @@
     "spaet": false,
     "symbol": "KAI",
     "t": 1795727788.6995735
+   },
+   {
+    "dauer": 55.239489793777466,
+    "ersteller_verkauft": true,
+    "kaeufer": 199,
+    "mint": "4FyanEm4AghRFAcFfQdk3jDF9zzWdJEHaTgadu9ipump",
+    "name": "JusticeForJennilyKalianneSrang",
+    "sol": 54.481294195999936,
+    "spaet": false,
+    "symbol": "JENNILY",
+    "t": 1795727893.8592649
+   },
+   {
+    "dauer": 965.9630780220032,
+    "ersteller_verkauft": false,
+    "kaeufer": 179,
+    "mint": "Bs65KuvSxcXd9eSKVLXJxyY1amzGn6k77T4U2B6k6CBP",
+    "name": "Call",
+    "sol": 59.483261181999964,
+    "spaet": false,
+    "symbol": "CALL",
+    "t": 1795727940.43527
+   },
+   {
+    "dauer": 231.683429479599,
+    "ersteller_verkauft": true,
+    "kaeufer": 17,
+    "mint": "5QC2xjLk8DnCKULcm1ea6iaEbhGj7oixMEsrozfvpump",
+    "name": "song coin",
+    "sol": 0.17952733599999993,
+    "spaet": false,
+    "symbol": "song",
+    "t": 1795728000.1648486
+   },
+   {
+    "dauer": 150.16826462745667,
+    "ersteller_verkauft": true,
+    "kaeufer": 26,
+    "mint": "EdmoWut9xki1Raxqux5XedeCVfGLF6r7AFyRiucvpump",
+    "name": "34percent",
+    "sol": 0.6209616599999995,
+    "spaet": false,
+    "symbol": "34%",
+    "t": 1795728033.6805074
+   },
+   {
+    "mint": "6Sm9SMP11iFuL7AqFCJeyQc23WF4s1ZGxS7JXveQJRW",
+    "spaet": true,
+    "t": 1795728094.414909
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump",
+    "name": "UGOS",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UGOS",
+    "t": 1795728131.9671369
    }
   ],
   "uebersicht": 1795727879.9348903
