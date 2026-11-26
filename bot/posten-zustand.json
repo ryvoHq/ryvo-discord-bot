@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 406,
+ "laeufe": 407,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,37 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "mint": "9j2rBstNEbEYMwiiUB3JUQopsUqG7nVMRBJwHYhxpump",
-    "spaet": true,
-    "t": 1795720412.144398
-   },
-   {
-    "mint": "3TBMVf2vyjYy2YjqNU5d81778gNeTM348UUJCaL3pump",
-    "spaet": true,
-    "t": 1795720456.3071756
-   },
-   {
-    "mint": "2tve5T22eiQixi1TLaqhfh1VaG3LCwuH3MD45hECpump",
-    "spaet": true,
-    "t": 1795720575.9376616
-   },
-   {
-    "mint": "8vVR5M2xVgKx5x2aDSZXVpsjSzNiwcvGzcUMSQ7ppump",
-    "spaet": true,
-    "t": 1795720580.5977306
-   },
-   {
-    "dauer": 94.5718080997467,
-    "ersteller_verkauft": true,
-    "kaeufer": 387,
-    "mint": "B3DuyhvkfdMwtKKCj1rUDymUWXMnxkyKkU1P6UUupump",
-    "name": "Venice Dino",
-    "sol": 84.67423918399994,
-    "spaet": false,
-    "symbol": "vDino",
-    "t": 1795720586.4174786
-   },
    {
     "dauer": 123.99718189239502,
     "ersteller_verkauft": false,
@@ -589,9 +558,74 @@
     "spaet": false,
     "symbol": "PI",
     "t": 1795723776.5183005
+   },
+   {
+    "dauer": 136.37449741363525,
+    "ersteller_verkauft": false,
+    "kaeufer": 148,
+    "mint": "7THHu2xgR4bYGKf4dbQiz5Wnv2eCkwR7w145NLspump",
+    "name": "Starbucks Corporation",
+    "sol": 85.64356099799994,
+    "spaet": false,
+    "symbol": "STARBUCKS",
+    "t": 1795723963.0041056
+   },
+   {
+    "mint": "3cNqtXapssatNcnZ8JXtzK8hgcCdwJiqfUSfWgDEpump",
+    "spaet": true,
+    "t": 1795723986.364493
+   },
+   {
+    "mint": "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump",
+    "spaet": true,
+    "t": 1795724005.0095618
+   },
+   {
+    "dauer": 0.0009353160858154297,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "ChYn9ZpCUzrwd8rcpUtr7K7iKgDWUfJijM4xwxBCpump",
+    "name": "Elonmas",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Elonmas",
+    "t": 1795724151.8005533
+   },
+   {
+    "dauer": 802.7128224372864,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "6gwGhxrth77pTpU23ssyxRrtqExw4mWwDrkYgg8Bpump",
+    "name": "CATECOIN",
+    "sol": -0.06589554699999846,
+    "spaet": false,
+    "symbol": "$CAT",
+    "t": 1795724154.0971608
+   },
+   {
+    "dauer": 37.44531536102295,
+    "ersteller_verkauft": true,
+    "kaeufer": 12,
+    "mint": "3mmkctzyZJKWpUQvLeQwsvr2ShtHDbXDEhYnqGXapump",
+    "name": "My second coin",
+    "sol": 2.5699522829999997,
+    "spaet": false,
+    "symbol": "MSC",
+    "t": 1795724198.0158315
+   },
+   {
+    "dauer": 101.99882864952087,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "6sEDY3iPZLMWMsKNqaNSRNE5ytXF4X8gbqt3Rq5ypump",
+    "name": "COOLS",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "COOLS",
+    "t": 1795724243.5410147
    }
   ],
-  "uebersicht": 1795720236.7698689
+  "uebersicht": 1795724244.4573483
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
