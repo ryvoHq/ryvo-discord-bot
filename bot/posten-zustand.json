@@ -181,40 +181,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 245,
+ "laeufe": 246,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795678442.32647
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "4RXMvnG6eHYBqbMhw3qCVE4ifmudMZR7sFaX9SgYpump",
-    "name": "PROJECT ATX",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "ATX",
-    "t": 1795675168.4314327
-   },
-   {
-    "mint": "DLejZMyYmXFTvvx6FniaGzGSBA3C5ScnaMSSMwxMpump",
-    "spaet": true,
-    "t": 1795675314.9187243
-   },
-   {
-    "dauer": 157.15938425064087,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "6v489gBv5A7xwhdcBEmfpQJtvWZ1ZkJ83RVFLQ2Rpump",
-    "name": "itsmekwek",
-    "sol": 75.16074070699997,
-    "spaet": false,
-    "symbol": "itsmekwek",
-    "t": 1795675393.1150649
-   },
    {
     "mint": "78aHmgkutWmdPKuqrqJxjpB3qbY6WBxoYJ1x2fGxpump",
     "spaet": true,
@@ -333,6 +306,22 @@
     "mint": "B4nbyiK11LioXpcs7htExSZb1ZmPnNe8ieC4hpvmpump",
     "spaet": true,
     "t": 1795678423.9085684
+   },
+   {
+    "mint": "ZP4J8fNk7FC3iDUPAWd8TX6q8CkVVuSeJgnHCvpPSae",
+    "spaet": true,
+    "t": 1795678903.980384
+   },
+   {
+    "dauer": 188.5537233352661,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "EgW3XemJ4NYN5TUqL4X22JR4KScEtUcMBEbjjYN9pump",
+    "name": "FAT LUCIA",
+    "sol": 0.12499563199999987,
+    "spaet": false,
+    "symbol": "FLUC",
+    "t": 1795678904.3746548
    }
   ],
   "uebersicht": 1795678142.391696
