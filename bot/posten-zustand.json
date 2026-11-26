@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 199,
+ "laeufe": 200,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -249,6 +249,21 @@
     "spaet": false,
     "symbol": "OSC",
     "t": 1795665225.9144828
+   },
+   {
+    "mint": "BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump",
+    "spaet": true,
+    "t": 1795665406.2110949
+   },
+   {
+    "mint": "7S3TUfJZw9PrLqkM4YkSJ85ng17RjHpM8zwZf7Lopump",
+    "spaet": true,
+    "t": 1795665617.0849817
+   },
+   {
+    "mint": "D2rJuZejecEHNPZY8kcgMsYMUNVFYJx7iADiGjRppump",
+    "spaet": true,
+    "t": 1795665632.080836
    }
   ],
   "uebersicht": 1795662608.5641265
