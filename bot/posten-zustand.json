@@ -160,7 +160,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 158,
+ "laeufe": 159,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -170,22 +170,6 @@
    1795654044.0227242
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "DeACAbp2GMzapB6Z2K8qdkTZupmNbKc6EZx9bnbCpump",
-    "name": "Money Coin",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "MONEY",
-    "t": 1795650486.868653
-   },
-   {
-    "mint": "4xGG2v3KZVgGF6QYWAkAVQz7wgVGdKFy6oWPGgrZpump",
-    "spaet": true,
-    "t": 1795650671.1612873
-   },
    {
     "dauer": 223.10395407676697,
     "ersteller_verkauft": true,
@@ -375,6 +359,17 @@
     "spaet": false,
     "symbol": "Slapcat",
     "t": 1795653974.643471
+   },
+   {
+    "dauer": 210.61571049690247,
+    "ersteller_verkauft": false,
+    "kaeufer": 413,
+    "mint": "3r7Ki2dJUzFWJEMg69fP6KpoTxziVLGkgZDNyWyApump",
+    "name": "The Mooner",
+    "sol": 84.8241711699997,
+    "spaet": false,
+    "symbol": "SPEED",
+    "t": 1795654138.2664838
    }
   ],
   "uebersicht": 1795650995.5606854
