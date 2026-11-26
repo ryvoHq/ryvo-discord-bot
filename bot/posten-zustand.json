@@ -217,50 +217,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 396,
+ "laeufe": 397,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [
-   1795717836.593989
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "mint": "2JU4rVoA6Fjx5sSTZqVNvfS7T6h9fTFT2thbY6aypump",
-    "spaet": true,
-    "t": 1795717613.0230289
-   },
-   {
-    "dauer": 101.16658449172974,
-    "ersteller_verkauft": false,
-    "kaeufer": 133,
-    "mint": "aHDePRQP7CduXvktTdisKrGLkqYc6bS1KKsjnzYpump",
-    "name": "CocaCola | Offical",
-    "sol": 85.00535930100003,
-    "spaet": false,
-    "symbol": "Coca-Cola",
-    "t": 1795717735.910503
-   },
-   {
-    "dauer": 409.57035517692566,
-    "ersteller_verkauft": false,
-    "kaeufer": 288,
-    "mint": "5qYyTjP1Y2xfSUUayyEfXP5mxxBg1CEKcdPvmYEApump",
-    "name": "Criminul",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Criminul",
-    "t": 1795717782.3761418
-   },
-   {
-    "mint": "6UujkcdsXsTfHu48tNQxzTb1ijQRAxq5Y37orX1Gpump",
-    "spaet": true,
-    "t": 1795717787.01404
-   },
-   {
-    "mint": "6oMugdYEJQS2TAynGdkKdFSk7qXZVeJcoDFRz6nCpump",
-    "spaet": true,
-    "t": 1795717834.643588
-   },
    {
     "dauer": 830.1050462722778,
     "ersteller_verkauft": true,
@@ -468,6 +429,28 @@
     "mint": "E4ke397zxGzhoRmg83kioX7ua4SvWo6CyCV7eqAnpump",
     "spaet": true,
     "t": 1795721097.980767
+   },
+   {
+    "dauer": 157.75434851646423,
+    "ersteller_verkauft": false,
+    "kaeufer": 42,
+    "mint": "GmFw8ZFDGUycxhc2g6ZHb5XhS2P5GZhZ2d1ZTNjxpump",
+    "name": "warm pup",
+    "sol": 0.19230484799999653,
+    "spaet": false,
+    "symbol": "WARM",
+    "t": 1795721271.3268018
+   },
+   {
+    "dauer": 0.0003745555877685547,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "HYFbbfv771xSRXyF2rRdf6eQzucLhrSHd2JkE12vpump",
+    "name": "1 Trillion Dollar",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "1T",
+    "t": 1795721354.5537405
    }
   ],
   "uebersicht": 1795720236.7698689
