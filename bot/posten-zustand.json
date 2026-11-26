@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 366,
+ "laeufe": 367,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -219,33 +219,6 @@
    1795710792.3029368
   ],
   "stunde": [
-   {
-    "dauer": 155.56846404075623,
-    "ersteller_verkauft": true,
-    "kaeufer": 38,
-    "mint": "9eNETd6Zni4R6hQrqXu4FhTiEsDyjbm1yu8TWJZfpump",
-    "name": "GOLD EGG",
-    "sol": 1.1851328679999993,
-    "spaet": false,
-    "symbol": "GOLD",
-    "t": 1795709397.3864977
-   },
-   {
-    "mint": "HQZoz2eNiS4YgfLHzuwiZVUUuqTwpWaAaHXT2bEepump",
-    "spaet": true,
-    "t": 1795709450.2699988
-   },
-   {
-    "dauer": 1252.1925258636475,
-    "ersteller_verkauft": false,
-    "kaeufer": 417,
-    "mint": "a9tpCY1WLMybZAdWJ5u91TAdAiBrWRvBbDDEg1ypump",
-    "name": "Aries",
-    "sol": 30.354313966000014,
-    "spaet": false,
-    "symbol": "Aries",
-    "t": 1795709614.7209873
-   },
    {
     "mint": "8GE4mhEuU73LaJqPGA1XjsLL6MZYMRYxMKoeC9Mppump",
     "spaet": true,
@@ -502,6 +475,28 @@
     "mint": "AtmZQTxVHZN7yk7a2yodSmQhXgFT4jTPYXd5FrmY5v2t",
     "spaet": true,
     "t": 1795712787.146216
+   },
+   {
+    "dauer": 55.58836913108826,
+    "ersteller_verkauft": true,
+    "kaeufer": 243,
+    "mint": "71gaBj6zMfgsv8k1T338LGj6Tcyf61mkUspTkp5jpump",
+    "name": "freedom",
+    "sol": 86.49451059300003,
+    "spaet": false,
+    "symbol": "freedom",
+    "t": 1795713132.4736037
+   },
+   {
+    "dauer": 178.5696165561676,
+    "ersteller_verkauft": false,
+    "kaeufer": 102,
+    "mint": "4ykJMR3txJYxrbbG6SxPFvGSgX2iF5UiieXYJD4Npump",
+    "name": "Hamsanity",
+    "sol": 85.18661697599994,
+    "spaet": false,
+    "symbol": "HSANE",
+    "t": 1795713187.3496041
    }
   ],
   "uebersicht": 1795712938.5846055
