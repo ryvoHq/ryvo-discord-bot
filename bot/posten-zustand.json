@@ -187,36 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 291,
+ "laeufe": 292,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795688621.051997,
    1795691875.5381765
   ],
   "stunde": [
-   {
-    "dauer": 40.366594552993774,
-    "ersteller_verkauft": true,
-    "kaeufer": 8,
-    "mint": "6dryxFAps8ADQEHEBFWLV9bc7Z5yqF8UADedR54tpump",
-    "name": "Yee",
-    "sol": 6.363642922,
-    "spaet": false,
-    "symbol": "YEE",
-    "t": 1795688619.0589917
-   },
-   {
-    "dauer": 574.721518278122,
-    "ersteller_verkauft": true,
-    "kaeufer": 8,
-    "mint": "FBQMnvcpyz6ttzqs3fdTj6xKh2w7VNY1uXTm5ssvpump",
-    "name": "Yee",
-    "sol": 0.7296635319999998,
-    "spaet": false,
-    "symbol": "YEE",
-    "t": 1795688810.845131
-   },
    {
     "dauer": 0.3877737522125244,
     "ersteller_verkauft": false,
@@ -451,6 +428,44 @@
     "spaet": false,
     "symbol": "SAM",
     "t": 1795692139.1232657
+   },
+   {
+    "mint": "2X5HL8CfkCksr681PRTb1cPUVPEgieUd67KV8r26pump",
+    "spaet": true,
+    "t": 1795692245.0366108
+   },
+   {
+    "dauer": 0.0007576942443847656,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "CsreLoytab4PzfKfBCNshGzAgycV3A3njYeChBCEpump",
+    "name": "Elon Santa",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "SANTAMUSK",
+    "t": 1795692277.5217187
+   },
+   {
+    "dauer": 92.62299132347107,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "5tGa9fQcrUmcH19yKbYX2A8grXr6JauPU5muA4a8pump",
+    "name": "1sol and a dream",
+    "sol": 2.895263480000001,
+    "spaet": false,
+    "symbol": "$1",
+    "t": 1795692283.6077826
+   },
+   {
+    "dauer": 128.93578338623047,
+    "ersteller_verkauft": false,
+    "kaeufer": 8,
+    "mint": "4mFXRZUdTLq14PrH2JuxTf5bMykbBPNYZdzCkD5Tpump",
+    "name": "MONEYY",
+    "sol": 0.32105618599999985,
+    "spaet": false,
+    "symbol": "MONY",
+    "t": 1795692325.6275291
    }
   ],
   "uebersicht": 1795689221.233631
