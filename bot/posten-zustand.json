@@ -171,22 +171,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 237,
+ "laeufe": 238,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 110.88391494750977,
-    "ersteller_verkauft": false,
-    "kaeufer": 398,
-    "mint": "4VDjNNkemze5ZX5MWTzphtw6AtQdrJL2XqqPkt19pump",
-    "name": "Duvemas",
-    "sol": 72.12176119999995,
-    "spaet": false,
-    "symbol": "Duvemas",
-    "t": 1795672418.8240354
-   },
    {
     "dauer": 87.31626558303833,
     "ersteller_verkauft": true,
@@ -362,6 +351,17 @@
     "spaet": false,
     "symbol": "$BOOTY",
     "t": 1795675969.0197709
+   },
+   {
+    "dauer": 458.3659348487854,
+    "ersteller_verkauft": false,
+    "kaeufer": 154,
+    "mint": "Hg54KQcvDkpLEubbr9ptqKPxLS1Zwhe5uT4is4opump",
+    "name": "Cash Inu",
+    "sol": 85.03980050200002,
+    "spaet": false,
+    "symbol": "CI",
+    "t": 1795676238.171535
    }
   ],
   "uebersicht": 1795674496.7929566
