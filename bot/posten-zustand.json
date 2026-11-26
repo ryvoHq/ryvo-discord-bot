@@ -210,56 +210,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 374,
+ "laeufe": 375,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795713538.256644
   ],
   "stunde": [
-   {
-    "mint": "7fisFVdGDBBwmjd1Cd4SxFa7uY6WxXmixtQG8d1cpump",
-    "spaet": true,
-    "t": 1795711492.3087988
-   },
-   {
-    "mint": "Bk8MmjSJufNLdVLqBvxFhSMaP9v3sUpK2DJfs2TApump",
-    "spaet": true,
-    "t": 1795711493.5973372
-   },
-   {
-    "dauer": 46.602134466171265,
-    "ersteller_verkauft": true,
-    "kaeufer": 201,
-    "mint": "DeKcYLR1Gm5q1m3Qzqpi4gtDRUBCT79iKGa8Bz8Epump",
-    "name": "Kuro",
-    "sol": 85.00535940600003,
-    "spaet": false,
-    "symbol": "Kuro",
-    "t": 1795711561.380074
-   },
-   {
-    "dauer": 96.7427237033844,
-    "ersteller_verkauft": true,
-    "kaeufer": 182,
-    "mint": "5cL9dwoiVcXwUYg7oER6fCvbSuwr52bo7Fs4eEu4pump",
-    "name": "There's our little investor",
-    "sol": 62.181357971,
-    "spaet": false,
-    "symbol": "Investor",
-    "t": 1795711682.8470263
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "AaY6XtQZYYaxQ4fV8R8acConnMsgjg9zrZs341HUpump",
-    "name": "Kuro Shiba Inu",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "KURO",
-    "t": 1795711739.0966644
-   },
    {
     "dauer": 210.69692182540894,
     "ersteller_verkauft": false,
@@ -515,6 +472,38 @@
     "mint": "DwZtDej6Cgpuday2VaFfkWQtpUfJLKt12YCfAwgVpump",
     "spaet": true,
     "t": 1795714988.1419525
+   },
+   {
+    "mint": "8BXoFvGymvtUCju5iqRrTnoGVvmp6ZoNqAxtPmDjpump",
+    "spaet": true,
+    "t": 1795715107.5359771
+   },
+   {
+    "dauer": 0.0018167495727539062,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "5mcarCb8iF42YiRYwMivTuRXQvSMEgbpXCP2qzbfpump",
+    "name": "Boob Trap Christmas",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "BTC",
+    "t": 1795715153.596402
+   },
+   {
+    "mint": "5hq6VVX7qa2zeXAkiGobLCgJuR1iYLN6b5E4vmNvpump",
+    "spaet": true,
+    "t": 1795715161.4342523
+   },
+   {
+    "dauer": 146.57693696022034,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "59V2EMdxpbjBQYREve5Xv7KNyyFaQmcVadhKnsVVpump",
+    "name": "LUCIA ",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "LUCIA",
+    "t": 1795715167.0862682
    }
   ],
   "uebersicht": 1795712938.5846055
