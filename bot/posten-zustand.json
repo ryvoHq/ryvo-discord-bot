@@ -217,56 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 424,
+ "laeufe": 425,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "mint": "4sG2k4ezbQ4VcxgaWRsAUvmAT3KyAhKVcVBv8E2Ypump",
-    "spaet": true,
-    "t": 1795725546.7739384
-   },
-   {
-    "mint": "GeFCXKqU6yrfZAUdd2KAnFpbPb7Sn9DaWLsGadiQpump",
-    "spaet": true,
-    "t": 1795725579.8802652
-   },
-   {
-    "dauer": 283.90832567214966,
-    "ersteller_verkauft": false,
-    "kaeufer": 8,
-    "mint": "E3TrZXF96UWkvhVzERaGpUMYPnaRPFHHEiGo3paKpump",
-    "name": "Cranberry",
-    "sol": 0.622499547,
-    "spaet": false,
-    "symbol": "SAUCE",
-    "t": 1795725699.7371247
-   },
-   {
-    "dauer": 512.0500957965851,
-    "ersteller_verkauft": true,
-    "kaeufer": 12,
-    "mint": "5X76EnqbBZxB2y9hgz2sZXmgyEgumUYe7KJeGNmRpump",
-    "name": "chair",
-    "sol": 2.643521460000002,
-    "spaet": false,
-    "symbol": "ch",
-    "t": 1795725711.6751294
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "HQs4Zd8w1jGR72o43iP58U43QtDdTTUE3Dq9Dv4dpump",
-    "name": "United States Oil Index",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "USOI",
-    "t": 1795725720.97583
-   },
    {
     "mint": "8UB2zMvBj9hYoPFgshAD6JDR9VZNWUU8GMiTiaD1pump",
     "spaet": true,
@@ -609,6 +566,33 @@
     "mint": "ARsCXBzVhyY81FeRJjtXgqe1oNUA66nhNx6yaDewpump",
     "spaet": true,
     "t": 1795728811.409882
+   },
+   {
+    "mint": "3putVacmV5BYPEXichHfBF61F8ibUV9fqDMdgx3Tpump",
+    "spaet": true,
+    "t": 1795729112.6148653
+   },
+   {
+    "dauer": 140.4187183380127,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "75kEr3WxRJQaCFsLSszKJYqjpfPgfP43j9PkxaVppump",
+    "name": "pulsar",
+    "sol": 0.46854092400000014,
+    "spaet": false,
+    "symbol": "pulsar",
+    "t": 1795729251.5725381
+   },
+   {
+    "dauer": 22.375046968460083,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "FXvRR653yP3qQwzSXqrPsesfQkb9BPezcWi2ktm8pump",
+    "name": "COGE CAT",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "COGE",
+    "t": 1795729303.431867
    }
   ],
   "uebersicht": 1795727879.9348903
