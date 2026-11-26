@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 224,
+ "laeufe": 225,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -413,6 +413,17 @@
     "spaet": false,
     "symbol": "SATINU",
     "t": 1795672267.0038078
+   },
+   {
+    "dauer": 110.88391494750977,
+    "ersteller_verkauft": false,
+    "kaeufer": 398,
+    "mint": "4VDjNNkemze5ZX5MWTzphtw6AtQdrJL2XqqPkt19pump",
+    "name": "Duvemas",
+    "sol": 72.12176119999995,
+    "spaet": false,
+    "symbol": "Duvemas",
+    "t": 1795672418.8240354
    }
   ],
   "uebersicht": 1795669916.9233382
