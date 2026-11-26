@@ -171,35 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 234,
+ "laeufe": 235,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "osXbVsbn1E4nwogdQrTNvn7AV448UGJFmjnWmhApump",
-    "name": "United Bitcoin Reserve",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795671502.9077277
-   },
-   {
-    "dauer": 92.31998467445374,
-    "ersteller_verkauft": false,
-    "kaeufer": 140,
-    "mint": "26eAyWoHTZfwGj8BvczSkRnyDAFXVx8HVxoXRNaSpump",
-    "name": "牛来",
-    "sol": 84.29605225799995,
-    "spaet": false,
-    "symbol": "牛来",
-    "t": 1795671612.6340582
-   },
    {
     "mint": "5AG8xkzNcRLS5jLZpDZPZmjHeHMXCTrLP8LkzUrkpump",
     "spaet": true,
@@ -359,6 +337,33 @@
     "mint": "YArspJG2Fmkh91mZjtVfvtYVXLhgjgjQnoRYgLTpump",
     "spaet": true,
     "t": 1795674781.4652076
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "4RXMvnG6eHYBqbMhw3qCVE4ifmudMZR7sFaX9SgYpump",
+    "name": "PROJECT ATX",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "ATX",
+    "t": 1795675168.4314327
+   },
+   {
+    "mint": "DLejZMyYmXFTvvx6FniaGzGSBA3C5ScnaMSSMwxMpump",
+    "spaet": true,
+    "t": 1795675314.9187243
+   },
+   {
+    "dauer": 157.15938425064087,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "6v489gBv5A7xwhdcBEmfpQJtvWZ1ZkJ83RVFLQ2Rpump",
+    "name": "itsmekwek",
+    "sol": 75.16074070699997,
+    "spaet": false,
+    "symbol": "itsmekwek",
+    "t": 1795675393.1150649
    }
   ],
   "uebersicht": 1795674496.7929566
