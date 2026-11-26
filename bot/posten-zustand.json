@@ -160,37 +160,16 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 157,
+ "laeufe": 158,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795650995.5606854,
    1795651295.709376,
-   1795653144.5292451
+   1795653144.5292451,
+   1795654044.0227242
   ],
   "stunde": [
-   {
-    "dauer": 68.20644950866699,
-    "ersteller_verkauft": true,
-    "kaeufer": 259,
-    "mint": "HfHbSZwd6wpMVqtrQJaUukEPipRSfB8JEJ6PMJJHpump",
-    "name": "Very Valuable Vagina",
-    "sol": 85.846360059,
-    "spaet": false,
-    "symbol": "VVV",
-    "t": 1795650349.4361224
-   },
-   {
-    "dauer": 262.1209247112274,
-    "ersteller_verkauft": false,
-    "kaeufer": 142,
-    "mint": "u3g7DfbKB9GWpdwkkhMW9HtjRqUAsrLQ7g1Bt6Npump",
-    "name": "Anthropic | Official Team",
-    "sol": 85.0053595629999,
-    "spaet": false,
-    "symbol": "Anthropic",
-    "t": 1795650366.5458915
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -374,6 +353,28 @@
     "spaet": false,
     "symbol": "PUMPCHAN",
     "t": 1795653703.8995595
+   },
+   {
+    "dauer": 135.0284173488617,
+    "ersteller_verkauft": false,
+    "kaeufer": 36,
+    "mint": "FDwyyB3g8ZcNyFt33rTBFh6bgn7sdtr7cq6QCoPypump",
+    "name": "CAt FiSh",
+    "sol": 0.24034065200000018,
+    "spaet": false,
+    "symbol": "CATFISH",
+    "t": 1795653821.1218963
+   },
+   {
+    "dauer": 1824.4415953159332,
+    "ersteller_verkauft": true,
+    "kaeufer": 583,
+    "mint": "AqNAfcg8AkidVLLE7Tszh2PjUGzgaKvJskDXQXRHpump",
+    "name": "The Slap Cat",
+    "sol": 52.17131204099978,
+    "spaet": false,
+    "symbol": "Slapcat",
+    "t": 1795653974.643471
    }
   ],
   "uebersicht": 1795650995.5606854
