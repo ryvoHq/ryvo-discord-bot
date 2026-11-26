@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 388,
+ "laeufe": 389,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -401,6 +401,27 @@
     "spaet": false,
     "symbol": "Criminul",
     "t": 1795718939.8949997
+   },
+   {
+    "dauer": 36.33008575439453,
+    "ersteller_verkauft": true,
+    "kaeufer": 164,
+    "mint": "DyHYbb4qmBoRtkgxmgaqiYHLoFXCCWLUBys4LMPFpump",
+    "name": "Jewcoin",
+    "sol": 82.70966636899998,
+    "spaet": false,
+    "symbol": "Jewcoin",
+    "t": 1795719072.2234323
+   },
+   {
+    "mint": "5BV4g2kVsiTbueGDE29bBXCRVaZoP3DV2GNHD83tpump",
+    "spaet": true,
+    "t": 1795719130.077831
+   },
+   {
+    "mint": "CNdKtM4y19AGBSMctsAuhPV2hYRqwyYfvqW7ZGjSpump",
+    "spaet": true,
+    "t": 1795719331.6366107
    }
   ],
   "uebersicht": 1795716578.2890353
