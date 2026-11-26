@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 288,
+ "laeufe": 289,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,33 +195,6 @@
    1795688621.051997
   ],
   "stunde": [
-   {
-    "dauer": 255.57872223854065,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "6PKUaDJgLWDtrZ2JYtJDjCkvwSircTKwSXLEWqQ6pump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 0.7477781609999998,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795687759.1791992
-   },
-   {
-    "mint": "HN9jRRCKuLNL3oSgNV1MBvd3Krg6TingFntJp1PSpump",
-    "spaet": true,
-    "t": 1795687844.6039376
-   },
-   {
-    "dauer": 766.9408440589905,
-    "ersteller_verkauft": true,
-    "kaeufer": 692,
-    "mint": "6Y6ZyxUWmsSYPw1KayAj4Gb8ydxXwbGGTDCaQiBepump",
-    "name": "gob",
-    "sol": 88.23364868799942,
-    "spaet": false,
-    "symbol": "gob",
-    "t": 1795687953.9037879
-   },
    {
     "dauer": 241.4066231250763,
     "ersteller_verkauft": false,
@@ -396,6 +369,61 @@
     "spaet": false,
     "symbol": "NutC",
     "t": 1795690983.5082698
+   },
+   {
+    "dauer": 327.99211072921753,
+    "ersteller_verkauft": false,
+    "kaeufer": 48,
+    "mint": "6NTacw3J8nMTeTkSzJXuBMhfEAQvTTK5xNQD8cWQpump",
+    "name": "Salt",
+    "sol": 0.10020547699999761,
+    "spaet": false,
+    "symbol": "Salt ",
+    "t": 1795691376.6941798
+   },
+   {
+    "dauer": 138.474707365036,
+    "ersteller_verkauft": true,
+    "kaeufer": 35,
+    "mint": "4a6y2BXTzG54mQFLTFBApf27wRvmrbGvpwpUX2V6pump",
+    "name": "BEASTCOIN",
+    "sol": 0.1643185989999999,
+    "spaet": false,
+    "symbol": "BCOIN",
+    "t": 1795691430.8738928
+   },
+   {
+    "dauer": 159.06900334358215,
+    "ersteller_verkauft": true,
+    "kaeufer": 19,
+    "mint": "5tV6JTZazymQkrHoJ8V4w6K539756n1V5G2UsKEipump",
+    "name": "MAYHEM COIN",
+    "sol": 0.257696744,
+    "spaet": false,
+    "symbol": "MAYHEM",
+    "t": 1795691479.0116353
+   },
+   {
+    "dauer": 153.86174941062927,
+    "ersteller_verkauft": true,
+    "kaeufer": 31,
+    "mint": "78zPrQMmNm8Qa9dx3A3Rz2VG5iDTPgZk5mbuuCqJpump",
+    "name": "Agentic B COIN",
+    "sol": 3.591604209,
+    "spaet": false,
+    "symbol": "$AGB",
+    "t": 1795691528.1161656
+   },
+   {
+    "dauer": 114.59404993057251,
+    "ersteller_verkauft": false,
+    "kaeufer": 130,
+    "mint": "7zEx7Ew11FEPPxVc71P1GtmoGCfrJBStQvyFCWbZpump",
+    "name": "Basket",
+    "sol": 85.31972273699995,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795691534.954606
    }
   ],
   "uebersicht": 1795689221.233631
