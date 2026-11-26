@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 400,
+ "laeufe": 401,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,28 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "dauer": 9.9228515625,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "CmhBww3cCGKVFCRSyBUoeb416x1pH4F2rzKAzW1upump",
-    "name": "Criminul",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Criminul",
-    "t": 1795718939.8949997
-   },
-   {
-    "dauer": 36.33008575439453,
-    "ersteller_verkauft": true,
-    "kaeufer": 164,
-    "mint": "DyHYbb4qmBoRtkgxmgaqiYHLoFXCCWLUBys4LMPFpump",
-    "name": "Jewcoin",
-    "sol": 82.70966636899998,
-    "spaet": false,
-    "symbol": "Jewcoin",
-    "t": 1795719072.2234323
-   },
    {
     "mint": "5BV4g2kVsiTbueGDE29bBXCRVaZoP3DV2GNHD83tpump",
     "spaet": true,
@@ -568,6 +546,33 @@
     "spaet": false,
     "symbol": "SENTAI",
     "t": 1795722282.453833
+   },
+   {
+    "dauer": 982.1028916835785,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "DHYZoFoXjLnadkkR5dorooWAQPxL9a9zwM48FMDxpump",
+    "name": "Meme Comeback",
+    "sol": 2.195426232,
+    "spaet": false,
+    "symbol": "comeback",
+    "t": 1795722594.2690282
+   },
+   {
+    "mint": "FwU1RkVVMTSzwQZ9KqPUUPBHMRaJd3yvcm3PYPosEGoC",
+    "spaet": true,
+    "t": 1795722617.285659
+   },
+   {
+    "dauer": 6.911442756652832,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "3JuzW5gEzTo7p7kQ75dwTpeexMvd3LWocGEsqc9Rpump",
+    "name": "SUNDANCE",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SUNDANCE",
+    "t": 1795722641.8248053
    }
   ],
   "uebersicht": 1795720236.7698689
