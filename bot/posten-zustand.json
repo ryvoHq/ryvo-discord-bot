@@ -171,57 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 232,
+ "laeufe": 233,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 307.18026542663574,
-    "ersteller_verkauft": false,
-    "kaeufer": 123,
-    "mint": "319GsDJVhLvVT3rsn1hZ3qwZBhAYeSowa19WpuY5pump",
-    "name": "The Black Bull",
-    "sol": 84.567537635,
-    "spaet": false,
-    "symbol": "ANSEM",
-    "t": 1795670981.5900416
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "GrwSJFTozsN6dUEGvcFFpheZxcxv718KLEvfBT6ipump",
-    "name": "U0DF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "U0DF",
-    "t": 1795670990.5632043
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "pC4WQuWeXaMDAMGpv4YrMJ8pcfX5pP9msYoZep2pump",
-    "name": "privacyCASH",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "PRV",
-    "t": 1795671112.9155238
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "BTzNoFoNL88oTwHc9LyHAiAJfEYsbS46iicH48Hupump",
-    "name": "PROJECT ATX",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "ATX",
-    "t": 1795671150.5073853
-   },
    {
     "dauer": 149.15753483772278,
     "ersteller_verkauft": true,
@@ -382,6 +338,49 @@
     "mint": "2WYicw2ddgP5MEFmULTpBDgrbpfjnsYXhm5jCtbRpump",
     "spaet": true,
     "t": 1795674261.7539666
+   },
+   {
+    "dauer": 149.81019496917725,
+    "ersteller_verkauft": false,
+    "kaeufer": 29,
+    "mint": "4xdPQUEGps8wriY8s38QEFhZn5YB2DRgn9D46pSJpump",
+    "name": "WASTED TATE",
+    "sol": 0.10329055600000024,
+    "spaet": false,
+    "symbol": "$TATE",
+    "t": 1795674508.6996148
+   },
+   {
+    "dauer": 155.55187106132507,
+    "ersteller_verkauft": false,
+    "kaeufer": 33,
+    "mint": "GhVRofiPYtq3oyKgeQoGf1HqWqYpJy4RmPkKMQptpump",
+    "name": "ABU HOSSIEN",
+    "sol": 0.9954431849999992,
+    "spaet": false,
+    "symbol": "$ABU",
+    "t": 1795674649.553056
+   },
+   {
+    "dauer": 128.2847650051117,
+    "ersteller_verkauft": false,
+    "kaeufer": 43,
+    "mint": "DYKzUfMhug8j3Begn8gm2LkpYLXvJL33JnCn1DCZpump",
+    "name": "itsmekwek",
+    "sol": 74.711875874,
+    "spaet": false,
+    "symbol": "itsmekwek",
+    "t": 1795674732.5196986
+   },
+   {
+    "mint": "F8gor7BbfPVR8RYgtWbfQPudXySGJ5QN1UeVHEQgpump",
+    "spaet": true,
+    "t": 1795674767.574708
+   },
+   {
+    "mint": "YArspJG2Fmkh91mZjtVfvtYVXLhgjgjQnoRYgLTpump",
+    "spaet": true,
+    "t": 1795674781.4652076
    }
   ],
   "uebersicht": 1795674496.7929566
