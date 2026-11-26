@@ -1,5 +1,5 @@
 {
- "aktien_tag": "2026-11-25",
+ "aktien_tag": "2026-11-26",
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-26",
  "ebenen_krypto": "2026-11-26",
@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 416,
+ "laeufe": 417,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
@@ -583,6 +583,17 @@
     "spaet": false,
     "symbol": "BARRON",
     "t": 1795726592.6884613
+   },
+   {
+    "dauer": 115.78117346763611,
+    "ersteller_verkauft": true,
+    "kaeufer": 170,
+    "mint": "8oEbu6udC7QTnWCmZQUKmnz1mazgNSnmWb95anxCpump",
+    "name": "The Thanksgiving Effect",
+    "sol": 62.456902658000004,
+    "spaet": false,
+    "symbol": "Thanksgiving",
+    "t": 1795726748.5261123
    }
   ],
   "uebersicht": 1795724244.4573483
