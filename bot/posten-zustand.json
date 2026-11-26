@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 267,
+ "laeufe": 268,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -189,28 +189,6 @@
    1795684377.3718648
   ],
   "stunde": [
-   {
-    "dauer": 119.26209259033203,
-    "ersteller_verkauft": true,
-    "kaeufer": 182,
-    "mint": "4QYMzJXV1YzCZttfeNiNJfysVAwsgWykydikLm7ipump",
-    "name": "Basket",
-    "sol": 85.00535938599995,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795681579.5078168
-   },
-   {
-    "dauer": 653.5335404872894,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "FCLVypP6Y7TfobNZxheYFjtTYS9hg9ZaxPvnK7XNpump",
-    "name": "Solana Inu VI",
-    "sol": 0.041629961999999965,
-    "spaet": false,
-    "symbol": "SOLVI",
-    "t": 1795681622.3962011
-   },
    {
     "mint": "3Dsc59bPfnX5JKBfLHRq95BjHDruG3Ju6XAYUdfopump",
     "spaet": true,
@@ -351,6 +329,11 @@
     "mint": "52a6B3qpwGN9daQBTu8kvbXQVgThuiGMJE1mmCEgpump",
     "spaet": true,
     "t": 1795684766.3427436
+   },
+   {
+    "mint": "CbGrZ3Q2XxSV2oiZsLkDWW1GFjrqUDAzTH9XwVr1pump",
+    "spaet": true,
+    "t": 1795685270.4035578
    }
   ],
   "uebersicht": 1795681825.5290093
