@@ -199,47 +199,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 338,
+ "laeufe": 339,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795701608.067284,
    1795704362.7648325,
    1795704962.4614937
   ],
   "stunde": [
-   {
-    "mint": "DC1vy25nn2U6CDYD9LuaMWmxrmH6PQQVd6BrgAMFpump",
-    "spaet": true,
-    "t": 1795701500.3891582
-   },
-   {
-    "dauer": 27.40074634552002,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "Ahx8Js3NU6Twzm99YGcn8wWjEkbr11TVsVnymc3Ypump",
-    "name": "Duckroll",
-    "sol": 85.00535907599998,
-    "spaet": false,
-    "symbol": "Duckroll",
-    "t": 1795701562.1727116
-   },
-   {
-    "dauer": 354.42642092704773,
-    "ersteller_verkauft": false,
-    "kaeufer": 641,
-    "mint": "DCRBawVJ7NAGPaFgPmd12Htwez2SJBqJLW4NC9tUpump",
-    "name": "Irochancoin",
-    "sol": 88.86920897099945,
-    "spaet": false,
-    "symbol": "Irochan",
-    "t": 1795701565.7534525
-   },
-   {
-    "mint": "HNuVZNF1ao31MWvYGiLtoyMq4WDiQjDYZqqtC4nWpump",
-    "spaet": true,
-    "t": 1795701577.4290044
-   },
    {
     "mint": "HCgRicDtiKd67V7Fg1T23fqiQ36SGSsGpBXX7w7BE3MW",
     "spaet": true,
@@ -439,6 +406,28 @@
     "spaet": false,
     "symbol": "DONT BUY",
     "t": 1795704871.8760462
+   },
+   {
+    "dauer": 47.75076627731323,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "8ywjbLCbW3Nn1dDsMKQz1Bghcv7H2sm5D6pCDKMjpump",
+    "name": "LUCIA",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "LUCIA",
+    "t": 1795705119.405456
+   },
+   {
+    "dauer": 84.9601137638092,
+    "ersteller_verkauft": false,
+    "kaeufer": 118,
+    "mint": "BHhMcQW3qCdS1ohLf1y4ptCCrZkXetadtTV261rpump",
+    "name": "CocaCola | Offical",
+    "sol": 84.784160171,
+    "spaet": false,
+    "symbol": "Coca-Cola",
+    "t": 1795705314.4079661
    }
   ],
   "uebersicht": 1795704662.8075502
