@@ -193,7 +193,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 325,
+ "laeufe": 326,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -203,17 +203,6 @@
    1795701608.067284
   ],
   "stunde": [
-   {
-    "dauer": 201.2658178806305,
-    "ersteller_verkauft": false,
-    "kaeufer": 46,
-    "mint": "8uiKjhDEQyoSBTVJq9awqQuWzsanSPhWbu5Q6Zggpump",
-    "name": "Cat Labs M",
-    "sol": 0.9616889259999996,
-    "spaet": false,
-    "symbol": "CLM",
-    "t": 1795698095.844934
-   },
    {
     "mint": "DCGnd59dPcHDegRW52jh5dUMpsLKpYQ22RyphaWWpump",
     "spaet": true,
