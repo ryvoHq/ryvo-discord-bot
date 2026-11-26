@@ -163,29 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 193,
+ "laeufe": 194,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795662908.7599454
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "6VQDGxwCFohfx6fnzW56hR14pskEuH1LJWGzzhMFpump",
-    "name": "The Blue Pengu",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Froovik",
-    "t": 1795660263.1883628
-   },
-   {
-    "mint": "ebSyELGXjyddEmEcZ9MpvZdANmx1aFB6kGWKDkUpump",
-    "spaet": true,
-    "t": 1795660464.3538146
-   },
    {
     "mint": "J9Y4BBPASJcvFFfHHFnykdeSLeTQNmHUQhX3qmL2pump",
     "spaet": true,
