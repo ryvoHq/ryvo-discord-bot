@@ -217,22 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 397,
+ "laeufe": 398,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795721802.4028332
+  ],
   "stunde": [
-   {
-    "dauer": 830.1050462722778,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "Fh36C744zXDvLNN7HpN9XT8Lf7JCRBrU47qj8dQNpump",
-    "name": "$BARON",
-    "sol": 0.5036850689999997,
-    "spaet": false,
-    "symbol": "$BARON",
-    "t": 1795718126.834334
-   },
    {
     "dauer": 0.12433171272277832,
     "ersteller_verkauft": false,
@@ -451,6 +442,59 @@
     "spaet": false,
     "symbol": "1T",
     "t": 1795721354.5537405
+   },
+   {
+    "dauer": 133.92379140853882,
+    "ersteller_verkauft": false,
+    "kaeufer": 257,
+    "mint": "CmwDDaWR6VTqdRvUoYAxVX9Yzjx1vSAqVsDjdcxQpump",
+    "name": "Gooncoin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "GOON",
+    "t": 1795721523.1492846
+   },
+   {
+    "mint": "3zUCuK5APJAFhx6r8uYVGC2dKzcYLLmDUhTKf1nepump",
+    "spaet": true,
+    "t": 1795721734.3718853
+   },
+   {
+    "mint": "GJSdVycNGiGxPaNn3GNiM62LZs6FnN1aN64uHVBYpump",
+    "spaet": true,
+    "t": 1795721747.6361566
+   },
+   {
+    "dauer": 242.41865801811218,
+    "ersteller_verkauft": false,
+    "kaeufer": 552,
+    "mint": "6rRptDJnoTGfZzCpFqERAkNt6kCjXzTJcdwtCPYppump",
+    "name": "Sex Inu",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SI",
+    "t": 1795721762.1260293
+   },
+   {
+    "dauer": 4.242417097091675,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "GUC6hGnamYnd4MNz6TGaHLiVAribF3ZhDiswmeBZpump",
+    "name": "Gooncoin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "GOON",
+    "t": 1795721763.3810408
+   },
+   {
+    "mint": "5k3dzHrSYuNtPQozWanmvYb6HGG9qxma1pkY4iGzpump",
+    "spaet": true,
+    "t": 1795721777.0937748
+   },
+   {
+    "mint": "CWXefv59GMG1o35hMd7SNjtah5GhXViC2dc14hWfGJrk",
+    "spaet": true,
+    "t": 1795721797.1545956
    }
   ],
   "uebersicht": 1795720236.7698689
