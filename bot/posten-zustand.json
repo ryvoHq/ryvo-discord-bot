@@ -217,57 +217,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 410,
+ "laeufe": 411,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795721802.4028332,
    1795722102.5006723,
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "mint": "3zUCuK5APJAFhx6r8uYVGC2dKzcYLLmDUhTKf1nepump",
-    "spaet": true,
-    "t": 1795721734.3718853
-   },
-   {
-    "mint": "GJSdVycNGiGxPaNn3GNiM62LZs6FnN1aN64uHVBYpump",
-    "spaet": true,
-    "t": 1795721747.6361566
-   },
-   {
-    "dauer": 242.41865801811218,
-    "ersteller_verkauft": false,
-    "kaeufer": 552,
-    "mint": "6rRptDJnoTGfZzCpFqERAkNt6kCjXzTJcdwtCPYppump",
-    "name": "Sex Inu",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SI",
-    "t": 1795721762.1260293
-   },
-   {
-    "dauer": 4.242417097091675,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "GUC6hGnamYnd4MNz6TGaHLiVAribF3ZhDiswmeBZpump",
-    "name": "Gooncoin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "GOON",
-    "t": 1795721763.3810408
-   },
-   {
-    "mint": "5k3dzHrSYuNtPQozWanmvYb6HGG9qxma1pkY4iGzpump",
-    "spaet": true,
-    "t": 1795721777.0937748
-   },
-   {
-    "mint": "CWXefv59GMG1o35hMd7SNjtah5GhXViC2dc14hWfGJrk",
-    "spaet": true,
-    "t": 1795721797.1545956
-   },
    {
     "dauer": 886.2193353176117,
     "ersteller_verkauft": true,
@@ -610,6 +567,28 @@
     "mint": "34SCC7vBeoS4tFEtLZuYEPhUGzaR6ifYrSzEmE9Upump",
     "spaet": true,
     "t": 1795725137.8089724
+   },
+   {
+    "dauer": 3.9023914337158203,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "DG9Jkusr2qpyMdojNxrkVdZzyk5z3QnV1Ma8DzEgpump",
+    "name": "Zolana Coin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Zcoin",
+    "t": 1795725145.271308
+   },
+   {
+    "dauer": 1.253915548324585,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "7Ra3MpkkzGE8ibdt1AevUfpCToGy1fzE4kAkpngjVoYS",
+    "name": "Zolana Coin",
+    "sol": 85.005359104,
+    "spaet": false,
+    "symbol": "ZCOIN",
+    "t": 1795725184.2004845
    }
   ],
   "uebersicht": 1795724244.4573483
