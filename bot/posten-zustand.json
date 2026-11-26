@@ -163,46 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 178,
+ "laeufe": 179,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 262.05090975761414,
-    "ersteller_verkauft": false,
-    "kaeufer": 16,
-    "mint": "G3W7KTyy4knSKxQkVdntQ9XvfrAgjpni5wMosyhkpump",
-    "name": "MoonBUR",
-    "sol": 0.25561366200000024,
-    "spaet": false,
-    "symbol": "BuR$",
-    "t": 1795656032.0598807
-   },
-   {
-    "dauer": 112.94729852676392,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "BPjSQE4JrYxvYi1c9jk7oWgLy2e5VxsYRvxdUYbgpump",
-    "name": "MoonGoat",
-    "sol": 1.3182451659999943,
-    "spaet": false,
-    "symbol": "MGOAT",
-    "t": 1795656072.3207936
-   },
-   {
-    "dauer": 864.5182161331177,
-    "ersteller_verkauft": false,
-    "kaeufer": 432,
-    "mint": "8SEQBLxwZNjbJkByhhqYGBZ5hWXKJDDt8QJR9TcVpump",
-    "name": "Not Safe For Work",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "NSFW",
-    "t": 1795656246.7987688
-   },
    {
     "mint": "FubTLBcy3LZJro14qVvXW7v8mEyug4MedaPdLrNTpump",
     "spaet": true,
@@ -244,6 +211,11 @@
     "mint": "3XQeJEFVsB1C3pBEiUwVgRZ2TDG913Feg9nV1kK6pump",
     "spaet": true,
     "t": 1795659194.8003345
+   },
+   {
+    "mint": "8JqkCEzu4QABycv1XkmtNQjXkK7Rg95a6WuAoZMCpump",
+    "spaet": true,
+    "t": 1795659610.0070567
    }
   ],
   "uebersicht": 1795658964.334879
