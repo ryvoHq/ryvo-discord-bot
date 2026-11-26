@@ -187,29 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 303,
+ "laeufe": 304,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795692775.3964045
   ],
   "stunde": [
-   {
-    "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump",
-    "spaet": true,
-    "t": 1795691967.2169309
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "BT9RBddPbchCGCvvNWPmgHn8fo6zyDzhjVKwq5dhpump",
-    "name": "SAM COIN",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "SAM",
-    "t": 1795692139.1232657
-   },
    {
     "mint": "2X5HL8CfkCksr681PRTb1cPUVPEgieUd67KV8r26pump",
     "spaet": true,
@@ -383,6 +367,33 @@
     "spaet": false,
     "symbol": "STENKS",
     "t": 1795695355.954333
+   },
+   {
+    "dauer": 36.33135771751404,
+    "ersteller_verkauft": false,
+    "kaeufer": 15,
+    "mint": "DXCBNdpnTYvmBYHwSzQVUphvVNHnqCtRQVXSxXRCpump",
+    "name": "The Tiny Buffalo",
+    "sol": 85.00535907300001,
+    "spaet": false,
+    "symbol": "Pinky",
+    "t": 1795695606.0700004
+   },
+   {
+    "dauer": 0.057041168212890625,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "EgettmgjTuAdsWU8yhALBY4gsyKwJ91spX334sdWpump",
+    "name": "Dump Chan",
+    "sol": 85.00535907099999,
+    "spaet": false,
+    "symbol": "DUMPCHAN",
+    "t": 1795695639.3825347
+   },
+   {
+    "mint": "C3DC9zMsAaPHY9LVhz1F12FJdAWNcoDCuXxSisZopump",
+    "spaet": true,
+    "t": 1795695693.1210046
    }
   ],
   "uebersicht": 1795693716.239242
