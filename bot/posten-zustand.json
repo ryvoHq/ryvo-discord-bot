@@ -160,62 +160,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 154,
+ "laeufe": 155,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795650995.5606854,
-   1795651295.709376
+   1795651295.709376,
+   1795653144.5292451
   ],
   "stunde": [
-   {
-    "mint": "HJxaaQv6zenNfMFgknnaWBNPetVXSAv7cEup1yAgpump",
-    "spaet": true,
-    "t": 1795649330.4255927
-   },
-   {
-    "mint": "G8q8PCEvzTmnrWgLovHSGMvGsFoqZiaQ2yyzmp7NxJBF",
-    "spaet": true,
-    "t": 1795649332.5364501
-   },
-   {
-    "mint": "7XQZTFxKGuk3xg1zA6puVwYqnjAmKSwXCjMaUkmWpump",
-    "spaet": true,
-    "t": 1795649345.3331187
-   },
-   {
-    "dauer": 62.86939072608948,
-    "ersteller_verkauft": true,
-    "kaeufer": 309,
-    "mint": "9BSnMp1ePp4ANcE5FZW5gua55S4dA6MUtUqsMtu7pump",
-    "name": "Yee",
-    "sol": 83.90996999999994,
-    "spaet": false,
-    "symbol": "YEE",
-    "t": 1795649372.6786737
-   },
-   {
-    "dauer": 287.65689992904663,
-    "ersteller_verkauft": false,
-    "kaeufer": 204,
-    "mint": "KBtdgrc116uL7Z3SzUWuABxMSoMGWgpXna6J5Hypump",
-    "name": "Jensen Is Back",
-    "sol": 84.882822841,
-    "spaet": false,
-    "symbol": "JENSEN",
-    "t": 1795649489.866894
-   },
-   {
-    "dauer": 404.58605909347534,
-    "ersteller_verkauft": true,
-    "kaeufer": 24,
-    "mint": "BH4PQJCEg5hT5Tv8cyeshfVA7yJ5NmMWcmNC4ehCpump",
-    "name": "The Chosen",
-    "sol": 0.2502816059999999,
-    "spaet": false,
-    "symbol": "ComeSee",
-    "t": 1795649540.4620664
-   },
    {
     "mint": "GRXSoGBqmTkS78Rrvm8QyBJH9XMe8562eZojzHj2pump",
     "spaet": true,
@@ -465,6 +418,22 @@
     "mint": "E5kA7z678PShpxnxM9KKTu5nErBMu6DVyf4H8BGcpump",
     "spaet": true,
     "t": 1795652573.806804
+   },
+   {
+    "dauer": 829.0543828010559,
+    "ersteller_verkauft": true,
+    "kaeufer": 267,
+    "mint": "76axAUkdSFaF45HG9QMqNu7s6JwMwUnadvHe1zeDpump",
+    "name": "ZeroSumEnjoyer",
+    "sol": 29.233312453999986,
+    "spaet": false,
+    "symbol": "Solace",
+    "t": 1795652867.8263175
+   },
+   {
+    "mint": "5J2GqPWDoTRph1VTubKXLJovh3s3KZFXTFDbad1gpump",
+    "spaet": true,
+    "t": 1795653016.7892644
    }
   ],
   "uebersicht": 1795650995.5606854
