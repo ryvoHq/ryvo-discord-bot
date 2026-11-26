@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 345,
+ "laeufe": 346,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -208,11 +208,6 @@
    1795707147.5383089
   ],
   "stunde": [
-   {
-    "mint": "43kTJmjeLZAzqiUYpbtiwUhnsVxbAPZ92ULYyu7apump",
-    "spaet": true,
-    "t": 1795703722.1605809
-   },
    {
     "dauer": 141.4981243610382,
     "ersteller_verkauft": true,
@@ -513,6 +508,38 @@
     "spaet": false,
     "symbol": "$LA BEAST",
     "t": 1795707070.302036
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "vXCsmnN5k1HsRyk3GuracZfJ2heMmoR9Sjz6e4epump",
+    "name": "United Bitcoin Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795707160.4106958
+   },
+   {
+    "dauer": 351.2529065608978,
+    "ersteller_verkauft": true,
+    "kaeufer": 15,
+    "mint": "BQvMi8JhVqMTcuyHYbEQfHm5m2sPV7ngsVYcFnTZpump",
+    "name": "Haaland Hair",
+    "sol": 0.006984321000000029,
+    "spaet": false,
+    "symbol": "HALH",
+    "t": 1795707240.1886876
+   },
+   {
+    "mint": "8EqPftrSDdcVvE9Xd69Yh8AKUQ4PyVKVsSmL2MyGpump",
+    "spaet": true,
+    "t": 1795707397.1301124
+   },
+   {
+    "mint": "2fYRFfcwwz4wJg7inYwDkpWVdxTGf93WT9SRekFfpump",
+    "spaet": true,
+    "t": 1795707432.17238
    }
   ],
   "uebersicht": 1795704662.8075502
