@@ -171,24 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 227,
+ "laeufe": 228,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "91Nahzz8NX1p9dc466RF5me5Q1LGDfY4KjBbyrnmpump",
-    "name": "GOTF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "GOTF",
-    "t": 1795669691.4929454
-   },
    {
     "mint": "9npjdLbPzRY4ebNvKusB3D692pehWBqtxYZJ1nW8pump",
     "spaet": true,
