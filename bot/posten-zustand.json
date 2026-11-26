@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 287,
+ "laeufe": 288,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,22 +195,6 @@
    1795688621.051997
   ],
   "stunde": [
-   {
-    "mint": "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump",
-    "spaet": true,
-    "t": 1795687589.0355613
-   },
-   {
-    "dauer": 198.5815465450287,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "7MYYv9U3ChJeA4zn2YsYwYVpcehHfx7YWEH4gSdipump",
-    "name": "LMAO",
-    "sol": 1.2678954879999993,
-    "spaet": false,
-    "symbol": "LMAO",
-    "t": 1795687628.3160245
-   },
    {
     "dauer": 255.57872223854065,
     "ersteller_verkauft": false,
@@ -401,6 +385,17 @@
     "spaet": false,
     "symbol": "ELIZABETH",
     "t": 1795690960.4792821
+   },
+   {
+    "dauer": 111.89786648750305,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "AT8iuqdxHLLHgC5uhmfpeQaqojNhYRmFwDq7mYqfpump",
+    "name": "NUTSEYY ",
+    "sol": 1.21349931,
+    "spaet": false,
+    "symbol": "NutC",
+    "t": 1795690983.5082698
    }
   ],
   "uebersicht": 1795689221.233631
