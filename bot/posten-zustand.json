@@ -221,53 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 435,
+ "laeufe": 436,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "CJPemZcsqi81Vc83WT1ov6dFs2TfKu6mSBxpS3h5pump",
-    "spaet": true,
-    "t": 1795728581.4501176
-   },
-   {
-    "mint": "AeE6Kb12vBfvgCjL6gGdL7Nx9kCwfsJf2AheApyepump",
-    "spaet": true,
-    "t": 1795728594.201675
-   },
-   {
-    "mint": "GQ1t6KhWJLCRwKBG8aaoG2h7akBt3QeKMW6SVyYDpump",
-    "spaet": true,
-    "t": 1795728647.859489
-   },
-   {
-    "dauer": 40.77027130126953,
-    "ersteller_verkauft": false,
-    "kaeufer": 83,
-    "mint": "DNXUBZ5ZR9PHxJDYoPHJvMjcQLvkBfqAQUNKT4iTpump",
-    "name": "Connie Corleone",
-    "sol": 52.23990324299999,
-    "spaet": false,
-    "symbol": "CONNIE",
-    "t": 1795728692.4213645
-   },
-   {
-    "dauer": 324.4095757007599,
-    "ersteller_verkauft": false,
-    "kaeufer": 132,
-    "mint": "TK1LpCBiboY93DNuYXkb932ZMrrpxEp2ysxDdGwpump",
-    "name": "Benz",
-    "sol": 83.54964147800003,
-    "spaet": false,
-    "symbol": "Mercedes",
-    "t": 1795728772.3496976
-   },
-   {
-    "mint": "ARsCXBzVhyY81FeRJjtXgqe1oNUA66nhNx6yaDewpump",
-    "spaet": true,
-    "t": 1795728811.409882
-   },
    {
     "mint": "3putVacmV5BYPEXichHfBF61F8ibUV9fqDMdgx3Tpump",
     "spaet": true,
@@ -448,6 +406,28 @@
     "spaet": false,
     "symbol": "SpaceX",
     "t": 1795732044.7120516
+   },
+   {
+    "dauer": 24.83487629890442,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "E5Uezn5wxdBQyDKvo5rSRK13LfRGttLJuqpQ6HdKpump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795732165.6335073
+   },
+   {
+    "dauer": 50.96812605857849,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "ChLKLLMNJeWGcEnkbTzEUQU9GuRJrV9VJ9d76Kprpump",
+    "name": "The Amazon Monkey",
+    "sol": 2.055109723,
+    "spaet": false,
+    "symbol": "ELIZABETH",
+    "t": 1795732326.304546
    }
   ],
   "uebersicht": 1795731519.2123363
