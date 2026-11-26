@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 368,
+ "laeufe": 369,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -218,49 +218,6 @@
    1795713538.256644
   ],
   "stunde": [
-   {
-    "dauer": 35.65710258483887,
-    "ersteller_verkauft": false,
-    "kaeufer": 4,
-    "mint": "Bwfg2Df8Kf1oHxkRh5Nu1jXp9agxAEeLpPzwxdqApump",
-    "name": "Lord X ",
-    "sol": 84.46089586,
-    "spaet": false,
-    "symbol": "X",
-    "t": 1795710017.2803202
-   },
-   {
-    "dauer": 0.0009093284606933594,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "F39a5zLgy7DdiDA2YmWt6RgMnQ9mfukqxc4qLcippump",
-    "name": "MemeStock",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "MEMESTOCK",
-    "t": 1795710028.6369772
-   },
-   {
-    "mint": "AReFEVhregksjEKitLHRhmDSNiKoX2oE7eWtwJXopump",
-    "spaet": true,
-    "t": 1795710095.3391995
-   },
-   {
-    "dauer": 292.00323009490967,
-    "ersteller_verkauft": true,
-    "kaeufer": 220,
-    "mint": "FKdK1CKDDbtigCxkKnsZyiFouiAPdTd8pyAykLs3pump",
-    "name": "wienercoin",
-    "sol": 72.68368138299992,
-    "spaet": false,
-    "symbol": "wiener",
-    "t": 1795710167.450022
-   },
-   {
-    "mint": "6tMxgWnpVGZgKwjXHYbrDKWDZM2RSPEc8DLkgagLpump",
-    "spaet": true,
-    "t": 1795710213.2150843
-   },
    {
     "mint": "AhAVs3hJVH9Zs4KRpvSEzZa2PJSuKcvYq164c1vupump",
     "spaet": true,
@@ -485,6 +442,17 @@
     "spaet": false,
     "symbol": "JENNILY",
     "t": 1795713519.574057
+   },
+   {
+    "dauer": 0.0016987323760986328,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "9tERTsZZj19ZHAqg7URtfkfPdaCiVeR4JkuPVoHrpump",
+    "name": "Jimmy Santa",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "JANTA",
+    "t": 1795713580.452797
    }
   ],
   "uebersicht": 1795712938.5846055
