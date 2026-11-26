@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 296,
+ "laeufe": 297,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -488,9 +488,20 @@
     "spaet": false,
     "symbol": "Fox",
     "t": 1795693274.0099227
+   },
+   {
+    "dauer": 30.412292957305908,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "BoTrv1hBPb6BRZbgvkGn57VCCRiN5JtAANFaf2QMpump",
+    "name": "konnichiwa",
+    "sol": 85.00535906400002,
+    "spaet": false,
+    "symbol": "konnichiwa",
+    "t": 1795693623.8111959
    }
   ],
-  "uebersicht": 1795689221.233631
+  "uebersicht": 1795693716.239242
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
