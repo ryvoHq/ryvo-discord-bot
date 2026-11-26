@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 192,
+ "laeufe": 193,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -253,6 +253,17 @@
     "mint": "BE7NjZVU2YQR1rF44qpcTN3jty7atNNNkRtgvu5Hpump",
     "spaet": true,
     "t": 1795663353.9882214
+   },
+   {
+    "dauer": 178.2481186389923,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "2iju24jug2AiLAB2M3uLZvHWDFJPNwiGqhZGPQxepump",
+    "name": "Moon Gremlin",
+    "sol": 0.1972996649999995,
+    "spaet": false,
+    "symbol": "GREMLIN",
+    "t": 1795663788.4713943
    }
   ],
   "uebersicht": 1795662608.5641265
