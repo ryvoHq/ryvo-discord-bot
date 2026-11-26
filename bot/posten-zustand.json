@@ -193,7 +193,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 327,
+ "laeufe": 328,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -203,22 +203,6 @@
    1795701608.067284
   ],
   "stunde": [
-   {
-    "mint": "DCGnd59dPcHDegRW52jh5dUMpsLKpYQ22RyphaWWpump",
-    "spaet": true,
-    "t": 1795698560.3540251
-   },
-   {
-    "dauer": 51.941821336746216,
-    "ersteller_verkauft": false,
-    "kaeufer": 120,
-    "mint": "DMJjagePv3o1SGbxZ22G4ySWheNHXaQo7S5W8tH9pump",
-    "name": "DOG3D",
-    "sol": 96.96298246799996,
-    "spaet": false,
-    "symbol": "DOG3D",
-    "t": 1795698601.445409
-   },
    {
     "dauer": 105.25265979766846,
     "ersteller_verkauft": false,
@@ -520,6 +504,11 @@
     "mint": "HNuVZNF1ao31MWvYGiLtoyMq4WDiQjDYZqqtC4nWpump",
     "spaet": true,
     "t": 1795701577.4290044
+   },
+   {
+    "mint": "HCgRicDtiKd67V7Fg1T23fqiQ36SGSsGpBXX7w7BE3MW",
+    "spaet": true,
+    "t": 1795702053.7993228
    }
   ],
   "uebersicht": 1795701008.133407
