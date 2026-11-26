@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 258,
+ "laeufe": 259,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -189,22 +189,6 @@
    1795679942.019533
   ],
   "stunde": [
-   {
-    "mint": "ZP4J8fNk7FC3iDUPAWd8TX6q8CkVVuSeJgnHCvpPSae",
-    "spaet": true,
-    "t": 1795678903.980384
-   },
-   {
-    "dauer": 188.5537233352661,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "EgW3XemJ4NYN5TUqL4X22JR4KScEtUcMBEbjjYN9pump",
-    "name": "FAT LUCIA",
-    "sol": 0.12499563199999987,
-    "spaet": false,
-    "symbol": "FLUC",
-    "t": 1795678904.3746548
-   },
    {
     "dauer": 175.1343550682068,
     "ersteller_verkauft": false,
@@ -377,6 +361,28 @@
     "spaet": false,
     "symbol": "bull",
     "t": 1795682348.7183537
+   },
+   {
+    "dauer": 0.0005245208740234375,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "9hTjkeV6TqqXZEXZZdjXzaFSBqgbC9pCeWaGDfBbpump",
+    "name": "SEXY ANIMAL",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "SEXYANIMAL",
+    "t": 1795682442.7007902
+   },
+   {
+    "dauer": 75.96244692802429,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "FwAfrts22LkEzxVQ3488jmJwwG3VWG5FHrj1bAGpump",
+    "name": "FAT LUCIA",
+    "sol": 0.43330860600000054,
+    "spaet": false,
+    "symbol": "FLUC",
+    "t": 1795682590.1660197
    }
   ],
   "uebersicht": 1795681825.5290093
