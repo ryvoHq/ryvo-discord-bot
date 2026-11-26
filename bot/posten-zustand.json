@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 393,
+ "laeufe": 394,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -225,22 +225,6 @@
    1795717836.593989
   ],
   "stunde": [
-   {
-    "mint": "CD3AHwDcZziU85JpxxMLW2xhXHJUgDyjUxJVjmUZpump",
-    "spaet": true,
-    "t": 1795716800.6958547
-   },
-   {
-    "dauer": 181.48399996757507,
-    "ersteller_verkauft": true,
-    "kaeufer": 24,
-    "mint": "Euzyd8Qi5VdmvY9BkvNVAhJkLCghL8qrT7KUVRPwpump",
-    "name": "Annoying Lime",
-    "sol": 2.8340514949999966,
-    "spaet": false,
-    "symbol": "$ALIME",
-    "t": 1795716829.5203228
-   },
    {
     "dauer": 33.21050810813904,
     "ersteller_verkauft": true,
@@ -427,6 +411,37 @@
     "mint": "EXm17ZSUZFLaastYtKBSK2y4iCCg3rrfTbPMVe5Npump",
     "spaet": true,
     "t": 1795720212.5602167
+   },
+   {
+    "mint": "9j2rBstNEbEYMwiiUB3JUQopsUqG7nVMRBJwHYhxpump",
+    "spaet": true,
+    "t": 1795720412.144398
+   },
+   {
+    "mint": "3TBMVf2vyjYy2YjqNU5d81778gNeTM348UUJCaL3pump",
+    "spaet": true,
+    "t": 1795720456.3071756
+   },
+   {
+    "mint": "2tve5T22eiQixi1TLaqhfh1VaG3LCwuH3MD45hECpump",
+    "spaet": true,
+    "t": 1795720575.9376616
+   },
+   {
+    "mint": "8vVR5M2xVgKx5x2aDSZXVpsjSzNiwcvGzcUMSQ7ppump",
+    "spaet": true,
+    "t": 1795720580.5977306
+   },
+   {
+    "dauer": 94.5718080997467,
+    "ersteller_verkauft": true,
+    "kaeufer": 387,
+    "mint": "B3DuyhvkfdMwtKKCj1rUDymUWXMnxkyKkU1P6UUupump",
+    "name": "Venice Dino",
+    "sol": 84.67423918399994,
+    "spaet": false,
+    "symbol": "vDino",
+    "t": 1795720586.4174786
    }
   ],
   "uebersicht": 1795720236.7698689
