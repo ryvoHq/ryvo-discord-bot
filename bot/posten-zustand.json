@@ -193,31 +193,16 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 321,
+ "laeufe": 322,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795697370.2715933,
    1795699807.7484126,
-   1795700107.5496376
+   1795700107.5496376,
+   1795700707.938028
   ],
   "stunde": [
-   {
-    "dauer": 331.0258855819702,
-    "ersteller_verkauft": false,
-    "kaeufer": 42,
-    "mint": "5Ep6an18VFo6tZGCzbD6tfRgDSHvhfEKvjxqfKjrpump",
-    "name": "Dogstar",
-    "sol": 0.25764432299999973,
-    "spaet": false,
-    "symbol": "DSTAR",
-    "t": 1795696858.4601047
-   },
-   {
-    "mint": "FPQSvZxD65LorsJrVgMZhJqtyh1WRZ57NnwLCim5pump",
-    "spaet": true,
-    "t": 1795696978.2119832
-   },
    {
     "dauer": 215.84784412384033,
     "ersteller_verkauft": false,
@@ -492,6 +477,28 @@
     "spaet": false,
     "symbol": "Koko",
     "t": 1795700304.7955656
+   },
+   {
+    "dauer": 1491.2642641067505,
+    "ersteller_verkauft": true,
+    "kaeufer": 258,
+    "mint": "8hjA4K8B9pRFqey1xxcRKE1pr7YVFW7iuaQ6SivNpump",
+    "name": "FoolCoin",
+    "sol": 71.91694887100002,
+    "spaet": false,
+    "symbol": "₣",
+    "t": 1795700640.8559768
+   },
+   {
+    "dauer": 375.36563777923584,
+    "ersteller_verkauft": false,
+    "kaeufer": 117,
+    "mint": "FGQQfXtwWLMRqjCVbjixnms3KZTwQi4iDBNyCr8bpump",
+    "name": "ZeroSumEnjoyer",
+    "sol": 66.10754758800002,
+    "spaet": false,
+    "symbol": "Zero",
+    "t": 1795700689.954504
    }
   ],
   "uebersicht": 1795697370.2715933
