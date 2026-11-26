@@ -6,6 +6,12 @@
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-26",
  "gesehen": [
+  "https://www.irishtimes.com/business/2026/11/26/labour-market-churn-rises-in-third-quarter/",
+  "https://www.rigzone.com/news/wire/opec_mulls_sticking_with_current_quotas-26-nov-2026-185177-article/",
+  "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
+  "https://www.thehindu.com/news/national/cpi-announces-three-day-jail-bharo-andolan-from-december-1/article71747798.ece",
+  "https://www.moneycontrol.com/news/business/markets/bitcoin-tops-60-000-as-risk-assets-rise-in-holiday-trading-14089877.html",
+  "https://economictimes.indiatimes.com/markets/stocks/news/inflation-scare-rising-prices-could-squeeze-india-inc-profits-in-q3-says-icra/articleshow/136187211.cms",
   "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
   "https://www.livemint.com/market/commodities/what-will-happen-to-gold-rates-crash-or-surge-after-the-us-fed-fomc-meeting-outcome-scenarios-explained-11795701687070.html",
   "https://www.n-tv.de/wirtschaft/Spanier-Hernandez-de-Cos-soll-Chef-der-EZB-werden-id31581106.html",
@@ -13,6 +19,7 @@
   "https://www.businesstimes.com.sg/companies-markets/banking-finance/ecb-already-had-large-support-rate-hike-october-accounts-show",
   "https://www.wiwo.de/finanzen/boerse/lagarde-nachfolge-ezb-chefposten-vergeben-uebernehmen-jetzt-die-tauben-das-ruder/100273014.html",
   "https://www.business-standard.com/economy/news/rupee-falls-as-oil-climbs-above-96-barrel-10-year-bond-yield-rises-7-bps-126112601278_1.html",
+  "https://www.rte.ie/news/business/2026/1126/1600777-new-ecb-president/",
   "https://www.n-tv.de/wirtschaft/Bericht-Spanier-Hernandez-de-Cos-wird-Chef-der-EZB-id31581106.html",
   "https://www.cityam.com/bank-of-england-sounds-alarm-on-opaque-ai-financing/",
   "https://www.businesstimes.com.sg/international/global/japan-firms-say-rate-hikes-are-starting-bite-new-study-shows",
@@ -64,14 +71,14 @@
   "https://fortune.com/2026/11/25/white-house-new-tariffs-inflation-data-expectations-fed/",
   "https://www.livemint.com/market/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins-11795637714378.html",
   "https://www.bnnbloomberg.ca/markets/oil/2026/11/25/opec-blames-eu-for-cop31-collapse/",
-  "https://financialpost.com/economy/bank-of-canadas-tiff-macklem-clears-the-way-for-december-rate-hike/",
-  "https://www.cityam.com/interest-rate-hike-risk-as-bank-officials-say-higher-prices-will-filter-through/",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://financialpost.com/economy/bank-of-canadas-tiff-macklem-clears-the-way-for-december-rate-hike/",
+  "https://www.cityam.com/interest-rate-hike-risk-as-bank-officials-say-higher-prices-will-filter-through/",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bitcoin-falls-below-59000-ethereum-under-1700-as-etf-outflows-macro-worries-weigh-on-crypto-market/articleshow/136166451.cms",
   "https://economictimes.indiatimes.com/news/international/world-news/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the-fed/articleshow/136166628.cms",
   "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -210,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 391,
+ "laeufe": 392,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -218,22 +225,6 @@
    1795717836.593989
   ],
   "stunde": [
-   {
-    "mint": "28Ch7fL2t6a99zbd4DLUt9mJuNJVASDWmRRC3UsVpump",
-    "spaet": true,
-    "t": 1795716367.8342957
-   },
-   {
-    "dauer": 59.91071796417236,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "6Ba4X8GtLhcQcBoaSMqrEVi8ZUa2CsEGAibxJ4agpump",
-    "name": "GainBro",
-    "sol": 0.821458338,
-    "spaet": false,
-    "symbol": "GNB",
-    "t": 1795716593.3512504
-   },
    {
     "mint": "CD3AHwDcZziU85JpxxMLW2xhXHJUgDyjUxJVjmUZpump",
     "spaet": true,
@@ -405,9 +396,40 @@
     "spaet": false,
     "symbol": "HUMBOT",
     "t": 1795719734.3296957
+   },
+   {
+    "dauer": 0.0006270408630371094,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "Gvo9widdpuyi2XsWm9gAepfcBR54c7XrrSSdwF2Mpump",
+    "name": "securititty",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "securititty",
+    "t": 1795720031.5300953
+   },
+   {
+    "mint": "Eyevsagqp6qyUxz5Dj2jWawww5csjDFLtrPPmRwYpump",
+    "spaet": true,
+    "t": 1795720039.7789464
+   },
+   {
+    "mint": "CtnZ7E5UNxVsziX3Qdf1XWqb2VwTk9S5r3kfcpNoNoCy",
+    "spaet": true,
+    "t": 1795720071.9975817
+   },
+   {
+    "mint": "DrBCGJscM3ziBRd2CDt5dV9W1rCVAimVZ78BxrN8pump",
+    "spaet": true,
+    "t": 1795720148.4170108
+   },
+   {
+    "mint": "EXm17ZSUZFLaastYtKBSK2y4iCCg3rrfTbPMVe5Npump",
+    "spaet": true,
+    "t": 1795720212.5602167
    }
   ],
-  "uebersicht": 1795716578.2890353
+  "uebersicht": 1795720236.7698689
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
