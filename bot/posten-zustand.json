@@ -160,7 +160,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 156,
+ "laeufe": 157,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -169,61 +169,6 @@
    1795653144.5292451
   ],
   "stunde": [
-   {
-    "dauer": 190.45723724365234,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "58FeThrtEaoSEqz9cJeuXheUE9JkXUTEBHDEe688pump",
-    "name": "STENKS",
-    "sol": 0.518424063,
-    "spaet": false,
-    "symbol": "STENKS",
-    "t": 1795649859.0411372
-   },
-   {
-    "dauer": 73.9775390625,
-    "ersteller_verkauft": true,
-    "kaeufer": 332,
-    "mint": "rq2hSZ6s95sCTaMJXc3bJsQT3GUKXBdYsUYfEY1pump",
-    "name": "REGULATION CRYPTO ASSETS",
-    "sol": 84.75188390699998,
-    "spaet": false,
-    "symbol": "REGULATION",
-    "t": 1795649886.0883079
-   },
-   {
-    "dauer": 119.42933416366577,
-    "ersteller_verkauft": true,
-    "kaeufer": 393,
-    "mint": "2xwFMcEM6BQ9XwS8v6qKGswgp25NSEjgoY4cQS12pump",
-    "name": "dream",
-    "sol": 77.95644466399993,
-    "spaet": false,
-    "symbol": "dream",
-    "t": 1795649911.295639
-   },
-   {
-    "dauer": 201.91408348083496,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "7LSzhvPdX4BuaDmgAbqBFA87X5Tzkz2dqGTmCgW9XdoP",
-    "name": "Yee",
-    "sol": 0.070853517,
-    "spaet": false,
-    "symbol": "YEE",
-    "t": 1795649989.750394
-   },
-   {
-    "dauer": 142.73704361915588,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "2oxv7j1tseweCPuioFwcRQDUqr6DX4SGKrTxo6jMpump",
-    "name": "STENKS",
-    "sol": 0.3586665029999994,
-    "spaet": false,
-    "symbol": "STENKS",
-    "t": 1795650107.2102091
-   },
    {
     "dauer": 68.20644950866699,
     "ersteller_verkauft": true,
@@ -418,6 +363,17 @@
     "spaet": false,
     "symbol": "RASMR",
     "t": 1795653244.830623
+   },
+   {
+    "dauer": 0.007518291473388672,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "7SjffMXL9cGcPCQHzyWQjMz3Li5tUG34pemiTxLhpump",
+    "name": "PumpChan",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "PUMPCHAN",
+    "t": 1795653703.8995595
    }
   ],
   "uebersicht": 1795650995.5606854
