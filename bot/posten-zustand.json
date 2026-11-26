@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 369,
+ "laeufe": 370,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -218,22 +218,6 @@
    1795713538.256644
   ],
   "stunde": [
-   {
-    "mint": "AhAVs3hJVH9Zs4KRpvSEzZa2PJSuKcvYq164c1vupump",
-    "spaet": true,
-    "t": 1795710315.541225
-   },
-   {
-    "dauer": 88.62489008903503,
-    "ersteller_verkauft": false,
-    "kaeufer": 176,
-    "mint": "BLfYxmZdBQX9rqVwPuFtmJuifow7pw81UrKx4Bwupump",
-    "name": "Basket",
-    "sol": 85.249380413,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795710471.3869252
-   },
    {
     "dauer": 288.43850564956665,
     "ersteller_verkauft": false,
@@ -453,6 +437,33 @@
     "spaet": false,
     "symbol": "JANTA",
     "t": 1795713580.452797
+   },
+   {
+    "dauer": 78.53525400161743,
+    "ersteller_verkauft": true,
+    "kaeufer": 190,
+    "mint": "FPb2DmpBNF9AYntcmKsEHEncoCXafpJF8sRvoUUgpump",
+    "name": "ByteCoin",
+    "sol": 51.69836667499997,
+    "spaet": false,
+    "symbol": "BYTE",
+    "t": 1795713977.9137356
+   },
+   {
+    "dauer": 107.47148418426514,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "Br6WkyL5uvZ2hjBBgH6PpVZsBRqiZYzNUaepbqYupump",
+    "name": "NATF",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "NATF",
+    "t": 1795714115.941578
+   },
+   {
+    "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump",
+    "spaet": true,
+    "t": 1795714123.2061994
    }
   ],
   "uebersicht": 1795712938.5846055
