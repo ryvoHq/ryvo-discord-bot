@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 276,
+ "laeufe": 277,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -189,28 +189,6 @@
    1795686177.3374379
   ],
   "stunde": [
-   {
-    "dauer": 168.41066670417786,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "67QukvqWpwb29zBxvJpwyRY7wQnCq8T9vaAcSRCBpump",
-    "name": "ELONMAS",
-    "sol": 0.2551835649999999,
-    "spaet": false,
-    "symbol": "ELON",
-    "t": 1795683953.3257298
-   },
-   {
-    "dauer": 426.44890236854553,
-    "ersteller_verkauft": true,
-    "kaeufer": 427,
-    "mint": "AfJBDMQ9NYtDssHK22xZ9v3SubrrR1kczzaQA1sQb5rB",
-    "name": "pnp-lean",
-    "sol": 84.93724774499981,
-    "spaet": false,
-    "symbol": "pnp-lean",
-    "t": 1795684091.5041792
-   },
    {
     "dauer": 358.0513753890991,
     "ersteller_verkauft": false,
@@ -350,6 +328,22 @@
     "mint": "4Zy3CyQESE6BUHZPxKsjgMGG3HgKGcRA35PeX5zXpump",
     "spaet": true,
     "t": 1795687102.4803762
+   },
+   {
+    "mint": "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump",
+    "spaet": true,
+    "t": 1795687589.0355613
+   },
+   {
+    "dauer": 198.5815465450287,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "7MYYv9U3ChJeA4zn2YsYwYVpcehHfx7YWEH4gSdipump",
+    "name": "LMAO",
+    "sol": 1.2678954879999993,
+    "spaet": false,
+    "symbol": "LMAO",
+    "t": 1795687628.3160245
    }
   ],
   "uebersicht": 1795685577.733602
