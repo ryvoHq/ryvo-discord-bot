@@ -163,18 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 191,
+ "laeufe": 192,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795662908.7599454
   ],
   "stunde": [
-   {
-    "mint": "8JqkCEzu4QABycv1XkmtNQjXkK7Rg95a6WuAoZMCpump",
-    "spaet": true,
-    "t": 1795659610.0070567
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -242,6 +237,22 @@
     "mint": "7nRApx2WQFX8t75jVfwA7Q8UbVmBnRwx2M4Tsu2qpump",
     "spaet": true,
     "t": 1795663165.35733
+   },
+   {
+    "dauer": 782.833878993988,
+    "ersteller_verkauft": false,
+    "kaeufer": 202,
+    "mint": "CK5VrtRsBXjjGnr5RbdxPXaDixim5s6XMEWN29rXdLiQ",
+    "name": "Liquid",
+    "sol": 28.505942358999985,
+    "spaet": false,
+    "symbol": "LIQ",
+    "t": 1795663248.2686303
+   },
+   {
+    "mint": "BE7NjZVU2YQR1rF44qpcTN3jty7atNNNkRtgvu5Hpump",
+    "spaet": true,
+    "t": 1795663353.9882214
    }
   ],
   "uebersicht": 1795662608.5641265
