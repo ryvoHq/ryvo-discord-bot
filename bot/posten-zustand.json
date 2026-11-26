@@ -210,37 +210,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 389,
+ "laeufe": 390,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795715981.279405,
    1795717178.5607083,
    1795717836.593989
   ],
   "stunde": [
-   {
-    "dauer": 197.20306134223938,
-    "ersteller_verkauft": true,
-    "kaeufer": 694,
-    "mint": "2hQ2r7Hnv18eA1FKBKES2gny3CTEwVSeSopg5bRp95sk",
-    "name": "Soupcoin",
-    "sol": 83.16552636199934,
-    "spaet": false,
-    "symbol": "SOUP",
-    "t": 1795715791.0625184
-   },
-   {
-    "dauer": 68.19572925567627,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "TTfMd1b2MWijS6tSaM7xwuQwrVKQpXTXi35aYrHpump",
-    "name": "cozy creeps",
-    "sol": 0.8395974110000002,
-    "spaet": false,
-    "symbol": "CREEP",
-    "t": 1795715967.4255602
-   },
    {
     "mint": "CErq2oGNSJWVovVMjx8k1wuL6qR75q1teSxJNqrCpump",
     "spaet": true,
