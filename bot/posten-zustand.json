@@ -210,41 +210,16 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 354,
+ "laeufe": 355,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795707147.5383089,
-   1795708046.864389
+   1795708046.864389,
+   1795709891.8784258,
+   1795709891.8784258
   ],
   "stunde": [
-   {
-    "mint": "6bPKFmrmbTYjG2ZnLpXmVgomTjPbuFLe1brJzDtXpump",
-    "spaet": true,
-    "t": 1795706069.6653192
-   },
-   {
-    "dauer": 70.70790553092957,
-    "ersteller_verkauft": true,
-    "kaeufer": 238,
-    "mint": "7Kn5Kkb5B5wKj8GE4ptc1s2z2piF24nxih4kV4UPpump",
-    "name": "Privacy Girl",
-    "sol": 78.125359484,
-    "spaet": false,
-    "symbol": "PIG",
-    "t": 1795706192.470812
-   },
-   {
-    "dauer": 93.0824146270752,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "y9LHp2fV3iWBnmvEce9vgSCshNuKBi5dFgTDksWpump",
-    "name": "DONT BUY ",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "DONT BUY",
-    "t": 1795706283.3361502
-   },
    {
     "mint": "4QnsX5yhyr8nkcf8rVAcHVZyyP4VS3h7p5h3sveapump",
     "spaet": true,
@@ -495,6 +470,44 @@
     "mint": "HQZoz2eNiS4YgfLHzuwiZVUUuqTwpWaAaHXT2bEepump",
     "spaet": true,
     "t": 1795709450.2699988
+   },
+   {
+    "dauer": 1252.1925258636475,
+    "ersteller_verkauft": false,
+    "kaeufer": 417,
+    "mint": "a9tpCY1WLMybZAdWJ5u91TAdAiBrWRvBbDDEg1ypump",
+    "name": "Aries",
+    "sol": 30.354313966000014,
+    "spaet": false,
+    "symbol": "Aries",
+    "t": 1795709614.7209873
+   },
+   {
+    "mint": "8GE4mhEuU73LaJqPGA1XjsLL6MZYMRYxMKoeC9Mppump",
+    "spaet": true,
+    "t": 1795709650.7801547
+   },
+   {
+    "dauer": 137.72712779045105,
+    "ersteller_verkauft": true,
+    "kaeufer": 15,
+    "mint": "EBZfZPgG4D6qC6kLjEMHBELPtQLmE6fcXziRYrXtpump",
+    "name": "Bot Magnet",
+    "sol": 0.5939781200000014,
+    "spaet": false,
+    "symbol": "$BOTMAG",
+    "t": 1795709660.2838576
+   },
+   {
+    "dauer": 524.0929806232452,
+    "ersteller_verkauft": true,
+    "kaeufer": 521,
+    "mint": "9yHeZA5EYmiAaWvyaz1FXTFpufGvQfAvaXeW44Bopump",
+    "name": "I Am Thankful For...",
+    "sol": 35.39902766399997,
+    "spaet": false,
+    "symbol": "Thankful",
+    "t": 1795709856.2147431
    }
   ],
   "uebersicht": 1795709291.9324813
