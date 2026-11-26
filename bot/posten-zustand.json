@@ -187,24 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 311,
+ "laeufe": 312,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795697370.2715933
   ],
   "stunde": [
-   {
-    "dauer": 59.07943058013916,
-    "ersteller_verkauft": false,
-    "kaeufer": 6,
-    "mint": "FYWv16SA5nDEG3F3oHf7WoRcN48YsfNxU3dA19Eopump",
-    "name": "konnichiwa",
-    "sol": 85.00535906199998,
-    "spaet": false,
-    "symbol": "konnichiwa",
-    "t": 1795694117.866851
-   },
    {
     "mint": "F9CwhBgSsEJuCigbodtUH257EqQpRSzKLKwHPPKNpump",
     "spaet": true,
@@ -446,6 +435,28 @@
     "spaet": false,
     "symbol": "Riku",
     "t": 1795697426.3279922
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "YfKJNUMiZMU8ydbKK8x5conxTvkYbFJAA4GM6q7pump",
+    "name": "UBR",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795697795.354788
+   },
+   {
+    "dauer": 171.43606519699097,
+    "ersteller_verkauft": false,
+    "kaeufer": 52,
+    "mint": "Gz3DZRyM3Zm5T2a2RRcTvmTQm1TiMco67n1pvFuwpump",
+    "name": "Cat Labs M",
+    "sol": 1.3007061380000016,
+    "spaet": false,
+    "symbol": "CLM",
+    "t": 1795697827.5881014
    }
   ],
   "uebersicht": 1795697370.2715933
