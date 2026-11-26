@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 310,
+ "laeufe": 311,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -424,6 +424,28 @@
     "spaet": false,
     "symbol": "GRODIA",
     "t": 1795697363.42463
+   },
+   {
+    "dauer": 292.04699420928955,
+    "ersteller_verkauft": true,
+    "kaeufer": 39,
+    "mint": "DEQewaBDyWqgoJPcyjiVvBRuUBwCu7w44jRmyeFnpump",
+    "name": "HUANG MAN",
+    "sol": 0.17216995799999987,
+    "spaet": false,
+    "symbol": "HUANGMAN",
+    "t": 1795697417.5057983
+   },
+   {
+    "dauer": 31.639151096343994,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "5XcH7VycuDV9K8vWZVEnu85xj9XTk9mQh5tChmgipump",
+    "name": "リク",
+    "sol": 85.00535906900001,
+    "spaet": false,
+    "symbol": "Riku",
+    "t": 1795697426.3279922
    }
   ],
   "uebersicht": 1795697370.2715933
