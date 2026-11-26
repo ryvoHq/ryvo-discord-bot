@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 209,
+ "laeufe": 210,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -283,6 +283,17 @@
     "mint": "ChFvaeEZqmcRMJDt3KfY9NuTBzbuVXzsiwrP3mN5pump",
     "spaet": true,
     "t": 1795668030.831514
+   },
+   {
+    "dauer": 113.17885971069336,
+    "ersteller_verkauft": false,
+    "kaeufer": 124,
+    "mint": "H9EUwPaaeL6bTDhDSFUq9QA7TE4yFDFAxaZhraV4pump",
+    "name": "Cash Inu",
+    "sol": 55.50712372499996,
+    "spaet": false,
+    "symbol": "CI",
+    "t": 1795668362.761617
    }
   ],
   "uebersicht": 1795666273.6556141
