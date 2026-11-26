@@ -187,27 +187,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 308,
+ "laeufe": 309,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "Ag6hKhaYos8a2taqpq1nrqD9B4ArtFN3Nny6tuEZpump",
-    "spaet": true,
-    "t": 1795693273.9969192
-   },
-   {
-    "dauer": 326.5246410369873,
-    "ersteller_verkauft": true,
-    "kaeufer": 46,
-    "mint": "JBbjTmLDj4xnSbqYG7wWpakQEXAMN9yucN6hHJv3pump",
-    "name": "Megan Fox",
-    "sol": 0.7497760189999978,
-    "spaet": false,
-    "symbol": "Fox",
-    "t": 1795693274.0099227
-   },
    {
     "dauer": 30.412292957305908,
     "ersteller_verkauft": false,
@@ -379,6 +363,33 @@
     "mint": "B8VsMQ53HdzYpsoR1ExjBeXvxsndyCLAz8bJbpo8pump",
     "spaet": true,
     "t": 1795696522.7053885
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "7zFhiLEeDSWGKDtgQqccJa4w6Ph59fywkDKu36jipump",
+    "name": "UBR",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795696798.0586245
+   },
+   {
+    "dauer": 331.0258855819702,
+    "ersteller_verkauft": false,
+    "kaeufer": 42,
+    "mint": "5Ep6an18VFo6tZGCzbD6tfRgDSHvhfEKvjxqfKjrpump",
+    "name": "Dogstar",
+    "sol": 0.25764432299999973,
+    "spaet": false,
+    "symbol": "DSTAR",
+    "t": 1795696858.4601047
+   },
+   {
+    "mint": "FPQSvZxD65LorsJrVgMZhJqtyh1WRZ57NnwLCim5pump",
+    "spaet": true,
+    "t": 1795696978.2119832
    }
   ],
   "uebersicht": 1795693716.239242
