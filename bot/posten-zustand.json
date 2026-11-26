@@ -210,11 +210,10 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 361,
+ "laeufe": 362,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795708046.864389,
    1795709891.8784258,
    1795709891.8784258,
    1795710792.3029368
@@ -445,6 +444,38 @@
     "mint": "28VAecpmiJx9WJA7cQTCpsRKZcMZgjNZ8XEgQjECpump",
     "spaet": true,
     "t": 1795711406.3102381
+   },
+   {
+    "mint": "7fisFVdGDBBwmjd1Cd4SxFa7uY6WxXmixtQG8d1cpump",
+    "spaet": true,
+    "t": 1795711492.3087988
+   },
+   {
+    "mint": "Bk8MmjSJufNLdVLqBvxFhSMaP9v3sUpK2DJfs2TApump",
+    "spaet": true,
+    "t": 1795711493.5973372
+   },
+   {
+    "dauer": 46.602134466171265,
+    "ersteller_verkauft": true,
+    "kaeufer": 201,
+    "mint": "DeKcYLR1Gm5q1m3Qzqpi4gtDRUBCT79iKGa8Bz8Epump",
+    "name": "Kuro",
+    "sol": 85.00535940600003,
+    "spaet": false,
+    "symbol": "Kuro",
+    "t": 1795711561.380074
+   },
+   {
+    "dauer": 96.7427237033844,
+    "ersteller_verkauft": true,
+    "kaeufer": 182,
+    "mint": "5cL9dwoiVcXwUYg7oER6fCvbSuwr52bo7Fs4eEu4pump",
+    "name": "There's our little investor",
+    "sol": 62.181357971,
+    "spaet": false,
+    "symbol": "Investor",
+    "t": 1795711682.8470263
    }
   ],
   "uebersicht": 1795709291.9324813
