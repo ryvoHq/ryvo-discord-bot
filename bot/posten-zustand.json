@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 219,
+ "laeufe": 220,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -180,17 +180,6 @@
    1795669616.596927
   ],
   "stunde": [
-   {
-    "dauer": 212.3503975868225,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "G7dy9AEABKZLXHmxzBkziSRzChdJ3zGDeVg3NRPkpump",
-    "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
-    "sol": 0.724512724,
-    "spaet": false,
-    "symbol": "FOMOCAT",
-    "t": 1795667461.5991156
-   },
    {
     "dauer": 203.0141110420227,
     "ersteller_verkauft": false,
@@ -348,6 +337,50 @@
     "spaet": false,
     "symbol": "Elonmas",
     "t": 1795670825.0262055
+   },
+   {
+    "dauer": 307.18026542663574,
+    "ersteller_verkauft": false,
+    "kaeufer": 123,
+    "mint": "319GsDJVhLvVT3rsn1hZ3qwZBhAYeSowa19WpuY5pump",
+    "name": "The Black Bull",
+    "sol": 84.567537635,
+    "spaet": false,
+    "symbol": "ANSEM",
+    "t": 1795670981.5900416
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "GrwSJFTozsN6dUEGvcFFpheZxcxv718KLEvfBT6ipump",
+    "name": "U0DF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "U0DF",
+    "t": 1795670990.5632043
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "pC4WQuWeXaMDAMGpv4YrMJ8pcfX5pP9msYoZep2pump",
+    "name": "privacyCASH",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "PRV",
+    "t": 1795671112.9155238
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "BTzNoFoNL88oTwHc9LyHAiAJfEYsbS46iicH48Hupump",
+    "name": "PROJECT ATX",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "ATX",
+    "t": 1795671150.5073853
    }
   ],
   "uebersicht": 1795669916.9233382
