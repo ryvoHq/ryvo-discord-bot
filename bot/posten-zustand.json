@@ -217,39 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 426,
+ "laeufe": 427,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "mint": "8UB2zMvBj9hYoPFgshAD6JDR9VZNWUU8GMiTiaD1pump",
-    "spaet": true,
-    "t": 1795725838.032325
-   },
-   {
-    "mint": "4Kzh1SdMeCoeqkKgyZdFrHnWjEff4eFihb2PDb5Apump",
-    "spaet": true,
-    "t": 1795725845.2550027
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "4jA5ns72KMGDguig4PshLSLdQCzpzCqvJm7LHNxHpump",
-    "name": "GOTF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "GOTF",
-    "t": 1795725894.235967
-   },
-   {
-    "mint": "DryYCtYwxTL4enVJnCKtJRrPsE1TCnMHHZRknck2pump",
-    "spaet": true,
-    "t": 1795725984.3220825
-   },
    {
     "dauer": 0.001056671142578125,
     "ersteller_verkauft": false,
@@ -593,6 +567,17 @@
     "spaet": false,
     "symbol": "COGE",
     "t": 1795729303.431867
+   },
+   {
+    "dauer": 117.16159987449646,
+    "ersteller_verkauft": false,
+    "kaeufer": 259,
+    "mint": "BuNeErf9FjL6dgzE74S21Qm9EeBaYMJXSW4A8ihxpump",
+    "name": "HOLD",
+    "sol": 74.99795831899988,
+    "spaet": false,
+    "symbol": "HOLD",
+    "t": 1795729708.8310273
    }
   ],
   "uebersicht": 1795727879.9348903
