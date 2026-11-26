@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 284,
+ "laeufe": 285,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,17 +195,6 @@
    1795688621.051997
   ],
   "stunde": [
-   {
-    "dauer": 135.43987607955933,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "6Sjxs8hgrqh1yaxiTd1Y83DDHjY8mYFgjSWLzExhpump",
-    "name": "green cat",
-    "sol": 5.483836355,
-    "spaet": false,
-    "symbol": "GrenCAT",
-    "t": 1795686620.0411472
-   },
    {
     "dauer": 52.9579758644104,
     "ersteller_verkauft": false,
@@ -324,6 +313,33 @@
     "spaet": false,
     "symbol": "SolHoppa",
     "t": 1795689179.1439273
+   },
+   {
+    "mint": "BXyqxJkUeCr8rt6PPxRus1PwpHoo4a8PP4JEgwETpump",
+    "spaet": true,
+    "t": 1795690146.3740618
+   },
+   {
+    "dauer": 158.21726179122925,
+    "ersteller_verkauft": false,
+    "kaeufer": 28,
+    "mint": "8Z2tP1PZWDTQKcyCJgWJ7SeYszoMBayFQMd7G7sMpump",
+    "name": "川普",
+    "sol": 0.19266872899999885,
+    "spaet": false,
+    "symbol": "川普",
+    "t": 1795690303.6752415
+   },
+   {
+    "dauer": 366.26700139045715,
+    "ersteller_verkauft": true,
+    "kaeufer": 55,
+    "mint": "HBnxqd1bqWRueVuBwvzLBUrZaCTY7d18Gje4jNhzpump",
+    "name": "SoLami",
+    "sol": -0.003935148000001139,
+    "spaet": false,
+    "symbol": "Lami",
+    "t": 1795690358.7678099
    }
   ],
   "uebersicht": 1795689221.233631
