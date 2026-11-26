@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 165,
+ "laeufe": 166,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -171,22 +171,6 @@
    1795654044.0227242
   ],
   "stunde": [
-   {
-    "dauer": 0.008048295974731445,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "73R7L2jLfnweJTXxTiccHMZV6mECaVELPUy3PkHopump",
-    "name": "Pump Dog",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "PUMPDOG",
-    "t": 1795652523.9334059
-   },
-   {
-    "mint": "E5kA7z678PShpxnxM9KKTu5nErBMu6DVyf4H8BGcpump",
-    "spaet": true,
-    "t": 1795652573.806804
-   },
    {
     "dauer": 829.0543828010559,
     "ersteller_verkauft": true,
@@ -344,6 +328,33 @@
     "mint": "FF9HXZEeh1bVJuKqRYENpDTwyCDTXxnZPBEz5qTWpump",
     "spaet": true,
     "t": 1795655894.0731292
+   },
+   {
+    "mint": "31GfcV6vxUeUPx4CkrZkXd8WcCAodhyNes3CKHrppump",
+    "spaet": true,
+    "t": 1795655941.6149971
+   },
+   {
+    "dauer": 262.05090975761414,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "G3W7KTyy4knSKxQkVdntQ9XvfrAgjpni5wMosyhkpump",
+    "name": "MoonBUR",
+    "sol": 0.25561366200000024,
+    "spaet": false,
+    "symbol": "BuR$",
+    "t": 1795656032.0598807
+   },
+   {
+    "dauer": 112.94729852676392,
+    "ersteller_verkauft": false,
+    "kaeufer": 7,
+    "mint": "BPjSQE4JrYxvYi1c9jk7oWgLy2e5VxsYRvxdUYbgpump",
+    "name": "MoonGoat",
+    "sol": 1.3182451659999943,
+    "spaet": false,
+    "symbol": "MGOAT",
+    "t": 1795656072.3207936
    }
   ],
   "uebersicht": 1795654644.887717
