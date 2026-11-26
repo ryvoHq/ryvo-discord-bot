@@ -217,33 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 418,
+ "laeufe": 419,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795727580.33318
+  ],
   "stunde": [
-   {
-    "dauer": 0.0028345584869384766,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "GEUULM43QbeFJ7p1Twodufx7bJDWNBibpwbKyETWpump",
-    "name": "Privacy Inu",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "PI",
-    "t": 1795723776.5183005
-   },
-   {
-    "dauer": 136.37449741363525,
-    "ersteller_verkauft": false,
-    "kaeufer": 148,
-    "mint": "7THHu2xgR4bYGKf4dbQiz5Wnv2eCkwR7w145NLspump",
-    "name": "Starbucks Corporation",
-    "sol": 85.64356099799994,
-    "spaet": false,
-    "symbol": "STARBUCKS",
-    "t": 1795723963.0041056
-   },
    {
     "mint": "3cNqtXapssatNcnZ8JXtzK8hgcCdwJiqfUSfWgDEpump",
     "spaet": true,
@@ -585,6 +565,49 @@
     "mint": "Fqj3XrUuvj463PnPmL1uDjPCqSbTYMbgsuSphxiLpump",
     "spaet": true,
     "t": 1795727251.3359172
+   },
+   {
+    "dauer": 587.413830280304,
+    "ersteller_verkauft": false,
+    "kaeufer": 452,
+    "mint": "23Yun5pvmzaMX4PYnjYA2zHq3X2zrd6Dq8RBpYg1pump",
+    "name": "Waterball",
+    "sol": 56.42027189300003,
+    "spaet": false,
+    "symbol": "WATERBALL",
+    "t": 1795727343.0048883
+   },
+   {
+    "mint": "Bwwc9n2mPn1k5rGv6UjAudiPPYmQpSzYevddjdmHpump",
+    "spaet": true,
+    "t": 1795727373.5290058
+   },
+   {
+    "dauer": 13.759125232696533,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "DdtiDGWH1Ye9X1ASGU3kHeXXyGUk6C7o7MskrZKvpump",
+    "name": "boring",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "boring",
+    "t": 1795727387.6583035
+   },
+   {
+    "mint": "AuiBnfds2TGSX9FGNTmo8NjUAacshDZApm14aEWdpump",
+    "spaet": true,
+    "t": 1795727389.5597327
+   },
+   {
+    "dauer": 66.84003257751465,
+    "ersteller_verkauft": true,
+    "kaeufer": 170,
+    "mint": "3RNBDtoKGV5KnjQNiQbsVvZdgPfVMEWxEbfa92depump",
+    "name": "Total horse",
+    "sol": 55.476200864000006,
+    "spaet": false,
+    "symbol": "SURV",
+    "t": 1795727453.3493435
    }
   ],
   "uebersicht": 1795724244.4573483
