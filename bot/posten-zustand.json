@@ -171,29 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 230,
+ "laeufe": 231,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 0.0018014907836914062,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "5My1BL59wUB1c4s62KucKjhaQXUuJhbkfacivQT1pump",
-    "name": "C@T",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "C@T",
-    "t": 1795670421.6110275
-   },
-   {
-    "mint": "6eBTZPbUL4RqJeru4uhQNEWTZXuBeAETpTRfykB6pump",
-    "spaet": true,
-    "t": 1795670436.6914215
-   },
    {
     "dauer": 76.2724723815918,
     "ersteller_verkauft": false,
@@ -400,6 +384,32 @@
     "mint": "554dPFprmeu9J2mPKpJ41rxKDQgfsNvj9XGgiykepump",
     "spaet": true,
     "t": 1795673604.6612868
+   },
+   {
+    "mint": "C32ZRmDooNpbR4R3KCWUzbVQPdi3fTiUGbSMsktWpump",
+    "spaet": true,
+    "t": 1795673960.7382784
+   },
+   {
+    "mint": "58Xf9N3n1p5Fw6Etxu5L9YrSkFvGaqLCyU4qri1Wpump",
+    "spaet": true,
+    "t": 1795674001.846193
+   },
+   {
+    "dauer": 66.96731686592102,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "7gJre5zRQ6A8tv5a9R1w9Ww1mZkaV2t5EV98q8W4pump",
+    "name": "Romanian final boss",
+    "sol": 0.2649283780000001,
+    "spaet": false,
+    "symbol": "BMW",
+    "t": 1795674049.6839545
+   },
+   {
+    "mint": "D2uZ7h5SYt184QZTEEjFeXgZMnN4tVkmUKKYqEmcpump",
+    "spaet": true,
+    "t": 1795674163.8836975
    }
   ],
   "uebersicht": 1795669916.9233382
