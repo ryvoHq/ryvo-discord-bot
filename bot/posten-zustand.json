@@ -193,46 +193,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 316,
+ "laeufe": 317,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795697370.2715933
   ],
   "stunde": [
-   {
-    "dauer": 170.92115712165833,
-    "ersteller_verkauft": true,
-    "kaeufer": 27,
-    "mint": "EFBH6weRBEo4eRQs6gL7YkNrE6eWKHFzkM4Y1kSppump",
-    "name": "Drink Watta",
-    "sol": 0.15262253700000006,
-    "spaet": false,
-    "symbol": "DWTA",
-    "t": 1795695350.9491012
-   },
-   {
-    "dauer": 373.77184772491455,
-    "ersteller_verkauft": true,
-    "kaeufer": 31,
-    "mint": "B9xW2n5ZTwewM5yNgZKLdoQbELwqkUc7LgadD9rFpump",
-    "name": "STENKS",
-    "sol": 0.06783590900000057,
-    "spaet": false,
-    "symbol": "STENKS",
-    "t": 1795695355.954333
-   },
-   {
-    "dauer": 36.33135771751404,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "DXCBNdpnTYvmBYHwSzQVUphvVNHnqCtRQVXSxXRCpump",
-    "name": "The Tiny Buffalo",
-    "sol": 85.00535907300001,
-    "spaet": false,
-    "symbol": "Pinky",
-    "t": 1795695606.0700004
-   },
    {
     "dauer": 0.057041168212890625,
     "ersteller_verkauft": false,
@@ -452,6 +419,53 @@
     "spaet": false,
     "symbol": "XMAS",
     "t": 1795698812.682055
+   },
+   {
+    "mint": "BkpwWYHLVEYM2SSUEb3WL1roWR9y3WN2dLCcUUZ6pump",
+    "spaet": true,
+    "t": 1795698914.29645
+   },
+   {
+    "mint": "ErrhWENqx6GYDoz1naUZY1SMEhSzaqm39qb6PGJbpump",
+    "spaet": true,
+    "t": 1795698930.2999754
+   },
+   {
+    "mint": "a8YVqyaxw7HensjyoTBzLpC4J6M9uTYzvAu1arWpump",
+    "spaet": true,
+    "t": 1795698990.71906
+   },
+   {
+    "mint": "4zKH1dqjBKmbooh15U8oPjJ2CUb96LvfiK8QuL21pump",
+    "spaet": true,
+    "t": 1795699022.39259
+   },
+   {
+    "mint": "JqKvkqupKPjWCSCmH9gQMMkkpKy52AY4Y1B2KWPpump",
+    "spaet": true,
+    "t": 1795699036.0435495
+   },
+   {
+    "dauer": 33.431825160980225,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "ExZ49qUjE3X9bX9va8JzePq6XQFPpZcwccRWRiNdpump",
+    "name": "Army of trumps ",
+    "sol": 20.221953506,
+    "spaet": false,
+    "symbol": "🇺🇸",
+    "t": 1795699064.8074124
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "7juwdhNyZ1YT5hRmF7kSGrxcpAGyFomi5mMbW8uEpump",
+    "name": "Komari",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "KOMARI",
+    "t": 1795699135.5550034
    }
   ],
   "uebersicht": 1795697370.2715933
