@@ -181,29 +181,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 246,
+ "laeufe": 247,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795678442.32647
   ],
   "stunde": [
-   {
-    "mint": "78aHmgkutWmdPKuqrqJxjpB3qbY6WBxoYJ1x2fGxpump",
-    "spaet": true,
-    "t": 1795675552.0274086
-   },
-   {
-    "dauer": 90.78183603286743,
-    "ersteller_verkauft": false,
-    "kaeufer": 132,
-    "mint": "8HxFnmS3K1Gizx8mUU9889yYeDi5M12cAYfa4A8Jpump",
-    "name": "Basket",
-    "sol": 85.30574272700002,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795675692.2703109
-   },
    {
     "dauer": 380.0540142059326,
     "ersteller_verkauft": false,
