@@ -171,29 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 229,
+ "laeufe": 230,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795672057.718173
   ],
   "stunde": [
-   {
-    "mint": "9npjdLbPzRY4ebNvKusB3D692pehWBqtxYZJ1nW8pump",
-    "spaet": true,
-    "t": 1795670089.9371133
-   },
-   {
-    "dauer": 140.59815430641174,
-    "ersteller_verkauft": true,
-    "kaeufer": 17,
-    "mint": "AC3yA6KiS92hENBJBEpbmJZaQRYxfCWb5u27pMJYpump",
-    "name": "Megan Fox",
-    "sol": -3.017719292999999,
-    "spaet": false,
-    "symbol": "Fox",
-    "t": 1795670091.1379063
-   },
    {
     "dauer": 0.0018014907836914062,
     "ersteller_verkauft": false,
@@ -411,6 +395,11 @@
     "mint": "Di89tBdRfjiYWY1bbKaG9PzwoCZ3FrSEbmnjKTqppump",
     "spaet": true,
     "t": 1795673567.355029
+   },
+   {
+    "mint": "554dPFprmeu9J2mPKpJ41rxKDQgfsNvj9XGgiykepump",
+    "spaet": true,
+    "t": 1795673604.6612868
    }
   ],
   "uebersicht": 1795669916.9233382
