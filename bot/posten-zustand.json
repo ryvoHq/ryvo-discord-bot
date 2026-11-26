@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 340,
+ "laeufe": 341,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,11 +207,6 @@
    1795704962.4614937
   ],
   "stunde": [
-   {
-    "mint": "HCgRicDtiKd67V7Fg1T23fqiQ36SGSsGpBXX7w7BE3MW",
-    "spaet": true,
-    "t": 1795702053.7993228
-   },
    {
     "dauer": 110.4087929725647,
     "ersteller_verkauft": true,
@@ -433,6 +428,32 @@
     "mint": "EF88ztWircv8YpPJ4rcANoEvQGLP32MgLX8Evwo4pump",
     "spaet": true,
     "t": 1795705518.1983228
+   },
+   {
+    "dauer": 206.91412901878357,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "Bahue92c4xDMoXKbDZA44h8e9tLTe2m6gta1uK18pump",
+    "name": "GOLD EGG",
+    "sol": 1.3321057059999994,
+    "spaet": false,
+    "symbol": "GOLD",
+    "t": 1795705666.065937
+   },
+   {
+    "mint": "3mjVqav8r3DLSydTwJYMX5Ffy2sAevp8LfjtN8mqpump",
+    "spaet": true,
+    "t": 1795705687.955973
+   },
+   {
+    "mint": "F4oRJBGgkhavrckdeJciutSK36jgLQpiAwaiq8nJpump",
+    "spaet": true,
+    "t": 1795705695.6196
+   },
+   {
+    "mint": "377pd3bvRYb6k64jptaBmc39s8BZoiLEFkvM7n4Cpump",
+    "spaet": true,
+    "t": 1795705898.5155199
    }
   ],
   "uebersicht": 1795704662.8075502
