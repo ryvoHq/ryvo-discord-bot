@@ -187,36 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 302,
+ "laeufe": 303,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795691875.5381765,
    1795692775.3964045
   ],
   "stunde": [
-   {
-    "dauer": 584.0789704322815,
-    "ersteller_verkauft": false,
-    "kaeufer": 552,
-    "mint": "FokVFH6mDsazoKbtnUaA2FRMsRbDSwZhNfn17Fdvpump",
-    "name": "Marucoin",
-    "sol": 84.98117254800015,
-    "spaet": false,
-    "symbol": "Maru",
-    "t": 1795691669.2626722
-   },
-   {
-    "dauer": 1420.767292022705,
-    "ersteller_verkauft": true,
-    "kaeufer": 34,
-    "mint": "7AsV1G8tKnEGdci2cM2333jRNRtfSJVvgxg2ZiAgpump",
-    "name": "GOBBLE",
-    "sol": 0.022274537999999625,
-    "spaet": false,
-    "symbol": "GOBBLE",
-    "t": 1795691700.0750372
-   },
    {
     "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump",
     "spaet": true,
@@ -384,6 +361,28 @@
     "spaet": false,
     "symbol": "Pinky",
     "t": 1795694834.3697054
+   },
+   {
+    "dauer": 170.92115712165833,
+    "ersteller_verkauft": true,
+    "kaeufer": 27,
+    "mint": "EFBH6weRBEo4eRQs6gL7YkNrE6eWKHFzkM4Y1kSppump",
+    "name": "Drink Watta",
+    "sol": 0.15262253700000006,
+    "spaet": false,
+    "symbol": "DWTA",
+    "t": 1795695350.9491012
+   },
+   {
+    "dauer": 373.77184772491455,
+    "ersteller_verkauft": true,
+    "kaeufer": 31,
+    "mint": "B9xW2n5ZTwewM5yNgZKLdoQbELwqkUc7LgadD9rFpump",
+    "name": "STENKS",
+    "sol": 0.06783590900000057,
+    "spaet": false,
+    "symbol": "STENKS",
+    "t": 1795695355.954333
    }
   ],
   "uebersicht": 1795693716.239242
