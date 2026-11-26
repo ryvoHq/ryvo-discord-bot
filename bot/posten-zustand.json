@@ -221,40 +221,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 443,
+ "laeufe": 444,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795734286.1914365
   ],
   "stunde": [
-   {
-    "mint": "D1ZWRNVQYAwrnoUqvZfAFh6EtH6QTujonhT3u2MP5wNs",
-    "spaet": true,
-    "t": 1795730705.7325563
-   },
-   {
-    "dauer": 59.72345685958862,
-    "ersteller_verkauft": true,
-    "kaeufer": 212,
-    "mint": "B4vg9PaGiEamivDhBW85N8vPmGr9JJw5yyzjaaQ4pump",
-    "name": "SpaceX Kids",
-    "sol": 86.96486444899999,
-    "spaet": false,
-    "symbol": "babyX",
-    "t": 1795730783.146972
-   },
-   {
-    "dauer": 896.4988746643066,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "BbgMWhxmyvRxYECv7cM4S2ksk5QTvbFnrLpfCx76pump",
-    "name": "Dollar Liquidity Drops ",
-    "sol": 0.19337412399999993,
-    "spaet": false,
-    "symbol": "DLQD",
-    "t": 1795730944.1480548
-   },
    {
     "mint": "6ZoRvDnWWHyy3iM26nAQRa3Qf7Yz2SvfjtMaQyMMpump",
     "spaet": true,
