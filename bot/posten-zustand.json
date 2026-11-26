@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 330,
+ "laeufe": 331,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -209,27 +209,6 @@
    1795701608.067284
   ],
   "stunde": [
-   {
-    "mint": "773REsVP9j51ayEQGxCRddPYJup3Xto6vwD6QB16pump",
-    "spaet": true,
-    "t": 1795699361.2867594
-   },
-   {
-    "mint": "CCbRxtJYej3ChwpuJJBPJ6q3LEvE2muw73ahhCa4pump",
-    "spaet": true,
-    "t": 1795699442.805077
-   },
-   {
-    "dauer": 489.1174228191376,
-    "ersteller_verkauft": false,
-    "kaeufer": 543,
-    "mint": "32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump",
-    "name": "Paircoin",
-    "sol": 87.73980510600003,
-    "spaet": false,
-    "symbol": "PAIR",
-    "t": 1795699526.9355354
-   },
    {
     "dauer": 25.418071269989014,
     "ersteller_verkauft": false,
@@ -479,6 +458,55 @@
     "spaet": false,
     "symbol": "Duckroll",
     "t": 1795702684.6664875
+   },
+   {
+    "mint": "7WvZFEyRyGGfkc1U4h1d4PN6beSaRGrEhp2nbf3pump",
+    "spaet": true,
+    "t": 1795702991.95525
+   },
+   {
+    "dauer": 75.37169623374939,
+    "ersteller_verkauft": false,
+    "kaeufer": 133,
+    "mint": "G6MgKXoipc6KhWyhxSqhmpTRwPJWnjsCK6WBpA69pump",
+    "name": "winter arc",
+    "sol": 85.03498916499993,
+    "spaet": false,
+    "symbol": "WINTER",
+    "t": 1795702995.4685311
+   },
+   {
+    "dauer": 134.8253514766693,
+    "ersteller_verkauft": true,
+    "kaeufer": 48,
+    "mint": "B7fA4ab83zsPkYMEW55sfbvkTQbVwN71NGdZFbGupump",
+    "name": "Cat Labs Act",
+    "sol": 4.220486665,
+    "spaet": false,
+    "symbol": "CLA",
+    "t": 1795703015.9542437
+   },
+   {
+    "dauer": 135.22799730300903,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "9i6ZF6mn1HrMEJ6nHb8kmwaFfQogjfy2uH1Dk1Hypump",
+    "name": "CLOD",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "CLOD",
+    "t": 1795703078.734974
+   },
+   {
+    "dauer": 64.84340834617615,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "CLGPFMW3RBCPmM8rQRH1cd3tRw2EZbZ2p8UXBMSwpump",
+    "name": "turkey day Pepe",
+    "sol": 38.572142616,
+    "spaet": false,
+    "symbol": "turkey",
+    "t": 1795703148.3697603
    }
   ],
   "uebersicht": 1795701008.133407
