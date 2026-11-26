@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 164,
+ "laeufe": 165,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -171,32 +171,6 @@
    1795654044.0227242
   ],
   "stunde": [
-   {
-    "mint": "DTSkmo3sCCKLCh91dJLiWCpwcKtK3yDBZMqZGSV1pump",
-    "spaet": true,
-    "t": 1795652003.3834672
-   },
-   {
-    "mint": "43hXhRo2iEohYUZ2jx99Gng991NvbTiwVJ8kC3E3pump",
-    "spaet": true,
-    "t": 1795652029.1515112
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "FVRnDCWuYDABm6uLpDvCP1kxtC2jxUWKCc6vdQAWpump",
-    "name": "ZeroSumEnjoyer",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "SOLACE",
-    "t": 1795652095.5627105
-   },
-   {
-    "mint": "8HRMDdiScGHR2pNQdLMYhjBYgwff81Y8hiCNgqD3pump",
-    "spaet": true,
-    "t": 1795652198.1359966
-   },
    {
     "dauer": 0.008048295974731445,
     "ersteller_verkauft": false,
@@ -332,6 +306,44 @@
     "spaet": false,
     "symbol": "$SLJK",
     "t": 1795655442.7961726
+   },
+   {
+    "dauer": 0.017333507537841797,
+    "ersteller_verkauft": false,
+    "kaeufer": 4,
+    "mint": "4QE4FDuqArqkGxGM1zBLYHXnvr4k9TuYBuhcULukpump",
+    "name": "American Oil Dividend Trust",
+    "sol": 85.00535905999999,
+    "spaet": false,
+    "symbol": "AODT",
+    "t": 1795655601.0776978
+   },
+   {
+    "dauer": 132.40716218948364,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "C5Xxp1US6rNgg3awm4ji7vwKseq7NtsrU8jWbbd7pump",
+    "name": "PILGRIM KITTY",
+    "sol": 0.9833016650000008,
+    "spaet": false,
+    "symbol": "PILKYTTY",
+    "t": 1795655742.2011251
+   },
+   {
+    "dauer": 311.8403494358063,
+    "ersteller_verkauft": true,
+    "kaeufer": 40,
+    "mint": "7EnUNRe2QKGnVF8BbZ6UstqRhXopmDT35U3JySoApump",
+    "name": "MOON BUCK$",
+    "sol": 2.2272976119999988,
+    "spaet": false,
+    "symbol": "🌙 BUCK",
+    "t": 1795655890.8784182
+   },
+   {
+    "mint": "FF9HXZEeh1bVJuKqRYENpDTwyCDTXxnZPBEz5qTWpump",
+    "spaet": true,
+    "t": 1795655894.0731292
    }
   ],
   "uebersicht": 1795654644.887717
