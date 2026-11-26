@@ -210,36 +210,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 380,
+ "laeufe": 381,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795713538.256644,
-   1795715981.279405
+   1795715981.279405,
+   1795717178.5607083
   ],
   "stunde": [
-   {
-    "dauer": 1309.7141580581665,
-    "ersteller_verkauft": false,
-    "kaeufer": 399,
-    "mint": "9SXgSTDZ9HiPJYzqXE43tbZPAQdzhDgu2h2YN7Mo9Ye7",
-    "name": "KuroCoin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Kuro",
-    "t": 1795713324.2702644
-   },
-   {
-    "dauer": 46.318705558776855,
-    "ersteller_verkauft": true,
-    "kaeufer": 163,
-    "mint": "DxB52vf7oPnew9MAtZMvRB4zSZAoExiFAM4yCaX7pump",
-    "name": "Justice For Jennily Srang",
-    "sol": 59.382780739,
-    "spaet": false,
-    "symbol": "JENNILY",
-    "t": 1795713519.574057
-   },
    {
     "dauer": 0.0016987323760986328,
     "ersteller_verkauft": false,
@@ -469,6 +447,44 @@
     "spaet": false,
     "symbol": "$ALIME",
     "t": 1795716829.5203228
+   },
+   {
+    "dauer": 33.21050810813904,
+    "ersteller_verkauft": true,
+    "kaeufer": 132,
+    "mint": "3cAPLwifny4T1WCEKGgEsqkMe7ebo4KEGgSvAfy7pump",
+    "name": "The Turkey Trump",
+    "sol": 60.25930241100001,
+    "spaet": false,
+    "symbol": "Trump",
+    "t": 1795717011.9687614
+   },
+   {
+    "dauer": 295.10022711753845,
+    "ersteller_verkauft": false,
+    "kaeufer": 480,
+    "mint": "5WawLKvNxAyh6XfTLQQHeQam4ePYkrQZnvYrM63U1dPN",
+    "name": "ジョージ",
+    "sol": 69.15528409499998,
+    "spaet": false,
+    "symbol": "George",
+    "t": 1795717063.5957751
+   },
+   {
+    "dauer": 121.04991602897644,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "DYfRZ3PNEioppxYkYMWRHYuMuEaTYZq8wLbZr7rYpump",
+    "name": "Sent AI Labs",
+    "sol": 1.8687106870000005,
+    "spaet": false,
+    "symbol": "SENTAI",
+    "t": 1795717082.9741669
+   },
+   {
+    "mint": "AzdGMaqnwsTPUTKVn8w5gh9BTX9AcNYio3LXiSM1pump",
+    "spaet": true,
+    "t": 1795717173.7769978
    }
   ],
   "uebersicht": 1795716578.2890353
