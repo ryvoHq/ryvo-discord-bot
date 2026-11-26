@@ -199,64 +199,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 332,
+ "laeufe": 333,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795700107.5496376,
    1795700707.938028,
    1795701608.067284
   ],
   "stunde": [
-   {
-    "dauer": 613.5747244358063,
-    "ersteller_verkauft": false,
-    "kaeufer": 534,
-    "mint": "6hnhTWJUYeePGkme2ztvxoFvQopnDeWJep945RpJpump",
-    "name": "hep",
-    "sol": 86.93554275700001,
-    "spaet": false,
-    "symbol": "hep",
-    "t": 1795699901.9973354
-   },
-   {
-    "dauer": 108.21218681335449,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "7CTo6xo4UkPymStWnR4XE54mggnU5HSeay3sUH5Kpump",
-    "name": "Diamond Hands ",
-    "sol": 0.2059884749999999,
-    "spaet": false,
-    "symbol": "💎",
-    "t": 1795699956.240069
-   },
-   {
-    "dauer": 197.42658853530884,
-    "ersteller_verkauft": true,
-    "kaeufer": 31,
-    "mint": "9fGGJvT4pFAhqwyhmWp932tMmzYCEjuxWDpmtS64pump",
-    "name": "GOLDEN",
-    "sol": 0.5440137019999994,
-    "spaet": false,
-    "symbol": "GOLDEN",
-    "t": 1795700005.8769734
-   },
-   {
-    "dauer": 170.82853412628174,
-    "ersteller_verkauft": true,
-    "kaeufer": 33,
-    "mint": "5q2JZM4ewApR39E71Z8hruUjhUBQkp2swqi2RYwhpump",
-    "name": "Cat Labs M",
-    "sol": 2.525889647999996,
-    "spaet": false,
-    "symbol": "CLM",
-    "t": 1795700026.3116958
-   },
-   {
-    "mint": "DmR7M2exZrSSPLv3CHULWcuo7HyYox7vZdmZsbEvpump",
-    "spaet": true,
-    "t": 1795700041.9529023
-   },
    {
     "dauer": 148.25842475891113,
     "ersteller_verkauft": false,
@@ -484,6 +434,16 @@
     "spaet": false,
     "symbol": "turkey",
     "t": 1795703148.3697603
+   },
+   {
+    "mint": "8yYpzQRLQ1T9t8sXj2FaKtoL2QSh2NCahnZdmxbNpump",
+    "spaet": true,
+    "t": 1795703545.8711154
+   },
+   {
+    "mint": "43kTJmjeLZAzqiUYpbtiwUhnsVxbAPZ92ULYyu7apump",
+    "spaet": true,
+    "t": 1795703722.1605809
    }
   ],
   "uebersicht": 1795701008.133407
