@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 364,
+ "laeufe": 365,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -481,6 +481,22 @@
     "mint": "AuVQxjSZt937unfV6ScNca1ZwwqZtjNSq3LfQtv4pump",
     "spaet": true,
     "t": 1795712301.4679914
+   },
+   {
+    "dauer": 121.54105067253113,
+    "ersteller_verkauft": true,
+    "kaeufer": 17,
+    "mint": "9vTeXLqSyFFCaR47N3gmcuWj7mDVVpWUimnwyyEppump",
+    "name": "GOLD EGG",
+    "sol": 0.5987390689999997,
+    "spaet": false,
+    "symbol": "GOLD",
+    "t": 1795712503.9684737
+   },
+   {
+    "mint": "7UEjQsHnwJcHFDzCLVomvpwYWvnS7qzsXJppc8zwpump",
+    "spaet": true,
+    "t": 1795712609.4738083
    }
   ],
   "uebersicht": 1795709291.9324813
@@ -523,8 +539,8 @@
    "zeit": 1795633206.42857
   },
   "smt:xyz:SP500:xyz:XYZ100": {
-   "t": 1795658400000,
-   "zeit": 1795662007.4337132
+   "t": 1795708800000,
+   "zeit": 1795712637.000635
   }
  },
  "status_nachricht": "1575110333385801839",
