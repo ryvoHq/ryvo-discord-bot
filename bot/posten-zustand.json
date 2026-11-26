@@ -193,37 +193,16 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 324,
+ "laeufe": 325,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795699807.7484126,
    1795700107.5496376,
-   1795700707.938028
+   1795700707.938028,
+   1795701608.067284
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "YfKJNUMiZMU8ydbKK8x5conxTvkYbFJAA4GM6q7pump",
-    "name": "UBR",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795697795.354788
-   },
-   {
-    "dauer": 171.43606519699097,
-    "ersteller_verkauft": false,
-    "kaeufer": 52,
-    "mint": "Gz3DZRyM3Zm5T2a2RRcTvmTQm1TiMco67n1pvFuwpump",
-    "name": "Cat Labs M",
-    "sol": 1.3007061380000016,
-    "spaet": false,
-    "symbol": "CLM",
-    "t": 1795697827.5881014
-   },
    {
     "dauer": 201.2658178806305,
     "ersteller_verkauft": false,
@@ -520,6 +499,38 @@
     "spaet": false,
     "symbol": "JESUS",
     "t": 1795701293.1714096
+   },
+   {
+    "mint": "DC1vy25nn2U6CDYD9LuaMWmxrmH6PQQVd6BrgAMFpump",
+    "spaet": true,
+    "t": 1795701500.3891582
+   },
+   {
+    "dauer": 27.40074634552002,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "Ahx8Js3NU6Twzm99YGcn8wWjEkbr11TVsVnymc3Ypump",
+    "name": "Duckroll",
+    "sol": 85.00535907599998,
+    "spaet": false,
+    "symbol": "Duckroll",
+    "t": 1795701562.1727116
+   },
+   {
+    "dauer": 354.42642092704773,
+    "ersteller_verkauft": false,
+    "kaeufer": 641,
+    "mint": "DCRBawVJ7NAGPaFgPmd12Htwez2SJBqJLW4NC9tUpump",
+    "name": "Irochancoin",
+    "sol": 88.86920897099945,
+    "spaet": false,
+    "symbol": "Irochan",
+    "t": 1795701565.7534525
+   },
+   {
+    "mint": "HNuVZNF1ao31MWvYGiLtoyMq4WDiQjDYZqqtC4nWpump",
+    "spaet": true,
+    "t": 1795701577.4290044
    }
   ],
   "uebersicht": 1795701008.133407
