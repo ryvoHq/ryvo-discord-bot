@@ -6,7 +6,11 @@
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-26",
  "gesehen": [
+  "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk",
+  "https://www.cbc.ca/news/canada/edmonton/q2-fiscal-update-alberta-9.7437528",
+  "https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html",
   "https://www.irishtimes.com/business/2026/11/26/labour-market-churn-rises-in-third-quarter/",
+  "https://www.theglobeandmail.com/canada/alberta/article-alberta-projects-85-billion-surplus-as-global-turmoil-drives-up-oil/",
   "https://www.rigzone.com/news/wire/opec_mulls_sticking_with_current_quotas-26-nov-2026-185177-article/",
   "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
   "https://www.thehindu.com/news/national/cpi-announces-three-day-jail-bharo-andolan-from-december-1/article71747798.ece",
@@ -61,6 +65,12 @@
   "https://www.thehindubusinessline.com/opinion/inflation-and-monetary-policy-limitations/article71743345.ece",
   "https://www.afr.com/policy/economy/treasury-loses-chief-economist-during-inflation-shock-20261126-p61hfd",
   "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
   "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-lower-rate-hike-fears-ai-doubts-hammer-banks-and-tech",
   "https://www.morningstar.com/news/dow-jones/202611256853/2-year-treasury-yield-falls-to-4633-data-talk",
   "https://www.morningstar.com/news/dow-jones/202611256855/10-year-treasury-yield-falls-to-4845-data-talk",
@@ -71,12 +81,6 @@
   "https://fortune.com/2026/11/25/white-house-new-tariffs-inflation-data-expectations-fed/",
   "https://www.livemint.com/market/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins-11795637714378.html",
   "https://www.bnnbloomberg.ca/markets/oil/2026/11/25/opec-blames-eu-for-cop31-collapse/",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
-  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
   "https://financialpost.com/economy/bank-of-canadas-tiff-macklem-clears-the-way-for-december-rate-hike/",
   "https://www.cityam.com/interest-rate-hike-risk-as-bank-officials-say-higher-prices-will-filter-through/",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bitcoin-falls-below-59000-ethereum-under-1700-as-etf-outflows-macro-worries-weigh-on-crypto-market/articleshow/136166451.cms",
@@ -217,67 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 431,
+ "laeufe": 432,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [
-   1795727580.33318
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 587.413830280304,
-    "ersteller_verkauft": false,
-    "kaeufer": 452,
-    "mint": "23Yun5pvmzaMX4PYnjYA2zHq3X2zrd6Dq8RBpYg1pump",
-    "name": "Waterball",
-    "sol": 56.42027189300003,
-    "spaet": false,
-    "symbol": "WATERBALL",
-    "t": 1795727343.0048883
-   },
-   {
-    "mint": "Bwwc9n2mPn1k5rGv6UjAudiPPYmQpSzYevddjdmHpump",
-    "spaet": true,
-    "t": 1795727373.5290058
-   },
-   {
-    "dauer": 13.759125232696533,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "DdtiDGWH1Ye9X1ASGU3kHeXXyGUk6C7o7MskrZKvpump",
-    "name": "boring",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "boring",
-    "t": 1795727387.6583035
-   },
-   {
-    "mint": "AuiBnfds2TGSX9FGNTmo8NjUAacshDZApm14aEWdpump",
-    "spaet": true,
-    "t": 1795727389.5597327
-   },
-   {
-    "dauer": 66.84003257751465,
-    "ersteller_verkauft": true,
-    "kaeufer": 170,
-    "mint": "3RNBDtoKGV5KnjQNiQbsVvZdgPfVMEWxEbfa92depump",
-    "name": "Total horse",
-    "sol": 55.476200864000006,
-    "spaet": false,
-    "symbol": "SURV",
-    "t": 1795727453.3493435
-   },
-   {
-    "dauer": 0.022051095962524414,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "Bb38n8AVLMh9amo8qtjLvqE8nPtfs8GEsyzg1pC6pump",
-    "name": "Cateball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Cateball",
-    "t": 1795727607.2115452
-   },
    {
     "mint": "F1zghDfFHwWWtwdh6ohNierxqcMtnjnSpAdRqJfnpump",
     "spaet": true,
@@ -535,6 +483,38 @@
     "spaet": false,
     "symbol": "babyX",
     "t": 1795730783.146972
+   },
+   {
+    "dauer": 896.4988746643066,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "BbgMWhxmyvRxYECv7cM4S2ksk5QTvbFnrLpfCx76pump",
+    "name": "Dollar Liquidity Drops ",
+    "sol": 0.19337412399999993,
+    "spaet": false,
+    "symbol": "DLQD",
+    "t": 1795730944.1480548
+   },
+   {
+    "mint": "6ZoRvDnWWHyy3iM26nAQRa3Qf7Yz2SvfjtMaQyMMpump",
+    "spaet": true,
+    "t": 1795730991.412486
+   },
+   {
+    "mint": "DGc9JmnZayqCwaCmu22JFCZKieSbb3271m1RstTrpump",
+    "spaet": true,
+    "t": 1795731037.2318962
+   },
+   {
+    "dauer": 612.4414412975311,
+    "ersteller_verkauft": false,
+    "kaeufer": 4,
+    "mint": "CGyKybi2kBiJQ7j7z3wCzV62tRgZp5vP3ZmjphNkpump",
+    "name": "Vetocat",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Vetocat",
+    "t": 1795731211.177388
    }
   ],
   "uebersicht": 1795727879.9348903
