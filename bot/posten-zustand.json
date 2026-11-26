@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 360,
+ "laeufe": 361,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -220,43 +220,6 @@
    1795710792.3029368
   ],
   "stunde": [
-   {
-    "mint": "E6gZFbJ8cmz7bD7djSc1mAJk23Akq69H1H4WJZaopump",
-    "spaet": true,
-    "t": 1795707600.8698916
-   },
-   {
-    "dauer": 354.36530470848083,
-    "ersteller_verkauft": true,
-    "kaeufer": 5,
-    "mint": "6HpPatVFxbkFLBXXF6PEyshgv2uK2Pwo8LPhxMz4pump",
-    "name": "MIGRATED #1",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "MIGRATED",
-    "t": 1795707647.3276432
-   },
-   {
-    "mint": "FpwA7KWG9HCk2NSzitDSf7hXKmLfEd1JxTmsn8CFpump",
-    "spaet": true,
-    "t": 1795707692.435957
-   },
-   {
-    "dauer": 434.3241512775421,
-    "ersteller_verkauft": false,
-    "kaeufer": 738,
-    "mint": "6AWQ3WsTkTPuh8ZdUveqH44S4111w7DcbJpP5pR4pump",
-    "name": "BunBun",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BunBun",
-    "t": 1795707770.3733332
-   },
-   {
-    "mint": "E9arxG4RxB7Gxt6U75obonTZzx7vpbc4bUi1dfw3BtUN",
-    "spaet": true,
-    "t": 1795707837.448356
-   },
    {
     "mint": "7EfZgcA6K7qibDtbCmTqHTUkkWpuSAJLjedRJduVpump",
     "spaet": true,
@@ -466,6 +429,22 @@
     "spaet": false,
     "symbol": "TESTICLES",
     "t": 1795710621.8166847
+   },
+   {
+    "dauer": 0.0014848709106445312,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "57sCZ82FwS5Dfs7FN9nshtU5Mkb3w1dqhmPUuCPvpump",
+    "name": "Meme Stock Treasury Reserve",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "MSTR",
+    "t": 1795711289.8765125
+   },
+   {
+    "mint": "28VAecpmiJx9WJA7cQTCpsRKZcMZgjNZ8XEgQjECpump",
+    "spaet": true,
+    "t": 1795711406.3102381
    }
   ],
   "uebersicht": 1795709291.9324813
