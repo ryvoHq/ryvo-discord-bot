@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 200,
+ "laeufe": 201,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -264,6 +264,17 @@
     "mint": "D2rJuZejecEHNPZY8kcgMsYMUNVFYJx7iADiGjRppump",
     "spaet": true,
     "t": 1795665632.080836
+   },
+   {
+    "dauer": 116.63353180885315,
+    "ersteller_verkauft": false,
+    "kaeufer": 319,
+    "mint": "XY5WnBs9GBN51ayWbiaSKmiwk5ZqKoFh9enHXuPpump",
+    "name": "The Meme Currency",
+    "sol": 85.60737519399986,
+    "spaet": false,
+    "symbol": "MEMO",
+    "t": 1795665947.281069
    }
   ],
   "uebersicht": 1795662608.5641265
