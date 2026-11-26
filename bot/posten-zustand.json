@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 265,
+ "laeufe": 266,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -189,28 +189,6 @@
    1795684377.3718648
   ],
   "stunde": [
-   {
-    "dauer": 99.2669849395752,
-    "ersteller_verkauft": false,
-    "kaeufer": 159,
-    "mint": "EC4dEL7ozn9gmLokHJzfBvvg7tNpb5oUvf7yYxPEpump",
-    "name": "The Black Bull",
-    "sol": 85.00535932300009,
-    "spaet": false,
-    "symbol": "ANSEM",
-    "t": 1795680832.3498304
-   },
-   {
-    "dauer": 57.3371798992157,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "GsNh955G2QTs3Ah6ikdA7gwWAt1vC9iBoaUWXBQxpump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 1.1644444219999994,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795680942.7310433
-   },
    {
     "dauer": 119.26209259033203,
     "ersteller_verkauft": true,
@@ -363,6 +341,11 @@
     "spaet": false,
     "symbol": "Dog Think",
     "t": 1795684367.7092545
+   },
+   {
+    "mint": "84ShfjQMGtb2vZNhnHyRrgnD9QoaVLumm87iiYhZpump",
+    "spaet": true,
+    "t": 1795684459.941963
    }
   ],
   "uebersicht": 1795681825.5290093
