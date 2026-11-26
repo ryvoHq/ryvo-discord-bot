@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 285,
+ "laeufe": 286,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,22 +195,6 @@
    1795688621.051997
   ],
   "stunde": [
-   {
-    "dauer": 52.9579758644104,
-    "ersteller_verkauft": false,
-    "kaeufer": 8,
-    "mint": "BKGidSAf6RkUUymQYYoN8ifm3VMsLkeFTocvza3Spump",
-    "name": "Yee",
-    "sol": 85.005359064,
-    "spaet": false,
-    "symbol": "YEE",
-    "t": 1795686785.2539253
-   },
-   {
-    "mint": "9bj8yMQ3gZ36cd2d4efU49dqZsaw3gA6CCaWrbKmpump",
-    "spaet": true,
-    "t": 1795686908.6362116
-   },
    {
     "mint": "4Zy3CyQESE6BUHZPxKsjgMGG3HgKGcRA35PeX5zXpump",
     "spaet": true,
@@ -340,6 +324,22 @@
     "spaet": false,
     "symbol": "Lami",
     "t": 1795690358.7678099
+   },
+   {
+    "dauer": 380.81287717819214,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "FZk8nxc4sePSPrgKBx1WGDaNV2htTKWP938Biywipump",
+    "name": "BRAINROT COIN",
+    "sol": 0.6577061769999998,
+    "spaet": false,
+    "symbol": "BRAINROT",
+    "t": 1795690562.1823614
+   },
+   {
+    "mint": "AJ6bqXubsvBhvG2i12WFFkrus12E77vaLqxFMAaTpump",
+    "spaet": true,
+    "t": 1795690607.3962638
    }
   ],
   "uebersicht": 1795689221.233631
