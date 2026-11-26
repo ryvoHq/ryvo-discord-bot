@@ -171,36 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 226,
+ "laeufe": 227,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795669616.596927,
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 301.5631890296936,
-    "ersteller_verkauft": true,
-    "kaeufer": 499,
-    "mint": "6B5X3keXJ4J8LLvswa2mbqMhrRDbt85Jo88sbB6apump",
-    "name": "Elonmas",
-    "sol": 79.79418332999973,
-    "spaet": false,
-    "symbol": "Elonmas",
-    "t": 1795669436.5001225
-   },
-   {
-    "dauer": 2324.473311185837,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "C5nU7E2mwGPUc3jaDkk5FxpuzjzonTM19UM25rgHpump",
-    "name": "1RING46",
-    "sol": -0.5335980619999997,
-    "spaet": false,
-    "symbol": "1RING2RULE",
-    "t": 1795669577.7979946
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -413,6 +390,33 @@
     "spaet": false,
     "symbol": "Duvemas",
     "t": 1795672418.8240354
+   },
+   {
+    "dauer": 87.31626558303833,
+    "ersteller_verkauft": true,
+    "kaeufer": 134,
+    "mint": "8Bb9vnsHJPzYtStdbMNzFhjcuXRNDXBiNbx6RvHXpump",
+    "name": "Jensen Huang",
+    "sol": 84.598664947,
+    "spaet": false,
+    "symbol": "JENSEN",
+    "t": 1795673002.696787
+   },
+   {
+    "mint": "35egn9hLVgqo2apb3QUJsRayE8zvgtFEvvgSdUojpump",
+    "spaet": true,
+    "t": 1795673006.109066
+   },
+   {
+    "dauer": 231.7929446697235,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "FEcenzodxi4JgNyztNEKLr3kxJcB9vauzq4MUaZNpump",
+    "name": "SPACED LUNA TERRA",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ULTRA",
+    "t": 1795673215.5974045
    }
   ],
   "uebersicht": 1795669916.9233382
