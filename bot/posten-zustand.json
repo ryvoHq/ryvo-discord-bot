@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 339,
+ "laeufe": 340,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -428,6 +428,11 @@
     "spaet": false,
     "symbol": "Coca-Cola",
     "t": 1795705314.4079661
+   },
+   {
+    "mint": "EF88ztWircv8YpPJ4rcANoEvQGLP32MgLX8Evwo4pump",
+    "spaet": true,
+    "t": 1795705518.1983228
    }
   ],
   "uebersicht": 1795704662.8075502
