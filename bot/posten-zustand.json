@@ -187,22 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 309,
+ "laeufe": 310,
  "lagebrief_stand": 1795663800,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795697370.2715933
+  ],
   "stunde": [
-   {
-    "dauer": 30.412292957305908,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "BoTrv1hBPb6BRZbgvkGn57VCCRiN5JtAANFaf2QMpump",
-    "name": "konnichiwa",
-    "sol": 85.00535906400002,
-    "spaet": false,
-    "symbol": "konnichiwa",
-    "t": 1795693623.8111959
-   },
    {
     "dauer": 59.07943058013916,
     "ersteller_verkauft": false,
@@ -390,9 +381,52 @@
     "mint": "FPQSvZxD65LorsJrVgMZhJqtyh1WRZ57NnwLCim5pump",
     "spaet": true,
     "t": 1795696978.2119832
+   },
+   {
+    "dauer": 215.84784412384033,
+    "ersteller_verkauft": false,
+    "kaeufer": 435,
+    "mint": "EWCfhnj8YjPEbvQXEtwkxMT54WhBpZBLQDFncRoypump",
+    "name": "Pair",
+    "sol": 85.15681124199988,
+    "spaet": false,
+    "symbol": "Pair",
+    "t": 1795697116.0398123
+   },
+   {
+    "dauer": 103.97027540206909,
+    "ersteller_verkauft": false,
+    "kaeufer": 147,
+    "mint": "5yi5i8tKGzGZS1CnEedRag27wN1J9GRNHXtCCUr9pump",
+    "name": "SpaceXCoin",
+    "sol": 74.170791421,
+    "spaet": false,
+    "symbol": "SpaceXCoin",
+    "t": 1795697309.1746216
+   },
+   {
+    "mint": "6XEDurGMTwoW95aCY7Q3msxxgJ3RNePqttNnKVK7pump",
+    "spaet": true,
+    "t": 1795697341.652782
+   },
+   {
+    "mint": "BKnuZTG1YVPi5DC9tUk5TH1mEgwAZgunnvrAx4Ycpump",
+    "spaet": true,
+    "t": 1795697357.7102306
+   },
+   {
+    "dauer": 927.2578828334808,
+    "ersteller_verkauft": false,
+    "kaeufer": 108,
+    "mint": "2wX8fA5hMfKEpYSjmcnt1j99tfH73mimvrz142Hzpump",
+    "name": "Grodia",
+    "sol": 85.00535920599995,
+    "spaet": false,
+    "symbol": "GRODIA",
+    "t": 1795697363.42463
    }
   ],
-  "uebersicht": 1795693716.239242
+  "uebersicht": 1795697370.2715933
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
