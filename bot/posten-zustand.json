@@ -187,12 +187,12 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 289,
+ "laeufe": 290,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795688021.382902,
-   1795688621.051997
+   1795688621.051997,
+   1795691875.5381765
   ],
   "stunde": [
    {
@@ -424,6 +424,28 @@
     "spaet": false,
     "symbol": "BASKET",
     "t": 1795691534.954606
+   },
+   {
+    "dauer": 584.0789704322815,
+    "ersteller_verkauft": false,
+    "kaeufer": 552,
+    "mint": "FokVFH6mDsazoKbtnUaA2FRMsRbDSwZhNfn17Fdvpump",
+    "name": "Marucoin",
+    "sol": 84.98117254800015,
+    "spaet": false,
+    "symbol": "Maru",
+    "t": 1795691669.2626722
+   },
+   {
+    "dauer": 1420.767292022705,
+    "ersteller_verkauft": true,
+    "kaeufer": 34,
+    "mint": "7AsV1G8tKnEGdci2cM2333jRNRtfSJVvgxg2ZiAgpump",
+    "name": "GOBBLE",
+    "sol": 0.022274537999999625,
+    "spaet": false,
+    "symbol": "GOBBLE",
+    "t": 1795691700.0750372
    }
   ],
   "uebersicht": 1795689221.233631
