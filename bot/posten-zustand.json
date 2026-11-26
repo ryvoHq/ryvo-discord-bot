@@ -181,24 +181,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 264,
+ "laeufe": 265,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795683026.1122732
+   1795683026.1122732,
+   1795684377.3718648
   ],
   "stunde": [
-   {
-    "dauer": 218.33240485191345,
-    "ersteller_verkauft": false,
-    "kaeufer": 33,
-    "mint": "34MCu9DfQWv8rKELhhw2LJQnV3VvtNSNyWCohP7Wpump",
-    "name": "Tired of work",
-    "sol": 0.10124839500000016,
-    "spaet": false,
-    "symbol": "TOW",
-    "t": 1795680756.1998875
-   },
    {
     "dauer": 99.2669849395752,
     "ersteller_verkauft": false,
@@ -351,6 +341,28 @@
     "spaet": false,
     "symbol": "ELON",
     "t": 1795683953.3257298
+   },
+   {
+    "dauer": 426.44890236854553,
+    "ersteller_verkauft": true,
+    "kaeufer": 427,
+    "mint": "AfJBDMQ9NYtDssHK22xZ9v3SubrrR1kczzaQA1sQb5rB",
+    "name": "pnp-lean",
+    "sol": 84.93724774499981,
+    "spaet": false,
+    "symbol": "pnp-lean",
+    "t": 1795684091.5041792
+   },
+   {
+    "dauer": 358.0513753890991,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "HhvfukR45Wx67Ywxc1jkEh9bopiJRssHb7kBpXGYpump",
+    "name": "Dog Think",
+    "sol": 0.07675899300000003,
+    "spaet": false,
+    "symbol": "Dog Think",
+    "t": 1795684367.7092545
    }
   ],
   "uebersicht": 1795681825.5290093
