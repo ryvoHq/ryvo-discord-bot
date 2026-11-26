@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 217,
+ "laeufe": 218,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -180,16 +180,6 @@
    1795669616.596927
   ],
   "stunde": [
-   {
-    "mint": "3iwcmhCD3SVxo3MSEyYuoPj3eXrpp3hchC73vPo8pump",
-    "spaet": true,
-    "t": 1795666867.3924189
-   },
-   {
-    "mint": "31FPq989jXKUCExaFydsgipgevCYyuDPRg8n7enspump",
-    "spaet": true,
-    "t": 1795666869.299464
-   },
    {
     "mint": "AVEjDSfPUQYc48bS6c4XCT881gw81T6dhh2MwABfpump",
     "spaet": true,
@@ -314,6 +304,22 @@
     "spaet": false,
     "symbol": "Fox",
     "t": 1795670091.1379063
+   },
+   {
+    "dauer": 0.0018014907836914062,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "5My1BL59wUB1c4s62KucKjhaQXUuJhbkfacivQT1pump",
+    "name": "C@T",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "C@T",
+    "t": 1795670421.6110275
+   },
+   {
+    "mint": "6eBTZPbUL4RqJeru4uhQNEWTZXuBeAETpTRfykB6pump",
+    "spaet": true,
+    "t": 1795670436.6914215
    }
   ],
   "uebersicht": 1795669916.9233382
