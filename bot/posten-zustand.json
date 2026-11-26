@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 405,
+ "laeufe": 406,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,21 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "mint": "CtnZ7E5UNxVsziX3Qdf1XWqb2VwTk9S5r3kfcpNoNoCy",
-    "spaet": true,
-    "t": 1795720071.9975817
-   },
-   {
-    "mint": "DrBCGJscM3ziBRd2CDt5dV9W1rCVAimVZ78BxrN8pump",
-    "spaet": true,
-    "t": 1795720148.4170108
-   },
-   {
-    "mint": "EXm17ZSUZFLaastYtKBSK2y4iCCg3rrfTbPMVe5Npump",
-    "spaet": true,
-    "t": 1795720212.5602167
-   },
    {
     "mint": "9j2rBstNEbEYMwiiUB3JUQopsUqG7nVMRBJwHYhxpump",
     "spaet": true,
@@ -588,6 +573,22 @@
     "mint": "F3nDjaP1jvdqg2QAt94Zh4jQon8aFDy257Y71U4gpump",
     "spaet": true,
     "t": 1795723609.907555
+   },
+   {
+    "mint": "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump",
+    "spaet": true,
+    "t": 1795723679.4180791
+   },
+   {
+    "dauer": 0.0028345584869384766,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "GEUULM43QbeFJ7p1Twodufx7bJDWNBibpwbKyETWpump",
+    "name": "Privacy Inu",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "PI",
+    "t": 1795723776.5183005
    }
   ],
   "uebersicht": 1795720236.7698689
