@@ -158,9 +158,9 @@
  "indizes_tag": "2026-11-25",
  "krypto_tag": "2026-11-25",
  "lab_log_tag": "2026-11-25",
- "lab_scan": "2026-11-25",
+ "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 149,
+ "laeufe": 150,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -168,28 +168,6 @@
    1795651295.709376
   ],
   "stunde": [
-   {
-    "dauer": 44.62874245643616,
-    "ersteller_verkauft": true,
-    "kaeufer": 107,
-    "mint": "hY6W6moD9mH7YoPBND9XAqfVxGZ14HHKmcw64zrpump",
-    "name": "Super Cycle Inu",
-    "sol": 44.69485712799997,
-    "spaet": false,
-    "symbol": "SCI",
-    "t": 1795648117.4989142
-   },
-   {
-    "dauer": 275.44044733047485,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "8inL13ZhFhX8x3Nd41AQNz1uGEKdMJGNddWRJH6Hpump",
-    "name": "SOLANA2",
-    "sol": 1.971563329000001,
-    "spaet": false,
-    "symbol": "SOL",
-    "t": 1795648191.0543473
-   },
    {
     "dauer": 0.0007216930389404297,
     "ersteller_verkauft": false,
@@ -454,6 +432,28 @@
     "spaet": false,
     "symbol": "NEFELIBATA",
     "t": 1795651430.442144
+   },
+   {
+    "dauer": 143.82264161109924,
+    "ersteller_verkauft": true,
+    "kaeufer": 326,
+    "mint": "8ZskPRZ81XcmHymGdwr9LwBzzuiHEkfAeFe5rfjYpump",
+    "name": "Meme Inu",
+    "sol": 66.387097905,
+    "spaet": false,
+    "symbol": "MI",
+    "t": 1795651598.0832834
+   },
+   {
+    "dauer": 354.2538993358612,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "9XNF68dxEMZoxAdgeZ49JxTQasyaXzqaHzDBd31Fpump",
+    "name": "PlayStation 5",
+    "sol": 0.40039077200000006,
+    "spaet": false,
+    "symbol": "PS5",
+    "t": 1795651793.6548114
    }
   ],
   "uebersicht": 1795650995.5606854
