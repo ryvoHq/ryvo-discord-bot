@@ -163,27 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 189,
+ "laeufe": 190,
  "lagebrief_stand": 1795577400,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795662908.7599454
+  ],
   "stunde": [
-   {
-    "dauer": 351.83584475517273,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "672adgXh3xEHBt2DgUAVBCbBsbcGzDm5Um58fNWBpump",
-    "name": "GTA 6 COIN",
-    "sol": -0.13517736300000022,
-    "spaet": false,
-    "symbol": "$GTA6",
-    "t": 1795659132.717792
-   },
-   {
-    "mint": "3XQeJEFVsB1C3pBEiUwVgRZ2TDG913Feg9nV1kK6pump",
-    "spaet": true,
-    "t": 1795659194.8003345
-   },
    {
     "mint": "8JqkCEzu4QABycv1XkmtNQjXkK7Rg95a6WuAoZMCpump",
     "spaet": true,
@@ -235,6 +221,22 @@
     "spaet": false,
     "symbol": "MCH",
     "t": 1795661639.140872
+   },
+   {
+    "mint": "Gbmk5HT3t2H4QrrQxgieL37av68CfET1Y4BuMUNQpump",
+    "spaet": true,
+    "t": 1795662644.599585
+   },
+   {
+    "dauer": 529.0551619529724,
+    "ersteller_verkauft": false,
+    "kaeufer": 391,
+    "mint": "CMmfK9KFjFRPgAEkixMpchNnA5zTz7xYdQkSSc8Upump",
+    "name": "coin",
+    "sol": 64.70074519199973,
+    "spaet": false,
+    "symbol": "coin",
+    "t": 1795662826.9601576
    }
   ],
   "uebersicht": 1795662608.5641265
