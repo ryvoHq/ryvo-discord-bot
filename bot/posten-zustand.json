@@ -171,46 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 231,
+ "laeufe": 232,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 76.2724723815918,
-    "ersteller_verkauft": false,
-    "kaeufer": 153,
-    "mint": "8AgjuzmNNoajv8h28HTEKCrLeH1jjKoSQurcBe6Vpump",
-    "name": "Official Grand Theft Auto VI",
-    "sol": 84.80661656700002,
-    "spaet": false,
-    "symbol": "GTAVI",
-    "t": 1795670819.2387354
-   },
-   {
-    "dauer": 50.29422664642334,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "E7rHWDh3U6pyFZmME5Xih1txaNKF4DsR53JtqYS7pump",
-    "name": "BOLTRAY",
-    "sol": 85.00535908299999,
-    "spaet": false,
-    "symbol": "BOLTRAY",
-    "t": 1795670824.8957875
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "DMXm1gSmAZn1RV4fGXGG8Y1cXfKWXMDYaiKF4B6Cpump",
-    "name": "Elonmas",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Elonmas",
-    "t": 1795670825.0262055
-   },
    {
     "dauer": 307.18026542663574,
     "ersteller_verkauft": false,
@@ -410,9 +377,14 @@
     "mint": "D2uZ7h5SYt184QZTEEjFeXgZMnN4tVkmUKKYqEmcpump",
     "spaet": true,
     "t": 1795674163.8836975
+   },
+   {
+    "mint": "2WYicw2ddgP5MEFmULTpBDgrbpfjnsYXhm5jCtbRpump",
+    "spaet": true,
+    "t": 1795674261.7539666
    }
   ],
-  "uebersicht": 1795669916.9233382
+  "uebersicht": 1795674496.7929566
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
