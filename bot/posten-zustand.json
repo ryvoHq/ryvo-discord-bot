@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 272,
+ "laeufe": 273,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,28 +190,6 @@
    1795686177.3374379
   ],
   "stunde": [
-   {
-    "dauer": 309.9949860572815,
-    "ersteller_verkauft": true,
-    "kaeufer": 586,
-    "mint": "EGiRRwVAKQrD8gk7e4hNyPCRormANKiNo5uKtY46pump",
-    "name": "IShowSpace",
-    "sol": 82.74022074999971,
-    "spaet": false,
-    "symbol": "IShowSpace",
-    "t": 1795682740.5148957
-   },
-   {
-    "dauer": 749.8182151317596,
-    "ersteller_verkauft": true,
-    "kaeufer": 165,
-    "mint": "HZqpCrZwq8CJL6NfD2Vy8RcNPH4fas7tExt8k7dnpump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 85.02644413999997,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795682886.0211976
-   },
    {
     "dauer": 86.71528744697571,
     "ersteller_verkauft": false,
