@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 253,
+ "laeufe": 254,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,22 +190,6 @@
    1795679942.019533
   ],
   "stunde": [
-   {
-    "dauer": 192.8604052066803,
-    "ersteller_verkauft": false,
-    "kaeufer": 178,
-    "mint": "6k4dFR7ziQU3pZJz36zJGEnKLFsPPpE7UG48P9qRpump",
-    "name": "The Black Bull 2",
-    "sol": 85.00535946999996,
-    "spaet": false,
-    "symbol": "ANSEM2",
-    "t": 1795677349.8548117
-   },
-   {
-    "mint": "AC6jhfpFFFYUciEX563ouCiMCZTxvDi1mr6zXhAMogog",
-    "spaet": true,
-    "t": 1795677419.7076478
-   },
    {
     "dauer": 143.52889323234558,
     "ersteller_verkauft": true,
@@ -367,6 +351,17 @@
     "spaet": false,
     "symbol": "ANSEM",
     "t": 1795680832.3498304
+   },
+   {
+    "dauer": 57.3371798992157,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "GsNh955G2QTs3Ah6ikdA7gwWAt1vC9iBoaUWXBQxpump",
+    "name": "🍌 BANANA WIZARD",
+    "sol": 1.1644444219999994,
+    "spaet": false,
+    "symbol": "$BWIZ",
+    "t": 1795680942.7310433
    }
   ],
   "uebersicht": 1795678142.391696
