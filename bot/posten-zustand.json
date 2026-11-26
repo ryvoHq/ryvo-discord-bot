@@ -221,18 +221,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 445,
+ "laeufe": 446,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795734286.1914365
   ],
   "stunde": [
-   {
-    "mint": "GmsPdyQYzqpztLcZvaUsgacFZKABkYiSJFqV2aY5pump",
-    "spaet": true,
-    "t": 1795731484.1177063
-   },
    {
     "mint": "6bWtJkNM6WAj5xFhPC5UMs1RT6En2zKZeHhJkYWcpump",
     "spaet": true,
@@ -447,9 +442,30 @@
     "spaet": false,
     "symbol": "Investor",
     "t": 1795734797.451895
+   },
+   {
+    "dauer": 60.57804894447327,
+    "ersteller_verkauft": true,
+    "kaeufer": 199,
+    "mint": "AbDzNKdwdaWNPKJbv8RSCwjXnnkh3F2zeFwL5obhpump",
+    "name": "Sxlana",
+    "sol": 72.54964042099996,
+    "spaet": false,
+    "symbol": "SXLA",
+    "t": 1795734900.5341706
+   },
+   {
+    "mint": "5EE52BuCsLTKC9kmNCeAMcJguBk9u8KYr7rCRpeApump",
+    "spaet": true,
+    "t": 1795734970.221403
+   },
+   {
+    "mint": "4eVerqsHvQEBfUNKo4QP87XMQg2Hm8Bv56hhAEWupump",
+    "spaet": true,
+    "t": 1795735170.689586
    }
   ],
-  "uebersicht": 1795731519.2123363
+  "uebersicht": 1795735188.828268
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
