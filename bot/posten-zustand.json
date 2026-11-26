@@ -2,7 +2,7 @@
  "aktien_tag": "2026-11-25",
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-25",
- "ebenen_krypto": "2026-11-25",
+ "ebenen_krypto": "2026-11-26",
  "ebenen_trad": "2026-11-25",
  "ezb_tag": "2026-11-25",
  "gesehen": [
@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 225,
+ "laeufe": 226,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -179,17 +179,6 @@
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 375.59712314605713,
-    "ersteller_verkauft": false,
-    "kaeufer": 171,
-    "mint": "ADssqdt3M8FeoTybJJBcWGFgQhDJQBbB7ai4xjUnpump",
-    "name": "Basket",
-    "sol": 85.07373894899995,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795669073.1975067
-   },
    {
     "dauer": 301.5631890296936,
     "ersteller_verkauft": true,
