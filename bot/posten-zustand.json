@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 451,
+ "laeufe": 452,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -230,28 +230,6 @@
    1795736127.7741737
   ],
   "stunde": [
-   {
-    "dauer": 208.32261991500854,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "By7dpJJM4qkRkqtDYYdDYtwfvYhUR5iQTKhT4bGmpump",
-    "name": "BetOnBlack",
-    "sol": 2.764517894000001,
-    "spaet": false,
-    "symbol": "BetOnBlak",
-    "t": 1795733062.015311
-   },
-   {
-    "dauer": 153.73369216918945,
-    "ersteller_verkauft": true,
-    "kaeufer": 406,
-    "mint": "6uQ5UpNzo65w42aY1ChA4iX8HDGphaJHP7fouUQDpump",
-    "name": "Alien Inu",
-    "sol": 82.65963640900006,
-    "spaet": false,
-    "symbol": "AI",
-    "t": 1795733067.3361137
-   },
    {
     "mint": "G1fY1LmVmwnfxgXpAASz2jfnmzh7K1K41sfTW35npump",
     "spaet": true,
@@ -554,6 +532,39 @@
     "spaet": false,
     "symbol": "TOGI",
     "t": 1795736404.108087
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "2VeUSgG7uyFdEvvPVn8vhBWDagegU3mZ6pL51r9Bvv2r",
+    "name": "Togi Coin",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736513.8718667
+   },
+   {
+    "dauer": 0.18001174926757812,
+    "ersteller_verkauft": false,
+    "kaeufer": 4,
+    "mint": "GkaTRCffsF5k1R1X7EAhbwpEvFauT2CJ5kUXJdGWpump",
+    "name": "Togi Coin",
+    "sol": 85.00535905999999,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736600.6431105
+   },
+   {
+    "dauer": 0.0069293975830078125,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "Bsz6XXke4tBg6DejoR5GLmzjsDHxAzAtTBznsybopump",
+    "name": "Santaball",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Santaball",
+    "t": 1795736692.1597004
    }
   ],
   "uebersicht": 1795735188.828268
