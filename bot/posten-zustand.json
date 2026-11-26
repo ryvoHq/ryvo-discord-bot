@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 169,
+ "laeufe": 170,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -171,17 +171,6 @@
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 0.007518291473388672,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "7SjffMXL9cGcPCQHzyWQjMz3Li5tUG34pemiTxLhpump",
-    "name": "PumpChan",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "PUMPCHAN",
-    "t": 1795653703.8995595
-   },
    {
     "dauer": 135.0284173488617,
     "ersteller_verkauft": false,
