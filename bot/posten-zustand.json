@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 351,
+ "laeufe": 352,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,28 +207,6 @@
    1795708046.864389
   ],
   "stunde": [
-   {
-    "dauer": 47.75076627731323,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "8ywjbLCbW3Nn1dDsMKQz1Bghcv7H2sm5D6pCDKMjpump",
-    "name": "LUCIA",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "LUCIA",
-    "t": 1795705119.405456
-   },
-   {
-    "dauer": 84.9601137638092,
-    "ersteller_verkauft": false,
-    "kaeufer": 118,
-    "mint": "BHhMcQW3qCdS1ohLf1y4ptCCrZkXetadtTV261rpump",
-    "name": "CocaCola | Offical",
-    "sol": 84.784160171,
-    "spaet": false,
-    "symbol": "Coca-Cola",
-    "t": 1795705314.4079661
-   },
    {
     "mint": "EF88ztWircv8YpPJ4rcANoEvQGLP32MgLX8Evwo4pump",
     "spaet": true,
