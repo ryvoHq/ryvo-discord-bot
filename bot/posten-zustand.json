@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 349,
+ "laeufe": 350,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -208,27 +208,6 @@
    1795708046.864389
   ],
   "stunde": [
-   {
-    "mint": "Hnv5e4c8amHREbBDgzxGtaYPVSt7nhrW5AUNS6Q7pump",
-    "spaet": true,
-    "t": 1795704592.757714
-   },
-   {
-    "mint": "4SYuAVGeMqX1yRynUgesASrBR2owsXTGKTL1YGp3pump",
-    "spaet": true,
-    "t": 1795704695.7639859
-   },
-   {
-    "dauer": 185.80418992042542,
-    "ersteller_verkauft": false,
-    "kaeufer": 254,
-    "mint": "8XefdyFEBBLwvEWpGZqLmBDR9TmDeon1aLy16x2ipump",
-    "name": "MEMEDAQ",
-    "sol": 47.44780734299997,
-    "spaet": false,
-    "symbol": "MDAQ",
-    "t": 1795704707.7705882
-   },
    {
     "dauer": 26.0735125541687,
     "ersteller_verkauft": false,
@@ -495,6 +474,22 @@
     "mint": "E9arxG4RxB7Gxt6U75obonTZzx7vpbc4bUi1dfw3BtUN",
     "spaet": true,
     "t": 1795707837.448356
+   },
+   {
+    "mint": "7EfZgcA6K7qibDtbCmTqHTUkkWpuSAJLjedRJduVpump",
+    "spaet": true,
+    "t": 1795708222.124635
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "CZt7wX37NiJQnDvwdd6JsrDLeX1XDDe7JBZEX296pump",
+    "name": "Thanksgiving Coin",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TURKEY",
+    "t": 1795708354.5165374
    }
   ],
   "uebersicht": 1795704662.8075502
