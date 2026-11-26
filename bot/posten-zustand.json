@@ -193,7 +193,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 323,
+ "laeufe": 324,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -202,28 +202,6 @@
    1795700707.938028
   ],
   "stunde": [
-   {
-    "dauer": 292.04699420928955,
-    "ersteller_verkauft": true,
-    "kaeufer": 39,
-    "mint": "DEQewaBDyWqgoJPcyjiVvBRuUBwCu7w44jRmyeFnpump",
-    "name": "HUANG MAN",
-    "sol": 0.17216995799999987,
-    "spaet": false,
-    "symbol": "HUANGMAN",
-    "t": 1795697417.5057983
-   },
-   {
-    "dauer": 31.639151096343994,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "5XcH7VycuDV9K8vWZVEnu85xj9XTk9mQh5tChmgipump",
-    "name": "リク",
-    "sol": 85.00535906900001,
-    "spaet": false,
-    "symbol": "Riku",
-    "t": 1795697426.3279922
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -493,6 +471,55 @@
     "spaet": false,
     "symbol": "KOMARI",
     "t": 1795700940.524644
+   },
+   {
+    "dauer": 803.827794790268,
+    "ersteller_verkauft": true,
+    "kaeufer": 177,
+    "mint": "6deKcY4SM4Gz1VWjRMCZPuBxjHWiruex9VEPepRHpump",
+    "name": "Grand Theft Auto VII",
+    "sol": 106.06161415899997,
+    "spaet": false,
+    "symbol": "GTAVII",
+    "t": 1795701092.0297086
+   },
+   {
+    "dauer": 496.9512586593628,
+    "ersteller_verkauft": true,
+    "kaeufer": 28,
+    "mint": "3mPjyQpjTYBdEXw15ucY5vzm3rRuD9fzsr1d78n9pump",
+    "name": "Laptop Christmas coin ",
+    "sol": 0.37219501899999946,
+    "spaet": false,
+    "symbol": "lptpmas",
+    "t": 1795701107.2715847
+   },
+   {
+    "dauer": 123.7366693019867,
+    "ersteller_verkauft": false,
+    "kaeufer": 187,
+    "mint": "4YHf38kPZNiTZLhLVQkBRcsMsosDhYMchMExHs72pump",
+    "name": "Hindsight Bias",
+    "sol": 73.22419163899998,
+    "spaet": false,
+    "symbol": "Hindsight",
+    "t": 1795701119.7030423
+   },
+   {
+    "mint": "72VRCNpYqJdpy9PuSWoTvLCUihEYFDFJXzKMYJiSpump",
+    "spaet": true,
+    "t": 1795701122.7897503
+   },
+   {
+    "dauer": 170.73600125312805,
+    "ersteller_verkauft": true,
+    "kaeufer": 38,
+    "mint": "4tXDFe5jSZcDgsckcdEaz6hnCAeY8ZP9VxSCzy4Cpump",
+    "name": "JESUS CHRIST",
+    "sol": 0.3643699519999995,
+    "spaet": false,
+    "symbol": "JESUS",
+    "t": 1795701293.1714096
    }
   ],
   "uebersicht": 1795701008.133407
