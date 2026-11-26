@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 346,
+ "laeufe": 347,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -208,33 +208,6 @@
    1795707147.5383089
   ],
   "stunde": [
-   {
-    "dauer": 141.4981243610382,
-    "ersteller_verkauft": true,
-    "kaeufer": 43,
-    "mint": "BESPvvEbD3p16fAqkacnhNXaBz7aV2vw94pL2WCTpump",
-    "name": "Cat Labs Act",
-    "sol": 2.16923138,
-    "spaet": false,
-    "symbol": "CLA",
-    "t": 1795703906.2186909
-   },
-   {
-    "dauer": 63.29161500930786,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "9mhnR9c4QeumRYRUdniJyfstMoGrGjvzKzbG4tk5pump",
-    "name": "LUCIA",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "LUCIA",
-    "t": 1795703994.2495594
-   },
-   {
-    "mint": "144Xq6wKiLjYVovZ5pid6m8axiq4iDjMk78d8pt8pump",
-    "spaet": true,
-    "t": 1795704144.8006594
-   },
    {
     "dauer": 0.29000234603881836,
     "ersteller_verkauft": false,
@@ -540,6 +513,27 @@
     "mint": "2fYRFfcwwz4wJg7inYwDkpWVdxTGf93WT9SRekFfpump",
     "spaet": true,
     "t": 1795707432.17238
+   },
+   {
+    "mint": "E6gZFbJ8cmz7bD7djSc1mAJk23Akq69H1H4WJZaopump",
+    "spaet": true,
+    "t": 1795707600.8698916
+   },
+   {
+    "dauer": 354.36530470848083,
+    "ersteller_verkauft": true,
+    "kaeufer": 5,
+    "mint": "6HpPatVFxbkFLBXXF6PEyshgv2uK2Pwo8LPhxMz4pump",
+    "name": "MIGRATED #1",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "MIGRATED",
+    "t": 1795707647.3276432
+   },
+   {
+    "mint": "FpwA7KWG9HCk2NSzitDSf7hXKmLfEd1JxTmsn8CFpump",
+    "spaet": true,
+    "t": 1795707692.435957
    }
   ],
   "uebersicht": 1795704662.8075502
