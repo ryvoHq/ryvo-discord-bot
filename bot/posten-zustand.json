@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 168,
+ "laeufe": 169,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -171,17 +171,6 @@
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 127.56455731391907,
-    "ersteller_verkauft": true,
-    "kaeufer": 395,
-    "mint": "EENkLC2uTvN6KxedwTYHkDi8rXJ4Cshw1PaBjW68pump",
-    "name": "Grindr Mascot",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "RASMR",
-    "t": 1795653244.830623
-   },
    {
     "dauer": 0.007518291473388672,
     "ersteller_verkauft": false,
@@ -360,6 +349,22 @@
     "mint": "7CsvCAECcsfhXA43KuoVhAp122pqimoVhQ4Uff7npump",
     "spaet": true,
     "t": 1795656651.3179688
+   },
+   {
+    "dauer": 0.001239776611328125,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "ERhjmSpLh6Rr4ozYjkGohr7rLizv7Mw6MgWpEFH7pump",
+    "name": "Meme Stonks",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "MemeStonks",
+    "t": 1795656915.7702682
+   },
+   {
+    "mint": "8HEMEDhrTD3t7YMZ7w1GVSzRT2wShvM6JhpKZoSGpump",
+    "spaet": true,
+    "t": 1795656995.9890423
    }
   ],
   "uebersicht": 1795654644.887717
