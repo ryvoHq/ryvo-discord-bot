@@ -160,7 +160,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 162,
+ "laeufe": 163,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -168,28 +168,6 @@
    1795654044.0227242
   ],
   "stunde": [
-   {
-    "dauer": 648.5086095333099,
-    "ersteller_verkauft": false,
-    "kaeufer": 135,
-    "mint": "45wGzHzs3egykGAgdAN4TfGmt7E8UfGTaRucjUYXpump",
-    "name": "nefelibata",
-    "sol": 81.05912501099999,
-    "spaet": false,
-    "symbol": "NEFELIBATA",
-    "t": 1795651430.442144
-   },
-   {
-    "dauer": 143.82264161109924,
-    "ersteller_verkauft": true,
-    "kaeufer": 326,
-    "mint": "8ZskPRZ81XcmHymGdwr9LwBzzuiHEkfAeFe5rfjYpump",
-    "name": "Meme Inu",
-    "sol": 66.387097905,
-    "spaet": false,
-    "symbol": "MI",
-    "t": 1795651598.0832834
-   },
    {
     "dauer": 354.2538993358612,
     "ersteller_verkauft": false,
@@ -340,6 +318,17 @@
     "mint": "27fYUwQM1BBv3L1DUowpXMCdWSgoDKZbSFNRUd1mpump",
     "spaet": true,
     "t": 1795654848.8526962
+   },
+   {
+    "dauer": 0.00023674964904785156,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "CnozX9VZrfTSCzssxicM4ee86GTuf497G5t94rUvpump",
+    "name": "skinpuss",
+    "sol": 85.00535906100001,
+    "spaet": false,
+    "symbol": "SKINPUSS",
+    "t": 1795655149.8897536
    }
   ],
   "uebersicht": 1795654644.887717
