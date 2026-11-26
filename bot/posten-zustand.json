@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 402,
+ "laeufe": 403,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -590,6 +590,17 @@
     "mint": "6qzRn98Jiw8hsX3sqS2rLVPFVWqwyfdTGMqTbkMYpump",
     "spaet": true,
     "t": 1795722905.2368124
+   },
+   {
+    "dauer": 204.67228507995605,
+    "ersteller_verkauft": true,
+    "kaeufer": 41,
+    "mint": "Cn1FB8JH1EcsNVpPgZSSM9JuHmmjovXrooa7qkvrpump",
+    "name": "Master Nyan coin",
+    "sol": 0.6597662769999983,
+    "spaet": false,
+    "symbol": "mnyan",
+    "t": 1795723031.3482728
    }
   ],
   "uebersicht": 1795720236.7698689
