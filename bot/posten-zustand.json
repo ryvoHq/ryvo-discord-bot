@@ -171,11 +171,12 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 210,
+ "laeufe": 211,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795668117.1404805
+   1795668117.1404805,
+   1795668716.6899574
   ],
   "stunde": [
    {
@@ -294,6 +295,17 @@
     "spaet": false,
     "symbol": "CI",
     "t": 1795668362.761617
+   },
+   {
+    "dauer": 429.2338969707489,
+    "ersteller_verkauft": false,
+    "kaeufer": 416,
+    "mint": "8gnXgowYp1cB5XNxrLGkwPAPbYf47qhkpymKdCB8pump",
+    "name": "Upline",
+    "sol": 79.40822569599993,
+    "spaet": false,
+    "symbol": "UP",
+    "t": 1795668460.4411407
    }
   ],
   "uebersicht": 1795666273.6556141
