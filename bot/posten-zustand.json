@@ -210,53 +210,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 367,
+ "laeufe": 368,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795709891.8784258,
-   1795709891.8784258,
-   1795710792.3029368
+   1795710792.3029368,
+   1795713538.256644
   ],
   "stunde": [
-   {
-    "mint": "8GE4mhEuU73LaJqPGA1XjsLL6MZYMRYxMKoeC9Mppump",
-    "spaet": true,
-    "t": 1795709650.7801547
-   },
-   {
-    "dauer": 137.72712779045105,
-    "ersteller_verkauft": true,
-    "kaeufer": 15,
-    "mint": "EBZfZPgG4D6qC6kLjEMHBELPtQLmE6fcXziRYrXtpump",
-    "name": "Bot Magnet",
-    "sol": 0.5939781200000014,
-    "spaet": false,
-    "symbol": "$BOTMAG",
-    "t": 1795709660.2838576
-   },
-   {
-    "dauer": 524.0929806232452,
-    "ersteller_verkauft": true,
-    "kaeufer": 521,
-    "mint": "9yHeZA5EYmiAaWvyaz1FXTFpufGvQfAvaXeW44Bopump",
-    "name": "I Am Thankful For...",
-    "sol": 35.39902766399997,
-    "spaet": false,
-    "symbol": "Thankful",
-    "t": 1795709856.2147431
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "uLFEFPqnVeb5xh8WPbAagvF4sYvNBcCJMqjX7bbpump",
-    "name": "United Bitcoin Reserve",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795709914.6316323
-   },
    {
     "dauer": 35.65710258483887,
     "ersteller_verkauft": false,
@@ -497,6 +458,33 @@
     "spaet": false,
     "symbol": "HSANE",
     "t": 1795713187.3496041
+   },
+   {
+    "mint": "FVBzzG4ZcAgxSLW1rWjNC9EH9CgEgz1A4puNYexMpump",
+    "spaet": true,
+    "t": 1795713239.64535
+   },
+   {
+    "dauer": 1309.7141580581665,
+    "ersteller_verkauft": false,
+    "kaeufer": 399,
+    "mint": "9SXgSTDZ9HiPJYzqXE43tbZPAQdzhDgu2h2YN7Mo9Ye7",
+    "name": "KuroCoin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Kuro",
+    "t": 1795713324.2702644
+   },
+   {
+    "dauer": 46.318705558776855,
+    "ersteller_verkauft": true,
+    "kaeufer": 163,
+    "mint": "DxB52vf7oPnew9MAtZMvRB4zSZAoExiFAM4yCaX7pump",
+    "name": "Justice For Jennily Srang",
+    "sol": 59.382780739,
+    "spaet": false,
+    "symbol": "JENNILY",
+    "t": 1795713519.574057
    }
   ],
   "uebersicht": 1795712938.5846055
