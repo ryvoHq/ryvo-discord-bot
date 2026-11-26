@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 381,
+ "laeufe": 382,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -218,17 +218,6 @@
    1795717178.5607083
   ],
   "stunde": [
-   {
-    "dauer": 0.0016987323760986328,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "9tERTsZZj19ZHAqg7URtfkfPdaCiVeR4JkuPVoHrpump",
-    "name": "Jimmy Santa",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "JANTA",
-    "t": 1795713580.452797
-   },
    {
     "dauer": 78.53525400161743,
     "ersteller_verkauft": true,
