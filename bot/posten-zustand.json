@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 343,
+ "laeufe": 344,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,55 +207,6 @@
    1795704962.4614937
   ],
   "stunde": [
-   {
-    "mint": "7WvZFEyRyGGfkc1U4h1d4PN6beSaRGrEhp2nbf3pump",
-    "spaet": true,
-    "t": 1795702991.95525
-   },
-   {
-    "dauer": 75.37169623374939,
-    "ersteller_verkauft": false,
-    "kaeufer": 133,
-    "mint": "G6MgKXoipc6KhWyhxSqhmpTRwPJWnjsCK6WBpA69pump",
-    "name": "winter arc",
-    "sol": 85.03498916499993,
-    "spaet": false,
-    "symbol": "WINTER",
-    "t": 1795702995.4685311
-   },
-   {
-    "dauer": 134.8253514766693,
-    "ersteller_verkauft": true,
-    "kaeufer": 48,
-    "mint": "B7fA4ab83zsPkYMEW55sfbvkTQbVwN71NGdZFbGupump",
-    "name": "Cat Labs Act",
-    "sol": 4.220486665,
-    "spaet": false,
-    "symbol": "CLA",
-    "t": 1795703015.9542437
-   },
-   {
-    "dauer": 135.22799730300903,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "9i6ZF6mn1HrMEJ6nHb8kmwaFfQogjfy2uH1Dk1Hypump",
-    "name": "CLOD",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "CLOD",
-    "t": 1795703078.734974
-   },
-   {
-    "dauer": 64.84340834617615,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "CLGPFMW3RBCPmM8rQRH1cd3tRw2EZbZ2p8UXBMSwpump",
-    "name": "turkey day Pepe",
-    "sol": 38.572142616,
-    "spaet": false,
-    "symbol": "turkey",
-    "t": 1795703148.3697603
-   },
    {
     "mint": "8yYpzQRLQ1T9t8sXj2FaKtoL2QSh2NCahnZdmxbNpump",
     "spaet": true,
@@ -496,6 +447,28 @@
     "spaet": false,
     "symbol": "🌙 BUCK",
     "t": 1795706477.6035216
+   },
+   {
+    "dauer": 74.25489473342896,
+    "ersteller_verkauft": false,
+    "kaeufer": 304,
+    "mint": "FEfZJT4wTpA9BANcCzejfF3iXd2mww9GhzcqSDBWpump",
+    "name": "MintMyGame",
+    "sol": 74.82434513900004,
+    "spaet": false,
+    "symbol": "MINT",
+    "t": 1795706654.8961792
+   },
+   {
+    "dauer": 228.2274615764618,
+    "ersteller_verkauft": true,
+    "kaeufer": 217,
+    "mint": "FhqDkegKskbeERqT4y8Lcm2aMMmFBSvz3rN3Ys7vpump",
+    "name": "Kerry's Knockers",
+    "sol": 72.40583923299995,
+    "spaet": false,
+    "symbol": "KK",
+    "t": 1795706736.3957229
    }
   ],
   "uebersicht": 1795704662.8075502
