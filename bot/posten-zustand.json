@@ -217,35 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 429,
+ "laeufe": 430,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "dauer": 115.78117346763611,
-    "ersteller_verkauft": true,
-    "kaeufer": 170,
-    "mint": "8oEbu6udC7QTnWCmZQUKmnz1mazgNSnmWb95anxCpump",
-    "name": "The Thanksgiving Effect",
-    "sol": 62.456902658000004,
-    "spaet": false,
-    "symbol": "Thanksgiving",
-    "t": 1795726748.5261123
-   },
-   {
-    "dauer": 50.680487632751465,
-    "ersteller_verkauft": false,
-    "kaeufer": 183,
-    "mint": "CQVRQ1MyL6cw9VPqZS7ep8pyNy1yKFijASmNzLubYx7z",
-    "name": "boringcoin",
-    "sol": 36.773366437999854,
-    "spaet": false,
-    "symbol": "boring",
-    "t": 1795727018.6595013
-   },
    {
     "mint": "HpKjCnvJbgZ2ymjDvae5ZZ29t21FqECWN8ohWCFcpump",
     "spaet": true,
@@ -535,6 +513,22 @@
     "spaet": false,
     "symbol": "Adog",
     "t": 1795730220.0351267
+   },
+   {
+    "mint": "CiyV69uojxn1yt1EoUCrfSi61TxdqeBQYTPtLptrpump",
+    "spaet": true,
+    "t": 1795730322.628011
+   },
+   {
+    "dauer": 0.0009679794311523438,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "ouAnGJf7X4o17oXsmPvr42ytzPGvo7VYB2TsCJwpump",
+    "name": "Vetocat",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Vetocat",
+    "t": 1795730510.4759932
    }
   ],
   "uebersicht": 1795727879.9348903
@@ -582,7 +576,7 @@
   }
  },
  "status_nachricht": "1575110333385801839",
- "swing_tag": "2026-11-25",
+ "swing_tag": "2026-11-26",
  "terminal_hash": "72856675800e8502de88b236d805b27f772946d10f8dadee5d8b4d4ee94fdc2e",
  "terminal_notiz_zeit": 1795608189.1678889,
  "thread_tag": "2026-11-26"
