@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 356,
+ "laeufe": 357,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -220,65 +220,6 @@
    1795709891.8784258
   ],
   "stunde": [
-   {
-    "dauer": 74.25489473342896,
-    "ersteller_verkauft": false,
-    "kaeufer": 304,
-    "mint": "FEfZJT4wTpA9BANcCzejfF3iXd2mww9GhzcqSDBWpump",
-    "name": "MintMyGame",
-    "sol": 74.82434513900004,
-    "spaet": false,
-    "symbol": "MINT",
-    "t": 1795706654.8961792
-   },
-   {
-    "dauer": 228.2274615764618,
-    "ersteller_verkauft": true,
-    "kaeufer": 217,
-    "mint": "FhqDkegKskbeERqT4y8Lcm2aMMmFBSvz3rN3Ys7vpump",
-    "name": "Kerry's Knockers",
-    "sol": 72.40583923299995,
-    "spaet": false,
-    "symbol": "KK",
-    "t": 1795706736.3957229
-   },
-   {
-    "dauer": 25.189531803131104,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "3tXvXuo4RC444nJ1WNNSXXpTCH1QTSZTaTrQsSHBpump",
-    "name": "FIRST",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "FIRST",
-    "t": 1795706858.4859436
-   },
-   {
-    "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump",
-    "spaet": true,
-    "t": 1795706865.0122967
-   },
-   {
-    "mint": "3f8P15vPP7WvWgQU7uJr8tc4MPkGcU6UvuBf8xsJpump",
-    "spaet": true,
-    "t": 1795706876.323804
-   },
-   {
-    "dauer": 197.31298446655273,
-    "ersteller_verkauft": false,
-    "kaeufer": 371,
-    "mint": "6nqBiYKWZ5YEoB74fiD4Hn5Z5HuJUfdfgMAGE44epump",
-    "name": "Money",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "MONEY",
-    "t": 1795706890.2535846
-   },
-   {
-    "mint": "CTk6xpKMehs74FGG91b1N7r4R4TZjzr4nhwJKXp1pump",
-    "spaet": true,
-    "t": 1795706891.6039207
-   },
    {
     "dauer": 182.0382604598999,
     "ersteller_verkauft": true,
@@ -525,6 +466,27 @@
     "spaet": false,
     "symbol": "wiener",
     "t": 1795710167.450022
+   },
+   {
+    "mint": "6tMxgWnpVGZgKwjXHYbrDKWDZM2RSPEc8DLkgagLpump",
+    "spaet": true,
+    "t": 1795710213.2150843
+   },
+   {
+    "mint": "AhAVs3hJVH9Zs4KRpvSEzZa2PJSuKcvYq164c1vupump",
+    "spaet": true,
+    "t": 1795710315.541225
+   },
+   {
+    "dauer": 88.62489008903503,
+    "ersteller_verkauft": false,
+    "kaeufer": 176,
+    "mint": "BLfYxmZdBQX9rqVwPuFtmJuifow7pw81UrKx4Bwupump",
+    "name": "Basket",
+    "sol": 85.249380413,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795710471.3869252
    }
   ],
   "uebersicht": 1795709291.9324813
