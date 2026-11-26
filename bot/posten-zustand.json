@@ -217,45 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 428,
+ "laeufe": 429,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "mint": "E3JLPbDNQxGvLS5n1bziJzLS9pcJUiGApQQAcZmXpump",
-    "spaet": true,
-    "t": 1795726421.860792
-   },
-   {
-    "dauer": 122.67347931861877,
-    "ersteller_verkauft": true,
-    "kaeufer": 10,
-    "mint": "61hWjVpbn7Np28Ev8FmdHi4AAUdtWdFywrZJfAF8pump",
-    "name": "The Toad Cat",
-    "sol": 1.4423777530000008,
-    "spaet": false,
-    "symbol": "TOAD",
-    "t": 1795726505.8394747
-   },
-   {
-    "mint": "XYDLGP5MYUYMUZzhQqADygY8eP6MTXQxncfvVpVpump",
-    "spaet": true,
-    "t": 1795726551.0934083
-   },
-   {
-    "dauer": 2.35465145111084,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "GmSiz5ZW5aAycQsS59buCLFRUY6cRUkQ5XvqoJEMpump",
-    "name": "OFFICIAL BARRON",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BARRON",
-    "t": 1795726592.6884613
-   },
    {
     "dauer": 115.78117346763611,
     "ersteller_verkauft": true,
@@ -540,6 +508,33 @@
     "mint": "HBimhBvc29m7RySfWpj8Y7C1JVvSkBRd8jTXrb65pump",
     "spaet": true,
     "t": 1795730012.6720726
+   },
+   {
+    "dauer": 119.49761700630188,
+    "ersteller_verkauft": true,
+    "kaeufer": 235,
+    "mint": "4qvYoCL9Lk6fk5sPakuABcETtnx9kN9s3yZNcRhgpump",
+    "name": "Encrypted Dog",
+    "sol": 78.20528396499998,
+    "spaet": false,
+    "symbol": "zDOG",
+    "t": 1795730105.0660312
+   },
+   {
+    "mint": "BobMBz6UpYQferxPQpZn5p8vfXxvPEetTHS6zeUwpump",
+    "spaet": true,
+    "t": 1795730183.419388
+   },
+   {
+    "dauer": 204.97122192382812,
+    "ersteller_verkauft": true,
+    "kaeufer": 187,
+    "mint": "G12Wsg7AJD28fVL3XB6JUh2T3jHVXpyeoanA3ADtpump",
+    "name": "Adog",
+    "sol": 33.81512424100002,
+    "spaet": false,
+    "symbol": "Adog",
+    "t": 1795730220.0351267
    }
   ],
   "uebersicht": 1795727879.9348903
