@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 260,
+ "laeufe": 261,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,17 +190,6 @@
    1795683026.1122732
   ],
   "stunde": [
-   {
-    "dauer": 175.1343550682068,
-    "ersteller_verkauft": false,
-    "kaeufer": 6,
-    "mint": "8XbUuLfX7mnz8QFno4kopwnPMXFtdfJhuNqbkDDNpump",
-    "name": "Official Jesus Christ",
-    "sol": 2.15242732,
-    "spaet": false,
-    "symbol": "Jesus",
-    "t": 1795679472.5294096
-   },
    {
     "dauer": 503.2866313457489,
     "ersteller_verkauft": false,
