@@ -3,7 +3,7 @@
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-26",
  "ebenen_krypto": "2026-11-26",
- "ebenen_trad": "2026-11-25",
+ "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-25",
  "gesehen": [
   "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-global-stock-rally-dents-safe-haven-demand/articleshow/136185124.cms",
@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 299,
+ "laeufe": 300,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,83 +195,6 @@
    1795692775.3964045
   ],
   "stunde": [
-   {
-    "dauer": 111.39131331443787,
-    "ersteller_verkauft": false,
-    "kaeufer": 129,
-    "mint": "U7J87pcjSzV3CPNTS3xPJ6zVAqHdavgRVaxZj1Wpump",
-    "name": "GTA | Official Team",
-    "sol": 85.00535931599997,
-    "spaet": false,
-    "symbol": "GTA 6 Coin",
-    "t": 1795690850.153487
-   },
-   {
-    "dauer": 150.066171169281,
-    "ersteller_verkauft": false,
-    "kaeufer": 16,
-    "mint": "2ayeGF1yWSjhZdrk1vqxY9G8h6txwFu3BUJtyPuXpump",
-    "name": "CAO DI NIU",
-    "sol": 3.9304786169999995,
-    "spaet": false,
-    "symbol": "CAODINIU",
-    "t": 1795690868.4649584
-   },
-   {
-    "dauer": 115.76303434371948,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "A65LoPLDZz2q8iYs3kfCUX5CUcmPkQ1tyu4SCDHypump",
-    "name": "Golden Touchdown",
-    "sol": 0.691640926,
-    "spaet": false,
-    "symbol": "TOUCHDOWN",
-    "t": 1795690924.727492
-   },
-   {
-    "dauer": 358.48522329330444,
-    "ersteller_verkauft": false,
-    "kaeufer": 144,
-    "mint": "GGBhfKaKkYJsAcFgTKAbaxbcHcfR6gEhNEnw2bpopump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 85.00535939299998,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795690942.7365227
-   },
-   {
-    "dauer": 102.44179821014404,
-    "ersteller_verkauft": false,
-    "kaeufer": 128,
-    "mint": "AJZtVLgzLtbVphE35kLMHZe8gmQXVSBKv3qdyKDWpump",
-    "name": "Fiona the Hippo",
-    "sol": 85.29527784599999,
-    "spaet": false,
-    "symbol": "FIONA",
-    "t": 1795690947.7392542
-   },
-   {
-    "dauer": 183.27911925315857,
-    "ersteller_verkauft": true,
-    "kaeufer": 17,
-    "mint": "7T6VUQ3LaSQ53pn5PLfWnW93Es9PL7yHdet1iwftpump",
-    "name": "The Amazon Monkey",
-    "sol": 0.398175627,
-    "spaet": false,
-    "symbol": "ELIZABETH",
-    "t": 1795690960.4792821
-   },
-   {
-    "dauer": 111.89786648750305,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "AT8iuqdxHLLHgC5uhmfpeQaqojNhYRmFwDq7mYqfpump",
-    "name": "NUTSEYY ",
-    "sol": 1.21349931,
-    "spaet": false,
-    "symbol": "NutC",
-    "t": 1795690983.5082698
-   },
    {
     "dauer": 327.99211072921753,
     "ersteller_verkauft": false,
@@ -467,6 +390,33 @@
     "spaet": false,
     "symbol": "konnichiwa",
     "t": 1795694117.866851
+   },
+   {
+    "mint": "F9CwhBgSsEJuCigbodtUH257EqQpRSzKLKwHPPKNpump",
+    "spaet": true,
+    "t": 1795694377.24848
+   },
+   {
+    "dauer": 154.30393266677856,
+    "ersteller_verkauft": false,
+    "kaeufer": 30,
+    "mint": "GsDoiZRVEqzADb9ERhxAZ6DhK2Y6ZYyRr6dTtQ93pump",
+    "name": "EVILcoin",
+    "sol": 0.1944402010000003,
+    "spaet": false,
+    "symbol": "EVIL",
+    "t": 1795694417.197321
+   },
+   {
+    "dauer": 162.74713611602783,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "EoCbFrGMy1zYAmqoZWosDm86emSBEpRDAaT5u4ACpump",
+    "name": "STENKS",
+    "sol": 0.5683458589999999,
+    "spaet": false,
+    "symbol": "STENKS",
+    "t": 1795694437.5274312
    }
   ],
   "uebersicht": 1795693716.239242
