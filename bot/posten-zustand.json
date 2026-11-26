@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 212,
+ "laeufe": 213,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -179,16 +179,6 @@
    1795668716.6899574
   ],
   "stunde": [
-   {
-    "mint": "7S3TUfJZw9PrLqkM4YkSJ85ng17RjHpM8zwZf7Lopump",
-    "spaet": true,
-    "t": 1795665617.0849817
-   },
-   {
-    "mint": "D2rJuZejecEHNPZY8kcgMsYMUNVFYJx7iADiGjRppump",
-    "spaet": true,
-    "t": 1795665632.080836
-   },
    {
     "dauer": 116.63353180885315,
     "ersteller_verkauft": false,
@@ -285,6 +275,17 @@
     "spaet": false,
     "symbol": "UP",
     "t": 1795668460.4411407
+   },
+   {
+    "dauer": 375.59712314605713,
+    "ersteller_verkauft": false,
+    "kaeufer": 171,
+    "mint": "ADssqdt3M8FeoTybJJBcWGFgQhDJQBbB7ai4xjUnpump",
+    "name": "Basket",
+    "sol": 85.07373894899995,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795669073.1975067
    }
   ],
   "uebersicht": 1795666273.6556141
@@ -335,5 +336,5 @@
  "swing_tag": "2026-11-25",
  "terminal_hash": "72856675800e8502de88b236d805b27f772946d10f8dadee5d8b4d4ee94fdc2e",
  "terminal_notiz_zeit": 1795608189.1678889,
- "thread_tag": "2026-11-25"
+ "thread_tag": "2026-11-26"
 }
