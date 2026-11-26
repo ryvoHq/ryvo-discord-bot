@@ -221,20 +221,16 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 453,
+ "laeufe": 454,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795734286.1914365,
    1795735486.0610247,
-   1795736127.7741737
+   1795736127.7741737,
+   1795737328.1390703
   ],
   "stunde": [
-   {
-    "mint": "Ak4BGyneYMfy2b7WrYaknsbSSz4x6jSeTTguEsgypump",
-    "spaet": true,
-    "t": 1795733556.735378
-   },
    {
     "mint": "BmMKWvmAofGVpZE1MK4pdTNi5UjfhWLZyNcrV3Gpump",
     "spaet": true,
@@ -549,6 +545,17 @@
     "spaet": false,
     "symbol": "Santaball",
     "t": 1795736692.1597004
+   },
+   {
+    "dauer": 211.47243285179138,
+    "ersteller_verkauft": false,
+    "kaeufer": 443,
+    "mint": "B2JjjQfrDAiDM99haXM5jpFibxbQaPvdqX7aB9Tupump",
+    "name": "Family Friendly Coin",
+    "sol": 46.551645774000065,
+    "spaet": false,
+    "symbol": "FF",
+    "t": 1795737170.5707672
    }
   ],
   "uebersicht": 1795735188.828268
