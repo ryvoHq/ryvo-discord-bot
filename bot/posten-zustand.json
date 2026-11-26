@@ -210,29 +210,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 373,
+ "laeufe": 374,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795713538.256644
   ],
   "stunde": [
-   {
-    "dauer": 0.0014848709106445312,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "57sCZ82FwS5Dfs7FN9nshtU5Mkb3w1dqhmPUuCPvpump",
-    "name": "Meme Stock Treasury Reserve",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "MSTR",
-    "t": 1795711289.8765125
-   },
-   {
-    "mint": "28VAecpmiJx9WJA7cQTCpsRKZcMZgjNZ8XEgQjECpump",
-    "spaet": true,
-    "t": 1795711406.3102381
-   },
    {
     "mint": "7fisFVdGDBBwmjd1Cd4SxFa7uY6WxXmixtQG8d1cpump",
     "spaet": true,
@@ -493,6 +477,44 @@
     "spaet": false,
     "symbol": "wind",
     "t": 1795714715.7565954
+   },
+   {
+    "dauer": 105.95466804504395,
+    "ersteller_verkauft": true,
+    "kaeufer": 145,
+    "mint": "GR7r9ZwqeQxxVowWrni2E8Cu7vtVM5A9AQu2j8Kapump",
+    "name": "Ericcoin",
+    "sol": 62.83932154500004,
+    "spaet": false,
+    "symbol": "ERIC",
+    "t": 1795714851.445381
+   },
+   {
+    "dauer": 116.87217545509338,
+    "ersteller_verkauft": false,
+    "kaeufer": 398,
+    "mint": "HEVgWN2kdunNkktZGeKoJPPuk4J7FHkx5YGccn46pump",
+    "name": "Solana changed my life",
+    "sol": 25.77520424700017,
+    "spaet": false,
+    "symbol": "Life",
+    "t": 1795714885.5249429
+   },
+   {
+    "dauer": 33.08682608604431,
+    "ersteller_verkauft": false,
+    "kaeufer": 35,
+    "mint": "tq1mpLG24hgL3Lfb3MeP96pLDNFoMoN4JY8ez9jpump",
+    "name": "Winning Beats",
+    "sol": 85.94006101699999,
+    "spaet": false,
+    "symbol": "WB",
+    "t": 1795714927.4117868
+   },
+   {
+    "mint": "DwZtDej6Cgpuday2VaFfkWQtpUfJLKt12YCfAwgVpump",
+    "spaet": true,
+    "t": 1795714988.1419525
    }
   ],
   "uebersicht": 1795712938.5846055
