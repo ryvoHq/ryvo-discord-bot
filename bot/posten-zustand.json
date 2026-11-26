@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 251,
+ "laeufe": 252,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -339,6 +339,17 @@
     "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump",
     "spaet": true,
     "t": 1795680290.198005
+   },
+   {
+    "dauer": 51.47473764419556,
+    "ersteller_verkauft": false,
+    "kaeufer": 203,
+    "mint": "qfp3QWVASGEeiFhayeKdvnFCK7A2mePgxTC1G75pump",
+    "name": "DarkPool",
+    "sol": 85.00535953399994,
+    "spaet": false,
+    "symbol": "DARKPOOL",
+    "t": 1795680464.6764596
    }
   ],
   "uebersicht": 1795678142.391696
