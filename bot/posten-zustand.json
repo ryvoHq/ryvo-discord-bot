@@ -171,27 +171,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 208,
+ "laeufe": 209,
  "lagebrief_stand": 1795663800,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795668117.1404805
+  ],
   "stunde": [
-   {
-    "mint": "E9LxjW3bTHv2w4FF4fKJoURDDy2DgJmnDdY6mctqpump",
-    "spaet": true,
-    "t": 1795664363.4074197
-   },
-   {
-    "dauer": 90.74905562400818,
-    "ersteller_verkauft": false,
-    "kaeufer": 35,
-    "mint": "HAVbDao9NE8JYmyV97AJrKvf5dtYZqcwPrr8BX2jpump",
-    "name": "SOTONG",
-    "sol": 78.08838157500004,
-    "spaet": false,
-    "symbol": "SOTONG",
-    "t": 1795664515.1752148
-   },
    {
     "mint": "HkywsKMf5FDj7QpgRE3BoE2nJqJauxEVbGjpnYe6pump",
     "spaet": true,
@@ -270,6 +256,33 @@
     "spaet": false,
     "symbol": "FOMOCAT",
     "t": 1795667461.5991156
+   },
+   {
+    "dauer": 203.0141110420227,
+    "ersteller_verkauft": false,
+    "kaeufer": 324,
+    "mint": "3iDmzk4UZXp6zoQRudyB5vPqDGjqUjsFGwreUd6upump",
+    "name": "miuu",
+    "sol": 82.71969962499983,
+    "spaet": false,
+    "symbol": "miuu",
+    "t": 1795667936.7507238
+   },
+   {
+    "dauer": 0.005326986312866211,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "4VMwK3shXxsaMbiJ4qtBMMEgi63riezBSWFHfA6Vpump",
+    "name": "Fritz the Hippo",
+    "sol": 85.005359067,
+    "spaet": false,
+    "symbol": "FRITZ",
+    "t": 1795667985.7933753
+   },
+   {
+    "mint": "ChFvaeEZqmcRMJDt3KfY9NuTBzbuVXzsiwrP3mN5pump",
+    "spaet": true,
+    "t": 1795668030.831514
    }
   ],
   "uebersicht": 1795666273.6556141
