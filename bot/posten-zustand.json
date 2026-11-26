@@ -199,58 +199,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 334,
+ "laeufe": 335,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795700707.938028,
-   1795701608.067284
+   1795701608.067284,
+   1795704362.7648325
   ],
   "stunde": [
-   {
-    "dauer": 1491.2642641067505,
-    "ersteller_verkauft": true,
-    "kaeufer": 258,
-    "mint": "8hjA4K8B9pRFqey1xxcRKE1pr7YVFW7iuaQ6SivNpump",
-    "name": "FoolCoin",
-    "sol": 71.91694887100002,
-    "spaet": false,
-    "symbol": "₣",
-    "t": 1795700640.8559768
-   },
-   {
-    "dauer": 375.36563777923584,
-    "ersteller_verkauft": false,
-    "kaeufer": 117,
-    "mint": "FGQQfXtwWLMRqjCVbjixnms3KZTwQi4iDBNyCr8bpump",
-    "name": "ZeroSumEnjoyer",
-    "sol": 66.10754758800002,
-    "spaet": false,
-    "symbol": "Zero",
-    "t": 1795700689.954504
-   },
-   {
-    "dauer": 367.529746055603,
-    "ersteller_verkauft": true,
-    "kaeufer": 5,
-    "mint": "84TWXKeqSKn3JY4cdvbeq1N1gemyVvxFkNa6jFq2pump",
-    "name": "2008",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "2008",
-    "t": 1795700723.8483813
-   },
-   {
-    "dauer": 890.678252696991,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "3BCG6CCubkG3tVYSmv5jkLPGfdJJVbgH8kvGXDJfpump",
-    "name": "party partybot lol",
-    "sol": 0.1815686620000001,
-    "spaet": false,
-    "symbol": "goat",
-    "t": 1795700735.021059
-   },
    {
     "mint": "HkPSDYRcw4uqgRzZMDd5sRnMpE4ungR1K8MRNXnBVtQ2",
     "spaet": true,
@@ -455,6 +411,55 @@
     "spaet": false,
     "symbol": "LUCIA",
     "t": 1795703994.2495594
+   },
+   {
+    "mint": "144Xq6wKiLjYVovZ5pid6m8axiq4iDjMk78d8pt8pump",
+    "spaet": true,
+    "t": 1795704144.8006594
+   },
+   {
+    "dauer": 0.29000234603881836,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "4ZosVumUi3KxHa4UqVt3igWkf7nruHu5hbhQSgFdpump",
+    "name": "Sitting Duk",
+    "sol": 85.005359073,
+    "spaet": false,
+    "symbol": "SITTINGDUK",
+    "t": 1795704156.5652978
+   },
+   {
+    "dauer": 65.92433381080627,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "2wDw65452SP1N47EARDzkxxgK5oNx8QqqxTnaxdopump",
+    "name": "GREENINU",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "GREENINU",
+    "t": 1795704205.9261782
+   },
+   {
+    "dauer": 63.44260334968567,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "HnbAKrRF9SM4QNb5o7nGJNcpjdkTyCR2M6pWgjiqpump",
+    "name": "시묘",
+    "sol": 85.00535906699999,
+    "spaet": false,
+    "symbol": "Simyo",
+    "t": 1795704247.0434666
+   },
+   {
+    "dauer": 1161.3256227970123,
+    "ersteller_verkauft": false,
+    "kaeufer": 470,
+    "mint": "C5g5opfZzQLWe6xJ2VWmnt9Eigc7KBk16AqnVPwWbRob",
+    "name": "Shill",
+    "sol": 82.66776268900014,
+    "spaet": false,
+    "symbol": "SHILL",
+    "t": 1795704328.7803779
    }
   ],
   "uebersicht": 1795701008.133407
