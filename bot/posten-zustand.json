@@ -221,44 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 434,
+ "laeufe": 435,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 72.28582382202148,
-    "ersteller_verkauft": true,
-    "kaeufer": 149,
-    "mint": "J36s4vwXX5bNou1E7MkMvBCZS8h3Nq8iRYiRjvGvpump",
-    "name": "humanity's last Thanksgiving",
-    "sol": 44.61443809799998,
-    "spaet": false,
-    "symbol": "LASTGIVING",
-    "t": 1795728413.709052
-   },
-   {
-    "dauer": 29.007428646087646,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "GHNMh1iKufToaDGyKenKshWubzdpjFYSJWdkRZjkpump",
-    "name": "Gooncoin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "GOON",
-    "t": 1795728445.5765066
-   },
-   {
-    "dauer": 13.044196844100952,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "7zGfxBpuCm4GoZhwWBib8ixFsCagyHddWC7Qqq1spump",
-    "name": "LUCIA",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "LUCIA",
-    "t": 1795728465.1982157
-   },
    {
     "mint": "CJPemZcsqi81Vc83WT1ov6dFs2TfKu6mSBxpS3h5pump",
     "spaet": true,
@@ -460,6 +427,27 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795731711.1552794
+   },
+   {
+    "mint": "EWDVQuoBo2K1QQ3fVqvpPkGSzZqhzQYCbhU2j8rxpump",
+    "spaet": true,
+    "t": 1795731877.5512877
+   },
+   {
+    "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump",
+    "spaet": true,
+    "t": 1795731939.1230013
+   },
+   {
+    "dauer": 54.82543420791626,
+    "ersteller_verkauft": true,
+    "kaeufer": 281,
+    "mint": "Acfd8udxmA8pF8s4MLdhSBNK8Bhzm3DnvViV4PvQpump",
+    "name": "SpaceX",
+    "sol": 85.005359466,
+    "spaet": false,
+    "symbol": "SpaceX",
+    "t": 1795732044.7120516
    }
   ],
   "uebersicht": 1795731519.2123363
