@@ -217,24 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 421,
+ "laeufe": 422,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "dauer": 33.39495635032654,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "HSkHNqehpWYVVhXpAuESd9jQExyMikgr34ba5WLHpump",
-    "name": "H/MONHOOK",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "H/MONHOOK",
-    "t": 1795724680.9324741
-   },
    {
     "dauer": 162.96125841140747,
     "ersteller_verkauft": true,
@@ -594,6 +583,44 @@
     "spaet": false,
     "symbol": "UGOS",
     "t": 1795728131.9671369
+   },
+   {
+    "mint": "5KQxYcAi8VMHzkWb5tp8SxJEbkrZtNQTjFRbb6sjpump",
+    "spaet": true,
+    "t": 1795728188.5561843
+   },
+   {
+    "dauer": 72.28582382202148,
+    "ersteller_verkauft": true,
+    "kaeufer": 149,
+    "mint": "J36s4vwXX5bNou1E7MkMvBCZS8h3Nq8iRYiRjvGvpump",
+    "name": "humanity's last Thanksgiving",
+    "sol": 44.61443809799998,
+    "spaet": false,
+    "symbol": "LASTGIVING",
+    "t": 1795728413.709052
+   },
+   {
+    "dauer": 29.007428646087646,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "GHNMh1iKufToaDGyKenKshWubzdpjFYSJWdkRZjkpump",
+    "name": "Gooncoin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "GOON",
+    "t": 1795728445.5765066
+   },
+   {
+    "dauer": 13.044196844100952,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "7zGfxBpuCm4GoZhwWBib8ixFsCagyHddWC7Qqq1spump",
+    "name": "LUCIA",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "LUCIA",
+    "t": 1795728465.1982157
    }
   ],
   "uebersicht": 1795727879.9348903
