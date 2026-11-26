@@ -199,59 +199,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 347,
+ "laeufe": 348,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795704362.7648325,
    1795704962.4614937,
-   1795707147.5383089
+   1795707147.5383089,
+   1795708046.864389
   ],
   "stunde": [
-   {
-    "dauer": 0.29000234603881836,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "4ZosVumUi3KxHa4UqVt3igWkf7nruHu5hbhQSgFdpump",
-    "name": "Sitting Duk",
-    "sol": 85.005359073,
-    "spaet": false,
-    "symbol": "SITTINGDUK",
-    "t": 1795704156.5652978
-   },
-   {
-    "dauer": 65.92433381080627,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "2wDw65452SP1N47EARDzkxxgK5oNx8QqqxTnaxdopump",
-    "name": "GREENINU",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "GREENINU",
-    "t": 1795704205.9261782
-   },
-   {
-    "dauer": 63.44260334968567,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "HnbAKrRF9SM4QNb5o7nGJNcpjdkTyCR2M6pWgjiqpump",
-    "name": "시묘",
-    "sol": 85.00535906699999,
-    "spaet": false,
-    "symbol": "Simyo",
-    "t": 1795704247.0434666
-   },
-   {
-    "dauer": 1161.3256227970123,
-    "ersteller_verkauft": false,
-    "kaeufer": 470,
-    "mint": "C5g5opfZzQLWe6xJ2VWmnt9Eigc7KBk16AqnVPwWbRob",
-    "name": "Shill",
-    "sol": 82.66776268900014,
-    "spaet": false,
-    "symbol": "SHILL",
-    "t": 1795704328.7803779
-   },
    {
     "dauer": 191.96685338020325,
     "ersteller_verkauft": true,
@@ -534,6 +490,22 @@
     "mint": "FpwA7KWG9HCk2NSzitDSf7hXKmLfEd1JxTmsn8CFpump",
     "spaet": true,
     "t": 1795707692.435957
+   },
+   {
+    "dauer": 434.3241512775421,
+    "ersteller_verkauft": false,
+    "kaeufer": 738,
+    "mint": "6AWQ3WsTkTPuh8ZdUveqH44S4111w7DcbJpP5pR4pump",
+    "name": "BunBun",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BunBun",
+    "t": 1795707770.3733332
+   },
+   {
+    "mint": "E9arxG4RxB7Gxt6U75obonTZzx7vpbc4bUi1dfw3BtUN",
+    "spaet": true,
+    "t": 1795707837.448356
    }
   ],
   "uebersicht": 1795704662.8075502
