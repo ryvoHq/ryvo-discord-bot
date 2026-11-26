@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 186,
+ "laeufe": 187,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
@@ -275,6 +275,10 @@
   "smt:BTC:ETH": {
    "t": 1795629600000,
    "zeit": 1795633206.42857
+  },
+  "smt:xyz:SP500:xyz:XYZ100": {
+   "t": 1795658400000,
+   "zeit": 1795662007.4337132
   }
  },
  "status_nachricht": "1575110333385801839",
