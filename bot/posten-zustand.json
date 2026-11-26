@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 211,
+ "laeufe": 212,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -179,27 +179,6 @@
    1795668716.6899574
   ],
   "stunde": [
-   {
-    "mint": "HkywsKMf5FDj7QpgRE3BoE2nJqJauxEVbGjpnYe6pump",
-    "spaet": true,
-    "t": 1795665147.4729981
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "DKcvfEq3PUdgxZXHnVgJFnNw86HxGuSMaVBLSHgBpump",
-    "name": "Offcial S.N.I.P.E. COIN",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "OSC",
-    "t": 1795665225.9144828
-   },
-   {
-    "mint": "BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump",
-    "spaet": true,
-    "t": 1795665406.2110949
-   },
    {
     "mint": "7S3TUfJZw9PrLqkM4YkSJ85ng17RjHpM8zwZf7Lopump",
     "spaet": true,
