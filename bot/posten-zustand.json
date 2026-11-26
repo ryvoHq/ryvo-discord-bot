@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 293,
+ "laeufe": 294,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,17 +195,6 @@
    1795692775.3964045
   ],
   "stunde": [
-   {
-    "dauer": 222.0276837348938,
-    "ersteller_verkauft": false,
-    "kaeufer": 45,
-    "mint": "HzJt8k6Er6H8yBrrg17qhCJQMRqZfTcUhzp1bnJNpump",
-    "name": "Moon Cricket",
-    "sol": -0.04664088199999962,
-    "spaet": false,
-    "symbol": "SolHoppa",
-    "t": 1795689179.1439273
-   },
    {
     "mint": "BXyqxJkUeCr8rt6PPxRus1PwpHoo4a8PP4JEgwETpump",
     "spaet": true,
