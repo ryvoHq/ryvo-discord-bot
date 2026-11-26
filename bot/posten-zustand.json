@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 448,
+ "laeufe": 449,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -229,33 +229,6 @@
    1795735486.0610247
   ],
   "stunde": [
-   {
-    "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump",
-    "spaet": true,
-    "t": 1795731939.1230013
-   },
-   {
-    "dauer": 54.82543420791626,
-    "ersteller_verkauft": true,
-    "kaeufer": 281,
-    "mint": "Acfd8udxmA8pF8s4MLdhSBNK8Bhzm3DnvViV4PvQpump",
-    "name": "SpaceX",
-    "sol": 85.005359466,
-    "spaet": false,
-    "symbol": "SpaceX",
-    "t": 1795732044.7120516
-   },
-   {
-    "dauer": 24.83487629890442,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "E5Uezn5wxdBQyDKvo5rSRK13LfRGttLJuqpQ6HdKpump",
-    "name": "BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795732165.6335073
-   },
    {
     "dauer": 50.96812605857849,
     "ersteller_verkauft": false,
@@ -487,6 +460,22 @@
     "spaet": false,
     "symbol": "COSTAKID",
     "t": 1795735475.8347359
+   },
+   {
+    "dauer": 12.348502159118652,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "4aABkT7wtTHMLfJT6ZHEQsRxMm3ePBedkF2WNdUzpump",
+    "name": "vetocat",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "VETO",
+    "t": 1795735587.8380344
+   },
+   {
+    "mint": "GRJ5PgitXnDo4iufLWUqS7iRADKKgdj2tMUWS2HBpump",
+    "spaet": true,
+    "t": 1795735707.2074273
    }
   ],
   "uebersicht": 1795735188.828268
