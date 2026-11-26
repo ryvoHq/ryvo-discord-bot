@@ -182,45 +182,18 @@
   "https://www.theglobeandmail.com/business/technology/article-operation-niagara-cryptocurrency-fraud-scams-law-enforcement/",
   "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
  ],
- "indizes_tag": "2026-11-25",
+ "indizes_tag": "2026-11-26",
  "krypto_tag": "2026-11-26",
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 312,
+ "laeufe": 313,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795697370.2715933
   ],
   "stunde": [
-   {
-    "mint": "F9CwhBgSsEJuCigbodtUH257EqQpRSzKLKwHPPKNpump",
-    "spaet": true,
-    "t": 1795694377.24848
-   },
-   {
-    "dauer": 154.30393266677856,
-    "ersteller_verkauft": false,
-    "kaeufer": 30,
-    "mint": "GsDoiZRVEqzADb9ERhxAZ6DhK2Y6ZYyRr6dTtQ93pump",
-    "name": "EVILcoin",
-    "sol": 0.1944402010000003,
-    "spaet": false,
-    "symbol": "EVIL",
-    "t": 1795694417.197321
-   },
-   {
-    "dauer": 162.74713611602783,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "EoCbFrGMy1zYAmqoZWosDm86emSBEpRDAaT5u4ACpump",
-    "name": "STENKS",
-    "sol": 0.5683458589999999,
-    "spaet": false,
-    "symbol": "STENKS",
-    "t": 1795694437.5274312
-   },
    {
     "dauer": 145.58611273765564,
     "ersteller_verkauft": false,
@@ -457,6 +430,17 @@
     "spaet": false,
     "symbol": "CLM",
     "t": 1795697827.5881014
+   },
+   {
+    "dauer": 201.2658178806305,
+    "ersteller_verkauft": false,
+    "kaeufer": 46,
+    "mint": "8uiKjhDEQyoSBTVJq9awqQuWzsanSPhWbu5Q6Zggpump",
+    "name": "Cat Labs M",
+    "sol": 0.9616889259999996,
+    "spaet": false,
+    "symbol": "CLM",
+    "t": 1795698095.844934
    }
   ],
   "uebersicht": 1795697370.2715933
