@@ -210,51 +210,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 383,
+ "laeufe": 384,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795715981.279405,
-   1795717178.5607083
+   1795717178.5607083,
+   1795717836.593989
   ],
   "stunde": [
-   {
-    "dauer": 78.53525400161743,
-    "ersteller_verkauft": true,
-    "kaeufer": 190,
-    "mint": "FPb2DmpBNF9AYntcmKsEHEncoCXafpJF8sRvoUUgpump",
-    "name": "ByteCoin",
-    "sol": 51.69836667499997,
-    "spaet": false,
-    "symbol": "BYTE",
-    "t": 1795713977.9137356
-   },
-   {
-    "dauer": 107.47148418426514,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "Br6WkyL5uvZ2hjBBgH6PpVZsBRqiZYzNUaepbqYupump",
-    "name": "NATF",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "NATF",
-    "t": 1795714115.941578
-   },
-   {
-    "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump",
-    "spaet": true,
-    "t": 1795714123.2061994
-   },
-   {
-    "mint": "EkPekFk1RnPghEhxz2aU8ZAYkcCoUitxqtcBt2JQpump",
-    "spaet": true,
-    "t": 1795714183.945935
-   },
-   {
-    "mint": "CTCU3V4HhoYdQUePuCYjnBD3wDmaS5BLgFfknxepump",
-    "spaet": true,
-    "t": 1795714196.8066905
-   },
    {
     "mint": "CEURTmBvcEgwq3vroLrdY7V9eYgRSpjPmty8xMxipump",
     "spaet": true,
@@ -479,6 +443,43 @@
     "mint": "wfbsMPkx7mYKmPogHEGvyegQPVKvZkqY3DSHM2Gpump",
     "spaet": true,
     "t": 1795717281.5363731
+   },
+   {
+    "mint": "2JU4rVoA6Fjx5sSTZqVNvfS7T6h9fTFT2thbY6aypump",
+    "spaet": true,
+    "t": 1795717613.0230289
+   },
+   {
+    "dauer": 101.16658449172974,
+    "ersteller_verkauft": false,
+    "kaeufer": 133,
+    "mint": "aHDePRQP7CduXvktTdisKrGLkqYc6bS1KKsjnzYpump",
+    "name": "CocaCola | Offical",
+    "sol": 85.00535930100003,
+    "spaet": false,
+    "symbol": "Coca-Cola",
+    "t": 1795717735.910503
+   },
+   {
+    "dauer": 409.57035517692566,
+    "ersteller_verkauft": false,
+    "kaeufer": 288,
+    "mint": "5qYyTjP1Y2xfSUUayyEfXP5mxxBg1CEKcdPvmYEApump",
+    "name": "Criminul",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Criminul",
+    "t": 1795717782.3761418
+   },
+   {
+    "mint": "6UujkcdsXsTfHu48tNQxzTb1ijQRAxq5Y37orX1Gpump",
+    "spaet": true,
+    "t": 1795717787.01404
+   },
+   {
+    "mint": "6oMugdYEJQS2TAynGdkKdFSk7qXZVeJcoDFRz6nCpump",
+    "spaet": true,
+    "t": 1795717834.643588
    }
   ],
   "uebersicht": 1795716578.2890353
