@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 365,
+ "laeufe": 366,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -219,11 +219,6 @@
    1795710792.3029368
   ],
   "stunde": [
-   {
-    "mint": "GaHKmW73oqGt7dTc2x4VxfBH5KcAZkeet9UJYweXpump",
-    "spaet": true,
-    "t": 1795709127.4770505
-   },
    {
     "dauer": 155.56846404075623,
     "ersteller_verkauft": true,
@@ -497,9 +492,19 @@
     "mint": "7UEjQsHnwJcHFDzCLVomvpwYWvnS7qzsXJppc8zwpump",
     "spaet": true,
     "t": 1795712609.4738083
+   },
+   {
+    "mint": "8XF1meWRPWBbQDZyVWPQJzgMd6mdCev3tEvTucNppump",
+    "spaet": true,
+    "t": 1795712720.300777
+   },
+   {
+    "mint": "AtmZQTxVHZN7yk7a2yodSmQhXgFT4jTPYXd5FrmY5v2t",
+    "spaet": true,
+    "t": 1795712787.146216
    }
   ],
-  "uebersicht": 1795709291.9324813
+  "uebersicht": 1795712938.5846055
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
