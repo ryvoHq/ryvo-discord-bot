@@ -210,25 +210,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 371,
+ "laeufe": 372,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795710792.3029368,
    1795713538.256644
   ],
   "stunde": [
-   {
-    "dauer": 713.9521601200104,
-    "ersteller_verkauft": false,
-    "kaeufer": 406,
-    "mint": "92y9KkVPyni8FBrjqzrwfkWTwV1cXZCXQKTBWRZEpump",
-    "name": "testicles",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TESTICLES",
-    "t": 1795710621.8166847
-   },
    {
     "dauer": 0.0014848709106445312,
     "ersteller_verkauft": false,
@@ -453,6 +441,32 @@
     "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump",
     "spaet": true,
     "t": 1795714123.2061994
+   },
+   {
+    "mint": "EkPekFk1RnPghEhxz2aU8ZAYkcCoUitxqtcBt2JQpump",
+    "spaet": true,
+    "t": 1795714183.945935
+   },
+   {
+    "mint": "CTCU3V4HhoYdQUePuCYjnBD3wDmaS5BLgFfknxepump",
+    "spaet": true,
+    "t": 1795714196.8066905
+   },
+   {
+    "mint": "CEURTmBvcEgwq3vroLrdY7V9eYgRSpjPmty8xMxipump",
+    "spaet": true,
+    "t": 1795714359.5769002
+   },
+   {
+    "dauer": 198.5213360786438,
+    "ersteller_verkauft": false,
+    "kaeufer": 5,
+    "mint": "Ephk2t6QKoxaLKzfpD8q3B9TXozz92KKqwsoQrW6pump",
+    "name": "PROJECT",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "PROJECT",
+    "t": 1795714413.6629896
    }
   ],
   "uebersicht": 1795712938.5846055
