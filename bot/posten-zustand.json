@@ -217,56 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 422,
+ "laeufe": 423,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "dauer": 162.96125841140747,
-    "ersteller_verkauft": true,
-    "kaeufer": 279,
-    "mint": "GNwxnJzErbjQEqeCN5XzWshrPo6zMLHCbWY1o2vaFWby",
-    "name": "Zolana Coin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ZCOIN",
-    "t": 1795724944.8735044
-   },
-   {
-    "dauer": 49.976008892059326,
-    "ersteller_verkauft": false,
-    "kaeufer": 76,
-    "mint": "EJVKAigqJFxnKGZhx5h67PyyL3F2HbzrZYa4fRZ6pump",
-    "name": "Trust Me Bro",
-    "sol": 54.91206936599999,
-    "spaet": false,
-    "symbol": "Trust",
-    "t": 1795725038.6167777
-   },
-   {
-    "mint": "CiLZrh4voNN6EZLhNgiNpLSxoFhiLvBihcAbnYKhpump",
-    "spaet": true,
-    "t": 1795725045.6922135
-   },
-   {
-    "mint": "34SCC7vBeoS4tFEtLZuYEPhUGzaR6ifYrSzEmE9Upump",
-    "spaet": true,
-    "t": 1795725137.8089724
-   },
-   {
-    "dauer": 3.9023914337158203,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "DG9Jkusr2qpyMdojNxrkVdZzyk5z3QnV1Ma8DzEgpump",
-    "name": "Zolana Coin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Zcoin",
-    "t": 1795725145.271308
-   },
    {
     "dauer": 1.253915548324585,
     "ersteller_verkauft": false,
@@ -621,6 +578,43 @@
     "spaet": false,
     "symbol": "LUCIA",
     "t": 1795728465.1982157
+   },
+   {
+    "mint": "CJPemZcsqi81Vc83WT1ov6dFs2TfKu6mSBxpS3h5pump",
+    "spaet": true,
+    "t": 1795728581.4501176
+   },
+   {
+    "mint": "AeE6Kb12vBfvgCjL6gGdL7Nx9kCwfsJf2AheApyepump",
+    "spaet": true,
+    "t": 1795728594.201675
+   },
+   {
+    "mint": "GQ1t6KhWJLCRwKBG8aaoG2h7akBt3QeKMW6SVyYDpump",
+    "spaet": true,
+    "t": 1795728647.859489
+   },
+   {
+    "dauer": 40.77027130126953,
+    "ersteller_verkauft": false,
+    "kaeufer": 83,
+    "mint": "DNXUBZ5ZR9PHxJDYoPHJvMjcQLvkBfqAQUNKT4iTpump",
+    "name": "Connie Corleone",
+    "sol": 52.23990324299999,
+    "spaet": false,
+    "symbol": "CONNIE",
+    "t": 1795728692.4213645
+   },
+   {
+    "dauer": 324.4095757007599,
+    "ersteller_verkauft": false,
+    "kaeufer": 132,
+    "mint": "TK1LpCBiboY93DNuYXkb932ZMrrpxEp2ysxDdGwpump",
+    "name": "Benz",
+    "sol": 83.54964147800003,
+    "spaet": false,
+    "symbol": "Mercedes",
+    "t": 1795728772.3496976
    }
   ],
   "uebersicht": 1795727879.9348903
