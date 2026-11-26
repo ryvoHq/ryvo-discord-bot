@@ -217,22 +217,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 414,
+ "laeufe": 415,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0007314682006835938,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "EMhHvdxs3L1T38pV1yNe9JXF6KfkxFTShNLaxL7rpump",
-    "name": "Dogeball",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Dogeball",
-    "t": 1795722764.0143523
-   },
    {
     "dauer": 159.38007497787476,
     "ersteller_verkauft": true,
