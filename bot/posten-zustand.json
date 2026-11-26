@@ -6,11 +6,17 @@
  "ebenen_trad": "2026-11-25",
  "ezb_tag": "2026-11-25",
  "gesehen": [
+  "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-global-stock-rally-dents-safe-haven-demand/articleshow/136185124.cms",
+  "https://www.dw.com/de/news-kompakt-eu-spitzen-beraten-%C3%BCber-haushalt-und-ezb/a-80056515",
+  "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise/articleshow/136184058.cms",
+  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/japan-bond-yields-rise-as-boj-rate-hike-bets-strengthen-tamura-comments-in-focus/articleshow/136183213.cms",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-strengthen-as-strong-growth-fuels-inflation/articleshow/136181063.cms",
   "https://economictimes.indiatimes.com/mf/mf-news/gold-silver-etfs-rally-up-to-6-as-precious-metal-prices-rebound-despite-us-inflation-concerns/articleshow/136180767.cms",
+  "https://www.afr.com/policy/economy/data-centres-become-new-mining-boom-powering-growth-and-inflation-20261126-p61hfu",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-tamura-calls-for-faster-rate-hikes-as-inflation-risks-mount/articleshow/136179728.cms",
   "https://abcnews.com/Business/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458863",
   "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
+  "https://www.thehindubusinessline.com/markets/indian-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/article71745270.ece",
   "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-rises-on-reports-of-houthi-attack-on-saudi-refinery/article71745177.ece",
   "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html",
   "https://www.business-standard.com/finance/personal-finance/how-interest-rate-changes-affect-debt-funds-short-vs-long-duration-funds-126112501024_1.html",
@@ -75,16 +81,16 @@
   "https://www.moneycontrol.com/news/business/economy/india-s-petroleum-exports-fall-13-in-apr-oct-but-higher-oil-prices-boost-export-value-47-14088784.html",
   "https://www.handelsblatt.com/finanzen/ezb-kartenzahlungen-ueberholen-erstmals-bargeld-im-euro-raum/100272418.html",
   "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-entscheidung-ueber-hoehere-mindestreserve-fuer-banken-vertagt/100271993.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-open-higher-as-luxury-stocks-rally-investors-await-us-inflation-data/articleshow/136155124.cms",
   "https://www.rte.ie/news/business/2026/1125/1600578-australia-inflation-figures/",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://www.n-tv.de/ticker/Arbeitsmarkt-Aussichten-in-Deutschland-weiter-schwach-id31574995.html",
   "https://economictimes.indiatimes.com/industry/services/air-passenger-service-inflation-jumps-to-35-5-securities-services-get-cheaper/articleshow/136153870.cms",
   "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece",
   "https://www.business-standard.com/industry/news/air-passenger-services-see-35-inflation-in-q2-banking-witness-deflation-126112500453_1.html",
   "https://www.moneycontrol.com/news/business/startup/two-in-five-indian-family-offices-uhnis-have-invested-in-cryptocurrencies-bitdelta-report-14088716.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
   "https://www.thehindubusinessline.com/markets/commodities/gold-slips-as-fed-hike-bets-weigh-silver-crude-base-metals-also-under-pressure/article71741631.ece",
   "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
@@ -181,25 +187,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 277,
+ "laeufe": 278,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795684377.3718648,
-   1795686177.3374379
+   1795686177.3374379,
+   1795688021.382902
   ],
   "stunde": [
-   {
-    "dauer": 358.0513753890991,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "HhvfukR45Wx67Ywxc1jkEh9bopiJRssHb7kBpXGYpump",
-    "name": "Dog Think",
-    "sol": 0.07675899300000003,
-    "spaet": false,
-    "symbol": "Dog Think",
-    "t": 1795684367.7092545
-   },
    {
     "mint": "84ShfjQMGtb2vZNhnHyRrgnD9QoaVLumm87iiYhZpump",
     "spaet": true,
@@ -344,6 +339,33 @@
     "spaet": false,
     "symbol": "LMAO",
     "t": 1795687628.3160245
+   },
+   {
+    "dauer": 255.57872223854065,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "6PKUaDJgLWDtrZ2JYtJDjCkvwSircTKwSXLEWqQ6pump",
+    "name": "🍌 BANANA WIZARD",
+    "sol": 0.7477781609999998,
+    "spaet": false,
+    "symbol": "$BWIZ",
+    "t": 1795687759.1791992
+   },
+   {
+    "mint": "HN9jRRCKuLNL3oSgNV1MBvd3Krg6TingFntJp1PSpump",
+    "spaet": true,
+    "t": 1795687844.6039376
+   },
+   {
+    "dauer": 766.9408440589905,
+    "ersteller_verkauft": true,
+    "kaeufer": 692,
+    "mint": "6Y6ZyxUWmsSYPw1KayAj4Gb8ydxXwbGGTDCaQiBepump",
+    "name": "gob",
+    "sol": 88.23364868799942,
+    "spaet": false,
+    "symbol": "gob",
+    "t": 1795687953.9037879
    }
   ],
   "uebersicht": 1795685577.733602
