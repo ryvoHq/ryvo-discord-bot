@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 329,
+ "laeufe": 330,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -209,43 +209,6 @@
    1795701608.067284
   ],
   "stunde": [
-   {
-    "mint": "a8YVqyaxw7HensjyoTBzLpC4J6M9uTYzvAu1arWpump",
-    "spaet": true,
-    "t": 1795698990.71906
-   },
-   {
-    "mint": "4zKH1dqjBKmbooh15U8oPjJ2CUb96LvfiK8QuL21pump",
-    "spaet": true,
-    "t": 1795699022.39259
-   },
-   {
-    "mint": "JqKvkqupKPjWCSCmH9gQMMkkpKy52AY4Y1B2KWPpump",
-    "spaet": true,
-    "t": 1795699036.0435495
-   },
-   {
-    "dauer": 33.431825160980225,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "ExZ49qUjE3X9bX9va8JzePq6XQFPpZcwccRWRiNdpump",
-    "name": "Army of trumps ",
-    "sol": 20.221953506,
-    "spaet": false,
-    "symbol": "🇺🇸",
-    "t": 1795699064.8074124
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "7juwdhNyZ1YT5hRmF7kSGrxcpAGyFomi5mMbW8uEpump",
-    "name": "Komari",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "KOMARI",
-    "t": 1795699135.5550034
-   },
    {
     "mint": "773REsVP9j51ayEQGxCRddPYJup3Xto6vwD6QB16pump",
     "spaet": true,
@@ -505,6 +468,17 @@
     "spaet": false,
     "symbol": "Irochan",
     "t": 1795702399.722271
+   },
+   {
+    "dauer": 62.47034430503845,
+    "ersteller_verkauft": true,
+    "kaeufer": 9,
+    "mint": "AbN7LWN5aF9JZgZZpmcYsTjvZwBGMGjSKrB5pJuopump",
+    "name": "Duckroll",
+    "sol": 15.335199681999983,
+    "spaet": false,
+    "symbol": "Duckroll",
+    "t": 1795702684.6664875
    }
   ],
   "uebersicht": 1795701008.133407
