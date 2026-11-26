@@ -217,47 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 411,
+ "laeufe": 412,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795722102.5006723,
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "dauer": 886.2193353176117,
-    "ersteller_verkauft": true,
-    "kaeufer": 519,
-    "mint": "YWK8k4teD4LeNRSAuWzx6ccKAWWAUmc9Qhh9qyFpump",
-    "name": "h3lix",
-    "sol": 82.3321232170001,
-    "spaet": false,
-    "symbol": "H3LIX",
-    "t": 1795721949.5864184
-   },
-   {
-    "dauer": 34.51469278335571,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "FQsLgeTvdutpvpNEpG2afYw3RbLA911SeF8ZkHSspump",
-    "name": "HONESTY",
-    "sol": 16.447933606,
-    "spaet": false,
-    "symbol": "HONESTY",
-    "t": 1795721980.103632
-   },
-   {
-    "dauer": 101.98693990707397,
-    "ersteller_verkauft": false,
-    "kaeufer": 277,
-    "mint": "7d5Yt6ynAUynZkT1zNCA2Ro3Yvw2af24oPTLpvBnpump",
-    "name": "Orgycoin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ORGY",
-    "t": 1795722106.0687845
-   },
    {
     "dauer": 222.63672304153442,
     "ersteller_verkauft": true,
@@ -589,6 +555,49 @@
     "spaet": false,
     "symbol": "ZCOIN",
     "t": 1795725184.2004845
+   },
+   {
+    "mint": "4sG2k4ezbQ4VcxgaWRsAUvmAT3KyAhKVcVBv8E2Ypump",
+    "spaet": true,
+    "t": 1795725546.7739384
+   },
+   {
+    "mint": "GeFCXKqU6yrfZAUdd2KAnFpbPb7Sn9DaWLsGadiQpump",
+    "spaet": true,
+    "t": 1795725579.8802652
+   },
+   {
+    "dauer": 283.90832567214966,
+    "ersteller_verkauft": false,
+    "kaeufer": 8,
+    "mint": "E3TrZXF96UWkvhVzERaGpUMYPnaRPFHHEiGo3paKpump",
+    "name": "Cranberry",
+    "sol": 0.622499547,
+    "spaet": false,
+    "symbol": "SAUCE",
+    "t": 1795725699.7371247
+   },
+   {
+    "dauer": 512.0500957965851,
+    "ersteller_verkauft": true,
+    "kaeufer": 12,
+    "mint": "5X76EnqbBZxB2y9hgz2sZXmgyEgumUYe7KJeGNmRpump",
+    "name": "chair",
+    "sol": 2.643521460000002,
+    "spaet": false,
+    "symbol": "ch",
+    "t": 1795725711.6751294
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "HQs4Zd8w1jGR72o43iP58U43QtDdTTUE3Dq9Dv4dpump",
+    "name": "United States Oil Index",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USOI",
+    "t": 1795725720.97583
    }
   ],
   "uebersicht": 1795724244.4573483
