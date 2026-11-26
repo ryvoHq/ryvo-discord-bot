@@ -163,36 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 170,
+ "laeufe": 171,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
-   1795654044.0227242,
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 135.0284173488617,
-    "ersteller_verkauft": false,
-    "kaeufer": 36,
-    "mint": "FDwyyB3g8ZcNyFt33rTBFh6bgn7sdtr7cq6QCoPypump",
-    "name": "CAt FiSh",
-    "sol": 0.24034065200000018,
-    "spaet": false,
-    "symbol": "CATFISH",
-    "t": 1795653821.1218963
-   },
-   {
-    "dauer": 1824.4415953159332,
-    "ersteller_verkauft": true,
-    "kaeufer": 583,
-    "mint": "AqNAfcg8AkidVLLE7Tszh2PjUGzgaKvJskDXQXRHpump",
-    "name": "The Slap Cat",
-    "sol": 52.17131204099978,
-    "spaet": false,
-    "symbol": "Slapcat",
-    "t": 1795653974.643471
-   },
    {
     "dauer": 210.61571049690247,
     "ersteller_verkauft": false,
