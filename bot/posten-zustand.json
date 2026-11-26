@@ -221,43 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 441,
+ "laeufe": 442,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 119.49761700630188,
-    "ersteller_verkauft": true,
-    "kaeufer": 235,
-    "mint": "4qvYoCL9Lk6fk5sPakuABcETtnx9kN9s3yZNcRhgpump",
-    "name": "Encrypted Dog",
-    "sol": 78.20528396499998,
-    "spaet": false,
-    "symbol": "zDOG",
-    "t": 1795730105.0660312
-   },
-   {
-    "mint": "BobMBz6UpYQferxPQpZn5p8vfXxvPEetTHS6zeUwpump",
-    "spaet": true,
-    "t": 1795730183.419388
-   },
-   {
-    "dauer": 204.97122192382812,
-    "ersteller_verkauft": true,
-    "kaeufer": 187,
-    "mint": "G12Wsg7AJD28fVL3XB6JUh2T3jHVXpyeoanA3ADtpump",
-    "name": "Adog",
-    "sol": 33.81512424100002,
-    "spaet": false,
-    "symbol": "Adog",
-    "t": 1795730220.0351267
-   },
-   {
-    "mint": "CiyV69uojxn1yt1EoUCrfSi61TxdqeBQYTPtLptrpump",
-    "spaet": true,
-    "t": 1795730322.628011
-   },
    {
     "dauer": 0.0009679794311523438,
     "ersteller_verkauft": false,
@@ -444,6 +412,16 @@
     "mint": "Ak4BGyneYMfy2b7WrYaknsbSSz4x6jSeTTguEsgypump",
     "spaet": true,
     "t": 1795733556.735378
+   },
+   {
+    "mint": "BmMKWvmAofGVpZE1MK4pdTNi5UjfhWLZyNcrV3Gpump",
+    "spaet": true,
+    "t": 1795733776.800991
+   },
+   {
+    "mint": "TgDHwSH5YjX84F9JDWYgaQxTpptLnyHFvSwkvSXpump",
+    "spaet": true,
+    "t": 1795733978.19046
    }
   ],
   "uebersicht": 1795731519.2123363
