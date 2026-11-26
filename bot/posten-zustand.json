@@ -221,38 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 432,
+ "laeufe": 433,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "F1zghDfFHwWWtwdh6ohNierxqcMtnjnSpAdRqJfnpump",
-    "spaet": true,
-    "t": 1795727622.6740339
-   },
-   {
-    "dauer": 455.7408359050751,
-    "ersteller_verkauft": true,
-    "kaeufer": 16,
-    "mint": "HL7PfZBgWrwhkX7PF3yDaJi3J8sJS79F23yNA3DYpump",
-    "name": "OFFICIAL KAI TRUMP COIN",
-    "sol": 0.22680628700000027,
-    "spaet": false,
-    "symbol": "KAI",
-    "t": 1795727788.6995735
-   },
-   {
-    "dauer": 55.239489793777466,
-    "ersteller_verkauft": true,
-    "kaeufer": 199,
-    "mint": "4FyanEm4AghRFAcFfQdk3jDF9zzWdJEHaTgadu9ipump",
-    "name": "JusticeForJennilyKalianneSrang",
-    "sol": 54.481294195999936,
-    "spaet": false,
-    "symbol": "JENNILY",
-    "t": 1795727893.8592649
-   },
    {
     "dauer": 965.9630780220032,
     "ersteller_verkauft": false,
@@ -515,9 +488,19 @@
     "spaet": false,
     "symbol": "Vetocat",
     "t": 1795731211.177388
+   },
+   {
+    "mint": "7Z2DwbzWDjZtJucqQZjVDJidiY5Xsk1SUKd8C5nFpump",
+    "spaet": true,
+    "t": 1795731278.5170302
+   },
+   {
+    "mint": "GmsPdyQYzqpztLcZvaUsgacFZKABkYiSJFqV2aY5pump",
+    "spaet": true,
+    "t": 1795731484.1177063
    }
   ],
-  "uebersicht": 1795727879.9348903
+  "uebersicht": 1795731519.2123363
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
