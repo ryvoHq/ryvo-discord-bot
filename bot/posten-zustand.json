@@ -221,22 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 439,
+ "laeufe": 440,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 117.16159987449646,
-    "ersteller_verkauft": false,
-    "kaeufer": 259,
-    "mint": "BuNeErf9FjL6dgzE74S21Qm9EeBaYMJXSW4A8ihxpump",
-    "name": "HOLD",
-    "sol": 74.99795831899988,
-    "spaet": false,
-    "symbol": "HOLD",
-    "t": 1795729708.8310273
-   },
    {
     "mint": "HBimhBvc29m7RySfWpj8Y7C1JVvSkBRd8jTXrb65pump",
     "spaet": true,
@@ -439,6 +428,22 @@
     "spaet": false,
     "symbol": "AI",
     "t": 1795733067.3361137
+   },
+   {
+    "mint": "G1fY1LmVmwnfxgXpAASz2jfnmzh7K1K41sfTW35npump",
+    "spaet": true,
+    "t": 1795733202.901396
+   },
+   {
+    "dauer": 48.7866096496582,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "5nAPLsMfJT2ttykZyNH7gupdyrAAwAyhNktiatQjpump",
+    "name": "OFFICIAL TRUMP COIN",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "TRUMP",
+    "t": 1795733358.0910122
    }
   ],
   "uebersicht": 1795731519.2123363
