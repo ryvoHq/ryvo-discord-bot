@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 290,
+ "laeufe": 291,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,17 +195,6 @@
    1795691875.5381765
   ],
   "stunde": [
-   {
-    "dauer": 241.4066231250763,
-    "ersteller_verkauft": false,
-    "kaeufer": 516,
-    "mint": "HdRPR3nqkNCt98DWQqDdfkRHDc1NFsgCJVbfXRnppump",
-    "name": "konnichiwa",
-    "sol": 85.03499025199984,
-    "spaet": false,
-    "symbol": "konnichiwa",
-    "t": 1795688485.1938908
-   },
    {
     "dauer": 40.366594552993774,
     "ersteller_verkauft": true,
@@ -446,6 +435,22 @@
     "spaet": false,
     "symbol": "GOBBLE",
     "t": 1795691700.0750372
+   },
+   {
+    "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump",
+    "spaet": true,
+    "t": 1795691967.2169309
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "BT9RBddPbchCGCvvNWPmgHn8fo6zyDzhjVKwq5dhpump",
+    "name": "SAM COIN",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "SAM",
+    "t": 1795692139.1232657
    }
   ],
   "uebersicht": 1795689221.233631
