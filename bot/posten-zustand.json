@@ -163,24 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 171,
+ "laeufe": 172,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 210.61571049690247,
-    "ersteller_verkauft": false,
-    "kaeufer": 413,
-    "mint": "3r7Ki2dJUzFWJEMg69fP6KpoTxziVLGkgZDNyWyApump",
-    "name": "The Mooner",
-    "sol": 84.8241711699997,
-    "spaet": false,
-    "symbol": "SPEED",
-    "t": 1795654138.2664838
-   },
    {
     "dauer": 1051.8688552379608,
     "ersteller_verkauft": false,
