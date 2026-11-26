@@ -171,25 +171,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 222,
+ "laeufe": 223,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795668716.6899574,
-   1795669616.596927
+   1795669616.596927,
+   1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 113.17885971069336,
-    "ersteller_verkauft": false,
-    "kaeufer": 124,
-    "mint": "H9EUwPaaeL6bTDhDSFUq9QA7TE4yFDFAxaZhraV4pump",
-    "name": "Cash Inu",
-    "sol": 55.50712372499996,
-    "spaet": false,
-    "symbol": "CI",
-    "t": 1795668362.761617
-   },
    {
     "dauer": 429.2338969707489,
     "ersteller_verkauft": false,
@@ -397,6 +387,33 @@
     "spaet": false,
     "symbol": "牛来",
     "t": 1795671612.6340582
+   },
+   {
+    "mint": "5AG8xkzNcRLS5jLZpDZPZmjHeHMXCTrLP8LkzUrkpump",
+    "spaet": true,
+    "t": 1795671820.5994945
+   },
+   {
+    "dauer": 197.23113322257996,
+    "ersteller_verkauft": false,
+    "kaeufer": 127,
+    "mint": "BGWXRuhF2nDeA2Vg7fjcKX4RPDG4jHxU8W3waTLYpump",
+    "name": "The Black Bull",
+    "sol": 85.04547246800007,
+    "spaet": false,
+    "symbol": "ANSEM",
+    "t": 1795671828.4877796
+   },
+   {
+    "dauer": 387.0937850475311,
+    "ersteller_verkauft": false,
+    "kaeufer": 342,
+    "mint": "9UxbJuvvwN7c53jihu4Ese82EdGoCJ6DcdSuNZkhpump",
+    "name": "Poppy",
+    "sol": 65.76937425400006,
+    "spaet": false,
+    "symbol": "POPPY",
+    "t": 1795671924.3202202
    }
   ],
   "uebersicht": 1795669916.9233382
