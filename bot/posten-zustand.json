@@ -199,38 +199,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 331,
+ "laeufe": 332,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795699807.7484126,
    1795700107.5496376,
    1795700707.938028,
    1795701608.067284
   ],
   "stunde": [
-   {
-    "dauer": 25.418071269989014,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "FP9UBSyTMr2ce9ds9agvidCRk1HsSGNHRwi5JWYZpump",
-    "name": "Norovirus",
-    "sol": 85.00535907,
-    "spaet": false,
-    "symbol": "NoV",
-    "t": 1795699633.1272922
-   },
-   {
-    "dauer": 196.357745885849,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "AEXZ4cjMc4S5hBPEhdVFJ1zkAZg2eJ8gTQ7dUxVGpump",
-    "name": "chilled capy",
-    "sol": 0.22970724400000014,
-    "spaet": false,
-    "symbol": "e.g.kapib",
-    "t": 1795699704.2991652
-   },
    {
     "dauer": 613.5747244358063,
     "ersteller_verkauft": false,
