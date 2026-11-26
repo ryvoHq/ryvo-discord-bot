@@ -171,26 +171,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 223,
+ "laeufe": 224,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795668716.6899574,
    1795669616.596927,
    1795672057.718173
   ],
   "stunde": [
-   {
-    "dauer": 429.2338969707489,
-    "ersteller_verkauft": false,
-    "kaeufer": 416,
-    "mint": "8gnXgowYp1cB5XNxrLGkwPAPbYf47qhkpymKdCB8pump",
-    "name": "Upline",
-    "sol": 79.40822569599993,
-    "spaet": false,
-    "symbol": "UP",
-    "t": 1795668460.4411407
-   },
    {
     "dauer": 375.59712314605713,
     "ersteller_verkauft": false,
@@ -414,6 +402,17 @@
     "spaet": false,
     "symbol": "POPPY",
     "t": 1795671924.3202202
+   },
+   {
+    "dauer": 485.44806361198425,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "7xaoVXQAdHQ54iU6xGTRk9iKbqoqDN3tqLHbdXFKpump",
+    "name": "SATINU",
+    "sol": 0.16477719199999985,
+    "spaet": false,
+    "symbol": "SATINU",
+    "t": 1795672267.0038078
    }
   ],
   "uebersicht": 1795669916.9233382
