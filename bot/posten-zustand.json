@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 387,
+ "laeufe": 388,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -219,33 +219,6 @@
    1795717836.593989
   ],
   "stunde": [
-   {
-    "dauer": 0.0018167495727539062,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "5mcarCb8iF42YiRYwMivTuRXQvSMEgbpXCP2qzbfpump",
-    "name": "Boob Trap Christmas",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "BTC",
-    "t": 1795715153.596402
-   },
-   {
-    "mint": "5hq6VVX7qa2zeXAkiGobLCgJuR1iYLN6b5E4vmNvpump",
-    "spaet": true,
-    "t": 1795715161.4342523
-   },
-   {
-    "dauer": 146.57693696022034,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "59V2EMdxpbjBQYREve5Xv7KNyyFaQmcVadhKnsVVpump",
-    "name": "LUCIA ",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "LUCIA",
-    "t": 1795715167.0862682
-   },
    {
     "dauer": 197.20306134223938,
     "ersteller_verkauft": true,
@@ -417,6 +390,17 @@
     "spaet": false,
     "symbol": "George",
     "t": 1795718409.0676365
+   },
+   {
+    "dauer": 9.9228515625,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "CmhBww3cCGKVFCRSyBUoeb416x1pH4F2rzKAzW1upump",
+    "name": "Criminul",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Criminul",
+    "t": 1795718939.8949997
    }
   ],
   "uebersicht": 1795716578.2890353
