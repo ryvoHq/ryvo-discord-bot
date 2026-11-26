@@ -181,24 +181,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 248,
+ "laeufe": 249,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795678442.32647
+   1795678442.32647,
+   1795679942.019533,
+   1795679942.019533
   ],
   "stunde": [
-   {
-    "dauer": 458.3659348487854,
-    "ersteller_verkauft": false,
-    "kaeufer": 154,
-    "mint": "Hg54KQcvDkpLEubbr9ptqKPxLS1Zwhe5uT4is4opump",
-    "name": "Cash Inu",
-    "sol": 85.03980050200002,
-    "spaet": false,
-    "symbol": "CI",
-    "t": 1795676238.171535
-   },
    {
     "mint": "8sKGQVyg653njPq21kQBzcsfLwbm6bQceQfpzAcWpump",
     "spaet": true,
@@ -295,6 +286,39 @@
     "spaet": false,
     "symbol": "Jesus",
     "t": 1795679472.5294096
+   },
+   {
+    "dauer": 503.2866313457489,
+    "ersteller_verkauft": false,
+    "kaeufer": 345,
+    "mint": "8iz7DvvMoM5pvf2Rwc2DaZihycKJnnFWPFpUMowYpump",
+    "name": "The Black Bull 1.5",
+    "sol": 85.52961322999985,
+    "spaet": false,
+    "symbol": "ANSEM15",
+    "t": 1795679747.4893315
+   },
+   {
+    "dauer": 432.9530460834503,
+    "ersteller_verkauft": false,
+    "kaeufer": 590,
+    "mint": "HjcgA51WU4NLhzmA97YudCFepYqoiUtEGBvU6QuNpump",
+    "name": "Isabellecoin",
+    "sol": 89.3161584979999,
+    "spaet": false,
+    "symbol": "ISABELLE",
+    "t": 1795679807.5111876
+   },
+   {
+    "dauer": 496.0738070011139,
+    "ersteller_verkauft": false,
+    "kaeufer": 38,
+    "mint": "ASG3vv3HL3ukNb2cmKCHePuprmsMSQ6AeGnqz36ypump",
+    "name": "BABY PIG",
+    "sol": 0.14605659299999996,
+    "spaet": false,
+    "symbol": "BEPE",
+    "t": 1795679935.1162872
    }
   ],
   "uebersicht": 1795678142.391696
