@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 240,
+ "laeufe": 241,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
@@ -340,6 +340,22 @@
     "mint": "8sKGQVyg653njPq21kQBzcsfLwbm6bQceQfpzAcWpump",
     "spaet": true,
     "t": 1795677167.6064217
+   },
+   {
+    "dauer": 192.8604052066803,
+    "ersteller_verkauft": false,
+    "kaeufer": 178,
+    "mint": "6k4dFR7ziQU3pZJz36zJGEnKLFsPPpE7UG48P9qRpump",
+    "name": "The Black Bull 2",
+    "sol": 85.00535946999996,
+    "spaet": false,
+    "symbol": "ANSEM2",
+    "t": 1795677349.8548117
+   },
+   {
+    "mint": "AC6jhfpFFFYUciEX563ouCiMCZTxvDi1mr6zXhAMogog",
+    "spaet": true,
+    "t": 1795677419.7076478
    }
   ],
   "uebersicht": 1795674496.7929566
