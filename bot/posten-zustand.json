@@ -187,19 +187,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 279,
+ "laeufe": 280,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795686177.3374379,
-   1795688021.382902
+   1795688021.382902,
+   1795688621.051997
   ],
   "stunde": [
-   {
-    "mint": "52a6B3qpwGN9daQBTu8kvbXQVgThuiGMJE1mmCEgpump",
-    "spaet": true,
-    "t": 1795684766.3427436
-   },
    {
     "mint": "CbGrZ3Q2XxSV2oiZsLkDWW1GFjrqUDAzTH9XwVr1pump",
     "spaet": true,
@@ -361,6 +357,28 @@
     "spaet": false,
     "symbol": "gob",
     "t": 1795687953.9037879
+   },
+   {
+    "dauer": 241.4066231250763,
+    "ersteller_verkauft": false,
+    "kaeufer": 516,
+    "mint": "HdRPR3nqkNCt98DWQqDdfkRHDc1NFsgCJVbfXRnppump",
+    "name": "konnichiwa",
+    "sol": 85.03499025199984,
+    "spaet": false,
+    "symbol": "konnichiwa",
+    "t": 1795688485.1938908
+   },
+   {
+    "dauer": 40.366594552993774,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "6dryxFAps8ADQEHEBFWLV9bc7Z5yqF8UADedR54tpump",
+    "name": "Yee",
+    "sol": 6.363642922,
+    "spaet": false,
+    "symbol": "YEE",
+    "t": 1795688619.0589917
    }
   ],
   "uebersicht": 1795685577.733602
