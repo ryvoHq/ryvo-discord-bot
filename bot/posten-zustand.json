@@ -187,35 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 313,
+ "laeufe": 314,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795697370.2715933
   ],
   "stunde": [
-   {
-    "dauer": 145.58611273765564,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "62LptHCSQmx1QRJBC7AVga46aK7PXJt1azG32VZrpump",
-    "name": "STENKS",
-    "sol": 0.3475227209999999,
-    "spaet": false,
-    "symbol": "STENKS",
-    "t": 1795694767.5201797
-   },
-   {
-    "dauer": 52.19914150238037,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "BXzYTVqrvQhrTTL5HH1DdcD5o48xC217ed6Bkm7opump",
-    "name": "The Tiny Buffalo",
-    "sol": 85.00535907099997,
-    "spaet": false,
-    "symbol": "Pinky",
-    "t": 1795694834.3697054
-   },
    {
     "dauer": 170.92115712165833,
     "ersteller_verkauft": true,
@@ -441,6 +419,11 @@
     "spaet": false,
     "symbol": "CLM",
     "t": 1795698095.844934
+   },
+   {
+    "mint": "DCGnd59dPcHDegRW52jh5dUMpsLKpYQ22RyphaWWpump",
+    "spaet": true,
+    "t": 1795698560.3540251
    }
   ],
   "uebersicht": 1795697370.2715933
