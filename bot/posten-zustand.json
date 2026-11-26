@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 268,
+ "laeufe": 269,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -189,22 +189,6 @@
    1795684377.3718648
   ],
   "stunde": [
-   {
-    "mint": "3Dsc59bPfnX5JKBfLHRq95BjHDruG3Ju6XAYUdfopump",
-    "spaet": true,
-    "t": 1795681880.6269217
-   },
-   {
-    "dauer": 593.7114443778992,
-    "ersteller_verkauft": true,
-    "kaeufer": 152,
-    "mint": "BYT94zNyuEqkGeh4YQgxfucB28KRjUxAAoxgEYd4pump",
-    "name": "Basket",
-    "sol": 85.2600017580001,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795681963.1334794
-   },
    {
     "dauer": 0.00019216537475585938,
     "ersteller_verkauft": false,
@@ -334,9 +318,42 @@
     "mint": "CbGrZ3Q2XxSV2oiZsLkDWW1GFjrqUDAzTH9XwVr1pump",
     "spaet": true,
     "t": 1795685270.4035578
+   },
+   {
+    "dauer": 120.6922996044159,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "GaSkabHfrjiPGjRz3C2LYGTN8LA4AoyeiEGeJUYtpump",
+    "name": "probably nothing",
+    "sol": 0.48087690099999997,
+    "spaet": false,
+    "symbol": "STENKS",
+    "t": 1795685436.864539
+   },
+   {
+    "dauer": 250.83566403388977,
+    "ersteller_verkauft": false,
+    "kaeufer": 146,
+    "mint": "4W2iP1EgLERkSLmKEV8WKLLAqnj82sp9JLc9oibspump",
+    "name": "Basket",
+    "sol": 85.00535930899999,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795685441.8389583
+   },
+   {
+    "dauer": 336.6638786792755,
+    "ersteller_verkauft": false,
+    "kaeufer": 7,
+    "mint": "2UDaiuTJMyn5PPgdYKCSPMpudArjpHjnR7LwyDmKpump",
+    "name": "PERRO",
+    "sol": 5.032765942999998,
+    "spaet": false,
+    "symbol": "PERRO",
+    "t": 1795685567.9170253
    }
   ],
-  "uebersicht": 1795681825.5290093
+  "uebersicht": 1795685577.733602
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
