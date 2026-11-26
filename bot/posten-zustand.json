@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 220,
+ "laeufe": 221,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -381,6 +381,28 @@
     "spaet": false,
     "symbol": "ATX",
     "t": 1795671150.5073853
+   },
+   {
+    "dauer": 149.15753483772278,
+    "ersteller_verkauft": true,
+    "kaeufer": 38,
+    "mint": "FoxZ7vdSQvcZgZ9gaaWPuQe2GLrCRSDvtk9QJkkjpump",
+    "name": "MoonGoat",
+    "sol": 1.8234070769999995,
+    "spaet": false,
+    "symbol": "MGOAT",
+    "t": 1795671242.1951706
+   },
+   {
+    "dauer": 174.80662941932678,
+    "ersteller_verkauft": false,
+    "kaeufer": 173,
+    "mint": "81wXqnXRAAp1EetQNb21PuuQvn3rYo2KHzGeYDLCpump",
+    "name": "Official Grand Theft Auto VI",
+    "sol": 84.49640959,
+    "spaet": false,
+    "symbol": "GTAVI",
+    "t": 1795671440.3158784
    }
   ],
   "uebersicht": 1795669916.9233382
