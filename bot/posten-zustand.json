@@ -163,45 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 177,
+ "laeufe": 178,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 132.40716218948364,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "C5Xxp1US6rNgg3awm4ji7vwKseq7NtsrU8jWbbd7pump",
-    "name": "PILGRIM KITTY",
-    "sol": 0.9833016650000008,
-    "spaet": false,
-    "symbol": "PILKYTTY",
-    "t": 1795655742.2011251
-   },
-   {
-    "dauer": 311.8403494358063,
-    "ersteller_verkauft": true,
-    "kaeufer": 40,
-    "mint": "7EnUNRe2QKGnVF8BbZ6UstqRhXopmDT35U3JySoApump",
-    "name": "MOON BUCK$",
-    "sol": 2.2272976119999988,
-    "spaet": false,
-    "symbol": "🌙 BUCK",
-    "t": 1795655890.8784182
-   },
-   {
-    "mint": "FF9HXZEeh1bVJuKqRYENpDTwyCDTXxnZPBEz5qTWpump",
-    "spaet": true,
-    "t": 1795655894.0731292
-   },
-   {
-    "mint": "31GfcV6vxUeUPx4CkrZkXd8WcCAodhyNes3CKHrppump",
-    "spaet": true,
-    "t": 1795655941.6149971
-   },
    {
     "dauer": 262.05090975761414,
     "ersteller_verkauft": false,
