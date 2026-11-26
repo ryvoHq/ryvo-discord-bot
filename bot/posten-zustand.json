@@ -218,10 +218,10 @@
  ],
  "indizes_tag": "2026-11-26",
  "krypto_tag": "2026-11-26",
- "lab_log_tag": "2026-11-25",
+ "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 452,
+ "laeufe": 453,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -230,22 +230,6 @@
    1795736127.7741737
   ],
   "stunde": [
-   {
-    "mint": "G1fY1LmVmwnfxgXpAASz2jfnmzh7K1K41sfTW35npump",
-    "spaet": true,
-    "t": 1795733202.901396
-   },
-   {
-    "dauer": 48.7866096496582,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "5nAPLsMfJT2ttykZyNH7gupdyrAAwAyhNktiatQjpump",
-    "name": "OFFICIAL TRUMP COIN",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TRUMP",
-    "t": 1795733358.0910122
-   },
    {
     "mint": "Ak4BGyneYMfy2b7WrYaknsbSSz4x6jSeTTguEsgypump",
     "spaet": true,
