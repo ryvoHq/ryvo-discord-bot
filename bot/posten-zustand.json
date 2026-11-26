@@ -217,56 +217,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 427,
+ "laeufe": 428,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795727580.33318
   ],
   "stunde": [
-   {
-    "dauer": 0.001056671142578125,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "HDVCqX1pszgsAVA3G5WDiFM9MLxD7gMpRhB7TVEGpump",
-    "name": "Cateball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Cateball",
-    "t": 1795726202.0409026
-   },
-   {
-    "dauer": 69.23285436630249,
-    "ersteller_verkauft": false,
-    "kaeufer": 28,
-    "mint": "73xjcBBk5XE5NBeFaX7xufP5MyK6KSWkwpqpbP23pump",
-    "name": "Retarded Slop Ape Official",
-    "sol": 7.487444506999992,
-    "spaet": false,
-    "symbol": "RSA",
-    "t": 1795726214.9510622
-   },
-   {
-    "mint": "DoR5kPE33bken8yr2UGNniscE2LkeZRYyyqKr3zDpump",
-    "spaet": true,
-    "t": 1795726284.99113
-   },
-   {
-    "dauer": 0.004526853561401367,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "9SVj5ZTAL41tqswVNwT1TT9yv3oSHYMYv8zqoHtPpump",
-    "name": "Zolana Inu",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "ZINU",
-    "t": 1795726381.8613546
-   },
-   {
-    "mint": "CVCkUiheSUrn97sFVsWdhedrmu4LXZxJubpFebgHpump",
-    "spaet": true,
-    "t": 1795726401.4317174
-   },
    {
     "mint": "E3JLPbDNQxGvLS5n1bziJzLS9pcJUiGApQQAcZmXpump",
     "spaet": true,
@@ -578,6 +535,11 @@
     "spaet": false,
     "symbol": "HOLD",
     "t": 1795729708.8310273
+   },
+   {
+    "mint": "HBimhBvc29m7RySfWpj8Y7C1JVvSkBRd8jTXrb65pump",
+    "spaet": true,
+    "t": 1795730012.6720726
    }
   ],
   "uebersicht": 1795727879.9348903
