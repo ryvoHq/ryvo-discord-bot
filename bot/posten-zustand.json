@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 280,
+ "laeufe": 281,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -196,11 +196,6 @@
    1795688621.051997
   ],
   "stunde": [
-   {
-    "mint": "CbGrZ3Q2XxSV2oiZsLkDWW1GFjrqUDAzTH9XwVr1pump",
-    "spaet": true,
-    "t": 1795685270.4035578
-   },
    {
     "dauer": 120.6922996044159,
     "ersteller_verkauft": true,
@@ -379,6 +374,28 @@
     "spaet": false,
     "symbol": "YEE",
     "t": 1795688619.0589917
+   },
+   {
+    "dauer": 574.721518278122,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "FBQMnvcpyz6ttzqs3fdTj6xKh2w7VNY1uXTm5ssvpump",
+    "name": "Yee",
+    "sol": 0.7296635319999998,
+    "spaet": false,
+    "symbol": "YEE",
+    "t": 1795688810.845131
+   },
+   {
+    "dauer": 0.3877737522125244,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "AxPEou2ppLFNeJU9fCemg9wfqDjaVsKdevcQgYDopump",
+    "name": "Sleigh X",
+    "sol": 85.00535907700001,
+    "spaet": false,
+    "symbol": "SLEIGHX",
+    "t": 1795688914.0010695
    }
   ],
   "uebersicht": 1795685577.733602
