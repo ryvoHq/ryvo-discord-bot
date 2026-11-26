@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 286,
+ "laeufe": 287,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,11 +195,6 @@
    1795688621.051997
   ],
   "stunde": [
-   {
-    "mint": "4Zy3CyQESE6BUHZPxKsjgMGG3HgKGcRA35PeX5zXpump",
-    "spaet": true,
-    "t": 1795687102.4803762
-   },
    {
     "mint": "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump",
     "spaet": true,
@@ -340,6 +335,72 @@
     "mint": "AJ6bqXubsvBhvG2i12WFFkrus12E77vaLqxFMAaTpump",
     "spaet": true,
     "t": 1795690607.3962638
+   },
+   {
+    "dauer": 111.39131331443787,
+    "ersteller_verkauft": false,
+    "kaeufer": 129,
+    "mint": "U7J87pcjSzV3CPNTS3xPJ6zVAqHdavgRVaxZj1Wpump",
+    "name": "GTA | Official Team",
+    "sol": 85.00535931599997,
+    "spaet": false,
+    "symbol": "GTA 6 Coin",
+    "t": 1795690850.153487
+   },
+   {
+    "dauer": 150.066171169281,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "2ayeGF1yWSjhZdrk1vqxY9G8h6txwFu3BUJtyPuXpump",
+    "name": "CAO DI NIU",
+    "sol": 3.9304786169999995,
+    "spaet": false,
+    "symbol": "CAODINIU",
+    "t": 1795690868.4649584
+   },
+   {
+    "dauer": 115.76303434371948,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "A65LoPLDZz2q8iYs3kfCUX5CUcmPkQ1tyu4SCDHypump",
+    "name": "Golden Touchdown",
+    "sol": 0.691640926,
+    "spaet": false,
+    "symbol": "TOUCHDOWN",
+    "t": 1795690924.727492
+   },
+   {
+    "dauer": 358.48522329330444,
+    "ersteller_verkauft": false,
+    "kaeufer": 144,
+    "mint": "GGBhfKaKkYJsAcFgTKAbaxbcHcfR6gEhNEnw2bpopump",
+    "name": "FomoFamily | Offical Team",
+    "sol": 85.00535939299998,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795690942.7365227
+   },
+   {
+    "dauer": 102.44179821014404,
+    "ersteller_verkauft": false,
+    "kaeufer": 128,
+    "mint": "AJZtVLgzLtbVphE35kLMHZe8gmQXVSBKv3qdyKDWpump",
+    "name": "Fiona the Hippo",
+    "sol": 85.29527784599999,
+    "spaet": false,
+    "symbol": "FIONA",
+    "t": 1795690947.7392542
+   },
+   {
+    "dauer": 183.27911925315857,
+    "ersteller_verkauft": true,
+    "kaeufer": 17,
+    "mint": "7T6VUQ3LaSQ53pn5PLfWnW93Es9PL7yHdet1iwftpump",
+    "name": "The Amazon Monkey",
+    "sol": 0.398175627,
+    "spaet": false,
+    "symbol": "ELIZABETH",
+    "t": 1795690960.4792821
    }
   ],
   "uebersicht": 1795689221.233631
