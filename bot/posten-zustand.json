@@ -217,24 +217,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 398,
+ "laeufe": 399,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795721802.4028332
+   1795721802.4028332,
+   1795722102.5006723
   ],
   "stunde": [
-   {
-    "dauer": 0.12433171272277832,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "9J2hRYBuLEtUqNqnPCqe5Xe6e7DLK5DhN8i9h9LDpump",
-    "name": "ジョージ",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "George",
-    "t": 1795718409.0676365
-   },
    {
     "dauer": 9.9228515625,
     "ersteller_verkauft": false,
@@ -495,6 +485,28 @@
     "mint": "CWXefv59GMG1o35hMd7SNjtah5GhXViC2dc14hWfGJrk",
     "spaet": true,
     "t": 1795721797.1545956
+   },
+   {
+    "dauer": 886.2193353176117,
+    "ersteller_verkauft": true,
+    "kaeufer": 519,
+    "mint": "YWK8k4teD4LeNRSAuWzx6ccKAWWAUmc9Qhh9qyFpump",
+    "name": "h3lix",
+    "sol": 82.3321232170001,
+    "spaet": false,
+    "symbol": "H3LIX",
+    "t": 1795721949.5864184
+   },
+   {
+    "dauer": 34.51469278335571,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "FQsLgeTvdutpvpNEpG2afYw3RbLA911SeF8ZkHSspump",
+    "name": "HONESTY",
+    "sol": 16.447933606,
+    "spaet": false,
+    "symbol": "HONESTY",
+    "t": 1795721980.103632
    }
   ],
   "uebersicht": 1795720236.7698689
