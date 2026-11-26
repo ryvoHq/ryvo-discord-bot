@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 352,
+ "laeufe": 353,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,27 +207,6 @@
    1795708046.864389
   ],
   "stunde": [
-   {
-    "mint": "EF88ztWircv8YpPJ4rcANoEvQGLP32MgLX8Evwo4pump",
-    "spaet": true,
-    "t": 1795705518.1983228
-   },
-   {
-    "dauer": 206.91412901878357,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "Bahue92c4xDMoXKbDZA44h8e9tLTe2m6gta1uK18pump",
-    "name": "GOLD EGG",
-    "sol": 1.3321057059999994,
-    "spaet": false,
-    "symbol": "GOLD",
-    "t": 1795705666.065937
-   },
-   {
-    "mint": "3mjVqav8r3DLSydTwJYMX5Ffy2sAevp8LfjtN8mqpump",
-    "spaet": true,
-    "t": 1795705687.955973
-   },
    {
     "mint": "F4oRJBGgkhavrckdeJciutSK36jgLQpiAwaiq8nJpump",
     "spaet": true,
@@ -499,9 +478,14 @@
     "spaet": false,
     "symbol": "LUCIA",
     "t": 1795708643.674439
+   },
+   {
+    "mint": "GaHKmW73oqGt7dTc2x4VxfBH5KcAZkeet9UJYweXpump",
+    "spaet": true,
+    "t": 1795709127.4770505
    }
   ],
-  "uebersicht": 1795704662.8075502
+  "uebersicht": 1795709291.9324813
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
