@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 341,
+ "laeufe": 342,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,17 +207,6 @@
    1795704962.4614937
   ],
   "stunde": [
-   {
-    "dauer": 110.4087929725647,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "BSMz6chW26adx25hkfRZvmTSu6q4d3ieixPx73hQpump",
-    "name": "Irochancoin",
-    "sol": 15.034764859999969,
-    "spaet": false,
-    "symbol": "Irochan",
-    "t": 1795702399.722271
-   },
    {
     "dauer": 62.47034430503845,
     "ersteller_verkauft": true,
@@ -454,6 +443,27 @@
     "mint": "377pd3bvRYb6k64jptaBmc39s8BZoiLEFkvM7n4Cpump",
     "spaet": true,
     "t": 1795705898.5155199
+   },
+   {
+    "mint": "CC1uvrWkFdju8NuUrS7x3bKVzu5Cjy6Kt6nyB6Pbpump",
+    "spaet": true,
+    "t": 1795705953.9667714
+   },
+   {
+    "mint": "6bPKFmrmbTYjG2ZnLpXmVgomTjPbuFLe1brJzDtXpump",
+    "spaet": true,
+    "t": 1795706069.6653192
+   },
+   {
+    "dauer": 70.70790553092957,
+    "ersteller_verkauft": true,
+    "kaeufer": 238,
+    "mint": "7Kn5Kkb5B5wKj8GE4ptc1s2z2piF24nxih4kV4UPpump",
+    "name": "Privacy Girl",
+    "sol": 78.125359484,
+    "spaet": false,
+    "symbol": "PIG",
+    "t": 1795706192.470812
    }
   ],
   "uebersicht": 1795704662.8075502
