@@ -187,57 +187,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 305,
+ "laeufe": 306,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
    1795692775.3964045
   ],
   "stunde": [
-   {
-    "dauer": 0.0007576942443847656,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "CsreLoytab4PzfKfBCNshGzAgycV3A3njYeChBCEpump",
-    "name": "Elon Santa",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "SANTAMUSK",
-    "t": 1795692277.5217187
-   },
-   {
-    "dauer": 92.62299132347107,
-    "ersteller_verkauft": false,
-    "kaeufer": 10,
-    "mint": "5tGa9fQcrUmcH19yKbYX2A8grXr6JauPU5muA4a8pump",
-    "name": "1sol and a dream",
-    "sol": 2.895263480000001,
-    "spaet": false,
-    "symbol": "$1",
-    "t": 1795692283.6077826
-   },
-   {
-    "dauer": 128.93578338623047,
-    "ersteller_verkauft": false,
-    "kaeufer": 8,
-    "mint": "4mFXRZUdTLq14PrH2JuxTf5bMykbBPNYZdzCkD5Tpump",
-    "name": "MONEYY",
-    "sol": 0.32105618599999985,
-    "spaet": false,
-    "symbol": "MONY",
-    "t": 1795692325.6275291
-   },
-   {
-    "dauer": 278.4884479045868,
-    "ersteller_verkauft": true,
-    "kaeufer": 23,
-    "mint": "HfTd2w2xWdv1kZ4cwbHqrovrXZGUeZSUUdABiPR6pump",
-    "name": "yepearl",
-    "sol": 0.23300519599999972,
-    "spaet": false,
-    "symbol": "YEPEARL",
-    "t": 1795692511.8488138
-   },
    {
     "dauer": 763.9711422920227,
     "ersteller_verkauft": false,
@@ -389,6 +345,31 @@
     "mint": "C3DC9zMsAaPHY9LVhz1F12FJdAWNcoDCuXxSisZopump",
     "spaet": true,
     "t": 1795695693.1210046
+   },
+   {
+    "mint": "GTA6fheR7VzZCG4afZeThwBqZkT5TkmwNejGPUvqKDHV",
+    "spaet": true,
+    "t": 1795695883.7015142
+   },
+   {
+    "mint": "7SdeYnq3uAgbuSEzbMr4ArC8fXBvYL2D3U6smNFspump",
+    "spaet": true,
+    "t": 1795695927.2642267
+   },
+   {
+    "mint": "CF9RF7S1Y9Wq81xj6KGTbLX5rVsP15Awcy1DHQ5kpump",
+    "spaet": true,
+    "t": 1795695995.1776822
+   },
+   {
+    "mint": "8C2FnYRvFTsZ3hcMTq6DMTNwNjEadujhLVNFmDXApump",
+    "spaet": true,
+    "t": 1795696022.9134727
+   },
+   {
+    "mint": "B5AY33JK1EVUUfxnpfXkazWewHSRixcsSabuqgGopump",
+    "spaet": true,
+    "t": 1795696060.4230137
    }
   ],
   "uebersicht": 1795693716.239242
