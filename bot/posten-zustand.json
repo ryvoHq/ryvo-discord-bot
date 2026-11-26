@@ -171,22 +171,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 206,
+ "laeufe": 207,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 178.2481186389923,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "2iju24jug2AiLAB2M3uLZvHWDFJPNwiGqhZGPQxepump",
-    "name": "Moon Gremlin",
-    "sol": 0.1972996649999995,
-    "spaet": false,
-    "symbol": "GREMLIN",
-    "t": 1795663788.4713943
-   },
    {
     "mint": "E9LxjW3bTHv2w4FF4fKJoURDDy2DgJmnDdY6mctqpump",
     "spaet": true,
@@ -270,6 +259,17 @@
     "mint": "AVEjDSfPUQYc48bS6c4XCT881gw81T6dhh2MwABfpump",
     "spaet": true,
     "t": 1795667158.4477942
+   },
+   {
+    "dauer": 212.3503975868225,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "G7dy9AEABKZLXHmxzBkziSRzChdJ3zGDeVg3NRPkpump",
+    "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
+    "sol": 0.724512724,
+    "spaet": false,
+    "symbol": "FOMOCAT",
+    "t": 1795667461.5991156
    }
   ],
   "uebersicht": 1795666273.6556141
