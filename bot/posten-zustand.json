@@ -163,25 +163,15 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 166,
+ "laeufe": 167,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795653144.5292451,
-   1795654044.0227242
+   1795654044.0227242,
+   1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 829.0543828010559,
-    "ersteller_verkauft": true,
-    "kaeufer": 267,
-    "mint": "76axAUkdSFaF45HG9QMqNu7s6JwMwUnadvHe1zeDpump",
-    "name": "ZeroSumEnjoyer",
-    "sol": 29.233312453999986,
-    "spaet": false,
-    "symbol": "Solace",
-    "t": 1795652867.8263175
-   },
    {
     "mint": "5J2GqPWDoTRph1VTubKXLJovh3s3KZFXTFDbad1gpump",
     "spaet": true,
@@ -355,6 +345,22 @@
     "spaet": false,
     "symbol": "MGOAT",
     "t": 1795656072.3207936
+   },
+   {
+    "dauer": 864.5182161331177,
+    "ersteller_verkauft": false,
+    "kaeufer": 432,
+    "mint": "8SEQBLxwZNjbJkByhhqYGBZ5hWXKJDDt8QJR9TcVpump",
+    "name": "Not Safe For Work",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "NSFW",
+    "t": 1795656246.7987688
+   },
+   {
+    "mint": "FubTLBcy3LZJro14qVvXW7v8mEyug4MedaPdLrNTpump",
+    "spaet": true,
+    "t": 1795656363.0004072
    }
   ],
   "uebersicht": 1795654644.887717
