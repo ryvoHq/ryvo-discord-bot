@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 409,
+ "laeufe": 410,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,39 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "dauer": 157.75434851646423,
-    "ersteller_verkauft": false,
-    "kaeufer": 42,
-    "mint": "GmFw8ZFDGUycxhc2g6ZHb5XhS2P5GZhZ2d1ZTNjxpump",
-    "name": "warm pup",
-    "sol": 0.19230484799999653,
-    "spaet": false,
-    "symbol": "WARM",
-    "t": 1795721271.3268018
-   },
-   {
-    "dauer": 0.0003745555877685547,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "HYFbbfv771xSRXyF2rRdf6eQzucLhrSHd2JkE12vpump",
-    "name": "1 Trillion Dollar",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "1T",
-    "t": 1795721354.5537405
-   },
-   {
-    "dauer": 133.92379140853882,
-    "ersteller_verkauft": false,
-    "kaeufer": 257,
-    "mint": "CmwDDaWR6VTqdRvUoYAxVX9Yzjx1vSAqVsDjdcxQpump",
-    "name": "Gooncoin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "GOON",
-    "t": 1795721523.1492846
-   },
    {
     "mint": "3zUCuK5APJAFhx6r8uYVGC2dKzcYLLmDUhTKf1nepump",
     "spaet": true,
@@ -611,6 +578,38 @@
     "spaet": false,
     "symbol": "H/MONHOOK",
     "t": 1795724680.9324741
+   },
+   {
+    "dauer": 162.96125841140747,
+    "ersteller_verkauft": true,
+    "kaeufer": 279,
+    "mint": "GNwxnJzErbjQEqeCN5XzWshrPo6zMLHCbWY1o2vaFWby",
+    "name": "Zolana Coin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ZCOIN",
+    "t": 1795724944.8735044
+   },
+   {
+    "dauer": 49.976008892059326,
+    "ersteller_verkauft": false,
+    "kaeufer": 76,
+    "mint": "EJVKAigqJFxnKGZhx5h67PyyL3F2HbzrZYa4fRZ6pump",
+    "name": "Trust Me Bro",
+    "sol": 54.91206936599999,
+    "spaet": false,
+    "symbol": "Trust",
+    "t": 1795725038.6167777
+   },
+   {
+    "mint": "CiLZrh4voNN6EZLhNgiNpLSxoFhiLvBihcAbnYKhpump",
+    "spaet": true,
+    "t": 1795725045.6922135
+   },
+   {
+    "mint": "34SCC7vBeoS4tFEtLZuYEPhUGzaR6ifYrSzEmE9Upump",
+    "spaet": true,
+    "t": 1795725137.8089724
    }
   ],
   "uebersicht": 1795724244.4573483
