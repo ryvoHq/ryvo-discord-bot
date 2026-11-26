@@ -181,43 +181,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 243,
+ "laeufe": 244,
  "lagebrief_stand": 1795663800,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795678442.32647
+  ],
   "stunde": [
-   {
-    "dauer": 155.55187106132507,
-    "ersteller_verkauft": false,
-    "kaeufer": 33,
-    "mint": "GhVRofiPYtq3oyKgeQoGf1HqWqYpJy4RmPkKMQptpump",
-    "name": "ABU HOSSIEN",
-    "sol": 0.9954431849999992,
-    "spaet": false,
-    "symbol": "$ABU",
-    "t": 1795674649.553056
-   },
-   {
-    "dauer": 128.2847650051117,
-    "ersteller_verkauft": false,
-    "kaeufer": 43,
-    "mint": "DYKzUfMhug8j3Begn8gm2LkpYLXvJL33JnCn1DCZpump",
-    "name": "itsmekwek",
-    "sol": 74.711875874,
-    "spaet": false,
-    "symbol": "itsmekwek",
-    "t": 1795674732.5196986
-   },
-   {
-    "mint": "F8gor7BbfPVR8RYgtWbfQPudXySGJ5QN1UeVHEQgpump",
-    "spaet": true,
-    "t": 1795674767.574708
-   },
-   {
-    "mint": "YArspJG2Fmkh91mZjtVfvtYVXLhgjgjQnoRYgLTpump",
-    "spaet": true,
-    "t": 1795674781.4652076
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -314,6 +284,55 @@
     "mint": "AC6jhfpFFFYUciEX563ouCiMCZTxvDi1mr6zXhAMogog",
     "spaet": true,
     "t": 1795677419.7076478
+   },
+   {
+    "dauer": 143.52889323234558,
+    "ersteller_verkauft": true,
+    "kaeufer": 161,
+    "mint": "8pbTCQ4gBgNYaviGC1Bi6TxNQAScHyTQ1UjTxwZYpump",
+    "name": "Grok AI",
+    "sol": 85.00535946900006,
+    "spaet": false,
+    "symbol": "Grok AI",
+    "t": 1795678215.3267994
+   },
+   {
+    "dauer": 589.9545292854309,
+    "ersteller_verkauft": true,
+    "kaeufer": 24,
+    "mint": "7M2pU6HPVAiVVN1ve5VSPSMDA2sPUmfNXgCGiC6npump",
+    "name": "catwiffuture",
+    "sol": 0.29342429199999975,
+    "spaet": false,
+    "symbol": "future",
+    "t": 1795678243.3487587
+   },
+   {
+    "dauer": 562.8776638507843,
+    "ersteller_verkauft": true,
+    "kaeufer": 450,
+    "mint": "FedthwmQPX42brhFscayMhMfHeTnfeK5wSgiWeGKpump",
+    "name": "Official Jesus Christ",
+    "sol": 73.757875391,
+    "spaet": false,
+    "symbol": "Jesus",
+    "t": 1795678380.1037822
+   },
+   {
+    "dauer": 358.275723695755,
+    "ersteller_verkauft": true,
+    "kaeufer": 69,
+    "mint": "3H7PsHWaJMuywcTsPpVvwAfc2Xx6JA6A5UKD4GDTpump",
+    "name": "itsmekwek",
+    "sol": 82.18026960599995,
+    "spaet": false,
+    "symbol": "itsmekwek",
+    "t": 1795678417.4300396
+   },
+   {
+    "mint": "B4nbyiK11LioXpcs7htExSZb1ZmPnNe8ieC4hpvmpump",
+    "spaet": true,
+    "t": 1795678423.9085684
    }
   ],
   "uebersicht": 1795678142.391696
