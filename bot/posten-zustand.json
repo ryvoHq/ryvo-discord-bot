@@ -217,62 +217,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 412,
+ "laeufe": 413,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [
-   1795722402.5849354
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 222.63672304153442,
-    "ersteller_verkauft": true,
-    "kaeufer": 530,
-    "mint": "3FXQU7aFGcKoAAnEbAM28RjKoxB8FM9iNnBD6uXmfire",
-    "name": "Fireball",
-    "sol": 86.76032286099972,
-    "spaet": false,
-    "symbol": "FIREBALL",
-    "t": 1795722148.1837482
-   },
-   {
-    "dauer": 512.5450162887573,
-    "ersteller_verkauft": false,
-    "kaeufer": 5,
-    "mint": "CSdjzr4PswA3hnjyf5XFzMVWBKKUsotx3GjjPPXppump",
-    "name": "DICE",
-    "sol": 0.287320394,
-    "spaet": false,
-    "symbol": "DICE",
-    "t": 1795722170.5277278
-   },
-   {
-    "mint": "Ep7u3FSoG9DfrLEC62edhRtk5gT9XvTqJtzuEjdqpump",
-    "spaet": true,
-    "t": 1795722197.314117
-   },
-   {
-    "dauer": 60.17459726333618,
-    "ersteller_verkauft": false,
-    "kaeufer": 145,
-    "mint": "pgt2Huxmhxd24hH9MD1S5HHZv3Nn5ZrAfdCPhk2pump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 85.28546184700001,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795722230.7318945
-   },
-   {
-    "dauer": 190.2190899848938,
-    "ersteller_verkauft": true,
-    "kaeufer": 23,
-    "mint": "6qe8HKnTbw9tNUk14ERx8NMmhSU3f1nyTP5m17kgpump",
-    "name": "Sent AI Labs",
-    "sol": 3.5282742330000008,
-    "spaet": false,
-    "symbol": "SENTAI",
-    "t": 1795722282.453833
-   },
    {
     "dauer": 982.1028916835785,
     "ersteller_verkauft": true,
@@ -598,6 +547,32 @@
     "spaet": false,
     "symbol": "USOI",
     "t": 1795725720.97583
+   },
+   {
+    "mint": "8UB2zMvBj9hYoPFgshAD6JDR9VZNWUU8GMiTiaD1pump",
+    "spaet": true,
+    "t": 1795725838.032325
+   },
+   {
+    "mint": "4Kzh1SdMeCoeqkKgyZdFrHnWjEff4eFihb2PDb5Apump",
+    "spaet": true,
+    "t": 1795725845.2550027
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "4jA5ns72KMGDguig4PshLSLdQCzpzCqvJm7LHNxHpump",
+    "name": "GOTF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "GOTF",
+    "t": 1795725894.235967
+   },
+   {
+    "mint": "DryYCtYwxTL4enVJnCKtJRrPsE1TCnMHHZRknck2pump",
+    "spaet": true,
+    "t": 1795725984.3220825
    }
   ],
   "uebersicht": 1795724244.4573483
