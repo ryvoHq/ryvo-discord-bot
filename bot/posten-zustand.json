@@ -181,27 +181,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 242,
+ "laeufe": 243,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "2WYicw2ddgP5MEFmULTpBDgrbpfjnsYXhm5jCtbRpump",
-    "spaet": true,
-    "t": 1795674261.7539666
-   },
-   {
-    "dauer": 149.81019496917725,
-    "ersteller_verkauft": false,
-    "kaeufer": 29,
-    "mint": "4xdPQUEGps8wriY8s38QEFhZn5YB2DRgn9D46pSJpump",
-    "name": "WASTED TATE",
-    "sol": 0.10329055600000024,
-    "spaet": false,
-    "symbol": "$TATE",
-    "t": 1795674508.6996148
-   },
    {
     "dauer": 155.55187106132507,
     "ersteller_verkauft": false,
@@ -332,7 +316,7 @@
     "t": 1795677419.7076478
    }
   ],
-  "uebersicht": 1795674496.7929566
+  "uebersicht": 1795678142.391696
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
