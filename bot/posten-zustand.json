@@ -199,26 +199,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 350,
+ "laeufe": 351,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795704962.4614937,
    1795707147.5383089,
    1795708046.864389
   ],
   "stunde": [
-   {
-    "dauer": 26.0735125541687,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "4DubjRDQRAcbu9koFNsQQ3VobH3BhBrVhzm5usLcpump",
-    "name": "DONT BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "DONT BUY",
-    "t": 1795704871.8760462
-   },
    {
     "dauer": 47.75076627731323,
     "ersteller_verkauft": false,
@@ -490,6 +478,49 @@
     "spaet": false,
     "symbol": "TURKEY",
     "t": 1795708354.5165374
+   },
+   {
+    "mint": "GZiuLMvUMnz4X2RCmUgV6iTSnApoLh3t6cRJzzt9pump",
+    "spaet": true,
+    "t": 1795708440.9800751
+   },
+   {
+    "dauer": 123.90402507781982,
+    "ersteller_verkauft": true,
+    "kaeufer": 438,
+    "mint": "CEn6mPbimtWHYbQbfX45bfxQMmiaQm9QMrymTMwXE28P",
+    "name": "Gooncoin",
+    "sol": 85.0464868779997,
+    "spaet": false,
+    "symbol": "Goon",
+    "t": 1795708466.4002016
+   },
+   {
+    "dauer": 252.87126517295837,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "FTW6DUZ3MZ6hic3toRsmh4ARqmgLsrThVK6berbhpump",
+    "name": "NUDGE",
+    "sol": 0.1612613989999999,
+    "spaet": false,
+    "symbol": "nudge",
+    "t": 1795708527.927863
+   },
+   {
+    "mint": "2ehZToEi8hicd6byJQ7kdk2DmNGFrELzTcikbXTMpump",
+    "spaet": true,
+    "t": 1795708562.6545632
+   },
+   {
+    "dauer": 19.686613082885742,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "9gN5RZZ8wPyk6PvnbrBsSvjuS9EsdzYL8yBoLkKQpump",
+    "name": "LUCIA",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "LUCIA",
+    "t": 1795708643.674439
    }
   ],
   "uebersicht": 1795704662.8075502
