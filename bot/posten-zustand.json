@@ -181,37 +181,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 241,
+ "laeufe": 242,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "C32ZRmDooNpbR4R3KCWUzbVQPdi3fTiUGbSMsktWpump",
-    "spaet": true,
-    "t": 1795673960.7382784
-   },
-   {
-    "mint": "58Xf9N3n1p5Fw6Etxu5L9YrSkFvGaqLCyU4qri1Wpump",
-    "spaet": true,
-    "t": 1795674001.846193
-   },
-   {
-    "dauer": 66.96731686592102,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "7gJre5zRQ6A8tv5a9R1w9Ww1mZkaV2t5EV98q8W4pump",
-    "name": "Romanian final boss",
-    "sol": 0.2649283780000001,
-    "spaet": false,
-    "symbol": "BMW",
-    "t": 1795674049.6839545
-   },
-   {
-    "mint": "D2uZ7h5SYt184QZTEEjFeXgZMnN4tVkmUKKYqEmcpump",
-    "spaet": true,
-    "t": 1795674163.8836975
-   },
    {
     "mint": "2WYicw2ddgP5MEFmULTpBDgrbpfjnsYXhm5jCtbRpump",
     "spaet": true,
