@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 335,
+ "laeufe": 336,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,22 +207,6 @@
    1795704362.7648325
   ],
   "stunde": [
-   {
-    "mint": "HkPSDYRcw4uqgRzZMDd5sRnMpE4ungR1K8MRNXnBVtQ2",
-    "spaet": true,
-    "t": 1795700928.8343198
-   },
-   {
-    "dauer": 0.0008993148803710938,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "EMd4HYWqkQvnmSAor4H44VM4D8ARzcTxsXsYTKazpump",
-    "name": "Komari",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "KOMARI",
-    "t": 1795700940.524644
-   },
    {
     "dauer": 803.827794790268,
     "ersteller_verkauft": true,
@@ -460,9 +444,25 @@
     "spaet": false,
     "symbol": "SHILL",
     "t": 1795704328.7803779
+   },
+   {
+    "dauer": 191.96685338020325,
+    "ersteller_verkauft": true,
+    "kaeufer": 148,
+    "mint": "GAeRsXWoXzFz2Dz36MyDinjH7CxzyF1XqriTkCU1pump",
+    "name": "ZeroSumEnjoyer",
+    "sol": 74.34066794300003,
+    "spaet": false,
+    "symbol": "Zero",
+    "t": 1795704481.1298957
+   },
+   {
+    "mint": "Hnv5e4c8amHREbBDgzxGtaYPVSt7nhrW5AUNS6Q7pump",
+    "spaet": true,
+    "t": 1795704592.757714
    }
   ],
-  "uebersicht": 1795701008.133407
+  "uebersicht": 1795704662.8075502
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
