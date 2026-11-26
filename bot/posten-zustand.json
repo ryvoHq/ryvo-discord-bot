@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 185,
+ "laeufe": 186,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
@@ -219,6 +219,22 @@
     "mint": "9vZvqyfqorYYfKeR4Ygsp9BMJxt4R5rurNMv9uSMpump",
     "spaet": true,
     "t": 1795661360.8996704
+   },
+   {
+    "mint": "AYij72wApHA4qGV5RbZJhsAVocjHtJJhgoUswV3tpump",
+    "spaet": true,
+    "t": 1795661634.1689484
+   },
+   {
+    "dauer": 226.54605865478516,
+    "ersteller_verkauft": false,
+    "kaeufer": 26,
+    "mint": "2wpMMYDXuqieitbRSDKLVjLd3Xd9xLLdjBNzzH1ppump",
+    "name": "MoonChacha",
+    "sol": -3.170127322999998,
+    "spaet": false,
+    "symbol": "MCH",
+    "t": 1795661639.140872
    }
   ],
   "uebersicht": 1795658964.334879
