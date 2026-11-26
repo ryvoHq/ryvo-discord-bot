@@ -171,7 +171,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 218,
+ "laeufe": 219,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -180,11 +180,6 @@
    1795669616.596927
   ],
   "stunde": [
-   {
-    "mint": "AVEjDSfPUQYc48bS6c4XCT881gw81T6dhh2MwABfpump",
-    "spaet": true,
-    "t": 1795667158.4477942
-   },
    {
     "dauer": 212.3503975868225,
     "ersteller_verkauft": false,
@@ -320,6 +315,39 @@
     "mint": "6eBTZPbUL4RqJeru4uhQNEWTZXuBeAETpTRfykB6pump",
     "spaet": true,
     "t": 1795670436.6914215
+   },
+   {
+    "dauer": 76.2724723815918,
+    "ersteller_verkauft": false,
+    "kaeufer": 153,
+    "mint": "8AgjuzmNNoajv8h28HTEKCrLeH1jjKoSQurcBe6Vpump",
+    "name": "Official Grand Theft Auto VI",
+    "sol": 84.80661656700002,
+    "spaet": false,
+    "symbol": "GTAVI",
+    "t": 1795670819.2387354
+   },
+   {
+    "dauer": 50.29422664642334,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "E7rHWDh3U6pyFZmME5Xih1txaNKF4DsR53JtqYS7pump",
+    "name": "BOLTRAY",
+    "sol": 85.00535908299999,
+    "spaet": false,
+    "symbol": "BOLTRAY",
+    "t": 1795670824.8957875
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "DMXm1gSmAZn1RV4fGXGG8Y1cXfKWXMDYaiKF4B6Cpump",
+    "name": "Elonmas",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Elonmas",
+    "t": 1795670825.0262055
    }
   ],
   "uebersicht": 1795669916.9233382
