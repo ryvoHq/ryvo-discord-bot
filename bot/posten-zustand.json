@@ -181,53 +181,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 256,
+ "laeufe": 257,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795678442.32647,
    1795679942.019533,
    1795679942.019533
   ],
   "stunde": [
-   {
-    "dauer": 589.9545292854309,
-    "ersteller_verkauft": true,
-    "kaeufer": 24,
-    "mint": "7M2pU6HPVAiVVN1ve5VSPSMDA2sPUmfNXgCGiC6npump",
-    "name": "catwiffuture",
-    "sol": 0.29342429199999975,
-    "spaet": false,
-    "symbol": "future",
-    "t": 1795678243.3487587
-   },
-   {
-    "dauer": 562.8776638507843,
-    "ersteller_verkauft": true,
-    "kaeufer": 450,
-    "mint": "FedthwmQPX42brhFscayMhMfHeTnfeK5wSgiWeGKpump",
-    "name": "Official Jesus Christ",
-    "sol": 73.757875391,
-    "spaet": false,
-    "symbol": "Jesus",
-    "t": 1795678380.1037822
-   },
-   {
-    "dauer": 358.275723695755,
-    "ersteller_verkauft": true,
-    "kaeufer": 69,
-    "mint": "3H7PsHWaJMuywcTsPpVvwAfc2Xx6JA6A5UKD4GDTpump",
-    "name": "itsmekwek",
-    "sol": 82.18026960599995,
-    "spaet": false,
-    "symbol": "itsmekwek",
-    "t": 1795678417.4300396
-   },
-   {
-    "mint": "B4nbyiK11LioXpcs7htExSZb1ZmPnNe8ieC4hpvmpump",
-    "spaet": true,
-    "t": 1795678423.9085684
-   },
    {
     "mint": "ZP4J8fNk7FC3iDUPAWd8TX6q8CkVVuSeJgnHCvpPSae",
     "spaet": true,
@@ -373,6 +334,22 @@
     "spaet": false,
     "symbol": "SOLVI",
     "t": 1795681622.3962011
+   },
+   {
+    "mint": "3Dsc59bPfnX5JKBfLHRq95BjHDruG3Ju6XAYUdfopump",
+    "spaet": true,
+    "t": 1795681880.6269217
+   },
+   {
+    "dauer": 593.7114443778992,
+    "ersteller_verkauft": true,
+    "kaeufer": 152,
+    "mint": "BYT94zNyuEqkGeh4YQgxfucB28KRjUxAAoxgEYd4pump",
+    "name": "Basket",
+    "sol": 85.2600017580001,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795681963.1334794
    }
   ],
   "uebersicht": 1795681825.5290093
