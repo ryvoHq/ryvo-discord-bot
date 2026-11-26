@@ -193,44 +193,14 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 318,
+ "laeufe": 319,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
-   1795697370.2715933
+   1795697370.2715933,
+   1795699807.7484126
   ],
   "stunde": [
-   {
-    "mint": "7SdeYnq3uAgbuSEzbMr4ArC8fXBvYL2D3U6smNFspump",
-    "spaet": true,
-    "t": 1795695927.2642267
-   },
-   {
-    "mint": "CF9RF7S1Y9Wq81xj6KGTbLX5rVsP15Awcy1DHQ5kpump",
-    "spaet": true,
-    "t": 1795695995.1776822
-   },
-   {
-    "mint": "8C2FnYRvFTsZ3hcMTq6DMTNwNjEadujhLVNFmDXApump",
-    "spaet": true,
-    "t": 1795696022.9134727
-   },
-   {
-    "mint": "B5AY33JK1EVUUfxnpfXkazWewHSRixcsSabuqgGopump",
-    "spaet": true,
-    "t": 1795696060.4230137
-   },
-   {
-    "dauer": 103.57337594032288,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "EZZQw2EABejgY8XpZqN84Guq9EdF1VKhUyXNCqKopump",
-    "name": "attention",
-    "sol": 0.2111794070000002,
-    "spaet": false,
-    "symbol": "att",
-    "t": 1795696192.4435797
-   },
    {
     "dauer": 55.29762387275696,
     "ersteller_verkauft": false,
@@ -455,6 +425,39 @@
     "mint": "CCbRxtJYej3ChwpuJJBPJ6q3LEvE2muw73ahhCa4pump",
     "spaet": true,
     "t": 1795699442.805077
+   },
+   {
+    "dauer": 489.1174228191376,
+    "ersteller_verkauft": false,
+    "kaeufer": 543,
+    "mint": "32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump",
+    "name": "Paircoin",
+    "sol": 87.73980510600003,
+    "spaet": false,
+    "symbol": "PAIR",
+    "t": 1795699526.9355354
+   },
+   {
+    "dauer": 25.418071269989014,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "FP9UBSyTMr2ce9ds9agvidCRk1HsSGNHRwi5JWYZpump",
+    "name": "Norovirus",
+    "sol": 85.00535907,
+    "spaet": false,
+    "symbol": "NoV",
+    "t": 1795699633.1272922
+   },
+   {
+    "dauer": 196.357745885849,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "AEXZ4cjMc4S5hBPEhdVFJ1zkAZg2eJ8gTQ7dUxVGpump",
+    "name": "chilled capy",
+    "sol": 0.22970724400000014,
+    "spaet": false,
+    "symbol": "e.g.kapib",
+    "t": 1795699704.2991652
    }
   ],
   "uebersicht": 1795697370.2715933
