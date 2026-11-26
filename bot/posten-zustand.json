@@ -199,7 +199,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 333,
+ "laeufe": 334,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -207,17 +207,6 @@
    1795701608.067284
   ],
   "stunde": [
-   {
-    "dauer": 148.25842475891113,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "GGBH37uiGHbCBXQXwMqdPJ34JtceyWbno33MxbSMpump",
-    "name": "ここちゃん",
-    "sol": 2.8200094059999996,
-    "spaet": false,
-    "symbol": "Koko",
-    "t": 1795700304.7955656
-   },
    {
     "dauer": 1491.2642641067505,
     "ersteller_verkauft": true,
@@ -444,6 +433,28 @@
     "mint": "43kTJmjeLZAzqiUYpbtiwUhnsVxbAPZ92ULYyu7apump",
     "spaet": true,
     "t": 1795703722.1605809
+   },
+   {
+    "dauer": 141.4981243610382,
+    "ersteller_verkauft": true,
+    "kaeufer": 43,
+    "mint": "BESPvvEbD3p16fAqkacnhNXaBz7aV2vw94pL2WCTpump",
+    "name": "Cat Labs Act",
+    "sol": 2.16923138,
+    "spaet": false,
+    "symbol": "CLA",
+    "t": 1795703906.2186909
+   },
+   {
+    "dauer": 63.29161500930786,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "9mhnR9c4QeumRYRUdniJyfstMoGrGjvzKzbG4tk5pump",
+    "name": "LUCIA",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "LUCIA",
+    "t": 1795703994.2495594
    }
   ],
   "uebersicht": 1795701008.133407
