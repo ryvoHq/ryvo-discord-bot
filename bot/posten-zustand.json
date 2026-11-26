@@ -187,29 +187,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 306,
+ "laeufe": 307,
  "lagebrief_stand": 1795663800,
  "meme": {
-  "sofort": [
-   1795692775.3964045
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 763.9711422920227,
-    "ersteller_verkauft": false,
-    "kaeufer": 296,
-    "mint": "Gngq4r84xEJe5EssETLu9s9dhamSGTAWsmPbq7x2zjrt",
-    "name": "NUBU",
-    "sol": 80.94538298799989,
-    "spaet": false,
-    "symbol": "NUBU",
-    "t": 1795692624.3377562
-   },
-   {
-    "mint": "4VYg6PKqqb4hi9c49d7YD78217ehHxZpaXwGTD2Gpump",
-    "spaet": true,
-    "t": 1795692867.7273662
-   },
    {
     "mint": "Ag6hKhaYos8a2taqpq1nrqD9B4ArtFN3Nny6tuEZpump",
     "spaet": true,
@@ -370,6 +352,28 @@
     "mint": "B5AY33JK1EVUUfxnpfXkazWewHSRixcsSabuqgGopump",
     "spaet": true,
     "t": 1795696060.4230137
+   },
+   {
+    "dauer": 103.57337594032288,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "EZZQw2EABejgY8XpZqN84Guq9EdF1VKhUyXNCqKopump",
+    "name": "attention",
+    "sol": 0.2111794070000002,
+    "spaet": false,
+    "symbol": "att",
+    "t": 1795696192.4435797
+   },
+   {
+    "dauer": 55.29762387275696,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "4n5RKFtbE15QTiBdiZjkwMFscpLZtmNj8CkJcwdKpump",
+    "name": "The Tiny Buffalo",
+    "sol": 85.00535906900001,
+    "spaet": false,
+    "symbol": "Pinky",
+    "t": 1795696325.1937993
    }
   ],
   "uebersicht": 1795693716.239242
