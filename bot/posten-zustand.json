@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 261,
+ "laeufe": 262,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,28 +190,6 @@
    1795683026.1122732
   ],
   "stunde": [
-   {
-    "dauer": 503.2866313457489,
-    "ersteller_verkauft": false,
-    "kaeufer": 345,
-    "mint": "8iz7DvvMoM5pvf2Rwc2DaZihycKJnnFWPFpUMowYpump",
-    "name": "The Black Bull 1.5",
-    "sol": 85.52961322999985,
-    "spaet": false,
-    "symbol": "ANSEM15",
-    "t": 1795679747.4893315
-   },
-   {
-    "dauer": 432.9530460834503,
-    "ersteller_verkauft": false,
-    "kaeufer": 590,
-    "mint": "HjcgA51WU4NLhzmA97YudCFepYqoiUtEGBvU6QuNpump",
-    "name": "Isabellecoin",
-    "sol": 89.3161584979999,
-    "spaet": false,
-    "symbol": "ISABELLE",
-    "t": 1795679807.5111876
-   },
    {
     "dauer": 496.0738070011139,
     "ersteller_verkauft": false,
@@ -395,6 +373,17 @@
     "spaet": false,
     "symbol": "FOMO",
     "t": 1795682886.0211976
+   },
+   {
+    "dauer": 86.71528744697571,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "8BDkDfj3ZUvcG9caGzF2XnHfwg7K6fjfKKDvX6SCpump",
+    "name": "wienercoin",
+    "sol": 85.222643012,
+    "spaet": false,
+    "symbol": "WIENER",
+    "t": 1795683390.896797
    }
   ],
   "uebersicht": 1795681825.5290093
