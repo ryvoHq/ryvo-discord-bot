@@ -163,27 +163,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 181,
+ "laeufe": 182,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.001239776611328125,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "ERhjmSpLh6Rr4ozYjkGohr7rLizv7Mw6MgWpEFH7pump",
-    "name": "Meme Stonks",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "MemeStonks",
-    "t": 1795656915.7702682
-   },
-   {
-    "mint": "8HEMEDhrTD3t7YMZ7w1GVSzRT2wShvM6JhpKZoSGpump",
-    "spaet": true,
-    "t": 1795656995.9890423
-   },
    {
     "dauer": 351.83584475517273,
     "ersteller_verkauft": true,
@@ -215,6 +199,11 @@
     "spaet": false,
     "symbol": "Froovik",
     "t": 1795660263.1883628
+   },
+   {
+    "mint": "ebSyELGXjyddEmEcZ9MpvZdANmx1aFB6kGWKDkUpump",
+    "spaet": true,
+    "t": 1795660464.3538146
    }
   ],
   "uebersicht": 1795658964.334879
