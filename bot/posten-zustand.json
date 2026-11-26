@@ -221,16 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 440,
+ "laeufe": 441,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "HBimhBvc29m7RySfWpj8Y7C1JVvSkBRd8jTXrb65pump",
-    "spaet": true,
-    "t": 1795730012.6720726
-   },
    {
     "dauer": 119.49761700630188,
     "ersteller_verkauft": true,
@@ -444,6 +439,11 @@
     "spaet": false,
     "symbol": "TRUMP",
     "t": 1795733358.0910122
+   },
+   {
+    "mint": "Ak4BGyneYMfy2b7WrYaknsbSSz4x6jSeTTguEsgypump",
+    "spaet": true,
+    "t": 1795733556.735378
    }
   ],
   "uebersicht": 1795731519.2123363
