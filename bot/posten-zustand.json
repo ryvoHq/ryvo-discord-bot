@@ -163,7 +163,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 195,
+ "laeufe": 196,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -248,6 +248,11 @@
     "spaet": false,
     "symbol": "GREMLIN",
     "t": 1795663788.4713943
+   },
+   {
+    "mint": "E9LxjW3bTHv2w4FF4fKJoURDDy2DgJmnDdY6mctqpump",
+    "spaet": true,
+    "t": 1795664363.4074197
    }
   ],
   "uebersicht": 1795662608.5641265
