@@ -217,38 +217,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 413,
+ "laeufe": 414,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 982.1028916835785,
-    "ersteller_verkauft": true,
-    "kaeufer": 8,
-    "mint": "DHYZoFoXjLnadkkR5dorooWAQPxL9a9zwM48FMDxpump",
-    "name": "Meme Comeback",
-    "sol": 2.195426232,
-    "spaet": false,
-    "symbol": "comeback",
-    "t": 1795722594.2690282
-   },
-   {
-    "mint": "FwU1RkVVMTSzwQZ9KqPUUPBHMRaJd3yvcm3PYPosEGoC",
-    "spaet": true,
-    "t": 1795722617.285659
-   },
-   {
-    "dauer": 6.911442756652832,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "3JuzW5gEzTo7p7kQ75dwTpeexMvd3LWocGEsqc9Rpump",
-    "name": "SUNDANCE",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SUNDANCE",
-    "t": 1795722641.8248053
-   },
    {
     "dauer": 0.0007314682006835938,
     "ersteller_verkauft": false,
@@ -573,6 +546,33 @@
     "mint": "DryYCtYwxTL4enVJnCKtJRrPsE1TCnMHHZRknck2pump",
     "spaet": true,
     "t": 1795725984.3220825
+   },
+   {
+    "dauer": 0.001056671142578125,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "HDVCqX1pszgsAVA3G5WDiFM9MLxD7gMpRhB7TVEGpump",
+    "name": "Cateball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Cateball",
+    "t": 1795726202.0409026
+   },
+   {
+    "dauer": 69.23285436630249,
+    "ersteller_verkauft": false,
+    "kaeufer": 28,
+    "mint": "73xjcBBk5XE5NBeFaX7xufP5MyK6KSWkwpqpbP23pump",
+    "name": "Retarded Slop Ape Official",
+    "sol": 7.487444506999992,
+    "spaet": false,
+    "symbol": "RSA",
+    "t": 1795726214.9510622
+   },
+   {
+    "mint": "DoR5kPE33bken8yr2UGNniscE2LkeZRYyyqKr3zDpump",
+    "spaet": true,
+    "t": 1795726284.99113
    }
   ],
   "uebersicht": 1795724244.4573483
