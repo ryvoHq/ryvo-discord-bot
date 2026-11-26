@@ -1,7 +1,7 @@
 {
  "aktien_tag": "2026-11-25",
  "board_nachricht": "1575119657957064872",
- "chart_tag": "2026-11-25",
+ "chart_tag": "2026-11-26",
  "ebenen_krypto": "2026-11-26",
  "ebenen_trad": "2026-11-25",
  "ezb_tag": "2026-11-25",
@@ -167,42 +167,15 @@
   "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
  ],
  "indizes_tag": "2026-11-25",
- "krypto_tag": "2026-11-25",
+ "krypto_tag": "2026-11-26",
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 238,
+ "laeufe": 239,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 87.31626558303833,
-    "ersteller_verkauft": true,
-    "kaeufer": 134,
-    "mint": "8Bb9vnsHJPzYtStdbMNzFhjcuXRNDXBiNbx6RvHXpump",
-    "name": "Jensen Huang",
-    "sol": 84.598664947,
-    "spaet": false,
-    "symbol": "JENSEN",
-    "t": 1795673002.696787
-   },
-   {
-    "mint": "35egn9hLVgqo2apb3QUJsRayE8zvgtFEvvgSdUojpump",
-    "spaet": true,
-    "t": 1795673006.109066
-   },
-   {
-    "dauer": 231.7929446697235,
-    "ersteller_verkauft": false,
-    "kaeufer": 10,
-    "mint": "FEcenzodxi4JgNyztNEKLr3kxJcB9vauzq4MUaZNpump",
-    "name": "SPACED LUNA TERRA",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ULTRA",
-    "t": 1795673215.5974045
-   },
    {
     "mint": "Di89tBdRfjiYWY1bbKaG9PzwoCZ3FrSEbmnjKTqppump",
     "spaet": true,
