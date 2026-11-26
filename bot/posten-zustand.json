@@ -171,22 +171,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 236,
+ "laeufe": 237,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 485.44806361198425,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "7xaoVXQAdHQ54iU6xGTRk9iKbqoqDN3tqLHbdXFKpump",
-    "name": "SATINU",
-    "sol": 0.16477719199999985,
-    "spaet": false,
-    "symbol": "SATINU",
-    "t": 1795672267.0038078
-   },
    {
     "dauer": 110.88391494750977,
     "ersteller_verkauft": false,
@@ -351,6 +340,28 @@
     "spaet": false,
     "symbol": "BASKET",
     "t": 1795675692.2703109
+   },
+   {
+    "dauer": 380.0540142059326,
+    "ersteller_verkauft": false,
+    "kaeufer": 233,
+    "mint": "8mvMJjhRx3yW2VxzXLhhXjZ1fkJiPULEgVEbw6wVpump",
+    "name": "NVIDIA Newsroom",
+    "sol": 84.665763142,
+    "spaet": false,
+    "symbol": "NVIDIA",
+    "t": 1795675799.614859
+   },
+   {
+    "dauer": 101.99079728126526,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "25u8kEVSiMAMGtJ1GQ2wuJeerckzpkBhEZhGjZGVpump",
+    "name": "InuBooty",
+    "sol": 0.975619608,
+    "spaet": false,
+    "symbol": "$BOOTY",
+    "t": 1795675969.0197709
    }
   ],
   "uebersicht": 1795674496.7929566
