@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 450,
+ "laeufe": 451,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -230,22 +230,6 @@
    1795736127.7741737
   ],
   "stunde": [
-   {
-    "mint": "HPHDn8APPpDoukaCzb17LzV4F1k4d8kdPUMgQorBpump",
-    "spaet": true,
-    "t": 1795732533.3142154
-   },
-   {
-    "dauer": 9.920788764953613,
-    "ersteller_verkauft": false,
-    "kaeufer": 47,
-    "mint": "8NnchH8Y6Z4ieWcqDEqF2w9531xm2oE4YwZyA2ybpump",
-    "name": "PROJECT VIDA",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "VIDA",
-    "t": 1795732574.308341
-   },
    {
     "dauer": 208.32261991500854,
     "ersteller_verkauft": false,
@@ -504,6 +488,72 @@
     "spaet": false,
     "symbol": "TOGI",
     "t": 1795736042.5048656
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "Gwkfk9vohzhiRhVLpbWmK16PwqJiQci25mHcMwUUpump",
+    "name": "Togi Coin",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736176.265695
+   },
+   {
+    "dauer": 10.461480140686035,
+    "ersteller_verkauft": true,
+    "kaeufer": 73,
+    "mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+    "name": "Togi Coin",
+    "sol": 28.55719101400002,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736225.7389736
+   },
+   {
+    "dauer": 90.28020596504211,
+    "ersteller_verkauft": true,
+    "kaeufer": 240,
+    "mint": "Ncpa5HMF6QDVrz6FLLFR1sSNZyk2sYkvoKgEFkrpump",
+    "name": "Togi Coin",
+    "sol": 67.14808931399993,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736278.2606256
+   },
+   {
+    "dauer": 5.364418029785156e-05,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "7ktD849Ga6pxQzuaQiocEpLAiCB1fcLR2fQ1CpeDpump",
+    "name": "Togi Coin",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736310.6698928
+   },
+   {
+    "dauer": 349.68613862991333,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "48fQU1pekPnbWavAmEC6zD8ZmyUtXi4bEUjfRoxrpump",
+    "name": "TUX",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "TUX",
+    "t": 1795736325.8625627
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "86WcFmGoiE6yW9466Af9sR1gap7iVW6e3cPVivNVpump",
+    "name": "Togi Coin",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795736404.108087
    }
   ],
   "uebersicht": 1795735188.828268
