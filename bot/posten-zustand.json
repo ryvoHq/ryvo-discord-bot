@@ -160,7 +160,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 151,
+ "laeufe": 152,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
@@ -454,6 +454,43 @@
     "spaet": false,
     "symbol": "PS5",
     "t": 1795651793.6548114
+   },
+   {
+    "dauer": 0.0001373291015625,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "2n8pV9fcRD7UibTivZzNBpD3dh3SQaZ7FRemUkprpump",
+    "name": "ZeroSumEnjoyer",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "SOLACE",
+    "t": 1795651952.992847
+   },
+   {
+    "mint": "DTSkmo3sCCKLCh91dJLiWCpwcKtK3yDBZMqZGSV1pump",
+    "spaet": true,
+    "t": 1795652003.3834672
+   },
+   {
+    "mint": "43hXhRo2iEohYUZ2jx99Gng991NvbTiwVJ8kC3E3pump",
+    "spaet": true,
+    "t": 1795652029.1515112
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "FVRnDCWuYDABm6uLpDvCP1kxtC2jxUWKCc6vdQAWpump",
+    "name": "ZeroSumEnjoyer",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "SOLACE",
+    "t": 1795652095.5627105
+   },
+   {
+    "mint": "8HRMDdiScGHR2pNQdLMYhjBYgwff81Y8hiCNgqD3pump",
+    "spaet": true,
+    "t": 1795652198.1359966
    }
   ],
   "uebersicht": 1795650995.5606854
