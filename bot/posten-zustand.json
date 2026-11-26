@@ -181,7 +181,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 252,
+ "laeufe": 253,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -190,11 +190,6 @@
    1795679942.019533
   ],
   "stunde": [
-   {
-    "mint": "8sKGQVyg653njPq21kQBzcsfLwbm6bQceQfpzAcWpump",
-    "spaet": true,
-    "t": 1795677167.6064217
-   },
    {
     "dauer": 192.8604052066803,
     "ersteller_verkauft": false,
@@ -350,6 +345,28 @@
     "spaet": false,
     "symbol": "DARKPOOL",
     "t": 1795680464.6764596
+   },
+   {
+    "dauer": 218.33240485191345,
+    "ersteller_verkauft": false,
+    "kaeufer": 33,
+    "mint": "34MCu9DfQWv8rKELhhw2LJQnV3VvtNSNyWCohP7Wpump",
+    "name": "Tired of work",
+    "sol": 0.10124839500000016,
+    "spaet": false,
+    "symbol": "TOW",
+    "t": 1795680756.1998875
+   },
+   {
+    "dauer": 99.2669849395752,
+    "ersteller_verkauft": false,
+    "kaeufer": 159,
+    "mint": "EC4dEL7ozn9gmLokHJzfBvvg7tNpb5oUvf7yYxPEpump",
+    "name": "The Black Bull",
+    "sol": 85.00535932300009,
+    "spaet": false,
+    "symbol": "ANSEM",
+    "t": 1795680832.3498304
    }
   ],
   "uebersicht": 1795678142.391696
