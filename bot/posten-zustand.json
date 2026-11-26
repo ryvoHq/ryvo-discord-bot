@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 355,
+ "laeufe": 356,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -220,38 +220,6 @@
    1795709891.8784258
   ],
   "stunde": [
-   {
-    "mint": "4QnsX5yhyr8nkcf8rVAcHVZyyP4VS3h7p5h3sveapump",
-    "spaet": true,
-    "t": 1795706302.5985253
-   },
-   {
-    "dauer": 178.11379671096802,
-    "ersteller_verkauft": false,
-    "kaeufer": 141,
-    "mint": "6r5r9mUQSi3jCKZTUTugovkkdcZRbfjahqKuNeJpump",
-    "name": "Twitter | Official Team",
-    "sol": 82.170568142,
-    "spaet": false,
-    "symbol": "X",
-    "t": 1795706314.1842282
-   },
-   {
-    "mint": "3DxjFWBjon6Si9gWnGKvhidfLmoKREL46JVnJwe8pump",
-    "spaet": true,
-    "t": 1795706381.7718031
-   },
-   {
-    "dauer": 238.20723962783813,
-    "ersteller_verkauft": true,
-    "kaeufer": 45,
-    "mint": "6SwzhLggcMzfYRifqEjJXFAbLFQrCfEXkuxrsL7Spump",
-    "name": "MOON BUCK$",
-    "sol": -1.466516952000002,
-    "spaet": false,
-    "symbol": "🌙 BUCK",
-    "t": 1795706477.6035216
-   },
    {
     "dauer": 74.25489473342896,
     "ersteller_verkauft": false,
@@ -508,6 +476,55 @@
     "spaet": false,
     "symbol": "Thankful",
     "t": 1795709856.2147431
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "uLFEFPqnVeb5xh8WPbAagvF4sYvNBcCJMqjX7bbpump",
+    "name": "United Bitcoin Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795709914.6316323
+   },
+   {
+    "dauer": 35.65710258483887,
+    "ersteller_verkauft": false,
+    "kaeufer": 4,
+    "mint": "Bwfg2Df8Kf1oHxkRh5Nu1jXp9agxAEeLpPzwxdqApump",
+    "name": "Lord X ",
+    "sol": 84.46089586,
+    "spaet": false,
+    "symbol": "X",
+    "t": 1795710017.2803202
+   },
+   {
+    "dauer": 0.0009093284606933594,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "F39a5zLgy7DdiDA2YmWt6RgMnQ9mfukqxc4qLcippump",
+    "name": "MemeStock",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "MEMESTOCK",
+    "t": 1795710028.6369772
+   },
+   {
+    "mint": "AReFEVhregksjEKitLHRhmDSNiKoX2oE7eWtwJXopump",
+    "spaet": true,
+    "t": 1795710095.3391995
+   },
+   {
+    "dauer": 292.00323009490967,
+    "ersteller_verkauft": true,
+    "kaeufer": 220,
+    "mint": "FKdK1CKDDbtigCxkKnsZyiFouiAPdTd8pyAykLs3pump",
+    "name": "wienercoin",
+    "sol": 72.68368138299992,
+    "spaet": false,
+    "symbol": "wiener",
+    "t": 1795710167.450022
    }
   ],
   "uebersicht": 1795709291.9324813
