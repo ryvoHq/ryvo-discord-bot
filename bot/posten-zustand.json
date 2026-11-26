@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 384,
+ "laeufe": 385,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -219,22 +219,6 @@
    1795717836.593989
   ],
   "stunde": [
-   {
-    "mint": "CEURTmBvcEgwq3vroLrdY7V9eYgRSpjPmty8xMxipump",
-    "spaet": true,
-    "t": 1795714359.5769002
-   },
-   {
-    "dauer": 198.5213360786438,
-    "ersteller_verkauft": false,
-    "kaeufer": 5,
-    "mint": "Ephk2t6QKoxaLKzfpD8q3B9TXozz92KKqwsoQrW6pump",
-    "name": "PROJECT",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "PROJECT",
-    "t": 1795714413.6629896
-   },
    {
     "mint": "8Xdo9sshdudeALCf2ebdm4FdfAYk5xZRxQp8VH7CT9QK",
     "spaet": true,
@@ -480,6 +464,17 @@
     "mint": "6oMugdYEJQS2TAynGdkKdFSk7qXZVeJcoDFRz6nCpump",
     "spaet": true,
     "t": 1795717834.643588
+   },
+   {
+    "dauer": 830.1050462722778,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "Fh36C744zXDvLNN7HpN9XT8Lf7JCRBrU47qj8dQNpump",
+    "name": "$BARON",
+    "sol": 0.5036850689999997,
+    "spaet": false,
+    "symbol": "$BARON",
+    "t": 1795718126.834334
    }
   ],
   "uebersicht": 1795716578.2890353
