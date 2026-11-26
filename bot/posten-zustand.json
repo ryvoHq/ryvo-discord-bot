@@ -163,29 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 174,
+ "laeufe": 175,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795656495.492818
   ],
   "stunde": [
-   {
-    "dauer": 1051.8688552379608,
-    "ersteller_verkauft": false,
-    "kaeufer": 102,
-    "mint": "4oZqAT8xgFviPyU6jygJc4gzN2SPy1SBJC1W7UdDpump",
-    "name": "Vigil Bounties",
-    "sol": 43.42351859999992,
-    "spaet": false,
-    "symbol": "VIGIL",
-    "t": 1795654811.59081
-   },
-   {
-    "mint": "27fYUwQM1BBv3L1DUowpXMCdWSgoDKZbSFNRUd1mpump",
-    "spaet": true,
-    "t": 1795654848.8526962
-   },
    {
     "dauer": 0.00023674964904785156,
     "ersteller_verkauft": false,
