@@ -163,29 +163,13 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 198,
+ "laeufe": 199,
  "lagebrief_stand": 1795577400,
  "meme": {
   "sofort": [
    1795662908.7599454
   ],
   "stunde": [
-   {
-    "mint": "AYij72wApHA4qGV5RbZJhsAVocjHtJJhgoUswV3tpump",
-    "spaet": true,
-    "t": 1795661634.1689484
-   },
-   {
-    "dauer": 226.54605865478516,
-    "ersteller_verkauft": false,
-    "kaeufer": 26,
-    "mint": "2wpMMYDXuqieitbRSDKLVjLd3Xd9xLLdjBNzzH1ppump",
-    "name": "MoonChacha",
-    "sol": -3.170127322999998,
-    "spaet": false,
-    "symbol": "MCH",
-    "t": 1795661639.140872
-   },
    {
     "mint": "Gbmk5HT3t2H4QrrQxgieL37av68CfET1Y4BuMUNQpump",
     "spaet": true,
@@ -249,6 +233,22 @@
     "spaet": false,
     "symbol": "SOTONG",
     "t": 1795664515.1752148
+   },
+   {
+    "mint": "HkywsKMf5FDj7QpgRE3BoE2nJqJauxEVbGjpnYe6pump",
+    "spaet": true,
+    "t": 1795665147.4729981
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "DKcvfEq3PUdgxZXHnVgJFnNw86HxGuSMaVBLSHgBpump",
+    "name": "Offcial S.N.I.P.E. COIN",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "OSC",
+    "t": 1795665225.9144828
    }
   ],
   "uebersicht": 1795662608.5641265
