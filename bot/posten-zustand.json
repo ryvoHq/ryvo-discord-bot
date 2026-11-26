@@ -210,7 +210,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 363,
+ "laeufe": 364,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -219,49 +219,6 @@
    1795710792.3029368
   ],
   "stunde": [
-   {
-    "mint": "GZiuLMvUMnz4X2RCmUgV6iTSnApoLh3t6cRJzzt9pump",
-    "spaet": true,
-    "t": 1795708440.9800751
-   },
-   {
-    "dauer": 123.90402507781982,
-    "ersteller_verkauft": true,
-    "kaeufer": 438,
-    "mint": "CEn6mPbimtWHYbQbfX45bfxQMmiaQm9QMrymTMwXE28P",
-    "name": "Gooncoin",
-    "sol": 85.0464868779997,
-    "spaet": false,
-    "symbol": "Goon",
-    "t": 1795708466.4002016
-   },
-   {
-    "dauer": 252.87126517295837,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "FTW6DUZ3MZ6hic3toRsmh4ARqmgLsrThVK6berbhpump",
-    "name": "NUDGE",
-    "sol": 0.1612613989999999,
-    "spaet": false,
-    "symbol": "nudge",
-    "t": 1795708527.927863
-   },
-   {
-    "mint": "2ehZToEi8hicd6byJQ7kdk2DmNGFrELzTcikbXTMpump",
-    "spaet": true,
-    "t": 1795708562.6545632
-   },
-   {
-    "dauer": 19.686613082885742,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "9gN5RZZ8wPyk6PvnbrBsSvjuS9EsdzYL8yBoLkKQpump",
-    "name": "LUCIA",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "LUCIA",
-    "t": 1795708643.674439
-   },
    {
     "mint": "GaHKmW73oqGt7dTc2x4VxfBH5KcAZkeet9UJYweXpump",
     "spaet": true,
@@ -492,6 +449,38 @@
     "mint": "7JHFtT5LLzX5gesVFj2uPZsxAyeteALrwshjtx1Npump",
     "spaet": true,
     "t": 1795711959.9116476
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "HUd6mLvt8NUy8JcUj2WmjyMzjJcyez6CSpcwjj2bpump",
+    "name": "United Bitcoin Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795712147.174695
+   },
+   {
+    "mint": "HBqH16AMxnRE4L2fy5CGQMBYrDUWVJgHc4cCcseppump",
+    "spaet": true,
+    "t": 1795712202.3721225
+   },
+   {
+    "dauer": 0.0007693767547607422,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "D2tZrH6BDEwu61p9prUTT7tAX94XVvfftdytDrZxpump",
+    "name": "ThanksGiving-TukeyMas",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "TURKEYMAS",
+    "t": 1795712257.0244987
+   },
+   {
+    "mint": "AuVQxjSZt937unfV6ScNca1ZwwqZtjNSq3LfQtv4pump",
+    "spaet": true,
+    "t": 1795712301.4679914
    }
   ],
   "uebersicht": 1795709291.9324813
