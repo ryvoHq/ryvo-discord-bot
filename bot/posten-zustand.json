@@ -217,7 +217,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 407,
+ "laeufe": 408,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -226,49 +226,6 @@
    1795722402.5849354
   ],
   "stunde": [
-   {
-    "dauer": 123.99718189239502,
-    "ersteller_verkauft": false,
-    "kaeufer": 70,
-    "mint": "GDFUtxAnVSuS3bCP6tJXJshKwsBv24nywATFGpycpump",
-    "name": "FLOAT",
-    "sol": 50.390206563999975,
-    "spaet": false,
-    "symbol": "FLOAT",
-    "t": 1795720717.5410721
-   },
-   {
-    "dauer": 0.36652636528015137,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "8p9orB6AJDoWKYhaD5mmJgL1akKR13dn3nZahgqnpump",
-    "name": "ジョージ",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "George",
-    "t": 1795720732.8796515
-   },
-   {
-    "mint": "ygyU5YDcRBWPDScQ96cSh6toTxmeqLXrxLY3hXopump",
-    "spaet": true,
-    "t": 1795720750.9528413
-   },
-   {
-    "dauer": 75.49144744873047,
-    "ersteller_verkauft": true,
-    "kaeufer": 191,
-    "mint": "2irkzpjLZLKPyyuDbwRC49488xiDNoaVK6Y3wSgqpump",
-    "name": "whitepill",
-    "sol": 59.474853627999956,
-    "spaet": false,
-    "symbol": "whitepill",
-    "t": 1795720850.8942957
-   },
-   {
-    "mint": "5VBwNFgb62fZmzvgGcJsNnvEy3Sb2ZBSZv1N2APHpump",
-    "spaet": true,
-    "t": 1795720878.5827935
-   },
    {
     "dauer": 198.58508801460266,
     "ersteller_verkauft": false,
@@ -623,6 +580,48 @@
     "spaet": false,
     "symbol": "COOLS",
     "t": 1795724243.5410147
+   },
+   {
+    "mint": "GHZ3crguwug4zVYQCm4JCiiMU3Psp4yudFw1jSNUpump",
+    "spaet": true,
+    "t": 1795724374.1588352
+   },
+   {
+    "mint": "pxtYggcfeuY5bjr3zxm4omZJHpuWWKZiVMyhve1pump",
+    "spaet": true,
+    "t": 1795724374.9461775
+   },
+   {
+    "mint": "CToE79KZGJGFqwG8g5QSCoqY8ZvRUzcLcs6hscivpump",
+    "spaet": true,
+    "t": 1795724389.8274276
+   },
+   {
+    "mint": "GWCrKQD9d2nq9wPXbFqEhJFjHLCzTHJoCsvxuu39pump",
+    "spaet": true,
+    "t": 1795724426.5207622
+   },
+   {
+    "dauer": 122.20167517662048,
+    "ersteller_verkauft": false,
+    "kaeufer": 327,
+    "mint": "HLDU8dNCFiyQXvgfh8sJ1hCcH45i39U3AdWJKQPNpump",
+    "name": "rip dan",
+    "sol": 74.39329588200002,
+    "spaet": false,
+    "symbol": "dan",
+    "t": 1795724434.1242094
+   },
+   {
+    "dauer": 139.74210953712463,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "8TiczfG3pPgT9vD63dLZuzAK2B5HhdWmsoVBdFi3pump",
+    "name": "DERPCAT",
+    "sol": 0.26296216800000016,
+    "spaet": false,
+    "symbol": "DERP",
+    "t": 1795724499.5112214
    }
   ],
   "uebersicht": 1795724244.4573483
