@@ -221,65 +221,11 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 433,
+ "laeufe": 434,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 965.9630780220032,
-    "ersteller_verkauft": false,
-    "kaeufer": 179,
-    "mint": "Bs65KuvSxcXd9eSKVLXJxyY1amzGn6k77T4U2B6k6CBP",
-    "name": "Call",
-    "sol": 59.483261181999964,
-    "spaet": false,
-    "symbol": "CALL",
-    "t": 1795727940.43527
-   },
-   {
-    "dauer": 231.683429479599,
-    "ersteller_verkauft": true,
-    "kaeufer": 17,
-    "mint": "5QC2xjLk8DnCKULcm1ea6iaEbhGj7oixMEsrozfvpump",
-    "name": "song coin",
-    "sol": 0.17952733599999993,
-    "spaet": false,
-    "symbol": "song",
-    "t": 1795728000.1648486
-   },
-   {
-    "dauer": 150.16826462745667,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "EdmoWut9xki1Raxqux5XedeCVfGLF6r7AFyRiucvpump",
-    "name": "34percent",
-    "sol": 0.6209616599999995,
-    "spaet": false,
-    "symbol": "34%",
-    "t": 1795728033.6805074
-   },
-   {
-    "mint": "6Sm9SMP11iFuL7AqFCJeyQc23WF4s1ZGxS7JXveQJRW",
-    "spaet": true,
-    "t": 1795728094.414909
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "FTF6S5GJvnBMcKALHZFP5Lbg9DeEEqtdrVBBraUYpump",
-    "name": "UGOS",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UGOS",
-    "t": 1795728131.9671369
-   },
-   {
-    "mint": "5KQxYcAi8VMHzkWb5tp8SxJEbkrZtNQTjFRbb6sjpump",
-    "spaet": true,
-    "t": 1795728188.5561843
-   },
    {
     "dauer": 72.28582382202148,
     "ersteller_verkauft": true,
@@ -498,6 +444,22 @@
     "mint": "GmsPdyQYzqpztLcZvaUsgacFZKABkYiSJFqV2aY5pump",
     "spaet": true,
     "t": 1795731484.1177063
+   },
+   {
+    "mint": "6bWtJkNM6WAj5xFhPC5UMs1RT6En2zKZeHhJkYWcpump",
+    "spaet": true,
+    "t": 1795731682.7256436
+   },
+   {
+    "dauer": 67.24550437927246,
+    "ersteller_verkauft": true,
+    "kaeufer": 6,
+    "mint": "Gdui3L1uvfhX36QUuFkYRXcQAi7QnW1BaHorew8rpump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795731711.1552794
    }
   ],
   "uebersicht": 1795731519.2123363
