@@ -6,6 +6,12 @@
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-25",
  "gesehen": [
+  "https://www.moneycontrol.com/news/business/markets/gold-wavers-near-15-month-low-as-traders-eye-fed-path-ai-stocks-14089768.html",
+  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+  "https://www.morningstar.com/news/dow-jones/202611262285/bank-of-england-proposes-cut-to-uk-bank-capital-requirements",
+  "https://www.hindustantimes.com/world-news/us-news/global-stocks-rebound-after-ai-sell-off-as-investors-assess-trumps-tariffs-oil-prices-and-inflation-risks-101795689444252.html",
+  "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111",
+  "https://www.theglobeandmail.com/investing/article-oil-prices-fall-as-supply-concerns-linger-after-iran-claims-mine/",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-global-stock-rally-dents-safe-haven-demand/articleshow/136185124.cms",
   "https://www.dw.com/de/news-kompakt-eu-spitzen-beraten-%C3%BCber-haushalt-und-ezb/a-80056515",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise/articleshow/136184058.cms",
@@ -70,6 +76,9 @@
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.spiegel.de/wirtschaft/service/kryptowaehrung-je-mehr-ich-ueber-den-bitcoin-lerne-umso-skeptischer-werde-ich-a-2bf6bccb-f2a2-4199-97b7-8fac826f23f9",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
   "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424",
   "https://www.rte.ie/news/business/2026/1125/1600625-card-payments-overtake-cash-in-euro-zone-shops/",
   "https://financialpost.com/economy/canadian-dollar-inflation-warning/",
@@ -81,9 +90,6 @@
   "https://www.moneycontrol.com/news/business/economy/india-s-petroleum-exports-fall-13-in-apr-oct-but-higher-oil-prices-boost-export-value-47-14088784.html",
   "https://www.handelsblatt.com/finanzen/ezb-kartenzahlungen-ueberholen-erstmals-bargeld-im-euro-raum/100272418.html",
   "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-entscheidung-ueber-hoehere-mindestreserve-fuer-banken-vertagt/100271993.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-  "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-open-higher-as-luxury-stocks-rally-investors-await-us-inflation-data/articleshow/136155124.cms",
   "https://www.rte.ie/news/business/2026/1125/1600578-australia-inflation-figures/",
   "https://www.n-tv.de/ticker/Arbeitsmarkt-Aussichten-in-Deutschland-weiter-schwach-id31574995.html",
@@ -187,7 +193,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 314,
+ "laeufe": 315,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -424,6 +430,28 @@
     "mint": "DCGnd59dPcHDegRW52jh5dUMpsLKpYQ22RyphaWWpump",
     "spaet": true,
     "t": 1795698560.3540251
+   },
+   {
+    "dauer": 51.941821336746216,
+    "ersteller_verkauft": false,
+    "kaeufer": 120,
+    "mint": "DMJjagePv3o1SGbxZ22G4ySWheNHXaQo7S5W8tH9pump",
+    "name": "DOG3D",
+    "sol": 96.96298246799996,
+    "spaet": false,
+    "symbol": "DOG3D",
+    "t": 1795698601.445409
+   },
+   {
+    "dauer": 105.25265979766846,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "2s5N4cLxgWVQbGYx8J2VUGiM46Timhnp6kxnCq8Bpump",
+    "name": "XMASBOSS",
+    "sol": 0.23846457799999998,
+    "spaet": false,
+    "symbol": "XMAS",
+    "t": 1795698812.682055
    }
   ],
   "uebersicht": 1795697370.2715933
