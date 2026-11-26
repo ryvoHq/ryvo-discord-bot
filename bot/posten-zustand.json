@@ -187,7 +187,7 @@
  "lab_log_tag": "2026-11-25",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 298,
+ "laeufe": 299,
  "lagebrief_stand": 1795663800,
  "meme": {
   "sofort": [
@@ -195,22 +195,6 @@
    1795692775.3964045
   ],
   "stunde": [
-   {
-    "dauer": 380.81287717819214,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "FZk8nxc4sePSPrgKBx1WGDaNV2htTKWP938Biywipump",
-    "name": "BRAINROT COIN",
-    "sol": 0.6577061769999998,
-    "spaet": false,
-    "symbol": "BRAINROT",
-    "t": 1795690562.1823614
-   },
-   {
-    "mint": "AJ6bqXubsvBhvG2i12WFFkrus12E77vaLqxFMAaTpump",
-    "spaet": true,
-    "t": 1795690607.3962638
-   },
    {
     "dauer": 111.39131331443787,
     "ersteller_verkauft": false,
@@ -472,6 +456,17 @@
     "spaet": false,
     "symbol": "konnichiwa",
     "t": 1795693623.8111959
+   },
+   {
+    "dauer": 59.07943058013916,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "FYWv16SA5nDEG3F3oHf7WoRcN48YsfNxU3dA19Eopump",
+    "name": "konnichiwa",
+    "sol": 85.00535906199998,
+    "spaet": false,
+    "symbol": "konnichiwa",
+    "t": 1795694117.866851
    }
   ],
   "uebersicht": 1795693716.239242
