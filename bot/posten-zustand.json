@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 645,
+ "laeufe": 646,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -286,17 +286,6 @@
    1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 82.31281733512878,
-    "ersteller_verkauft": true,
-    "kaeufer": 12,
-    "mint": "9qp1YVPdNeRhrhozoKoZmHrTq1RoDaPQW5VEdPV2pump",
-    "name": "rockstar games ",
-    "sol": 0.4999410160000003,
-    "spaet": false,
-    "symbol": "rockstar",
-    "t": 1795786768.1188636
-   },
    {
     "dauer": 132.53084897994995,
     "ersteller_verkauft": true,
