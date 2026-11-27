@@ -252,51 +252,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 574,
+ "laeufe": 575,
  "lagebrief_stand": 1795750500,
  "meme": {
-  "sofort": [
-   1795767215.7774265
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "mint": "D8RAQyVX6yAFRh8c2XZLAQT7RrD8X4NbkqFzziHepump",
-    "spaet": true,
-    "t": 1795766962.6507297
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "3r2mDAnjES2vYqVuzFqNpnejZB4FadfXtGRiMxcepump",
-    "name": "Elonmas",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Elonmas",
-    "t": 1795766996.5685363
-   },
-   {
-    "dauer": 532.5651054382324,
-    "ersteller_verkauft": true,
-    "kaeufer": 555,
-    "mint": "EBXLpgsnT4Lm39dsBBtwDNfj2E8ggEkbHq9BgdLccMDR",
-    "name": "Midoor",
-    "sol": 84.76672513599979,
-    "spaet": false,
-    "symbol": "Midoor",
-    "t": 1795767176.5554283
-   },
-   {
-    "dauer": 201.1278054714203,
-    "ersteller_verkauft": true,
-    "kaeufer": 32,
-    "mint": "AyiwmjmSC3LoEgYfvRqFWccPsuRXbgTBgYyuDsAGpump",
-    "name": "Inu ",
-    "sol": 0.12270656399999982,
-    "spaet": false,
-    "symbol": "Inu",
-    "t": 1795767182.3293753
-   },
    {
     "dauer": 842.6114275455475,
     "ersteller_verkauft": false,
@@ -421,6 +381,39 @@
     "mint": "GHsbf9hoVsVEPYGMo47SUxHC33bMYTKZCVk3d4mypump",
     "spaet": true,
     "t": 1795770378.4956286
+   },
+   {
+    "dauer": 2.874648332595825,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "DGyYA1T6LMpAmZrXBKVKzBfprq6NycmNJDsLYfLyzbdC",
+    "name": "coin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "COIN",
+    "t": 1795770590.126581
+   },
+   {
+    "dauer": 23.529372453689575,
+    "ersteller_verkauft": false,
+    "kaeufer": 5,
+    "mint": "BWjnDKBiVzHmw46ra3s2PuR1AWiS5SNcLXPiB8zfy1hp",
+    "name": "flywheel",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "FLYWHEEL",
+    "t": 1795770620.5026004
+   },
+   {
+    "dauer": 66.8949921131134,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "5mNPvGReeHk2yeYgQBxzu8fsesdwEkzNikvi9QnQpump",
+    "name": "Mi Hao Cat",
+    "sol": 2.08213295,
+    "spaet": false,
+    "symbol": "MiHaoCat",
+    "t": 1795770830.6839213
    }
   ],
   "uebersicht": 1795769956.7683537
