@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 490,
+ "laeufe": 491,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -237,33 +237,6 @@
    1795746463.5361197
   ],
   "stunde": [
-   {
-    "dauer": 66.13097286224365,
-    "ersteller_verkauft": true,
-    "kaeufer": 270,
-    "mint": "3VKrh6Hn8Fbpxn4JRuGCvgfUZGpu7iqzHdCf1zQKpump",
-    "name": "DragonRiders",
-    "sol": 85.00535947899999,
-    "spaet": false,
-    "symbol": "DragonRiders",
-    "t": 1795743764.926206
-   },
-   {
-    "dauer": 139.23944067955017,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "6TWfx4Dx1F3mpKcjCzQUumST7a47ptqoTSEzG5B3pump",
-    "name": "POWERLINE",
-    "sol": 0.6421358930000013,
-    "spaet": false,
-    "symbol": "PLINE",
-    "t": 1795743891.7703621
-   },
-   {
-    "mint": "BpNfXPvYiLusKT6cNBFddjkw1bn4iGL6hWzRPxJGpump",
-    "spaet": true,
-    "t": 1795743892.197516
-   },
    {
     "dauer": 0.0005571842193603516,
     "ersteller_verkauft": false,
@@ -596,6 +569,39 @@
     "spaet": false,
     "symbol": "rny",
     "t": 1795747293.4968169
+   },
+   {
+    "dauer": 566.4210543632507,
+    "ersteller_verkauft": false,
+    "kaeufer": 32,
+    "mint": "Gm1mJ86rLtWuBZgbK2jAt2uDXW361yhtGrQyLETjpump",
+    "name": "NativeCoin",
+    "sol": 0.15477855100000054,
+    "spaet": false,
+    "symbol": "Native",
+    "t": 1795747405.3785214
+   },
+   {
+    "dauer": 279.40957975387573,
+    "ersteller_verkauft": false,
+    "kaeufer": 29,
+    "mint": "C3NjYCh94FSC9HVpNrwmiJbMHChN9E4Fv7eBbTSWpump",
+    "name": "PERKS COIN",
+    "sol": 0.23704366600000046,
+    "spaet": false,
+    "symbol": "PRKS",
+    "t": 1795747568.940654
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "iFSvbHhwod4BJZdrHGNAq4WcP8zijAs1Jp6pMXPpump",
+    "name": "UBR",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795747576.002672
    }
   ],
   "uebersicht": 1795747063.2995136
