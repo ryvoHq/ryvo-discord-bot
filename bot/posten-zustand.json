@@ -219,9 +219,9 @@
  "indizes_tag": "2026-11-26",
  "krypto_tag": "2026-11-26",
  "lab_log_tag": "2026-11-26",
- "lab_scan": "2026-11-26",
+ "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 456,
+ "laeufe": 457,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -507,6 +507,50 @@
     "spaet": false,
     "symbol": "TOGI",
     "t": 1795737927.6536727
+   },
+   {
+    "dauer": 0.0008544921875,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "D3EUbqgbKn71SVaBQepjTsFRehkaNQx6Ch6W59Nvpump",
+    "name": "Santaball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Santaball",
+    "t": 1795737963.2424626
+   },
+   {
+    "dauer": 72.50141644477844,
+    "ersteller_verkauft": true,
+    "kaeufer": 287,
+    "mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+    "name": "TechCat",
+    "sol": 85.00535969299992,
+    "spaet": false,
+    "symbol": "TechCat",
+    "t": 1795738059.1746523
+   },
+   {
+    "dauer": 80.4251172542572,
+    "ersteller_verkauft": false,
+    "kaeufer": 121,
+    "mint": "HeYnz24VxKGvoALc26gDLoVKjsHD9LVqLLDKoWpxpump",
+    "name": "Official Grand Theft Auto VI",
+    "sol": 85.00535938300001,
+    "spaet": false,
+    "symbol": "GTAVI",
+    "t": 1795738064.93132
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "remH7wVXNY1rCbuhdSN4nisUYMQCDHURoGZivLUpump",
+    "name": "United States Energy Fund",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USEF",
+    "t": 1795738090.8580117
    }
   ],
   "uebersicht": 1795735188.828268
