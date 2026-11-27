@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 679,
+ "laeufe": 680,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,39 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "dauer": 568.5624096393585,
-    "ersteller_verkauft": true,
-    "kaeufer": 16,
-    "mint": "HyANwJBm7E6WWntQKfU3KRZ9pJPeFWcQFNUWZhoPpump",
-    "name": "Kim bombs",
-    "sol": -1.6998128939999984,
-    "spaet": false,
-    "symbol": "Kimi💣",
-    "t": 1795796077.893236
-   },
-   {
-    "dauer": 0.0017459392547607422,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "7j1a6959WYMBwUNVV64NtzwAKfKU8hXC5auJdFHbpump",
-    "name": "revinu",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "REVINU",
-    "t": 1795796109.624488
-   },
-   {
-    "dauer": 203.2565360069275,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "7PR93hMRehCjazgEfKmZv419CHa1nDJJZzmMuYudpump",
-    "name": "ELONCAT",
-    "sol": -0.24197614499999986,
-    "spaet": false,
-    "symbol": "ELONCAT",
-    "t": 1795796232.9323702
-   },
    {
     "dauer": 0.0012810230255126953,
     "ersteller_verkauft": false,
@@ -514,6 +481,16 @@
     "spaet": false,
     "symbol": "Split",
     "t": 1795799225.8373337
+   },
+   {
+    "mint": "9qXQCUDwgkyQM9yPWeXQVLpaU6ndoMN1JJpz4cqpump",
+    "spaet": true,
+    "t": 1795799617.1718566
+   },
+   {
+    "mint": "9uKoEdAqxq5VESQSFe2u3epVjtQB4N1E4B75M8Cvpump",
+    "spaet": true,
+    "t": 1795799705.3510213
    }
   ],
   "uebersicht": 1795796148.1298294
