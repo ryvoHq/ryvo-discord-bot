@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 633,
+ "laeufe": 634,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -287,39 +287,6 @@
    1795786697.463176
   ],
   "stunde": [
-   {
-    "dauer": 0.009905099868774414,
-    "ersteller_verkauft": false,
-    "kaeufer": 10,
-    "mint": "3FYTVzMji7cN2gARmmFoxFVmEJ6zaz7fwZFMUzdHpump",
-    "name": "Snowbally",
-    "sol": 53.997707719,
-    "spaet": false,
-    "symbol": "SNOWBALLY",
-    "t": 1795783420.805664
-   },
-   {
-    "dauer": 43.615827560424805,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "4ZieHmkSUdVTS6UU4sXFC98BgSaVTcGePJBiPE1Rpump",
-    "name": "ICE PUTIN",
-    "sol": 1.1703423379999998,
-    "spaet": false,
-    "symbol": "iPUT",
-    "t": 1795783477.5470686
-   },
-   {
-    "dauer": 155.67977571487427,
-    "ersteller_verkauft": false,
-    "kaeufer": 28,
-    "mint": "EXJZQmvb1jdUSE8c8roBrKyPpctjaSPGDTTKeUDDpump",
-    "name": "Nietzschean Fox",
-    "sol": 0.19569756200000024,
-    "spaet": false,
-    "symbol": "FOX",
-    "t": 1795783678.7437227
-   },
    {
     "dauer": 135.90585851669312,
     "ersteller_verkauft": false,
@@ -537,6 +504,39 @@
     "spaet": false,
     "symbol": "SAVPIR",
     "t": 1795786957.8935244
+   },
+   {
+    "dauer": 151.94860434532166,
+    "ersteller_verkauft": false,
+    "kaeufer": 138,
+    "mint": "2YTyz6FzNUmEnVZ4JCLSECx4AxB1XQfQ25FuFSzMpump",
+    "name": "Sukicoin",
+    "sol": 84.78819397799992,
+    "spaet": false,
+    "symbol": "Suki",
+    "t": 1795787049.5771778
+   },
+   {
+    "dauer": 128.89664006233215,
+    "ersteller_verkauft": false,
+    "kaeufer": 172,
+    "mint": "2JaGAvEMWVQqwvtusjJYGtTsma9sfAazJGhXxtzapump",
+    "name": "FLOAT",
+    "sol": 85.03181226799998,
+    "spaet": false,
+    "symbol": "FLOAT",
+    "t": 1795787172.7585666
+   },
+   {
+    "dauer": 51.4983286857605,
+    "ersteller_verkauft": true,
+    "kaeufer": 17,
+    "mint": "5MxUF7yVzChGiM427j4rCJLDat2HkCpvNR3zcv75pump",
+    "name": "MoonGoat",
+    "sol": 0.45414736399999983,
+    "spaet": false,
+    "symbol": "MGOAT",
+    "t": 1795787290.8184536
    }
   ],
   "uebersicht": 1795785198.054407
