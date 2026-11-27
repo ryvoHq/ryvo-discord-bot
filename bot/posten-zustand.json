@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 667,
+ "laeufe": 668,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,17 +301,6 @@
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 820.0674574375153,
-    "ersteller_verkauft": false,
-    "kaeufer": 148,
-    "mint": "wPUhbzGNKMhQ9aXhhodpoXchKC7yYFmVg1UvuHbpump",
-    "name": "Tesla",
-    "sol": 85.42476506099992,
-    "spaet": false,
-    "symbol": "Tesla",
-    "t": 1795792861.909719
-   },
    {
     "dauer": 1358.8791694641113,
     "ersteller_verkauft": true,
