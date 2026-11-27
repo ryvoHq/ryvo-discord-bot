@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 465,
+ "laeufe": 466,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -562,6 +562,28 @@
     "spaet": false,
     "symbol": "DeepWeb",
     "t": 1795740321.792206
+   },
+   {
+    "dauer": 128.17925095558167,
+    "ersteller_verkauft": false,
+    "kaeufer": 239,
+    "mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+    "name": "Cumass Coin",
+    "sol": 78.48074153999991,
+    "spaet": false,
+    "symbol": "CUMASS",
+    "t": 1795740394.748202
+   },
+   {
+    "dauer": 0.0017421245574951172,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "FQBzhcLE53ntie5wFJMS5oEawWPj4oPLpUfb3vB9pump",
+    "name": "Santaball",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Santaball",
+    "t": 1795740443.9596987
    }
   ],
   "uebersicht": 1795739768.4662964
