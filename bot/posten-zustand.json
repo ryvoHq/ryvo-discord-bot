@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 531,
+ "laeufe": 532,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -247,17 +247,6 @@
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "dauer": 247.82877230644226,
-    "ersteller_verkauft": false,
-    "kaeufer": 588,
-    "mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
-    "name": "Caveman Baby",
-    "sol": 85.0053610529998,
-    "spaet": false,
-    "symbol": "CaveBaby",
-    "t": 1795755108.0424592
-   },
    {
     "dauer": 82.48400735855103,
     "ersteller_verkauft": false,
@@ -419,6 +408,17 @@
     "spaet": false,
     "symbol": "Pilly",
     "t": 1795758614.6608164
+   },
+   {
+    "dauer": 0.1556077003479004,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+    "name": "Snowballed",
+    "sol": 85.00535906799999,
+    "spaet": false,
+    "symbol": "SNOWBALLED",
+    "t": 1795758857.2576973
    }
   ],
   "uebersicht": 1795758363.9843912
