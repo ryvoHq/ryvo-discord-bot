@@ -227,80 +227,16 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 486,
+ "laeufe": 487,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795744307.9376364,
-   1795744609.1542165
+   1795744609.1542165,
+   1795746463.5361197,
+   1795746463.5361197
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "7RTrgLLoEieeS4s5D6K6STzAxzC5Fcu1QR1qVnMmpump",
-    "name": "Offcial RINSIFY COIN",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "ORC",
-    "t": 1795742576.8555899
-   },
-   {
-    "dauer": 0.006443023681640625,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "Bn52qPBp1ch5C1reVuTuEMk61yDSMK68zru25KmLpump",
-    "name": "Fireball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Fireball",
-    "t": 1795742598.8104146
-   },
-   {
-    "dauer": 94.75078344345093,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "HhnxB4T5DiiQaHAN5kbtD7f6qDhhPLX1pNNwmTULpump",
-    "name": "Haaland Hair",
-    "sol": 0.285676065,
-    "spaet": false,
-    "symbol": "HALH",
-    "t": 1795742730.6067066
-   },
-   {
-    "dauer": 100.47924447059631,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "CRbsCJjVKwQKTe1e7qwfe7Kan4tjLDfnXakdn2Svpump",
-    "name": "Buttercup",
-    "sol": 85.005359073,
-    "spaet": false,
-    "symbol": "Buttercup",
-    "t": 1795742758.5632288
-   },
-   {
-    "dauer": 132.40160202980042,
-    "ersteller_verkauft": false,
-    "kaeufer": 334,
-    "mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
-    "name": "hold and retire",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "530A",
-    "t": 1795742799.1335192
-   },
-   {
-    "dauer": 201.55219435691833,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "EzsysLrf8YcuKbmxg6bjJRTgAGu1VKpBxEtfue4Wpump",
-    "name": "Cauamtfe Oficial Token",
-    "sol": 0.5767731769999997,
-    "spaet": false,
-    "symbol": "CAUA",
-    "t": 1795742802.775983
-   },
    {
     "dauer": 0.0004298686981201172,
     "ersteller_verkauft": false,
@@ -593,12 +529,67 @@
     "mint": "3nJg9zjUmup7a95DoDsoVbJv5MsK9zMPq2cAbnkBpump",
     "spaet": true,
     "t": 1795746123.0086281
+   },
+   {
+    "dauer": 87.33717465400696,
+    "ersteller_verkauft": false,
+    "kaeufer": 151,
+    "mint": "CZhDpGticXLpBhAgXL6ERRdVsWTTX2Ynsk7Ad3sUpump",
+    "name": "FomoFamily | Offical Team",
+    "sol": 85.24966551900002,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795746178.2951918
+   },
+   {
+    "dauer": 153.91193008422852,
+    "ersteller_verkauft": false,
+    "kaeufer": 31,
+    "mint": "C8ipzhZnpHkFVBFtxecczrvZ27jRDD8DFHGfDNezpump",
+    "name": "cozy creeps",
+    "sol": 0.20403016199999974,
+    "spaet": false,
+    "symbol": "CREEP",
+    "t": 1795746201.8768003
+   },
+   {
+    "dauer": 334.57562470436096,
+    "ersteller_verkauft": false,
+    "kaeufer": 561,
+    "mint": "6wu8aTDFEvb5gZdNJFy7eeV6VWpZH8xfykagKdgGpump",
+    "name": "avalanche",
+    "sol": 68.68082519900007,
+    "spaet": false,
+    "symbol": "avalanche",
+    "t": 1795746240.0482008
+   },
+   {
+    "dauer": 0.11140727996826172,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "G2XqmSc8vJpLLwaLVXUeNkxsrhVT8vQ3Pje8MqeDpump",
+    "name": "SpaceXCoin",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "SpaceXCoin",
+    "t": 1795746265.0959582
+   },
+   {
+    "dauer": 207.90684509277344,
+    "ersteller_verkauft": true,
+    "kaeufer": 540,
+    "mint": "GvuCLHfq5dK8hj2bwLZ5xPEuE6gj3yUcX2St2wZapump",
+    "name": "DOGE SMILE",
+    "sol": 86.63538949699972,
+    "spaet": false,
+    "symbol": "SMILE",
+    "t": 1795746281.2887955
    }
   ],
   "uebersicht": 1795743408.1301825
  },
  "momentum_sperre": {
-  "HYPE": 1795628333.8068695,
+  "HYPE": 1795746465.6142428,
   "MOODENG": 1795682429.2791297,
   "xyz:NVDA": 1795628633.7291481,
   "xyz:SILVER": 1795744010.2200115,
