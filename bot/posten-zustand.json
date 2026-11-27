@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 747,
+ "laeufe": 748,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,27 +311,6 @@
    1795817496.3342245
   ],
   "stunde": [
-   {
-    "mint": "G43T82ThfSdVf2XBNXHBLjthWwNMCx4W9LzfwfsWpump",
-    "spaet": true,
-    "t": 1795815030.120077
-   },
-   {
-    "mint": "AXTfFj5YiwzTiH74X1Jf4xMa622eP4NbLe1DC9fapump",
-    "spaet": true,
-    "t": 1795815082.1271825
-   },
-   {
-    "dauer": 176.18145489692688,
-    "ersteller_verkauft": true,
-    "kaeufer": 431,
-    "mint": "5e6oJaUrfjW25VRDqrvj2p7jF9qHWfPxqr7CZP9ppump",
-    "name": "Dollar Cat",
-    "sol": 79.19376832399993,
-    "spaet": false,
-    "symbol": "DCAT",
-    "t": 1795815114.9422052
-   },
    {
     "dauer": 50.712122201919556,
     "ersteller_verkauft": false,
