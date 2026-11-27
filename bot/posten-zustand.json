@@ -259,16 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 609,
+ "laeufe": 610,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "5AmygyYTDxxoSJfpRjLfB8J8i6ssi2ZCL4tZKYYSpump",
-    "spaet": true,
-    "t": 1795776838.6361842
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -512,6 +507,44 @@
     "spaet": false,
     "symbol": "USFF",
     "t": 1795780164.3111477
+   },
+   {
+    "dauer": 488.52315616607666,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "3gw25YQ5bEoPgHKkBpPGvr5RrHYeRJozYB3kx6FNpump",
+    "name": "BNB B",
+    "sol": 0.17837960900000005,
+    "spaet": false,
+    "symbol": "Bangkok ",
+    "t": 1795780298.4472666
+   },
+   {
+    "dauer": 33.72840332984924,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "4stswcC7XhMgWXm6Uo1nzEjUrNKJkwzrdRtJMZ3Fpump",
+    "name": "EVERYONE BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795780454.4028523
+   },
+   {
+    "mint": "AwDkkmvZ8CbgTxSCXwW5uLGwCUSJ6W4aGEEu2tcEMQpL",
+    "spaet": true,
+    "t": 1795780500.954648
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "x3LnQaCS4ojN6DTvF1kcHUiJMzigQwTdNn74eAApump",
+    "name": "National Cybersecurity Protocol",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "NCSP",
+    "t": 1795780519.1992154
    }
   ],
   "uebersicht": 1795777246.467679
