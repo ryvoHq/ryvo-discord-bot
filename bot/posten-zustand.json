@@ -239,22 +239,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 544,
+ "laeufe": 545,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.1556077003479004,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
-    "name": "Snowballed",
-    "sol": 85.00535906799999,
-    "spaet": false,
-    "symbol": "SNOWBALLED",
-    "t": 1795758857.2576973
-   },
    {
     "mint": "7Bf2bYAG9wjYB2GaYAe4Haczh4qNFMa5QH2EQLVWpump",
     "spaet": true,
@@ -417,6 +406,50 @@
     "spaet": false,
     "symbol": "CEDARCREEK",
     "t": 1795762264.341897
+   },
+   {
+    "dauer": 650.3376195430756,
+    "ersteller_verkauft": false,
+    "kaeufer": 163,
+    "mint": "HV9etpfnYFLXrGzBTK6A9CCw6SsnBoZGR7pvFxPJpump",
+    "name": "Jensen Is Back",
+    "sol": 85.24712319000002,
+    "spaet": false,
+    "symbol": "JENSEN",
+    "t": 1795762327.0683684
+   },
+   {
+    "dauer": 1893.2306542396545,
+    "ersteller_verkauft": false,
+    "kaeufer": 161,
+    "mint": "FF6oz9Fr1JXB2RZKg5JRPpGjQr5WgHWcnu9Vau9rpump",
+    "name": "Basket",
+    "sol": 85.00535935799998,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795762330.4119318
+   },
+   {
+    "dauer": 815.5055994987488,
+    "ersteller_verkauft": false,
+    "kaeufer": 131,
+    "mint": "Ej9g4roCo4UHKFA9ec3ASxwhio8Kg9LsfsvP4jkpump",
+    "name": "Hermes",
+    "sol": 85.00535936500002,
+    "spaet": false,
+    "symbol": "HERMES",
+    "t": 1795762341.6600397
+   },
+   {
+    "dauer": 0.2569575309753418,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+    "name": "Snowballer",
+    "sol": 85.00535907199999,
+    "spaet": false,
+    "symbol": "SNOWBALLER",
+    "t": 1795762355.6217158
    }
   ],
   "uebersicht": 1795762010.0935252
