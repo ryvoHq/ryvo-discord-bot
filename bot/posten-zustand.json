@@ -4,7 +4,7 @@
  "chart_tag": "2026-11-27",
  "ebenen_krypto": "2026-11-27",
  "ebenen_trad": "2026-11-27",
- "ezb_tag": "2026-11-26",
+ "ezb_tag": "2026-11-27",
  "gesehen": [
   "https://www.business-standard.com/content/press-releases-ani/wazirx-on-bitcoin-s-recovery-and-its-liquidity-test-126112701068_1.html",
   "https://www.theglobeandmail.com/business/article-binance-withdrawals-reopen-after-crypto-platform-completes-recovery/",
@@ -288,7 +288,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 649,
+ "laeufe": 650,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -296,17 +296,6 @@
    1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 121.7931456565857,
-    "ersteller_verkauft": false,
-    "kaeufer": 136,
-    "mint": "3TFkMa9uD4phxs1Hg4gqiV5hYcJJ947hDWMjdfYCpump",
-    "name": "DacityCoin",
-    "sol": 84.40168079399993,
-    "spaet": false,
-    "symbol": "DCTY",
-    "t": 1795787828.7260675
-   },
    {
     "dauer": 229.84059405326843,
     "ersteller_verkauft": false,
@@ -473,8 +462,8 @@
    "zeit": 1795752273.778425
   },
   "fvg:xyz:GOLD": {
-   "t": 1795744800000,
-   "zeit": 1795748635.7522614
+   "t": 1795788000000,
+   "zeit": 1795791600.8939805
   },
   "fvg:xyz:SP500": {
    "t": 1795744800000,
@@ -489,8 +478,8 @@
    "zeit": 1795759262.4776418
   },
   "smt:xyz:SP500:xyz:XYZ100": {
-   "t": 1795759200000,
-   "zeit": 1795762909.7308035
+   "t": 1795788000000,
+   "zeit": 1795791600.8939805
   }
  },
  "status_nachricht": "1575110333385801839",
