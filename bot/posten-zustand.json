@@ -259,40 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 603,
+ "laeufe": 604,
  "lagebrief_stand": 1795750500,
  "meme": {
-  "sofort": [
-   1795775101.291693
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 35.12178158760071,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "EBiQSJ9d1NvWb61ex2qYGi5qkzLgiaDKeER91i24pump",
-    "name": "USFF",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "USFF",
-    "t": 1795775039.5024698
-   },
-   {
-    "dauer": 141.78557658195496,
-    "ersteller_verkauft": true,
-    "kaeufer": 3,
-    "mint": "C6wMqB7dv1qV8gL6Frrh1LFDuJMBwF2coEFdQ69jpump",
-    "name": "SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795775055.4067805
-   },
-   {
-    "mint": "348Ep1o6eyGUZq2jTcZFJNevKVCBW4Fj85776cY1pump",
-    "spaet": true,
-    "t": 1795775194.6144302
-   },
    {
     "dauer": 31.22386145591736,
     "ersteller_verkauft": false,
@@ -516,6 +487,16 @@
     "mint": "A5Rk3bcpKxjPuruDLEF9DTpq31Xob4Dz4scYsjzspump",
     "spaet": true,
     "t": 1795778439.2546682
+   },
+   {
+    "mint": "BNqkEQ6127DmtN2AyNFpUxAEVE3MZFd7txtXLUfTpump",
+    "spaet": true,
+    "t": 1795778535.107943
+   },
+   {
+    "mint": "8fgwgLi4qLs4x2V9qTXCTgtWtuAUHqU68jbcy9ypump",
+    "spaet": true,
+    "t": 1795778653.2607026
    }
   ],
   "uebersicht": 1795777246.467679
