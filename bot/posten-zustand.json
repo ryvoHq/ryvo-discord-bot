@@ -297,43 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 734,
+ "laeufe": 735,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 175.61997032165527,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "unoDjpRAqQ3reWnenoNzWZ1qvUVDEvdbTg7qZLtpump",
-    "name": "wind",
-    "sol": 0.6790399320000006,
-    "spaet": false,
-    "symbol": "wind",
-    "t": 1795811290.3887486
-   },
-   {
-    "mint": "8fPdrNRgE7vecwMa99MZgf8uabmei9EK9MWgaEZtpump",
-    "spaet": true,
-    "t": 1795811332.6236644
-   },
-   {
-    "dauer": 158.90936636924744,
-    "ersteller_verkauft": false,
-    "kaeufer": 111,
-    "mint": "4NkmukT8Ma5XcE5Mi95LRTyu7aXbvu6FityXRrAupump",
-    "name": "Sukicoin",
-    "sol": 64.75206141800007,
-    "spaet": false,
-    "symbol": "Suki",
-    "t": 1795811380.7315688
-   },
-   {
-    "mint": "AwJBtTc631L3QQQ2hXZnrXV1gRV8DmwXbKjA8Kuppump",
-    "spaet": true,
-    "t": 1795811431.3224165
-   },
    {
     "dauer": 85.84147214889526,
     "ersteller_verkauft": true,
@@ -526,6 +494,21 @@
     "spaet": false,
     "symbol": "BI",
     "t": 1795814707.8408422
+   },
+   {
+    "mint": "cKt65KnZpXVyrEzyQY95ST6vN5axeMsZVvPgwqRpump",
+    "spaet": true,
+    "t": 1795814815.329935
+   },
+   {
+    "mint": "G43T82ThfSdVf2XBNXHBLjthWwNMCx4W9LzfwfsWpump",
+    "spaet": true,
+    "t": 1795815030.120077
+   },
+   {
+    "mint": "AXTfFj5YiwzTiH74X1Jf4xMa622eP4NbLe1DC9fapump",
+    "spaet": true,
+    "t": 1795815082.1271825
    }
   ],
   "uebersicht": 1795811669.655001
