@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 686,
+ "laeufe": 687,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,43 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "mint": "78sA8yQ3adLi4AVwejsMEm4CKDG76E1LhrKovdgJpump",
-    "spaet": true,
-    "t": 1795798058.1907866
-   },
-   {
-    "dauer": 496.319210767746,
-    "ersteller_verkauft": false,
-    "kaeufer": 145,
-    "mint": "ofXfcJUh679LMi4JgWLNVdQwHinCiDzDVJtMULcpump",
-    "name": "Apocrycoin",
-    "sol": 53.60619312100002,
-    "spaet": false,
-    "symbol": "Apocrycoin",
-    "t": 1795798123.0664034
-   },
-   {
-    "mint": "89JYcKAHCjxfvbNpnah68j6xuYtq98uqVRmXGGX3pump",
-    "spaet": true,
-    "t": 1795798128.007146
-   },
-   {
-    "dauer": 93.57772874832153,
-    "ersteller_verkauft": true,
-    "kaeufer": 266,
-    "mint": "2wWUYJjxg9H8e7NxQqdKNYYfb5Gb3mYVFvR9sYq3pump",
-    "name": "Clanker Executive Officer",
-    "sol": 72.39543416999992,
-    "spaet": false,
-    "symbol": "CEO",
-    "t": 1795798128.341305
-   },
-   {
-    "mint": "cjJT1FFHz5aEJNu43wh1ddevS5UfKCyPqG7i5vWpump",
-    "spaet": true,
-    "t": 1795798256.1602778
-   },
    {
     "dauer": 280.1666615009308,
     "ersteller_verkauft": true,
@@ -476,6 +439,49 @@
     "mint": "DD6morQS2RkaYimQVQNtofKUvcfksaAvx3ws3nscpump",
     "spaet": true,
     "t": 1795801401.778389
+   },
+   {
+    "dauer": 21.11535620689392,
+    "ersteller_verkauft": true,
+    "kaeufer": 85,
+    "mint": "Eakz4H2TVJXDsfABtYPc7LzWa4w6N17hpa8Zfufipump",
+    "name": "Kheecoin",
+    "sol": 59.04197447299998,
+    "spaet": false,
+    "symbol": "Khee",
+    "t": 1795801650.2988393
+   },
+   {
+    "mint": "4S7DtsZhwpbYmVcoR7FZEShf2aVz8J3fNVNopiVKpump",
+    "spaet": true,
+    "t": 1795801691.5286295
+   },
+   {
+    "dauer": 170.0581955909729,
+    "ersteller_verkauft": false,
+    "kaeufer": 83,
+    "mint": "12ZHQSxUcABkJHGLKAjY4CUhmr3DJ4FCVYahgD2Fpump",
+    "name": "Claude | Official",
+    "sol": 53.58760445799999,
+    "spaet": false,
+    "symbol": "Claude AI",
+    "t": 1795801780.1529737
+   },
+   {
+    "mint": "CX1Tq8FAZcPaueyVJV9Trc6RKjoz6riRBQ41bGCKpump",
+    "spaet": true,
+    "t": 1795801789.127745
+   },
+   {
+    "dauer": 0.0008606910705566406,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "2nJYJnAoXzoSkb4Q4L7LgnUaQrBy7kdzFApFZVL2pump",
+    "name": "Togo",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "TOGO",
+    "t": 1795801819.0283978
    }
   ],
   "uebersicht": 1795800739.3007104
