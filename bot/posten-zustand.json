@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 487,
+ "laeufe": 488,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -237,39 +237,6 @@
    1795746463.5361197
   ],
   "stunde": [
-   {
-    "dauer": 0.0004298686981201172,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "2QChKk7EvS3K9ezWu7Qs7981Qd2aJz4FEPce1HBZpump",
-    "name": "Togo",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "TOGO",
-    "t": 1795742901.2733715
-   },
-   {
-    "dauer": 95.87811613082886,
-    "ersteller_verkauft": true,
-    "kaeufer": 254,
-    "mint": "7RhUAYcj8iSsCweKkdJ71kKuAAcwYtBCpJz2ceG8pump",
-    "name": "Bae",
-    "sol": 84.98177942199989,
-    "spaet": false,
-    "symbol": "BAE",
-    "t": 1795742956.2688382
-   },
-   {
-    "dauer": 24.079463958740234,
-    "ersteller_verkauft": true,
-    "kaeufer": 147,
-    "mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
-    "name": "fomo Day",
-    "sol": 85.00535930399997,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795742972.666288
-   },
    {
     "mint": "4nLoFx9pBjmjE6GZUrNd9LqEM5siQemwiX7jAMQfpump",
     "spaet": true,
@@ -584,6 +551,28 @@
     "spaet": false,
     "symbol": "SMILE",
     "t": 1795746281.2887955
+   },
+   {
+    "dauer": 655.6830840110779,
+    "ersteller_verkauft": false,
+    "kaeufer": 563,
+    "mint": "D3PSUeS11AQNgpfX8GRFdXfVzZwmNanPX9MdGKyHpump",
+    "name": "Waha",
+    "sol": 77.40497865599954,
+    "spaet": false,
+    "symbol": "WAHA",
+    "t": 1795746591.3278549
+   },
+   {
+    "dauer": 156.7573835849762,
+    "ersteller_verkauft": true,
+    "kaeufer": 26,
+    "mint": "Er5kwdaChgGK2SaprBYkyh3hDkJuGddM3tVNEMk4pump",
+    "name": "Dinner is Served",
+    "sol": 0.628121299,
+    "spaet": false,
+    "symbol": "SERVED",
+    "t": 1795746737.8657606
    }
   ],
   "uebersicht": 1795743408.1301825
