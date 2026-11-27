@@ -252,18 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 559,
+ "laeufe": 560,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795764477.4050171
   ],
   "stunde": [
-   {
-    "mint": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump",
-    "spaet": true,
-    "t": 1795763005.1848185
-   },
    {
     "dauer": 87.1618480682373,
     "ersteller_verkauft": true,
@@ -402,6 +397,17 @@
     "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump",
     "spaet": true,
     "t": 1795766262.5502086
+   },
+   {
+    "dauer": 35.79942083358765,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "8EjDwSaD6pHFyDEdPbmn74wE3cbYdHpdiinBopFjpump",
+    "name": "GremlinX",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "GremlinX",
+    "t": 1795766325.8323212
    }
   ],
   "uebersicht": 1795765677.4794989
