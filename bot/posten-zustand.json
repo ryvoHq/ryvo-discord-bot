@@ -297,16 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 728,
+ "laeufe": 729,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "DUZPzRooWiLqvNoZnreZQrp2wAS87ps3DiDTL6vApump",
-    "spaet": true,
-    "t": 1795809720.8627276
-   },
    {
     "dauer": 0.0015664100646972656,
     "ersteller_verkauft": false,
@@ -564,6 +559,44 @@
     "mint": "A4NU3STf3Fy4T2k9xqTCYvoxubxiJTKGo96RvpoUpump",
     "spaet": true,
     "t": 1795813063.2399502
+   },
+   {
+    "mint": "FujpWWWfe1FfBMrQQ9fWuJQC3MkigLK2SXQwpeNPpump",
+    "spaet": true,
+    "t": 1795813387.7105057
+   },
+   {
+    "dauer": 689.3607685565948,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "HSnu5VSthiXAZMEs7EzhGQoWvnMLoQCmg3Ttn88ipump",
+    "name": " fennec coin",
+    "sol": 0.6567246649999997,
+    "spaet": false,
+    "symbol": "FNC",
+    "t": 1795813398.9807718
+   },
+   {
+    "dauer": 0.00034308433532714844,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "H2PjSbA2365uxBUJ3EBePSm67AYPuRMgcyswBnrVpump",
+    "name": "Maya The Samoyed",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "MAYA",
+    "t": 1795813450.9697342
+   },
+   {
+    "dauer": 62.15522336959839,
+    "ersteller_verkauft": true,
+    "kaeufer": 238,
+    "mint": "88E4iuKfowgqGpoRipaRJvGz5kMKrA6RxZYnAisjpump",
+    "name": "MOONDOGE",
+    "sol": 85.00535947699989,
+    "spaet": false,
+    "symbol": "MOONDOGE",
+    "t": 1795813534.5605972
    }
   ],
   "uebersicht": 1795811669.655001
