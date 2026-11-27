@@ -259,34 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 598,
+ "laeufe": 599,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
-    "spaet": true,
-    "t": 1795773649.1025527
-   },
-   {
-    "dauer": 228.54996418952942,
-    "ersteller_verkauft": false,
-    "kaeufer": 109,
-    "mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
-    "name": "GTA 6 Updates",
-    "sol": 84.887825051,
-    "spaet": false,
-    "symbol": "GTA 6",
-    "t": 1795773802.7796373
-   },
-   {
-    "mint": "HubcBJdhUKd1QjqLJioPwKEuAqeiJSSAHeTe4uyppump",
-    "spaet": true,
-    "t": 1795773880.0787427
-   },
    {
     "dauer": 144.9550380706787,
     "ersteller_verkauft": false,
@@ -523,6 +502,28 @@
     "mint": "HJCnN3z8t76EKngKFUFVuz5WCGDfMDQwgGThLLcDpump",
     "spaet": true,
     "t": 1795777238.1163013
+   },
+   {
+    "dauer": 239.2884681224823,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "G3eKHMHLnUjrKPZz2PAPfaFdBFDVh2riGrWWH46pump",
+    "name": "🍌 BANANA WIZARD",
+    "sol": 0.2706024039999994,
+    "spaet": false,
+    "symbol": "$BWIZ",
+    "t": 1795777332.233401
+   },
+   {
+    "dauer": 145.6490297317505,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "7iAgcXB8wxax8t4NM6t5GqU17r5cANEmdYTDm6aopump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795777524.9835398
    }
   ],
   "uebersicht": 1795777246.467679
