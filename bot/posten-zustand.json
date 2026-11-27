@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 681,
+ "laeufe": 682,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,26 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "mint": "57UZoXWeQxCfi7hCN1hsqkoFF7621CFhX4xFTdKppump",
-    "spaet": true,
-    "t": 1795796634.4617782
-   },
-   {
-    "mint": "6e9AGbPARNWRQLMGN2kBKrMZ26XAKQWRRJEEiL1qpump",
-    "spaet": true,
-    "t": 1795796646.044262
-   },
-   {
-    "mint": "A6jTfxSnjhTxuCmPKLyL675MPGm6fc2AAhjtAa9kpump",
-    "spaet": true,
-    "t": 1795796808.9648473
-   },
-   {
-    "mint": "8MSanNQ42P9r3KPTtGhtTGYh4mokALj6Tp9ZDXfopump",
-    "spaet": true,
-    "t": 1795796810.6858475
-   },
    {
     "dauer": 0.005776882171630859,
     "ersteller_verkauft": false,
@@ -481,6 +461,27 @@
     "spaet": false,
     "symbol": "MEMECARD",
     "t": 1795800089.2407281
+   },
+   {
+    "mint": "HyBs6EDbLnbHnnkFH9244N4k8gdvDsSk8DRFWWekpump",
+    "spaet": true,
+    "t": 1795800147.9212604
+   },
+   {
+    "dauer": 355.3351080417633,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "GgPXnMHXkkQ3NqH9oVScKFicwWQNDKazQZyiE5DEpump",
+    "name": "purple",
+    "sol": 0.12965148499999996,
+    "spaet": false,
+    "symbol": "pruple",
+    "t": 1795800148.6028016
+   },
+   {
+    "mint": "A2fkVTksJh7xLhmAcf8ST97va5TYN3Skvk42TBcUpump",
+    "spaet": true,
+    "t": 1795800296.6004114
    }
   ],
   "uebersicht": 1795796148.1298294
