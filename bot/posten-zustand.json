@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 518,
+ "laeufe": 519,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -391,6 +391,22 @@
     "mint": "FCKMDhr7gFHHLrro98wbbq446er7bi1eufWrfGxupRUB",
     "spaet": true,
     "t": 1795754888.6571927
+   },
+   {
+    "mint": "moBcWLsQdn5Zyc8TRuSK65LTuj249y2BATjWUrEpump",
+    "spaet": true,
+    "t": 1795755014.707337
+   },
+   {
+    "dauer": 247.82877230644226,
+    "ersteller_verkauft": false,
+    "kaeufer": 588,
+    "mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+    "name": "Caveman Baby",
+    "sol": 85.0053610529998,
+    "spaet": false,
+    "symbol": "CaveBaby",
+    "t": 1795755108.0424592
    }
   ],
   "uebersicht": 1795754714.6155627
