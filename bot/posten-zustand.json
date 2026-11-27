@@ -259,36 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 592,
+ "laeufe": 593,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795772057.8708842,
    1795775101.291693
   ],
   "stunde": [
-   {
-    "dauer": 965.6606447696686,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "5FfLXBkCMThxVWgQeadpvSDsd7qsfeZSXaGDNRjspump",
-    "name": "Flyball",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Flyball",
-    "t": 1795771851.3023114
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "dbwTBVwggm5uxEfsCkQrTwn3gmBu4RoEomPCDfTpump",
-    "name": "NVIDIA Newsroom",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "NVIDIA",
-    "t": 1795771879.7520611
-   },
    {
     "dauer": 33.52872586250305,
     "ersteller_verkauft": false,
@@ -524,6 +501,22 @@
     "mint": "CBkQxn7beaPnR4UcL289WAH8yd4kmEJrHK9rLmr1pump",
     "spaet": true,
     "t": 1795775344.0685904
+   },
+   {
+    "dauer": 76.87728929519653,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "EsP2kSNR6g1sGGxbnZza73aPdhBDYF4yG8zbGGpvpump",
+    "name": "EVERYONE SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795775665.5732427
+   },
+   {
+    "mint": "E3iqCHjYqaD3bNv5ufa6pthDLYTMhEGZ8NDuw7cTpump",
+    "spaet": true,
+    "t": 1795775735.1599038
    }
   ],
   "uebersicht": 1795773601.8562944
