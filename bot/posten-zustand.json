@@ -239,37 +239,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 510,
+ "laeufe": 511,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795749536.9144933,
    1795752574.3285844,
    1795752574.3285844
   ],
   "stunde": [
-   {
-    "dauer": 425.07127118110657,
-    "ersteller_verkauft": false,
-    "kaeufer": 538,
-    "mint": "77iw79xUzrzzvsc4Tt52EEZz6V1dqxaSGh3pqj7Vpump",
-    "name": "Solana Playground",
-    "sol": 81.83531143799982,
-    "spaet": false,
-    "symbol": "PLAYGROUND",
-    "t": 1795749412.84362
-   },
-   {
-    "dauer": 102.91977453231812,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "D1EbfTRWrxNygUAqgjiTuq5a7ebqFoG4rcCwyTudpump",
-    "name": "$CHIMPSHOT",
-    "sol": 0.09136897299999987,
-    "spaet": false,
-    "symbol": "CHIMP",
-    "t": 1795749544.5618286
-   },
    {
     "dauer": 94.30613684654236,
     "ersteller_verkauft": false,
@@ -479,6 +456,22 @@
     "spaet": false,
     "symbol": "Snowball",
     "t": 1795752844.9222522
+   },
+   {
+    "dauer": 2099.138088941574,
+    "ersteller_verkauft": false,
+    "kaeufer": 147,
+    "mint": "54xaFdqLfkNZu2S4GbJhv36yrJsz1DVPA2ns6qiApump",
+    "name": "Basket",
+    "sol": 84.91883376599992,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795752972.1070852
+   },
+   {
+    "mint": "HndF7FLfdzXvc5ztwKVVuKakHEumZa54zWt54RAKbQ4V",
+    "spaet": true,
+    "t": 1795753015.1936593
    }
   ],
   "uebersicht": 1795750736.6922324
