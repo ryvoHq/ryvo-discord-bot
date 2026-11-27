@@ -297,35 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 719,
+ "laeufe": 720,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [
-   1795807423.3098633
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0006318092346191406,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "A4G88275XecjBhetWaW9eSYyLVffE5PykUMLQnrppump",
-    "name": "Maya The Samoyed",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "MAYA",
-    "t": 1795807258.5046535
-   },
-   {
-    "dauer": 196.27633666992188,
-    "ersteller_verkauft": true,
-    "kaeufer": 378,
-    "mint": "92ETsnyVPzdebvje3epTPtxMPwwqHUWPPFuw3Xicpump",
-    "name": "Coinmas",
-    "sol": 69.28100168199988,
-    "spaet": false,
-    "symbol": "Coinmas",
-    "t": 1795807277.5539513
-   },
    {
     "dauer": 380.8041820526123,
     "ersteller_verkauft": true,
@@ -518,6 +494,28 @@
     "mint": "CeQZQ4Afx2NqiinL3YUrUVVm2byFzCJUMjmUqzR6pump",
     "spaet": true,
     "t": 1795810743.6630168
+   },
+   {
+    "dauer": 1169.0681388378143,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "HXm1ctWdgm9VBAcnWAtFWF2VQN2up1AaU2JQUvxzpump",
+    "name": "特斯拉",
+    "sol": 0.24454968900000015,
+    "spaet": false,
+    "symbol": "特斯拉",
+    "t": 1795810788.408655
+   },
+   {
+    "dauer": 102.3097312450409,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "HhvH6r8uEqUZn8LkGSRUhtrDVqwhuBAiDGj4h1Yhpump",
+    "name": "beer",
+    "sol": 0.21221186499999992,
+    "spaet": false,
+    "symbol": "beer",
+    "t": 1795810862.0895016
    }
   ],
   "uebersicht": 1795808022.9660485
