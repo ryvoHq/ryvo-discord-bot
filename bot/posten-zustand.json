@@ -297,23 +297,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 738,
+ "laeufe": 739,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795815396.2127461
+   1795815396.2127461,
+   1795816296.2387698
   ],
   "stunde": [
-   {
-    "mint": "4bezzUDdyLbUbb6sYT3ePMcF8nkBsEJqyPHde7Qgpump",
-    "spaet": true,
-    "t": 1795812396.8524456
-   },
-   {
-    "mint": "EJTf8Bg6KWPwrH3BxCT5ufeXCr6atmYnSaMRzuNWpump",
-    "spaet": true,
-    "t": 1795812494.3661757
-   },
    {
     "dauer": 229.31334686279297,
     "ersteller_verkauft": false,
@@ -540,6 +531,17 @@
     "mint": "7uJcmiVrDfMbGhwxakZHY9ByUtBGfU8oaSJwpyXSpump",
     "spaet": true,
     "t": 1795815896.5014358
+   },
+   {
+    "dauer": 811.5039808750153,
+    "ersteller_verkauft": false,
+    "kaeufer": 311,
+    "mint": "597W88FgeoLZLaV4poEPb4eNNa36NmZhPikGhrsEpump",
+    "name": "Codemen",
+    "sol": 65.30342293799997,
+    "spaet": false,
+    "symbol": "CODEMEN",
+    "t": 1795815999.5519652
    }
   ],
   "uebersicht": 1795815697.1042492
