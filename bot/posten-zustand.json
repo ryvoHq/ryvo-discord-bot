@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 665,
+ "laeufe": 666,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,11 +301,6 @@
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "mint": "8jrvnvvB9skmCYWB2tVP9DTYHt9yPet796GZMfK3pump",
-    "spaet": true,
-    "t": 1795792468.0576968
-   },
    {
     "dauer": 629.6167168617249,
     "ersteller_verkauft": true,
@@ -529,9 +524,36 @@
     "mint": "FyjStgXaA6iuzqSa5QAKupDAxoxBvnh7UPruU6qapump",
     "spaet": true,
     "t": 1795795775.6183777
+   },
+   {
+    "mint": "CBk8V166Fno71h8XUCkVTguFYqCfBnjzRaaNoYfWpump",
+    "spaet": true,
+    "t": 1795795879.5969212
+   },
+   {
+    "dauer": 568.5624096393585,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "HyANwJBm7E6WWntQKfU3KRZ9pJPeFWcQFNUWZhoPpump",
+    "name": "Kim bombs",
+    "sol": -1.6998128939999984,
+    "spaet": false,
+    "symbol": "Kimi💣",
+    "t": 1795796077.893236
+   },
+   {
+    "dauer": 0.0017459392547607422,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "7j1a6959WYMBwUNVV64NtzwAKfKU8hXC5auJdFHbpump",
+    "name": "revinu",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "REVINU",
+    "t": 1795796109.624488
    }
   ],
-  "uebersicht": 1795792501.9997852
+  "uebersicht": 1795796148.1298294
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
