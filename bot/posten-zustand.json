@@ -297,7 +297,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 713,
+ "laeufe": 714,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -469,6 +469,17 @@
     "mint": "4vwAuMWFnT3EJodRjAULM2bYvrJCaXrpfahVX2yuyghC",
     "spaet": true,
     "t": 1795808619.60293
+   },
+   {
+    "dauer": 360.7868642807007,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "Ni6TLfnePvbZztDQrntNoswPubTphTzjtNnvEFfpump",
+    "name": "You guys are getting paid?",
+    "sol": -0.13971030699999998,
+    "spaet": false,
+    "symbol": "GETPAID",
+    "t": 1795809048.4892263
    }
   ],
   "uebersicht": 1795808022.9660485
