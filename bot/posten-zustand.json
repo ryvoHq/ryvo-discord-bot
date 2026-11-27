@@ -278,46 +278,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 627,
+ "laeufe": 628,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795783344.432021,
-   1795784244.0034847
+   1795784244.0034847,
+   1795785497.8692348
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "jzDukcjGTFnK6DQSPqhhoDos6ry5uRxcSFxLJQPpump",
-    "name": "ConConAI",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ConConAI",
-    "t": 1795781764.9226878
-   },
-   {
-    "mint": "4vCuJEGoiP1g7KUKRj8NTE2ep73Tz5anhxYrnr8HnoEy",
-    "spaet": true,
-    "t": 1795781792.5027878
-   },
-   {
-    "dauer": 171.3320095539093,
-    "ersteller_verkauft": false,
-    "kaeufer": 146,
-    "mint": "EKBxs1wPrFg1SHWXMAfJyP4TVnEJ4PVcQN77e2CDpump",
-    "name": "Liquid Sol",
-    "sol": 85.00985923499988,
-    "spaet": false,
-    "symbol": "LIQSOL",
-    "t": 1795781871.0662515
-   },
-   {
-    "mint": "56kieEnC8nQZJP17hjSsrybT3gor7RL2cnXqGcjgpump",
-    "spaet": true,
-    "t": 1795781897.1886475
-   },
    {
     "dauer": 74.42111802101135,
     "ersteller_verkauft": true,
@@ -530,6 +499,60 @@
     "spaet": false,
     "symbol": "GTA 6",
     "t": 1795785185.4539642
+   },
+   {
+    "dauer": 154.94292068481445,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "6AZcKKJr6HXLTobbg4bB3yL9TK2WcEfULbuENDbqpump",
+    "name": "PUMP",
+    "sol": 0.5814367249999999,
+    "spaet": false,
+    "symbol": "Pump",
+    "t": 1795785239.493639
+   },
+   {
+    "dauer": 0.006534099578857422,
+    "ersteller_verkauft": false,
+    "kaeufer": 5,
+    "mint": "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump",
+    "name": "Tworbit",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "TWORBIT",
+    "t": 1795785281.1562345
+   },
+   {
+    "dauer": 191.27741074562073,
+    "ersteller_verkauft": false,
+    "kaeufer": 468,
+    "mint": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump",
+    "name": "Winstoncoin",
+    "sol": 82.55880942599978,
+    "spaet": false,
+    "symbol": "WINSTON",
+    "t": 1795785296.0394204
+   },
+   {
+    "mint": "CoPqDUhpxJr6JzJpEkvXs6RJMMe4fiK5eRqrmoaXpump",
+    "spaet": true,
+    "t": 1795785342.865338
+   },
+   {
+    "dauer": 117.67289924621582,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "7djZh2zdUam2SKXxRtG4JCzbSs9NhYWbwyoJ8u7cpump",
+    "name": "☆ Boss ☆ ",
+    "sol": 0.42225510999999993,
+    "spaet": false,
+    "symbol": "GoodBoy",
+    "t": 1795785349.323968
+   },
+   {
+    "mint": "5zpFmDhjE9NLP2w5wjnVQs3g5sg7M2bihnV7pi6vudAR",
+    "spaet": true,
+    "t": 1795785448.8258176
    }
   ],
   "uebersicht": 1795785198.054407
