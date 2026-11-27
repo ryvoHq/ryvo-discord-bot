@@ -259,24 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 601,
+ "laeufe": 602,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "dauer": 84.97207713127136,
-    "ersteller_verkauft": false,
-    "kaeufer": 16,
-    "mint": "DRaEFN5bA2AzXS51YvakQyzNapSb2KFAS5pyduKmpump",
-    "name": "dog wif cap",
-    "sol": 1.3866238619999989,
-    "spaet": false,
-    "symbol": "cap",
-    "t": 1795774551.806369
-   },
    {
     "mint": "8we9RFYkHS7RAMtFbHAwwkcWM1UoxLDJXNpABgSXpump",
     "spaet": true,
