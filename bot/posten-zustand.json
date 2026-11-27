@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 482,
+ "laeufe": 483,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,17 +235,6 @@
    1795744609.1542165
   ],
   "stunde": [
-   {
-    "dauer": 185.03111934661865,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "2tjm1sWVX8wFxVQrXbXK2LNLeno6JY9aWgY91x5Tpump",
-    "name": "falling guy",
-    "sol": 0.791883978,
-    "spaet": false,
-    "symbol": "fg",
-    "t": 1795741518.8660092
-   },
    {
     "mint": "3JFYQq12QtD8T1wbcgo8bUU66gc5E2YkJFjBKwMCD7xE",
     "spaet": true,
@@ -589,6 +578,33 @@
     "spaet": false,
     "symbol": "Jae",
     "t": 1795744820.2429602
+   },
+   {
+    "dauer": 56.129640340805054,
+    "ersteller_verkauft": true,
+    "kaeufer": 245,
+    "mint": "9eaQQrcwL6xMbYLeo8EQ3ysX8iR7HVzho9u5eqMLpump",
+    "name": "Evelyn",
+    "sol": 85.00535950399998,
+    "spaet": false,
+    "symbol": "EVELYN",
+    "t": 1795745089.4775023
+   },
+   {
+    "mint": "8NoW8Er8RQK4LNnfLbt9FCzkmtNAGHUhZYHMKqUDpump",
+    "spaet": true,
+    "t": 1795745176.2121081
+   },
+   {
+    "dauer": 87.62598323822021,
+    "ersteller_verkauft": true,
+    "kaeufer": 169,
+    "mint": "BWEu8LQjShhCQFuYKEfKtnDXxahAsk4Ffw5qY3yrpump",
+    "name": "Cash Inu",
+    "sol": 84.76393288499996,
+    "spaet": false,
+    "symbol": "CI",
+    "t": 1795745194.2451217
    }
   ],
   "uebersicht": 1795743408.1301825
