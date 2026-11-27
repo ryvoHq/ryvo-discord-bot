@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 685,
+ "laeufe": 686,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,17 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "94Dwo5g4NywRxrcdALS8Vbq4s4xHqWSkgQsCGNpQpump",
-    "name": "Laura",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Laura",
-    "t": 1795797991.6298656
-   },
    {
     "mint": "78sA8yQ3adLi4AVwejsMEm4CKDG76E1LhrKovdgJpump",
     "spaet": true,
@@ -482,6 +471,11 @@
     "mint": "8adjHy6G8E93dje6eMH2q3bGSTp7pV6CdCfmtX62pump",
     "spaet": true,
     "t": 1795801223.53639
+   },
+   {
+    "mint": "DD6morQS2RkaYimQVQNtofKUvcfksaAvx3ws3nscpump",
+    "spaet": true,
+    "t": 1795801401.778389
    }
   ],
   "uebersicht": 1795800739.3007104
