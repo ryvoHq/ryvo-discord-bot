@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 485,
+ "laeufe": 486,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,83 +235,6 @@
    1795744609.1542165
   ],
   "stunde": [
-   {
-    "dauer": 94.66956663131714,
-    "ersteller_verkauft": false,
-    "kaeufer": 101,
-    "mint": "EohmYBesawQhoUTdNWeHHnC1piWvvzJCg3rv77mopump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 84.76546740399996,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795742348.1633365
-   },
-   {
-    "dauer": 61.63787221908569,
-    "ersteller_verkauft": true,
-    "kaeufer": 265,
-    "mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
-    "name": "Truck In Snow",
-    "sol": 71.74772803099995,
-    "spaet": false,
-    "symbol": "SNOWTRUCK",
-    "t": 1795742376.308022
-   },
-   {
-    "dauer": 385.5222234725952,
-    "ersteller_verkauft": false,
-    "kaeufer": 27,
-    "mint": "C8XnENQ1QnnSJr8BBA7CwrXD4TLAL76eMnDQcYfppump",
-    "name": "DeadBullLabs",
-    "sol": 0.1861619750000001,
-    "spaet": false,
-    "symbol": "VIPER",
-    "t": 1795742387.4357562
-   },
-   {
-    "dauer": 0.0007646083831787109,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "8BGYJMyfhidTjzmJGTwGixMBV6T2PaPFq6mJPc1vpump",
-    "name": "Santaball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Santaball",
-    "t": 1795742447.7698734
-   },
-   {
-    "dauer": 161.32750535011292,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "CRknBv1ot1Jy9FR5XcUnqwJwvqepjs62ucJpZz6upump",
-    "name": "EVILcoin",
-    "sol": 0.06730880700000003,
-    "spaet": false,
-    "symbol": "EVIL",
-    "t": 1795742481.7076435
-   },
-   {
-    "dauer": 155.88717555999756,
-    "ersteller_verkauft": false,
-    "kaeufer": 31,
-    "mint": "GRynhUEpn4yy35LWQXvRiKRwyp13kW4sU6AwRe59pump",
-    "name": "BBC COIN",
-    "sol": 0.21965639000000028,
-    "spaet": false,
-    "symbol": "BBC",
-    "t": 1795742535.8330405
-   },
-   {
-    "dauer": 231.85840010643005,
-    "ersteller_verkauft": true,
-    "kaeufer": 27,
-    "mint": "4VikWiHwMwFWqd8pGVse4ocLn9tTPEm3AkM2Wq2Dpump",
-    "name": "GOLD EGG",
-    "sol": 0.9885178530000006,
-    "spaet": false,
-    "symbol": "GOLD",
-    "t": 1795742541.09058
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -665,6 +588,11 @@
     "mint": "8YjTr1ehqPHXRTuZuULJAuciFqNMRJmNmzyrY2cUpump",
     "spaet": true,
     "t": 1795745860.5056481
+   },
+   {
+    "mint": "3nJg9zjUmup7a95DoDsoVbJv5MsK9zMPq2cAbnkBpump",
+    "spaet": true,
+    "t": 1795746123.0086281
    }
   ],
   "uebersicht": 1795743408.1301825
