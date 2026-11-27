@@ -288,7 +288,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 662,
+ "laeufe": 663,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -482,6 +482,28 @@
     "spaet": false,
     "symbol": "SATAN",
     "t": 1795794677.43462
+   },
+   {
+    "dauer": 17.37460422515869,
+    "ersteller_verkauft": false,
+    "kaeufer": 64,
+    "mint": "Fpbbrcyaz3CwcEwbR66e9FzDEtNfx8m7yvSjVZrNpump",
+    "name": "Veto Corleone",
+    "sol": 30.74687473699999,
+    "spaet": false,
+    "symbol": "VETO",
+    "t": 1795794984.3784475
+   },
+   {
+    "dauer": 0.001135110855102539,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "CV1NPi8L2PSYMfALBh7GCfUwELZzG3DrLUUjCkeapump",
+    "name": "Memecoin",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Meme",
+    "t": 1795794986.7681963
    }
   ],
   "uebersicht": 1795792501.9997852
@@ -500,16 +522,16 @@
  },
  "signale": {
   "fvg:BTC": {
-   "t": 1795748400000,
-   "zeit": 1795752273.778425
+   "t": 1795791600000,
+   "zeit": 1795795246.890649
   },
   "fvg:ETH": {
-   "t": 1795748400000,
-   "zeit": 1795752273.778425
+   "t": 1795791600000,
+   "zeit": 1795795246.890649
   },
   "fvg:SOL": {
-   "t": 1795748400000,
-   "zeit": 1795752273.778425
+   "t": 1795791600000,
+   "zeit": 1795795246.890649
   },
   "fvg:xyz:GOLD": {
    "t": 1795788000000,
