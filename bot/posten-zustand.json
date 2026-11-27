@@ -278,37 +278,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 644,
+ "laeufe": 645,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795786697.463176,
    1795789149.308356,
    1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 405.03216338157654,
-    "ersteller_verkauft": true,
-    "kaeufer": 557,
-    "mint": "F5sXLrvCZwyXF4R3hhLfA2xVZDv4oJYQw83MWgDW4VLC",
-    "name": "Pepe",
-    "sol": 78.94348662399986,
-    "spaet": false,
-    "symbol": "Pepe",
-    "t": 1795786489.9493563
-   },
-   {
-    "dauer": 1875.3635821342468,
-    "ersteller_verkauft": true,
-    "kaeufer": 8,
-    "mint": "KF7iioQ2Djm3ihD4hhrpvhNSxjQ5MbBU52hCoH4pump",
-    "name": "Wizard Monkey",
-    "sol": 85.00535909599999,
-    "spaet": false,
-    "symbol": "WIZMON",
-    "t": 1795786742.128309
-   },
    {
     "dauer": 82.31281733512878,
     "ersteller_verkauft": true,
@@ -494,7 +471,7 @@
   "uebersicht": 1795788849.2832122
  },
  "momentum_sperre": {
-  "HYPE": 1795746465.6142428,
+  "HYPE": 1795790350.9807532,
   "MOODENG": 1795682429.2791297,
   "xyz:NVDA": 1795780000.0314324,
   "xyz:SILVER": 1795757465.3953183,
