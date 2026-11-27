@@ -297,22 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 733,
+ "laeufe": 734,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 69.59103155136108,
-    "ersteller_verkauft": false,
-    "kaeufer": 217,
-    "mint": "Hivbqk3DcsEaP2gMQtWBG1N3s6KUYryokdBm9Ye8pump",
-    "name": "Justice for Taylor Tom Trevor",
-    "sol": 82.28543260900004,
-    "spaet": false,
-    "symbol": "TripleT",
-    "t": 1795811156.476351
-   },
    {
     "dauer": 175.61997032165527,
     "ersteller_verkauft": false,
