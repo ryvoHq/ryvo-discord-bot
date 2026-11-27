@@ -293,35 +293,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 673,
+ "laeufe": 674,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [
-   1795794648.2662551
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 208.02034664154053,
-    "ersteller_verkauft": false,
-    "kaeufer": 527,
-    "mint": "H3AXQ5iCN4AEr96AD6k4DJ7mdKwUJFSJMPM6b8Fkpump",
-    "name": "sale",
-    "sol": 31.914671035000076,
-    "spaet": false,
-    "symbol": "sale",
-    "t": 1795794471.603825
-   },
-   {
-    "dauer": 415.06639528274536,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "G8os7xSWmDBuvG9oGX2XoApmH2hp7cKAU4ywLb9pump",
-    "name": "DeadBullLabs",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SATAN",
-    "t": 1795794677.43462
-   },
    {
     "dauer": 17.37460422515869,
     "ersteller_verkauft": false,
@@ -523,6 +499,54 @@
     "mint": "cR6BbS1RBej9LqYZeES61Jp223KNJPRBnritbMmpump",
     "spaet": true,
     "t": 1795797440.388584
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "94Dwo5g4NywRxrcdALS8Vbq4s4xHqWSkgQsCGNpQpump",
+    "name": "Laura",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Laura",
+    "t": 1795797991.6298656
+   },
+   {
+    "mint": "78sA8yQ3adLi4AVwejsMEm4CKDG76E1LhrKovdgJpump",
+    "spaet": true,
+    "t": 1795798058.1907866
+   },
+   {
+    "dauer": 496.319210767746,
+    "ersteller_verkauft": false,
+    "kaeufer": 145,
+    "mint": "ofXfcJUh679LMi4JgWLNVdQwHinCiDzDVJtMULcpump",
+    "name": "Apocrycoin",
+    "sol": 53.60619312100002,
+    "spaet": false,
+    "symbol": "Apocrycoin",
+    "t": 1795798123.0664034
+   },
+   {
+    "mint": "89JYcKAHCjxfvbNpnah68j6xuYtq98uqVRmXGGX3pump",
+    "spaet": true,
+    "t": 1795798128.007146
+   },
+   {
+    "dauer": 93.57772874832153,
+    "ersteller_verkauft": true,
+    "kaeufer": 266,
+    "mint": "2wWUYJjxg9H8e7NxQqdKNYYfb5Gb3mYVFvR9sYq3pump",
+    "name": "Clanker Executive Officer",
+    "sol": 72.39543416999992,
+    "spaet": false,
+    "symbol": "CEO",
+    "t": 1795798128.341305
+   },
+   {
+    "mint": "cjJT1FFHz5aEJNu43wh1ddevS5UfKCyPqG7i5vWpump",
+    "spaet": true,
+    "t": 1795798256.1602778
    }
   ],
   "uebersicht": 1795796148.1298294
