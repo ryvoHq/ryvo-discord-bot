@@ -221,76 +221,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 455,
+ "laeufe": 456,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795734286.1914365,
    1795735486.0610247,
    1795736127.7741737,
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "mint": "5NweyLSe3KPw9vGUurLnD4Cx2f7JVoHGCtuW72ybpump",
-    "spaet": true,
-    "t": 1795734083.3841105
-   },
-   {
-    "dauer": 0.0008757114410400391,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "JBVR6pWAVp4D6uRA21PQTCrHcLAqJr9Gz1r8zPGCpump",
-    "name": "PopCatBall",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "POPBALL",
-    "t": 1795734117.5420423
-   },
-   {
-    "dauer": 40.68381381034851,
-    "ersteller_verkauft": true,
-    "kaeufer": 171,
-    "mint": "WC5dcdyWF5LxCedvfhvEHawCSNztFkdR64oGz4Rpump",
-    "name": "SpaceX shares",
-    "sol": 70.24692829899999,
-    "spaet": false,
-    "symbol": "SpaceX",
-    "t": 1795734122.179367
-   },
-   {
-    "dauer": 102.0049798488617,
-    "ersteller_verkauft": false,
-    "kaeufer": 353,
-    "mint": "H9KwqmtXgPx1HSaMiaBxiheeg2ozYsuYNk92MGuCpump",
-    "name": "橘宝",
-    "sol": 79.4542373079999,
-    "spaet": false,
-    "symbol": "JUBAO",
-    "t": 1795734123.3633578
-   },
-   {
-    "dauer": 86.96840643882751,
-    "ersteller_verkauft": true,
-    "kaeufer": 197,
-    "mint": "xwcPHwFsF7fMWgAGSMHM3UF6Whwt7hMB45gRFBipump",
-    "name": "There's our little investor",
-    "sol": 79.28309786499999,
-    "spaet": false,
-    "symbol": "Investor",
-    "t": 1795734203.275872
-   },
-   {
-    "dauer": 671.164176940918,
-    "ersteller_verkauft": true,
-    "kaeufer": 592,
-    "mint": "C8CZZnPJzPaWhB82EmpKMZc5PEqNnQ46n43j5Fj9pump",
-    "name": "Justice for Gemma",
-    "sol": 70.73352442199995,
-    "spaet": false,
-    "symbol": "Gemma",
-    "t": 1795734222.5867767
-   },
    {
     "mint": "8TyoqSMouLjxh1kM1yApR9dZSS5Chgkh2puq25JTpump",
     "spaet": true,
@@ -557,6 +496,17 @@
     "spaet": false,
     "symbol": "BASKET",
     "t": 1795737596.7643194
+   },
+   {
+    "dauer": 259.33825421333313,
+    "ersteller_verkauft": false,
+    "kaeufer": 33,
+    "mint": "ApcFgF4iDRaZBBmaDJhjdsr5pki9pfXnKn2tYQrDpump",
+    "name": "Togi Coin",
+    "sol": 86.13489798000003,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795737927.6536727
    }
   ],
   "uebersicht": 1795735188.828268
