@@ -227,33 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 478,
+ "laeufe": 479,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795744307.9376364
+  ],
   "stunde": [
-   {
-    "dauer": 0.0017421245574951172,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "FQBzhcLE53ntie5wFJMS5oEawWPj4oPLpUfb3vB9pump",
-    "name": "Santaball",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Santaball",
-    "t": 1795740443.9596987
-   },
-   {
-    "dauer": 99.06918025016785,
-    "ersteller_verkauft": true,
-    "kaeufer": 294,
-    "mint": "3G4iUm9cBsBJeGqKWRu7S1i7VW45LmuguJwGLANtpump",
-    "name": "Cumass Coin",
-    "sol": 78.23463990900001,
-    "spaet": false,
-    "symbol": "CUMASS",
-    "t": 1795740671.346216
-   },
    {
     "mint": "26sgRqwNeNmGJf3roCqZq9YwChMypYXPG4QKPUegpump",
     "spaet": true,
@@ -553,6 +533,61 @@
     "mint": "BpNfXPvYiLusKT6cNBFddjkw1bn4iGL6hWzRPxJGpump",
     "spaet": true,
     "t": 1795743892.197516
+   },
+   {
+    "dauer": 0.0005571842193603516,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump",
+    "name": "Santaball",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Santaball",
+    "t": 1795744144.198886
+   },
+   {
+    "dauer": 190.36277675628662,
+    "ersteller_verkauft": true,
+    "kaeufer": 35,
+    "mint": "AvFxFB9P6Qivrgp42qd55qarcamVp9FrBBzYmiATpump",
+    "name": "Alien Shiba Inux",
+    "sol": 0.40411638299999986,
+    "spaet": false,
+    "symbol": "INUX",
+    "t": 1795744180.3352227
+   },
+   {
+    "dauer": 295.9369525909424,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+    "name": "hold and retire",
+    "sol": 85.00535907899999,
+    "spaet": false,
+    "symbol": "530A",
+    "t": 1795744284.5539422
+   },
+   {
+    "dauer": 1443.2282280921936,
+    "ersteller_verkauft": false,
+    "kaeufer": 726,
+    "mint": "4KcP8EBoGmXwvUB2ASTowyQ32ZdHsGAcfcsS7kWrToGi",
+    "name": "The Gambling Bull",
+    "sol": 92.43059066200014,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795744291.9250734
+   },
+   {
+    "dauer": 0.1635897159576416,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "6Xsnx38DutPyn2pQUBy25uqB4ZHgbxzFqzXR9ScLpump",
+    "name": "AREYOUENTERTAINEDNOW",
+    "sol": 85.005359076,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795744307.43585
    }
   ],
   "uebersicht": 1795743408.1301825
