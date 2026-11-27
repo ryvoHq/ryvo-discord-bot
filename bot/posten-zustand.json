@@ -252,7 +252,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 558,
+ "laeufe": 559,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -392,6 +392,16 @@
     "spaet": false,
     "symbol": "SNOWBALLZ",
     "t": 1795765345.267
+   },
+   {
+    "mint": "ABhMcqhLD4qzkW47BmXCAmBzb4PKTaoNt8ou8ycZpump",
+    "spaet": true,
+    "t": 1795766196.392222
+   },
+   {
+    "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump",
+    "spaet": true,
+    "t": 1795766262.5502086
    }
   ],
   "uebersicht": 1795765677.4794989
