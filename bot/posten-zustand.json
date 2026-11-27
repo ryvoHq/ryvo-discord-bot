@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 498,
+ "laeufe": 499,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -237,33 +237,6 @@
    1795749536.9144933
   ],
   "stunde": [
-   {
-    "mint": "3nJg9zjUmup7a95DoDsoVbJv5MsK9zMPq2cAbnkBpump",
-    "spaet": true,
-    "t": 1795746123.0086281
-   },
-   {
-    "dauer": 87.33717465400696,
-    "ersteller_verkauft": false,
-    "kaeufer": 151,
-    "mint": "CZhDpGticXLpBhAgXL6ERRdVsWTTX2Ynsk7Ad3sUpump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 85.24966551900002,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795746178.2951918
-   },
-   {
-    "dauer": 153.91193008422852,
-    "ersteller_verkauft": false,
-    "kaeufer": 31,
-    "mint": "C8ipzhZnpHkFVBFtxecczrvZ27jRDD8DFHGfDNezpump",
-    "name": "cozy creeps",
-    "sol": 0.20403016199999974,
-    "spaet": false,
-    "symbol": "CREEP",
-    "t": 1795746201.8768003
-   },
    {
     "dauer": 334.57562470436096,
     "ersteller_verkauft": false,
@@ -460,6 +433,50 @@
     "spaet": false,
     "symbol": "PLAYGROUND",
     "t": 1795749412.84362
+   },
+   {
+    "dauer": 102.91977453231812,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "D1EbfTRWrxNygUAqgjiTuq5a7ebqFoG4rcCwyTudpump",
+    "name": "$CHIMPSHOT",
+    "sol": 0.09136897299999987,
+    "spaet": false,
+    "symbol": "CHIMP",
+    "t": 1795749544.5618286
+   },
+   {
+    "dauer": 94.30613684654236,
+    "ersteller_verkauft": false,
+    "kaeufer": 141,
+    "mint": "HP8TpWxch62wJwCmesgBCMbHwat6mjHpesVtkXZdpump",
+    "name": "Basket",
+    "sol": 85.18862102900006,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795749670.87776
+   },
+   {
+    "dauer": 14.688537359237671,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+    "name": "DragonCoin",
+    "sol": 85.00535906199998,
+    "spaet": false,
+    "symbol": "Dragon",
+    "t": 1795749721.9140146
+   },
+   {
+    "dauer": 306.0831060409546,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "6QhQxyrAbjn8DxQCpzfEqKfFKL81b3n9gW6WtNdBpump",
+    "name": "Snowball",
+    "sol": 0.09378252199999981,
+    "spaet": false,
+    "symbol": "Snowball",
+    "t": 1795749769.0366473
    }
   ],
   "uebersicht": 1795747063.2995136
