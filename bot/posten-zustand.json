@@ -239,37 +239,16 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 512,
+ "laeufe": 513,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795752574.3285844,
    1795752574.3285844,
-   1795753475.0919275
+   1795753475.0919275,
+   1795753774.69686
   ],
   "stunde": [
-   {
-    "dauer": 1146.0488035678864,
-    "ersteller_verkauft": false,
-    "kaeufer": 157,
-    "mint": "ERVmk8XQhjKmqD9e3kBvUg5bc8HsbfKbQYKzmsGZpump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 82.43535190099998,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795750015.793035
-   },
-   {
-    "dauer": 157.01875734329224,
-    "ersteller_verkauft": false,
-    "kaeufer": 141,
-    "mint": "8KZTHRWwiVsJb6vkKGurusowUcCEH77hAUCKqRgpump",
-    "name": "CocaCola | Offical",
-    "sol": 84.78194773800003,
-    "spaet": false,
-    "symbol": "Coca-Cola",
-    "t": 1795750094.1967432
-   },
    {
     "dauer": 20.884486198425293,
     "ersteller_verkauft": false,
@@ -467,6 +446,17 @@
     "spaet": false,
     "symbol": "RSA",
     "t": 1795753376.0591798
+   },
+   {
+    "dauer": 763.8385281562805,
+    "ersteller_verkauft": true,
+    "kaeufer": 513,
+    "mint": "AgBxPNBFmBks58rtVnp2ZW5WHtE2968qTPWgDEvbpump",
+    "name": "Christmas Coin",
+    "sol": 78.02544641699986,
+    "spaet": false,
+    "symbol": "Christmas",
+    "t": 1795753570.5624707
    }
   ],
   "uebersicht": 1795750736.6922324
