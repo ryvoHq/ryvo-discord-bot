@@ -6,7 +6,11 @@
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesarbeitsagentur-schulden-von-zehn-milliarden-und-trueber-arbeitsmarkt-201723118.html",
+  "https://economictimes.indiatimes.com/industry/energy/oil-gas/iraq-reclaims-no-2-spot-in-indias-oil-imports-as-gulf-supplies-recover-despite-iran-attacks/articleshow/136232273.cms",
+  "https://www.livemint.com/market/canadian-dollar-holds-on-to-weekly-gain-as-investors-bet-on-december-rate-hike-11795807102867.html",
   "https://economictimes.indiatimes.com/news/international/world-news/washington-pushed-venezuela-iraq-to-consider-leaving-opec/articleshow/136231459.cms",
+  "https://www.business-standard.com/world-news/us-urged-venezuela-iraq-to-consider-leaving-opec-amid-oil-output-push-126112800002_1.html",
   "https://www.business-standard.com/markets/news/it-bank-heavyweights-drag-markets-down-1-amid-rising-crude-oil-prices-126112701207_1.html",
   "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_week_on_week-27-nov-2026-185190-article/",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/hessens-arbeitsmarkt-mehr-stellen-aber-schwierigkeiten-fuer-akademiker-201722245.html",
@@ -76,16 +80,16 @@
   "https://www.businesstimes.com.sg/international/cautious-consumers-gear-black-friday-inflation-woes-bite",
   "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
   "https://www.businesstimes.com.sg/international/tokyo-inflation-accelerates-backing-case-boj-rate-hike",
-  "https://www.dw.com/de/ki-wirbelt-arbeitsmarkt-laut-ba-chefin-durcheinander/a-79910561",
-  "https://www.straitstimes.com/world/argentina-bans-its-central-bank-from-printing-money-for-the-government",
-  "https://www.independent.co.uk/news/uk/home-news/bank-of-england-labour-tax-hike-customers-b3092462.html",
-  "https://www.businesstimes.com.sg/companies-markets/banking-finance/binance-lifts-withdrawal-suspension-after-us6-3-billion-crypto-heist",
   "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.dw.com/de/ki-wirbelt-arbeitsmarkt-laut-ba-chefin-durcheinander/a-79910561",
+  "https://www.straitstimes.com/world/argentina-bans-its-central-bank-from-printing-money-for-the-government",
+  "https://www.independent.co.uk/news/uk/home-news/bank-of-england-labour-tax-hike-customers-b3092462.html",
+  "https://www.businesstimes.com.sg/companies-markets/banking-finance/binance-lifts-withdrawal-suspension-after-us6-3-billion-crypto-heist",
   "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-higher-easing-tariff-fears-ecb-leadership-continuity",
   "https://www.bnnbloomberg.ca/markets/crypto/2026/11/26/north-korean-launderers-turn-to-little-known-crypto-services-to-move-binance-haul-say-researchers/",
   "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk",
@@ -297,20 +301,16 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 742,
+ "laeufe": 743,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795815396.2127461,
    1795816296.2387698,
-   1795817196.0699837
+   1795817196.0699837,
+   1795817496.3342245
   ],
   "stunde": [
-   {
-    "mint": "EUaXUvj2my5xFFULw95hRqfqDuki5v96uAw8NMa4pump",
-    "spaet": true,
-    "t": 1795813694.517236
-   },
    {
     "dauer": 246.75823187828064,
     "ersteller_verkauft": false,
@@ -560,6 +560,28 @@
     "spaet": false,
     "symbol": "Sol",
     "t": 1795817064.613483
+   },
+   {
+    "dauer": 873.1466996669769,
+    "ersteller_verkauft": true,
+    "kaeufer": 856,
+    "mint": "GVaUm3JTJuzA8rv8JBGBQK1BbF8ruiM2sRxwDGyMpump",
+    "name": "Pairing Markets",
+    "sol": 56.5010341639993,
+    "spaet": false,
+    "symbol": "PAIRING",
+    "t": 1795817240.218021
+   },
+   {
+    "dauer": 293.67042112350464,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "5JP2AcP2D6VFBUkEcoXXfnPu4zMryZFQpeGu8gNXpump",
+    "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
+    "sol": -0.03436091399999994,
+    "spaet": false,
+    "symbol": "FOMOCAT",
+    "t": 1795817395.9471831
    }
   ],
   "uebersicht": 1795815697.1042492
