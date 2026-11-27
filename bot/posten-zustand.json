@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 680,
+ "laeufe": 681,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,27 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "dauer": 0.0012810230255126953,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "99CQuNiF6WN44xyKqPP9N41x5R9Uu8MkTM9CK3Rzpump",
-    "name": "DIH Wif Balls",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "DIHBALL",
-    "t": 1795796404.7976592
-   },
-   {
-    "mint": "64wYHd7DBQ53YUgBK3zeiFHZJ15q85pYiS5xjZ19pump",
-    "spaet": true,
-    "t": 1795796522.3683293
-   },
-   {
-    "mint": "EVASJxNTfg5P8qrj3crg11pQNDva6fqzfHavZ9NLpump",
-    "spaet": true,
-    "t": 1795796530.258317
-   },
    {
     "mint": "57UZoXWeQxCfi7hCN1hsqkoFF7621CFhX4xFTdKppump",
     "spaet": true,
@@ -491,6 +470,17 @@
     "mint": "9uKoEdAqxq5VESQSFe2u3epVjtQB4N1E4B75M8Cvpump",
     "spaet": true,
     "t": 1795799705.3510213
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump",
+    "name": "Meme Card",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "MEMECARD",
+    "t": 1795800089.2407281
    }
   ],
   "uebersicht": 1795796148.1298294
