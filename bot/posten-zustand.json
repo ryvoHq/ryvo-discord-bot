@@ -259,29 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 602,
+ "laeufe": 603,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "mint": "8we9RFYkHS7RAMtFbHAwwkcWM1UoxLDJXNpABgSXpump",
-    "spaet": true,
-    "t": 1795774695.4762983
-   },
-   {
-    "dauer": 2710.6079456806183,
-    "ersteller_verkauft": false,
-    "kaeufer": 850,
-    "mint": "CyMXmRYQabAyBNEBkeaAGZ6Fbj8gCY7R2uZxD1G4mBk",
-    "name": "1 grain of rice",
-    "sol": 81.42895312299962,
-    "spaet": false,
-    "symbol": "rice",
-    "t": 1795774894.0944645
-   },
    {
     "dauer": 35.12178158760071,
     "ersteller_verkauft": false,
@@ -496,6 +480,42 @@
     "spaet": false,
     "symbol": "34%",
     "t": 1795778070.4538314
+   },
+   {
+    "mint": "8qfeWgXGHzFNCLRYYfPSxLAb17Em5SNpJDH5UW2epump",
+    "spaet": true,
+    "t": 1795778204.8682115
+   },
+   {
+    "mint": "4tqzkSWA9tiWYhzYpSt81We3cVNkrEbkD1tzjFDZpump",
+    "spaet": true,
+    "t": 1795778219.255658
+   },
+   {
+    "mint": "6KqHKQjhuN2Qbj19TMxyfWqUYQ3XS5nJcb7oYUripump",
+    "spaet": true,
+    "t": 1795778238.2162423
+   },
+   {
+    "dauer": 10.114858627319336,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "EYZgeSoKUP7ZmfLwn8V7rh54sPhMCJ4NK2QmdwKwpump",
+    "name": "inu",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "INU",
+    "t": 1795778350.2461998
+   },
+   {
+    "mint": "D212bxvGQPrKJ4vppJ1iRG3tyBUXF1tK5r9WaEZapump",
+    "spaet": true,
+    "t": 1795778375.1214387
+   },
+   {
+    "mint": "A5Rk3bcpKxjPuruDLEF9DTpq31Xob4Dz4scYsjzspump",
+    "spaet": true,
+    "t": 1795778439.2546682
    }
   ],
   "uebersicht": 1795777246.467679
