@@ -221,35 +221,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 468,
+ "laeufe": 469,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 259.33825421333313,
-    "ersteller_verkauft": false,
-    "kaeufer": 33,
-    "mint": "ApcFgF4iDRaZBBmaDJhjdsr5pki9pfXnKn2tYQrDpump",
-    "name": "Togi Coin",
-    "sol": 86.13489798000003,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795737927.6536727
-   },
-   {
-    "dauer": 0.0008544921875,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "D3EUbqgbKn71SVaBQepjTsFRehkaNQx6Ch6W59Nvpump",
-    "name": "Santaball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Santaball",
-    "t": 1795737963.2424626
-   },
    {
     "dauer": 72.50141644477844,
     "ersteller_verkauft": true,
@@ -599,6 +577,28 @@
     "spaet": false,
     "symbol": "WEIRDCAT",
     "t": 1795741268.404369
+   },
+   {
+    "dauer": 2.2747528553009033,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "FcuXjAcxC6YGWhhRYybrH4an8EpWNgWci6qU4moipump",
+    "name": "Blueface Official Coin",
+    "sol": 85.005359084,
+    "spaet": false,
+    "symbol": "Blueface",
+    "t": 1795741358.7460358
+   },
+   {
+    "dauer": 185.03111934661865,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "2tjm1sWVX8wFxVQrXbXK2LNLeno6JY9aWgY91x5Tpump",
+    "name": "falling guy",
+    "sol": 0.791883978,
+    "spaet": false,
+    "symbol": "fg",
+    "t": 1795741518.8660092
    }
   ],
   "uebersicht": 1795739768.4662964
