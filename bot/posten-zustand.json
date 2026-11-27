@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 528,
+ "laeufe": 529,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -247,26 +247,6 @@
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "mint": "2TjUpMTvXtqiSstnNxsKM9eLYyXQt99Pw5aNqWsbpump",
-    "spaet": true,
-    "t": 1795754214.4421299
-   },
-   {
-    "mint": "hRJuU9ZrSE157KhraijP7w7WbP6yhggtgaiW2TYpump",
-    "spaet": true,
-    "t": 1795754238.1437156
-   },
-   {
-    "mint": "B2tMivDWhhxJ5K6NN5jvXaNGzvWmDU465dEZvL5ppump",
-    "spaet": true,
-    "t": 1795754301.6048515
-   },
-   {
-    "mint": "4Df4YDXEYeCtEnMN6AM8sjKgoYmrgEgScPEnBeYvpump",
-    "spaet": true,
-    "t": 1795754424.9926379
-   },
    {
     "mint": "FCKMDhr7gFHHLrro98wbbq446er7bi1eufWrfGxupRUB",
     "spaet": true,
@@ -427,6 +407,17 @@
     "spaet": false,
     "symbol": "ATX",
     "t": 1795757608.318981
+   },
+   {
+    "dauer": 76.10783267021179,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "BZUYxHMqLXCZ5evWoBuagMfpeYtPSXzr8kHvqqL5pump",
+    "name": "Caveman Baby",
+    "sol": 85.00535906899998,
+    "spaet": false,
+    "symbol": "CaveBaby",
+    "t": 1795757800.8128347
    }
   ],
   "uebersicht": 1795754714.6155627
