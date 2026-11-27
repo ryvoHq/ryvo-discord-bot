@@ -293,43 +293,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 703,
+ "laeufe": 704,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "FL56MXZUBytpVy4WgjBzeJ1hTjVpVA72TQhHtoiTpump",
-    "spaet": true,
-    "t": 1795802649.9294915
-   },
-   {
-    "mint": "46HWndTsHthKcTPgHd5erPQmuA45staCmzQgdjS5pump",
-    "spaet": true,
-    "t": 1795802693.1589375
-   },
-   {
-    "dauer": 0.0005850791931152344,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "8LX2fFyENqu1R6bmzk461BH3ZPVbmpCpppe1K7Zcpump",
-    "name": "Togo",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "TOGO",
-    "t": 1795802730.0968103
-   },
-   {
-    "dauer": 0.0002048015594482422,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "4WZLGbAp6oEPxFbDcsfADCo1AgYZkfiteQhtM5iwpump",
-    "name": "Viking Cat",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "VICAT",
-    "t": 1795802866.9164839
-   },
    {
     "mint": "AFryXQmKrDEsvqLd8Cf3dSnm5hMW2qPXARU8MKZhpump",
     "spaet": true,
@@ -499,6 +467,33 @@
     "spaet": false,
     "symbol": "MAYA",
     "t": 1795806040.7028081
+   },
+   {
+    "dauer": 74.18211936950684,
+    "ersteller_verkauft": false,
+    "kaeufer": 102,
+    "mint": "8nd3NLZwt3B1NuXkZKcWw3hnGo9pLv891XsW5CDWpump",
+    "name": "Kettle Charity",
+    "sol": 45.749592449999994,
+    "spaet": false,
+    "symbol": "KETTLE",
+    "t": 1795806229.4016793
+   },
+   {
+    "dauer": 150.15801167488098,
+    "ersteller_verkauft": false,
+    "kaeufer": 292,
+    "mint": "2dynAjPBnkqzjUwozgn8pDRkCf7k7CDJkLfcf4rupump",
+    "name": "FARMCOIN",
+    "sol": 70.09807256899994,
+    "spaet": false,
+    "symbol": "FARM",
+    "t": 1795806308.598072
+   },
+   {
+    "mint": "AnJYu8n3Ei4D6imnUCQx1pt4D7Rcnoxs3MfongB9pump",
+    "spaet": true,
+    "t": 1795806479.0640347
    }
   ],
   "uebersicht": 1795804378.8469467
