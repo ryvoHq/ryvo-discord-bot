@@ -293,12 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 688,
+ "laeufe": 689,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795799489.8600817,
-   1795802239.8007863
+   1795802239.8007863,
+   1795802539.372874
   ],
   "stunde": [
    {
@@ -476,6 +477,22 @@
     "spaet": false,
     "symbol": "QUEEN",
     "t": 1795802203.1329565
+   },
+   {
+    "mint": "4TKxE1CC4W7sp6iLEJJUdUzgFRfxGAq7Kj46Rv2Qpump",
+    "spaet": true,
+    "t": 1795802491.637593
+   },
+   {
+    "dauer": 915.6762347221375,
+    "ersteller_verkauft": false,
+    "kaeufer": 399,
+    "mint": "xMi8Hh5i3pDPMsQLEo7Y84APrUqTJ5KHQ9HiXhApump",
+    "name": "Knoware",
+    "sol": 105.37964984499979,
+    "spaet": false,
+    "symbol": "Knoware",
+    "t": 1795802511.2752957
    }
   ],
   "uebersicht": 1795800739.3007104
