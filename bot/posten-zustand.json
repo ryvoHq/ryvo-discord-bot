@@ -239,46 +239,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 539,
+ "laeufe": 540,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "dauer": 155.74156284332275,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "7sVFQTnpENmgoSvLbDYspM6YfvppqAjYyFkLsgk6pump",
-    "name": "GLITCH ",
-    "sol": 1.999568889999999,
-    "spaet": false,
-    "symbol": "GLITCH",
-    "t": 1795757230.462959
-   },
-   {
-    "dauer": 222.65238881111145,
-    "ersteller_verkauft": true,
-    "kaeufer": 29,
-    "mint": "BVZfgD8aWLGqKhSpcnRNPD1LJpaC2U782m7g1Wmrpump",
-    "name": "dog think",
-    "sol": 2.138158353000001,
-    "spaet": false,
-    "symbol": "dogthink",
-    "t": 1795757280.3346555
-   },
-   {
-    "dauer": 527.4528782367706,
-    "ersteller_verkauft": false,
-    "kaeufer": 653,
-    "mint": "7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump",
-    "name": "キボウ",
-    "sol": 83.89364741599985,
-    "spaet": false,
-    "symbol": "Kibo",
-    "t": 1795757490.141464
-   },
    {
     "mint": "9WKx16VGPxYZGP2meCF1zRe1RPVnBQkCqv2Nacbpump",
     "spaet": true,
@@ -414,6 +381,33 @@
     "spaet": false,
     "symbol": "SHARK",
     "t": 1795760744.9170334
+   },
+   {
+    "dauer": 121.69579076766968,
+    "ersteller_verkauft": false,
+    "kaeufer": 15,
+    "mint": "AMe1kWWgf48wCZTfPAVEuPtLRN48p6nAp5Babx9Ypump",
+    "name": "GTA 6 x Solana",
+    "sol": 0.8351908089999999,
+    "spaet": false,
+    "symbol": "GTA6",
+    "t": 1795760812.6344397
+   },
+   {
+    "dauer": 253.34541511535645,
+    "ersteller_verkauft": true,
+    "kaeufer": 30,
+    "mint": "HHbhrayLYEzfvdfaS73uazUVPLzrU9E67xvWrQwfpump",
+    "name": "Bull",
+    "sol": -0.012377615000000468,
+    "spaet": false,
+    "symbol": "Bull",
+    "t": 1795760826.5578647
+   },
+   {
+    "mint": "6xjxZATYCFba8BFR1QrqyFvpro1EZCox2mGab6VXpump",
+    "spaet": true,
+    "t": 1795761036.6571572
    }
   ],
   "uebersicht": 1795758363.9843912
