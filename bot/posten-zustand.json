@@ -297,21 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 705,
+ "laeufe": 706,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "AFryXQmKrDEsvqLd8Cf3dSnm5hMW2qPXARU8MKZhpump",
-    "spaet": true,
-    "t": 1795803370.6924567
-   },
-   {
-    "mint": "6PFm828RKNJqKvjXQz82hhGvGNWFXZcBHNCF4U7spump",
-    "spaet": true,
-    "t": 1795803468.7281039
-   },
    {
     "mint": "8jMB4LYQH5vDEDWcqf2HfnTdSxguVtqCdcmQvg2Fpump",
     "spaet": true,
@@ -509,6 +499,22 @@
     "spaet": false,
     "symbol": "NVIDIA",
     "t": 1795806809.1705859
+   },
+   {
+    "dauer": 75.06905627250671,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "3L3zS81Hv7AiQnSoF59x9XXxUDMn4J7rGT2EBYF7pump",
+    "name": "wrappedape",
+    "sol": 0.5981544059999999,
+    "spaet": false,
+    "symbol": "wApe",
+    "t": 1795806864.1184711
+   },
+   {
+    "mint": "7au7hZMSaKbdzqV3tTLMe9tLbED1GCpxdDrR9cbpump",
+    "spaet": true,
+    "t": 1795807029.7479272
    }
   ],
   "uebersicht": 1795804378.8469467
