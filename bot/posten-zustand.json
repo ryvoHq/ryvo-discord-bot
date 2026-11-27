@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 630,
+ "laeufe": 631,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -287,17 +287,6 @@
    1795785497.8692348
   ],
   "stunde": [
-   {
-    "dauer": 123.80025506019592,
-    "ersteller_verkauft": false,
-    "kaeufer": 25,
-    "mint": "9voFCT3PsQJb3fjVdiJRuse6iaYtbqJikFEDP9Mvpump",
-    "name": "GTA VI online",
-    "sol": 0.08792143599999996,
-    "spaet": false,
-    "symbol": "GTAO",
-    "t": 1795782780.7237754
-   },
    {
     "dauer": 67.91508102416992,
     "ersteller_verkauft": true,
@@ -553,6 +542,17 @@
     "spaet": false,
     "symbol": "Rockstar G",
     "t": 1795785731.6298585
+   },
+   {
+    "dauer": 97.96297979354858,
+    "ersteller_verkauft": true,
+    "kaeufer": 163,
+    "mint": "2P5joHzWxkqqBvsQ1cHH1KyySk6Eg7obAjMjWWFbpump",
+    "name": "FLOAT",
+    "sol": 85.03389691699996,
+    "spaet": false,
+    "symbol": "FLOAT",
+    "t": 1795786289.9656541
    }
   ],
   "uebersicht": 1795785198.054407
