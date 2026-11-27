@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 507,
+ "laeufe": 508,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -433,6 +433,22 @@
     "mint": "bnTTyeUBVnq9b48dVBppTPka5zjpQMamApZsCZTpump",
     "spaet": true,
     "t": 1795751868.625349
+   },
+   {
+    "mint": "GqM69EbZ1awr1XWatbaEp3ew2EqZjLRmTxGvExTkpump",
+    "spaet": true,
+    "t": 1795752069.355564
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "CSUkyKnsEjGNoJVLyUEViRsRV29H5AweD5g884spump",
+    "name": "United Oil Dividend Fund",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "U0DF",
+    "t": 1795752095.113715
    }
   ],
   "uebersicht": 1795750736.6922324
@@ -447,16 +463,16 @@
  },
  "signale": {
   "fvg:BTC": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795748400000,
+   "zeit": 1795752273.778425
   },
   "fvg:ETH": {
-   "t": 1795734000000,
-   "zeit": 1795737628.4888701
+   "t": 1795748400000,
+   "zeit": 1795752273.778425
   },
   "fvg:SOL": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795748400000,
+   "zeit": 1795752273.778425
   },
   "fvg:xyz:GOLD": {
    "t": 1795744800000,
