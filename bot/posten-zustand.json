@@ -297,29 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 736,
+ "laeufe": 737,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795815396.2127461
   ],
   "stunde": [
-   {
-    "dauer": 28.823548555374146,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "BWMJs2is6ZyTE66p9Eu8MYp7SF4ReJYufQ84voPBpump",
-    "name": "mayhem",
-    "sol": 16.022744861,
-    "spaet": false,
-    "symbol": "mayhem",
-    "t": 1795811988.0823085
-   },
-   {
-    "mint": "21XniVJWfj4DZ9Gmxrn4Ja163Ei7G4temXXmzpFWpump",
-    "spaet": true,
-    "t": 1795812041.1404567
-   },
    {
     "mint": "FEnCus1V9QRjKGLLsWMhfwjHwASFHNn92xoq78Mrpump",
     "spaet": true,
@@ -517,9 +501,42 @@
     "spaet": false,
     "symbol": "CM",
     "t": 1795815320.8023005
+   },
+   {
+    "dauer": 295.90248346328735,
+    "ersteller_verkauft": false,
+    "kaeufer": 70,
+    "mint": "HKo6gJUfmBtGHHxBv7C4AboyXHbWQRDXEUtRYuPvpump",
+    "name": "Rockstar Games",
+    "sol": 81.31780590299998,
+    "spaet": false,
+    "symbol": "Rockstar",
+    "t": 1795815490.2223816
+   },
+   {
+    "dauer": 554.4138722419739,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "cQ2vCJrm4yzpJ1c8K9i7eBaM3AYCNwR823e9STGpump",
+    "name": "特斯拉",
+    "sol": 0.043760276000000015,
+    "spaet": false,
+    "symbol": "特斯拉",
+    "t": 1795815564.182261
+   },
+   {
+    "dauer": 39.065879821777344,
+    "ersteller_verkauft": true,
+    "kaeufer": 138,
+    "mint": "H9s9oEH7YMtLzT2hp86YP3QL1ocuqyeU8AsRqx5Tpump",
+    "name": "One Bot Can Change Your Life",
+    "sol": 52.84876333,
+    "spaet": false,
+    "symbol": "BOT",
+    "t": 1795815583.0572572
    }
   ],
-  "uebersicht": 1795811669.655001
+  "uebersicht": 1795815697.1042492
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
