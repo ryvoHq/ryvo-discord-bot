@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 501,
+ "laeufe": 502,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,28 +235,6 @@
    1795749536.9144933
   ],
   "stunde": [
-   {
-    "dauer": 188.71575260162354,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "6ty1i611s73pQtjUAhiXHbDMi7SJ1qSgTS7X9S5qpump",
-    "name": "Gucci Rick",
-    "sol": 0.6769248269999999,
-    "spaet": false,
-    "symbol": "RICK",
-    "t": 1795746889.0258133
-   },
-   {
-    "dauer": 129.9470829963684,
-    "ersteller_verkauft": false,
-    "kaeufer": 28,
-    "mint": "GhBFoe5oGN5VjfvkEN17TvKsJRB5mGYqmd7Mw1A7pump",
-    "name": "falling guy",
-    "sol": 0.3806806690000002,
-    "spaet": false,
-    "symbol": "fg",
-    "t": 1795747004.5233567
-   },
    {
     "dauer": 259.57245659828186,
     "ersteller_verkauft": false,
@@ -464,9 +442,14 @@
     "spaet": false,
     "symbol": "FLOAT",
     "t": 1795750318.5360518
+   },
+   {
+    "mint": "1FPJonsGnK5uHGUgot6GxFx3tF4eS1PezjxQWMupump",
+    "spaet": true,
+    "t": 1795750623.9090157
    }
   ],
-  "uebersicht": 1795747063.2995136
+  "uebersicht": 1795750736.6922324
  },
  "momentum_sperre": {
   "HYPE": 1795746465.6142428,
