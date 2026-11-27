@@ -288,36 +288,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 657,
+ "laeufe": 658,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795790049.7792227,
    1795793101.9646134
   ],
   "stunde": [
-   {
-    "dauer": 268.7552344799042,
-    "ersteller_verkauft": false,
-    "kaeufer": 36,
-    "mint": "4xxJrkSPHTfWUJ4XJfVJi6Qp2wDrdZdnbveZQB5Cpump",
-    "name": "WINSTON COIN OFFICIAL",
-    "sol": 0.37969797300000063,
-    "spaet": false,
-    "symbol": "WINSTON",
-    "t": 1795789892.542147
-   },
-   {
-    "dauer": 634.2122604846954,
-    "ersteller_verkauft": false,
-    "kaeufer": 603,
-    "mint": "39nuVgw8RCVC8PgGuuuaa8WoAERA61cTw85oUvBLT2va",
-    "name": "ComputeCoin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "COMPUTE",
-    "t": 1795790034.5164
-   },
    {
     "mint": "ZRpRXGP6LivoXZL5uagVtZSqzDeRSFA3yrc5sECpump",
     "spaet": true,
@@ -483,6 +460,11 @@
     "mint": "5rRxk9FC3ma11neg8BGLwTWxt4PokH19Y92sERwa2PJ3",
     "spaet": true,
     "t": 1795793250.4772365
+   },
+   {
+    "mint": "CMNHEatExv5pVVwAiRPLreNvbCZJsqRirsgLfvVBpump",
+    "spaet": true,
+    "t": 1795793660.169744
    }
   ],
   "uebersicht": 1795792501.9997852
