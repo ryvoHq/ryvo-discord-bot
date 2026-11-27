@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 495,
+ "laeufe": 496,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -236,33 +236,6 @@
    1795748337.0159345
   ],
   "stunde": [
-   {
-    "dauer": 56.129640340805054,
-    "ersteller_verkauft": true,
-    "kaeufer": 245,
-    "mint": "9eaQQrcwL6xMbYLeo8EQ3ysX8iR7HVzho9u5eqMLpump",
-    "name": "Evelyn",
-    "sol": 85.00535950399998,
-    "spaet": false,
-    "symbol": "EVELYN",
-    "t": 1795745089.4775023
-   },
-   {
-    "mint": "8NoW8Er8RQK4LNnfLbt9FCzkmtNAGHUhZYHMKqUDpump",
-    "spaet": true,
-    "t": 1795745176.2121081
-   },
-   {
-    "dauer": 87.62598323822021,
-    "ersteller_verkauft": true,
-    "kaeufer": 169,
-    "mint": "BWEu8LQjShhCQFuYKEfKtnDXxahAsk4Ffw5qY3yrpump",
-    "name": "Cash Inu",
-    "sol": 84.76393288499996,
-    "spaet": false,
-    "symbol": "CI",
-    "t": 1795745194.2451217
-   },
    {
     "dauer": 118.26960325241089,
     "ersteller_verkauft": true,
@@ -540,6 +513,17 @@
     "spaet": false,
     "symbol": "HALH",
     "t": 1795748341.219816
+   },
+   {
+    "dauer": 82.2299280166626,
+    "ersteller_verkauft": true,
+    "kaeufer": 291,
+    "mint": "J2We8huLbXG4Ueij766B6Yzjg3Ktf2qH5zhaD3cDpump",
+    "name": "Solana Capybara",
+    "sol": 68.37909528099975,
+    "spaet": false,
+    "symbol": "SOLCAP",
+    "t": 1795748823.0467286
    }
   ],
   "uebersicht": 1795747063.2995136
