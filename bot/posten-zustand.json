@@ -288,7 +288,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 661,
+ "laeufe": 662,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -296,39 +296,6 @@
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 250.37843871116638,
-    "ersteller_verkauft": true,
-    "kaeufer": 129,
-    "mint": "CD3FhmXXDGRByT3cfzjnbZLVwjmRh4Fnmv9YvXC1pump",
-    "name": "DacityCoin",
-    "sol": 82.81700842699998,
-    "spaet": false,
-    "symbol": "DCTY",
-    "t": 1795791096.3129063
-   },
-   {
-    "dauer": 122.43333554267883,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "83QiGr2Xgw15ja5BkRr86WjjULHQxgis38ygM6hopump",
-    "name": "OTTERPRENEUR",
-    "sol": 1.7117272840000008,
-    "spaet": false,
-    "symbol": "OTTER",
-    "t": 1795791180.7943492
-   },
-   {
-    "dauer": 327.7596197128296,
-    "ersteller_verkauft": false,
-    "kaeufer": 31,
-    "mint": "9ZD6Z8u6BRbc3UtUzBmhRJNcBXh4kzgcPusr5RSTpump",
-    "name": "Thankful",
-    "sol": 0.8818991100000002,
-    "spaet": false,
-    "symbol": "THX",
-    "t": 1795791295.8207483
-   },
    {
     "dauer": 108.189049243927,
     "ersteller_verkauft": false,
@@ -504,6 +471,17 @@
     "spaet": false,
     "symbol": "sale",
     "t": 1795794471.603825
+   },
+   {
+    "dauer": 415.06639528274536,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "G8os7xSWmDBuvG9oGX2XoApmH2hp7cKAU4ywLb9pump",
+    "name": "DeadBullLabs",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SATAN",
+    "t": 1795794677.43462
    }
   ],
   "uebersicht": 1795792501.9997852
