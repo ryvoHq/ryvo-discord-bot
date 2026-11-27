@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 763,
+ "laeufe": 764,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -512,6 +512,33 @@
     "spaet": false,
     "symbol": "GIGACAT",
     "t": 1795822780.6517925
+   },
+   {
+    "mint": "H91uyMDK5au3v8JF33b6kdp45Ytbt6Wz4XxSgR9Npump",
+    "spaet": true,
+    "t": 1795823102.5195107
+   },
+   {
+    "dauer": 30.12178325653076,
+    "ersteller_verkauft": true,
+    "kaeufer": 171,
+    "mint": "4MwJyVAvVym257DiiCVm2BNfe4bpQavDSWg9hTgTpump",
+    "name": "The Tailers",
+    "sol": 85.00535932699998,
+    "spaet": false,
+    "symbol": "Tailers",
+    "t": 1795823103.632596
+   },
+   {
+    "dauer": 190.05169701576233,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "8ZAm19CBczWwbKG7ZjPxVQ2KHLsGGDFSRndkd8i1pump",
+    "name": "Gucci Rick",
+    "sol": 0.6009486919999999,
+    "spaet": false,
+    "symbol": "RICK",
+    "t": 1795823105.0220344
    }
   ],
   "uebersicht": 1795823000.229913
