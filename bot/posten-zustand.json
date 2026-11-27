@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 520,
+ "laeufe": 521,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -249,33 +249,6 @@
    1795753774.69686
   ],
   "stunde": [
-   {
-    "mint": "GqM69EbZ1awr1XWatbaEp3ew2EqZjLRmTxGvExTkpump",
-    "spaet": true,
-    "t": 1795752069.355564
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "CSUkyKnsEjGNoJVLyUEViRsRV29H5AweD5g884spump",
-    "name": "United Oil Dividend Fund",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "U0DF",
-    "t": 1795752095.113715
-   },
-   {
-    "dauer": 1519.132756948471,
-    "ersteller_verkauft": false,
-    "kaeufer": 833,
-    "mint": "99pk7cSQKy42s7fnsNq6E3pCZPLTJCjPM6WeQo98pump",
-    "name": "Rolana",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Rolana",
-    "t": 1795752314.400973
-   },
    {
     "dauer": 1369.9795377254486,
     "ersteller_verkauft": false,
@@ -402,6 +375,28 @@
     "spaet": false,
     "symbol": "CaveBaby",
     "t": 1795755108.0424592
+   },
+   {
+    "dauer": 82.48400735855103,
+    "ersteller_verkauft": false,
+    "kaeufer": 151,
+    "mint": "AeNY1zJWSfXNo6n24MBVzVu59b2wDitLL96bkNnRpump",
+    "name": "MrBeast",
+    "sol": 85.00535939699988,
+    "spaet": false,
+    "symbol": "BEAST",
+    "t": 1795755622.925417
+   },
+   {
+    "dauer": 210.59032726287842,
+    "ersteller_verkauft": false,
+    "kaeufer": 140,
+    "mint": "CmZcJVr3zmyz6bHP9jHY2J1BZ4ZYng9z2DSGaZtrpump",
+    "name": "Basket",
+    "sol": 85.08574864100001,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795755787.4809124
    }
   ],
   "uebersicht": 1795754714.6155627
