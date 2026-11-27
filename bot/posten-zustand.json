@@ -252,24 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 582,
+ "laeufe": 583,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795772057.8708842
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "HSbk2kPyr4uAkEHpcYyD89MHpzNshLbijZJNdD2fpump",
-    "name": "Rockstar Games",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Rockstar",
-    "t": 1795769387.7276309
-   },
    {
     "mint": "8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
     "spaet": true,
@@ -431,6 +420,28 @@
     "mint": "EvEo6NGk7uDLcvZa3tUigiu5svFsEkpzbbdimK2spump",
     "spaet": true,
     "t": 1795772664.9897752
+   },
+   {
+    "dauer": 285.8706967830658,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "2UMEV8EnNykjzEKPFej3Zw139stga7LpmPiAEUbapump",
+    "name": "crihmas",
+    "sol": -0.683467372,
+    "spaet": false,
+    "symbol": "cms",
+    "t": 1795772808.3659167
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "8G88UysvMSjQk75HGgLRzHoRiYwWUBEo6gb5QJ5hpump",
+    "name": "Pompompurin",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Pompom",
+    "t": 1795772966.5885007
    }
   ],
   "uebersicht": 1795769956.7683537
