@@ -301,48 +301,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 754,
+ "laeufe": 755,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795817196.0699837,
    1795817496.3342245,
    1795820261.4755316
   ],
   "stunde": [
-   {
-    "dauer": 214.54688572883606,
-    "ersteller_verkauft": false,
-    "kaeufer": 17,
-    "mint": "AZNAmeeuZFyJmtDmjWBjb8MbGRMWjxUMzWTFLEhypump",
-    "name": "100M$",
-    "sol": 0.59228942,
-    "spaet": false,
-    "symbol": "100M$",
-    "t": 1795817001.7026906
-   },
-   {
-    "dauer": 1555.9781517982483,
-    "ersteller_verkauft": false,
-    "kaeufer": 719,
-    "mint": "Xb6V46U9hHHxiJnoAFxiEqEh59owzdt1ZL9q5zpVSoL",
-    "name": "Solana",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Sol",
-    "t": 1795817064.613483
-   },
-   {
-    "dauer": 873.1466996669769,
-    "ersteller_verkauft": true,
-    "kaeufer": 856,
-    "mint": "GVaUm3JTJuzA8rv8JBGBQK1BbF8ruiM2sRxwDGyMpump",
-    "name": "Pairing Markets",
-    "sol": 56.5010341639993,
-    "spaet": false,
-    "symbol": "PAIRING",
-    "t": 1795817240.218021
-   },
    {
     "dauer": 293.67042112350464,
     "ersteller_verkauft": true,
@@ -448,6 +414,22 @@
     "mint": "SjVFmcRwepM5N5Bp9GXjCkDe24knT1Ymh6MAiYdpump",
     "spaet": true,
     "t": 1795820354.6366653
+   },
+   {
+    "mint": "AXHMGojYf5UB1PmTpMeWhM1UR9GRUP8ejLeBZ2cWpump",
+    "spaet": true,
+    "t": 1795820766.844417
+   },
+   {
+    "dauer": 409.2594721317291,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "9tA3nqqJqYJTH6ukAsWS1YJApFQaXvzBq3EwaLEHpump",
+    "name": "Black Friday Kitty",
+    "sol": 0.4917032840000003,
+    "spaet": false,
+    "symbol": "$BFKITTY",
+    "t": 1795820800.8096857
    }
   ],
   "uebersicht": 1795819361.7479584
