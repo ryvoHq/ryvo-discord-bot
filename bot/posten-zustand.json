@@ -259,46 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 587,
+ "laeufe": 588,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795772057.8708842
   ],
   "stunde": [
-   {
-    "dauer": 23.529372453689575,
-    "ersteller_verkauft": false,
-    "kaeufer": 5,
-    "mint": "BWjnDKBiVzHmw46ra3s2PuR1AWiS5SNcLXPiB8zfy1hp",
-    "name": "flywheel",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "FLYWHEEL",
-    "t": 1795770620.5026004
-   },
-   {
-    "dauer": 66.8949921131134,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "5mNPvGReeHk2yeYgQBxzu8fsesdwEkzNikvi9QnQpump",
-    "name": "Mi Hao Cat",
-    "sol": 2.08213295,
-    "spaet": false,
-    "symbol": "MiHaoCat",
-    "t": 1795770830.6839213
-   },
-   {
-    "dauer": 1729.8767311573029,
-    "ersteller_verkauft": false,
-    "kaeufer": 156,
-    "mint": "3ZCjXnPCNDkmwbFmaty5WrD8A1vQ5oG2z2fmT5QUpump",
-    "name": "Jensen Is Back",
-    "sol": 85.005359547,
-    "spaet": false,
-    "symbol": "JENSEN",
-    "t": 1795770889.2504137
-   },
    {
     "mint": "BfBjraPGZns5cc3gFx7HQva9vSAQzBBjWPvZc49Wpump",
     "spaet": true,
@@ -487,6 +454,44 @@
     "spaet": false,
     "symbol": "Muffin",
     "t": 1795774125.8988323
+   },
+   {
+    "dauer": 100.19624352455139,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "84Qck2pv8YMDDAHR5y53iWSketJP77kGauLXCrxTpump",
+    "name": "Carry",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "CARRY",
+    "t": 1795774256.204549
+   },
+   {
+    "dauer": 37.0599730014801,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "9K9KDsnhTfuZxH9B9cXNExhsbXfJSBdUQeLXPG3zpump",
+    "name": "CATECOIN",
+    "sol": 3.8486000650000003,
+    "spaet": false,
+    "symbol": "$CAT",
+    "t": 1795774358.2159119
+   },
+   {
+    "dauer": 99.79673194885254,
+    "ersteller_verkauft": true,
+    "kaeufer": 137,
+    "mint": "HmpBJMhMP7G5AWewpXQEqij5eGduJXiGS1fG69ftpump",
+    "name": "ni hao cat",
+    "sol": 85.00535926000002,
+    "spaet": false,
+    "symbol": "mihao",
+    "t": 1795774363.98542
+   },
+   {
+    "mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+    "spaet": true,
+    "t": 1795774377.936016
    }
   ],
   "uebersicht": 1795773601.8562944
