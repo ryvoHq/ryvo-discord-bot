@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 457,
+ "laeufe": 458,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -230,33 +230,6 @@
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "mint": "8TyoqSMouLjxh1kM1yApR9dZSS5Chgkh2puq25JTpump",
-    "spaet": true,
-    "t": 1795734757.6927328
-   },
-   {
-    "dauer": 127.14892888069153,
-    "ersteller_verkauft": true,
-    "kaeufer": 214,
-    "mint": "EAkpnBwTP5LAdeLaQSx9fTGhtqJtpHGi5a5qTCucpump",
-    "name": "There's our little investor",
-    "sol": 77.5319322919999,
-    "spaet": false,
-    "symbol": "Investor",
-    "t": 1795734797.451895
-   },
-   {
-    "dauer": 60.57804894447327,
-    "ersteller_verkauft": true,
-    "kaeufer": 199,
-    "mint": "AbDzNKdwdaWNPKJbv8RSCwjXnnkh3F2zeFwL5obhpump",
-    "name": "Sxlana",
-    "sol": 72.54964042099996,
-    "spaet": false,
-    "symbol": "SXLA",
-    "t": 1795734900.5341706
-   },
    {
     "mint": "5EE52BuCsLTKC9kmNCeAMcJguBk9u8KYr7rCRpeApump",
     "spaet": true,
@@ -551,6 +524,39 @@
     "spaet": false,
     "symbol": "USEF",
     "t": 1795738090.8580117
+   },
+   {
+    "dauer": 65.50577807426453,
+    "ersteller_verkauft": true,
+    "kaeufer": 289,
+    "mint": "FC98w6siZEqZ6DHxRhifgy7k7mk5W4txKPkNbi4Ppump",
+    "name": "Cat",
+    "sol": 83.42269616899996,
+    "spaet": false,
+    "symbol": "CAT",
+    "t": 1795738296.2821748
+   },
+   {
+    "dauer": 941.0809240341187,
+    "ersteller_verkauft": false,
+    "kaeufer": 145,
+    "mint": "7MPeiHqWELK5yxf9MziU6JFSKfbqYpgHRJoxtjQRpump",
+    "name": "Basket",
+    "sol": 85.00535925999998,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795738494.400225
+   },
+   {
+    "dauer": 435.94288063049316,
+    "ersteller_verkauft": false,
+    "kaeufer": 148,
+    "mint": "5e1rKGDLcY7BfYur2dtT5ySesXD32KZy7xg3Hnzipump",
+    "name": "TOGI",
+    "sol": 80.52637742,
+    "spaet": false,
+    "symbol": "TOGI",
+    "t": 1795738526.327501
    }
   ],
   "uebersicht": 1795735188.828268
