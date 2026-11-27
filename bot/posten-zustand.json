@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 503,
+ "laeufe": 504,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,28 +235,6 @@
    1795749536.9144933
   ],
   "stunde": [
-   {
-    "dauer": 259.57245659828186,
-    "ersteller_verkauft": false,
-    "kaeufer": 50,
-    "mint": "E6LskUHLpPb4QurJaRUyFaGMAZjVLVQCSYtgcqifpump",
-    "name": "ronney",
-    "sol": 0.06471973500000057,
-    "spaet": false,
-    "symbol": "rny",
-    "t": 1795747293.4968169
-   },
-   {
-    "dauer": 566.4210543632507,
-    "ersteller_verkauft": false,
-    "kaeufer": 32,
-    "mint": "Gm1mJ86rLtWuBZgbK2jAt2uDXW361yhtGrQyLETjpump",
-    "name": "NativeCoin",
-    "sol": 0.15477855100000054,
-    "spaet": false,
-    "symbol": "Native",
-    "t": 1795747405.3785214
-   },
    {
     "dauer": 279.40957975387573,
     "ersteller_verkauft": false,
@@ -447,6 +425,27 @@
     "mint": "1FPJonsGnK5uHGUgot6GxFx3tF4eS1PezjxQWMupump",
     "spaet": true,
     "t": 1795750623.9090157
+   },
+   {
+    "mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+    "spaet": true,
+    "t": 1795750815.9182575
+   },
+   {
+    "mint": "ELQkmQGUwRHr1gjAhgKwhjsuYq6tWkJcJv3W9G1Epump",
+    "spaet": true,
+    "t": 1795750823.6873622
+   },
+   {
+    "dauer": 25.886399507522583,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "AU4LHmRuYj8y6Juf5nXMX5ZPrnvry6ertS8f3TT4pump",
+    "name": "Retarded Slop Ape Official",
+    "sol": 22.621675624,
+    "spaet": false,
+    "symbol": "RSA",
+    "t": 1795751044.3638194
    }
   ],
   "uebersicht": 1795750736.6922324
