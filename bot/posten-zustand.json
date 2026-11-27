@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 692,
+ "laeufe": 693,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,16 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "mint": "9qXQCUDwgkyQM9yPWeXQVLpaU6ndoMN1JJpz4cqpump",
-    "spaet": true,
-    "t": 1795799617.1718566
-   },
-   {
-    "mint": "9uKoEdAqxq5VESQSFe2u3epVjtQB4N1E4B75M8Cvpump",
-    "spaet": true,
-    "t": 1795799705.3510213
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -513,6 +503,16 @@
     "spaet": false,
     "symbol": "VICAT",
     "t": 1795802866.9164839
+   },
+   {
+    "mint": "AFryXQmKrDEsvqLd8Cf3dSnm5hMW2qPXARU8MKZhpump",
+    "spaet": true,
+    "t": 1795803370.6924567
+   },
+   {
+    "mint": "6PFm828RKNJqKvjXQz82hhGvGNWFXZcBHNCF4U7spump",
+    "spaet": true,
+    "t": 1795803468.7281039
    }
   ],
   "uebersicht": 1795800739.3007104
