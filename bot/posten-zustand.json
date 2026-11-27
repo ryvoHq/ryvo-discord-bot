@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 635,
+ "laeufe": 636,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -287,17 +287,6 @@
    1795786697.463176
   ],
   "stunde": [
-   {
-    "dauer": 135.90585851669312,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "A3HegVnqLdf3285Ue6GL1toSFtq2McXHN3DJGj5Apump",
-    "name": "dogbaton",
-    "sol": 0.15592390299999973,
-    "spaet": false,
-    "symbol": "dogbaton",
-    "t": 1795783977.6131248
-   },
    {
     "dauer": 2013.9634637832642,
     "ersteller_verkauft": false,
@@ -537,6 +526,22 @@
     "spaet": false,
     "symbol": "MGOAT",
     "t": 1795787290.8184536
+   },
+   {
+    "mint": "F5LxbqJxAMrvfxLbqPckErmqNyiPzDJMUXnX8vrhpump",
+    "spaet": true,
+    "t": 1795787399.126098
+   },
+   {
+    "dauer": 39.20856332778931,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "UNbKH8mEE8YEywdPXNcZEiWDRSUYwKLhacQQ2n4pump",
+    "name": "Froggies Token",
+    "sol": 85.00535906499998,
+    "spaet": false,
+    "symbol": "FRGST",
+    "t": 1795787647.674513
    }
   ],
   "uebersicht": 1795785198.054407
