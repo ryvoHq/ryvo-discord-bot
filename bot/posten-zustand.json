@@ -259,22 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 612,
+ "laeufe": 613,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 177.9718849658966,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "4NeTQA9prELGoHQkUyhiRM4zhnG8ggRHKAX9q6Uqpump",
-    "name": "AURACOIN",
-    "sol": 0.37635065200000006,
-    "spaet": false,
-    "symbol": "AURita",
-    "t": 1795777621.4608757
-   },
    {
     "mint": "DWmRHeW48y9pCgQGpaNVd3vtCUH2s2gCqpDfxda8pump",
     "spaet": true,
