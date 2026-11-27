@@ -1,7 +1,7 @@
 {
  "aktien_tag": "2026-11-26",
  "board_nachricht": "1575119657957064872",
- "chart_tag": "2026-11-26",
+ "chart_tag": "2026-11-27",
  "ebenen_krypto": "2026-11-27",
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-26",
@@ -235,31 +235,15 @@
   "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
  ],
  "indizes_tag": "2026-11-26",
- "krypto_tag": "2026-11-26",
+ "krypto_tag": "2026-11-27",
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 545,
+ "laeufe": 546,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "7Bf2bYAG9wjYB2GaYAe4Haczh4qNFMa5QH2EQLVWpump",
-    "spaet": true,
-    "t": 1795759049.2851653
-   },
-   {
-    "dauer": 132.31765031814575,
-    "ersteller_verkauft": false,
-    "kaeufer": 10,
-    "mint": "43GGzLyNpmS1vJriFdd1AjU2pR5zPaUzGPA6JFtspump",
-    "name": "FreakHouse",
-    "sol": 0.634019881,
-    "spaet": false,
-    "symbol": "FHC",
-    "t": 1795759177.8455033
-   },
    {
     "mint": "D62Y491GnbypoZfpdec26jGhF6Jv5NNZxLjUHfiapump",
     "spaet": true,
@@ -492,8 +476,8 @@
    "zeit": 1795759262.4776418
   },
   "smt:xyz:SP500:xyz:XYZ100": {
-   "t": 1795708800000,
-   "zeit": 1795712637.000635
+   "t": 1795759200000,
+   "zeit": 1795762909.7308035
   }
  },
  "status_nachricht": "1575110333385801839",
