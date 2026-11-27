@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 684,
+ "laeufe": 685,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,11 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "mint": "cR6BbS1RBej9LqYZeES61Jp223KNJPRBnritbMmpump",
-    "spaet": true,
-    "t": 1795797440.388584
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -477,6 +472,16 @@
     "spaet": false,
     "symbol": "TOGO",
     "t": 1795800961.8430183
+   },
+   {
+    "mint": "H71okKKShRTjCDh6KtiDBZ3DBKzUNofTV1jnEV3epump",
+    "spaet": true,
+    "t": 1795801200.6795924
+   },
+   {
+    "mint": "8adjHy6G8E93dje6eMH2q3bGSTp7pV6CdCfmtX62pump",
+    "spaet": true,
+    "t": 1795801223.53639
    }
   ],
   "uebersicht": 1795800739.3007104
@@ -484,7 +489,7 @@
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
   "ETH": 1795791003.9843273,
-  "HYPE": 1795790350.9807532,
+  "HYPE": 1795801340.5389876,
   "MOODENG": 1795682429.2791297,
   "SOL": 1795791003.9843273,
   "XRP": 1795791003.9843273,
