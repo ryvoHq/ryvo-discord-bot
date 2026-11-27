@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 746,
+ "laeufe": 747,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,33 +311,6 @@
    1795817496.3342245
   ],
   "stunde": [
-   {
-    "dauer": 130.14288544654846,
-    "ersteller_verkauft": true,
-    "kaeufer": 389,
-    "mint": "8sWubkEFZFAzBUGF7YvqRZD8HrPBwZ9swtgDGYRjpump",
-    "name": "Grok Bot Inu",
-    "sol": 86.78788119500001,
-    "spaet": false,
-    "symbol": "BOT",
-    "t": 1795814614.6017475
-   },
-   {
-    "dauer": 76.54289412498474,
-    "ersteller_verkauft": true,
-    "kaeufer": 273,
-    "mint": "eqoWGkyCaoJYdbjZvjJWonhNF1zhCxGdtb49pBapump",
-    "name": "bear inu",
-    "sol": 85.00535941199998,
-    "spaet": false,
-    "symbol": "BI",
-    "t": 1795814707.8408422
-   },
-   {
-    "mint": "cKt65KnZpXVyrEzyQY95ST6vN5axeMsZVvPgwqRpump",
-    "spaet": true,
-    "t": 1795814815.329935
-   },
    {
     "mint": "G43T82ThfSdVf2XBNXHBLjthWwNMCx4W9LzfwfsWpump",
     "spaet": true,
