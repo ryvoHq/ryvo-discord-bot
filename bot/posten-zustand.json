@@ -227,35 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 471,
+ "laeufe": 472,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 941.0809240341187,
-    "ersteller_verkauft": false,
-    "kaeufer": 145,
-    "mint": "7MPeiHqWELK5yxf9MziU6JFSKfbqYpgHRJoxtjQRpump",
-    "name": "Basket",
-    "sol": 85.00535925999998,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795738494.400225
-   },
-   {
-    "dauer": 435.94288063049316,
-    "ersteller_verkauft": false,
-    "kaeufer": 148,
-    "mint": "5e1rKGDLcY7BfYur2dtT5ySesXD32KZy7xg3Hnzipump",
-    "name": "TOGI",
-    "sol": 80.52637742,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795738526.327501
-   },
    {
     "mint": "BidVprwobLJuGtdCDo9xdFFiFJbaydscuQswwnzSpump",
     "spaet": true,
@@ -566,6 +544,28 @@
     "mint": "3JFYQq12QtD8T1wbcgo8bUU66gc5E2YkJFjBKwMCD7xE",
     "spaet": true,
     "t": 1795741700.083229
+   },
+   {
+    "dauer": 45.98030185699463,
+    "ersteller_verkauft": false,
+    "kaeufer": 156,
+    "mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+    "name": "Buttercup",
+    "sol": 46.85085983099999,
+    "spaet": false,
+    "symbol": "Buttercup",
+    "t": 1795741999.0328004
+   },
+   {
+    "dauer": 113.00450372695923,
+    "ersteller_verkauft": true,
+    "kaeufer": 369,
+    "mint": "42YmKSGkLyazwYLENJFQf58wxvsfbtwJsr3bHjQUpump",
+    "name": "Ozzy",
+    "sol": 77.60738404399996,
+    "spaet": false,
+    "symbol": "Ozzy",
+    "t": 1795742058.132719
    }
   ],
   "uebersicht": 1795739768.4662964
