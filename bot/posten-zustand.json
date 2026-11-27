@@ -252,35 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 581,
+ "laeufe": 582,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795772057.8708842
   ],
   "stunde": [
-   {
-    "dauer": 23.389883279800415,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "4ZqdJyrTJctd2VTZRAiiLTUCWoAgzF9j1TfYv7rWpump",
-    "name": "MOSTO",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "MOSTO",
-    "t": 1795768838.0871265
-   },
-   {
-    "dauer": 238.10386109352112,
-    "ersteller_verkauft": true,
-    "kaeufer": 12,
-    "mint": "5VRymyDciANxMyz31NPmHQ39DUkobHcjDrujTyEXpump",
-    "name": "ATH",
-    "sol": 0.6245932560000003,
-    "spaet": false,
-    "symbol": "ATH",
-    "t": 1795769001.5900903
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -437,6 +415,22 @@
     "spaet": false,
     "symbol": "NVIDIA",
     "t": 1795771879.7520611
+   },
+   {
+    "dauer": 33.52872586250305,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+    "name": "The Blind Guardian",
+    "sol": 85.00535906899997,
+    "spaet": false,
+    "symbol": "Estanislao",
+    "t": 1795772584.9274395
+   },
+   {
+    "mint": "EvEo6NGk7uDLcvZa3tUigiu5svFsEkpzbbdimK2spump",
+    "spaet": true,
+    "t": 1795772664.9897752
    }
   ],
   "uebersicht": 1795769956.7683537
