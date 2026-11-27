@@ -252,18 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 583,
+ "laeufe": 584,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795772057.8708842
   ],
   "stunde": [
-   {
-    "mint": "8YZN5zuvpzBMkQAPPm1m3GwMCWc5EcSKKu4RjNhfpump",
-    "spaet": true,
-    "t": 1795769630.778836
-   },
    {
     "mint": "9QYNCKc4Fnc4pFsmpjZhBq6odhooQbJdRz1eExc2pump",
     "spaet": true,
@@ -442,6 +437,22 @@
     "spaet": false,
     "symbol": "Pompom",
     "t": 1795772966.5885007
+   },
+   {
+    "dauer": 211.49590039253235,
+    "ersteller_verkauft": true,
+    "kaeufer": 27,
+    "mint": "AKAdkrAwKy4nb9dD81WitbgpUm3RfV6aBqMyvjcRpump",
+    "name": "Rice Inu",
+    "sol": 0.13144290199999994,
+    "spaet": false,
+    "symbol": "RI",
+    "t": 1795773014.1944683
+   },
+   {
+    "mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+    "spaet": true,
+    "t": 1795773121.9823735
    }
   ],
   "uebersicht": 1795769956.7683537
