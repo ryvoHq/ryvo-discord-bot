@@ -259,40 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 588,
+ "laeufe": 589,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795772057.8708842
   ],
   "stunde": [
-   {
-    "mint": "BfBjraPGZns5cc3gFx7HQva9vSAQzBBjWPvZc49Wpump",
-    "spaet": true,
-    "t": 1795770946.0381463
-   },
-   {
-    "dauer": 446.6992223262787,
-    "ersteller_verkauft": false,
-    "kaeufer": 173,
-    "mint": "5r46BtNjKhSGgFuqj6n9tcbFY2Uk7YX9bSjDz4ZQmwdS",
-    "name": "coin",
-    "sol": 82.063309194,
-    "spaet": false,
-    "symbol": "COIN",
-    "t": 1795770986.5246131
-   },
-   {
-    "dauer": 34.50611686706543,
-    "ersteller_verkauft": true,
-    "kaeufer": 19,
-    "mint": "EKJWntD7EdE1FvsyRz1cPYzwgty1eFuYHSbzduxfpump",
-    "name": "adolf musk",
-    "sol": 3.054251416,
-    "spaet": false,
-    "symbol": "amusk",
-    "t": 1795771143.518988
-   },
    {
     "dauer": 483.40456438064575,
     "ersteller_verkauft": false,
@@ -492,6 +465,33 @@
     "mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
     "spaet": true,
     "t": 1795774377.936016
+   },
+   {
+    "dauer": 93.706707239151,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "EDEuB9VRTrHc3LwS9dJapieyKhKHod2xEmXwFeDgpump",
+    "name": "DOGE PAID",
+    "sol": 0.3250529009999999,
+    "spaet": false,
+    "symbol": "DOGE PAID",
+    "t": 1795774544.34156
+   },
+   {
+    "dauer": 84.97207713127136,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "DRaEFN5bA2AzXS51YvakQyzNapSb2KFAS5pyduKmpump",
+    "name": "dog wif cap",
+    "sol": 1.3866238619999989,
+    "spaet": false,
+    "symbol": "cap",
+    "t": 1795774551.806369
+   },
+   {
+    "mint": "8we9RFYkHS7RAMtFbHAwwkcWM1UoxLDJXNpABgSXpump",
+    "spaet": true,
+    "t": 1795774695.4762983
    }
   ],
   "uebersicht": 1795773601.8562944
