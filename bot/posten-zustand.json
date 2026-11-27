@@ -259,37 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 615,
+ "laeufe": 616,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 10.114858627319336,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "EYZgeSoKUP7ZmfLwn8V7rh54sPhMCJ4NK2QmdwKwpump",
-    "name": "inu",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "INU",
-    "t": 1795778350.2461998
-   },
-   {
-    "mint": "D212bxvGQPrKJ4vppJ1iRG3tyBUXF1tK5r9WaEZapump",
-    "spaet": true,
-    "t": 1795778375.1214387
-   },
-   {
-    "mint": "A5Rk3bcpKxjPuruDLEF9DTpq31Xob4Dz4scYsjzspump",
-    "spaet": true,
-    "t": 1795778439.2546682
-   },
-   {
-    "mint": "BNqkEQ6127DmtN2AyNFpUxAEVE3MZFd7txtXLUfTpump",
-    "spaet": true,
-    "t": 1795778535.107943
-   },
    {
     "mint": "8fgwgLi4qLs4x2V9qTXCTgtWtuAUHqU68jbcy9ypump",
     "spaet": true,
@@ -508,6 +482,44 @@
     "mint": "4vCuJEGoiP1g7KUKRj8NTE2ep73Tz5anhxYrnr8HnoEy",
     "spaet": true,
     "t": 1795781792.5027878
+   },
+   {
+    "dauer": 171.3320095539093,
+    "ersteller_verkauft": false,
+    "kaeufer": 146,
+    "mint": "EKBxs1wPrFg1SHWXMAfJyP4TVnEJ4PVcQN77e2CDpump",
+    "name": "Liquid Sol",
+    "sol": 85.00985923499988,
+    "spaet": false,
+    "symbol": "LIQSOL",
+    "t": 1795781871.0662515
+   },
+   {
+    "mint": "56kieEnC8nQZJP17hjSsrybT3gor7RL2cnXqGcjgpump",
+    "spaet": true,
+    "t": 1795781897.1886475
+   },
+   {
+    "dauer": 74.42111802101135,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "28EWy7kkFkqzfT1DWJe2365WAAejeDy46xgmKA8Kpump",
+    "name": "arm",
+    "sol": 0.24763730899999986,
+    "spaet": false,
+    "symbol": "arm",
+    "t": 1795782022.6193392
+   },
+   {
+    "dauer": 175.59992742538452,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "ExpdNM5YykDnGTmyxCH5B3s7mdWi1cEreDvK6ic8pump",
+    "name": "Choking Cat",
+    "sol": 85.00535907899999,
+    "spaet": false,
+    "symbol": "ChokingCat",
+    "t": 1795782061.9173307
    }
   ],
   "uebersicht": 1795780902.3769503
