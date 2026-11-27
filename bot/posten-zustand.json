@@ -221,52 +221,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 462,
+ "laeufe": 463,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795736127.7741737,
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "mint": "FxWDDcxosMaRnFRzzDQisFjN4a5Gip5ECs7MtsQYFLoW",
-    "spaet": true,
-    "t": 1795735953.4485555
-   },
-   {
-    "dauer": 48.512616872787476,
-    "ersteller_verkauft": true,
-    "kaeufer": 202,
-    "mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
-    "name": "North Korean captcha",
-    "sol": 75.68487601399998,
-    "spaet": false,
-    "symbol": "FKim",
-    "t": 1795735964.0861464
-   },
-   {
-    "dauer": 0.0009641647338867188,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "9J2cy3AfDquDDKqjteYaFSrYEvUAGnb1Qxw8pZQApump",
-    "name": "Vetocat",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Vetocat",
-    "t": 1795736000.2921693
-   },
-   {
-    "dauer": 406.32830262184143,
-    "ersteller_verkauft": true,
-    "kaeufer": 638,
-    "mint": "81TW4gTEH4aNsSaKCoBhoznx9AG8AiYoBXfvEzJkpump",
-    "name": "Togi Coin",
-    "sol": 99.99828731699985,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795736042.5048656
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -562,9 +523,25 @@
     "spaet": false,
     "symbol": "FI",
     "t": 1795739369.7870286
+   },
+   {
+    "mint": "2dD94Lhoscbn7WUiFmDH9pxokErcTEZymbkH6RGNpump",
+    "spaet": true,
+    "t": 1795739476.9368873
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "4yQ24u7SKGRXUkYgfpgsDCHy5WmkFEECsqpkLMWpump",
+    "name": "United Bitcoin Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795739491.0545125
    }
   ],
-  "uebersicht": 1795735188.828268
+  "uebersicht": 1795739768.4662964
  },
  "momentum_sperre": {
   "HYPE": 1795628333.8068695,
