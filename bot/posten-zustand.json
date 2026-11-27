@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 693,
+ "laeufe": 694,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,33 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "8sAxwsNzhRj6LF5npy1HtPir94TzSgP1QaczUmGcpump",
-    "name": "Meme Card",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "MEMECARD",
-    "t": 1795800089.2407281
-   },
-   {
-    "mint": "HyBs6EDbLnbHnnkFH9244N4k8gdvDsSk8DRFWWekpump",
-    "spaet": true,
-    "t": 1795800147.9212604
-   },
-   {
-    "dauer": 355.3351080417633,
-    "ersteller_verkauft": false,
-    "kaeufer": 16,
-    "mint": "GgPXnMHXkkQ3NqH9oVScKFicwWQNDKazQZyiE5DEpump",
-    "name": "purple",
-    "sol": 0.12965148499999996,
-    "spaet": false,
-    "symbol": "pruple",
-    "t": 1795800148.6028016
-   },
    {
     "mint": "A2fkVTksJh7xLhmAcf8ST97va5TYN3Skvk42TBcUpump",
     "spaet": true,
@@ -513,6 +486,11 @@
     "mint": "6PFm828RKNJqKvjXQz82hhGvGNWFXZcBHNCF4U7spump",
     "spaet": true,
     "t": 1795803468.7281039
+   },
+   {
+    "mint": "8jMB4LYQH5vDEDWcqf2HfnTdSxguVtqCdcmQvg2Fpump",
+    "spaet": true,
+    "t": 1795803568.906788
    }
   ],
   "uebersicht": 1795800739.3007104
