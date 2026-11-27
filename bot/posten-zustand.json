@@ -278,36 +278,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 643,
+ "laeufe": 644,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795786697.463176,
-   1795789149.308356
+   1795789149.308356,
+   1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 97.96297979354858,
-    "ersteller_verkauft": true,
-    "kaeufer": 163,
-    "mint": "2P5joHzWxkqqBvsQ1cHH1KyySk6Eg7obAjMjWWFbpump",
-    "name": "FLOAT",
-    "sol": 85.03389691699996,
-    "spaet": false,
-    "symbol": "FLOAT",
-    "t": 1795786289.9656541
-   },
-   {
-    "dauer": 215.73756527900696,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "BKKwFa8FjbbbaKhwGCuoYe9ndgThXhZwAzgeKxfJpump",
-    "name": "ok bulsh $200000",
-    "sol": 0.4688040860000001,
-    "spaet": false,
-    "symbol": "bulls",
-    "t": 1795786409.55696
-   },
    {
     "dauer": 405.03216338157654,
     "ersteller_verkauft": true,
@@ -488,6 +467,28 @@
     "spaet": false,
     "symbol": "H100",
     "t": 1795789085.2120805
+   },
+   {
+    "dauer": 268.7552344799042,
+    "ersteller_verkauft": false,
+    "kaeufer": 36,
+    "mint": "4xxJrkSPHTfWUJ4XJfVJi6Qp2wDrdZdnbveZQB5Cpump",
+    "name": "WINSTON COIN OFFICIAL",
+    "sol": 0.37969797300000063,
+    "spaet": false,
+    "symbol": "WINSTON",
+    "t": 1795789892.542147
+   },
+   {
+    "dauer": 634.2122604846954,
+    "ersteller_verkauft": false,
+    "kaeufer": 603,
+    "mint": "39nuVgw8RCVC8PgGuuuaa8WoAERA61cTw85oUvBLT2va",
+    "name": "ComputeCoin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "COMPUTE",
+    "t": 1795790034.5164
    }
   ],
   "uebersicht": 1795788849.2832122
