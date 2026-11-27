@@ -259,33 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 606,
+ "laeufe": 607,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 277.1380829811096,
-    "ersteller_verkauft": true,
-    "kaeufer": 44,
-    "mint": "H94PVDBDuxnyqWw7iToCTpi1Hnxduv7kp7E5M8E3pump",
-    "name": "Black Friday Solana",
-    "sol": 0.7959451249999989,
-    "spaet": false,
-    "symbol": "$BFS",
-    "t": 1795775853.9063215
-   },
-   {
-    "dauer": 160.4484624862671,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "GwW2H4rFuhieTf324yDg43WNbgf2YBUqymH4hm7zpump",
-    "name": "Hennesy coin",
-    "sol": 1.9183272960000004,
-    "spaet": false,
-    "symbol": "$HENNY",
-    "t": 1795775997.3491995
-   },
    {
     "dauer": 124.39437890052795,
     "ersteller_verkauft": false,
@@ -508,6 +486,33 @@
     "spaet": false,
     "symbol": "SELL",
     "t": 1795779395.9365785
+   },
+   {
+    "dauer": 282.8411612510681,
+    "ersteller_verkauft": false,
+    "kaeufer": 125,
+    "mint": "GBSwftacXnmg5Ykv8ZXsP9K4c8fN8XymzbLNpmDgpump",
+    "name": "NVIDIA Newsroom",
+    "sol": 85.34934982199997,
+    "spaet": false,
+    "symbol": "NVIDIA",
+    "t": 1795779467.6914873
+   },
+   {
+    "mint": "28hnLneyMUBMTRjx9iA7r2TnmpjMnaBa6PbnNbLChQEo",
+    "spaet": true,
+    "t": 1795779582.7435596
+   },
+   {
+    "dauer": 0.0007781982421875,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "DhG3yScXDGmh1gVCB22aWYSzD9TNdoGmxNM7dPdJpump",
+    "name": "Fireball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Fireball",
+    "t": 1795779689.30745
    }
   ],
   "uebersicht": 1795777246.467679
