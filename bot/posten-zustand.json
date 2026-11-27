@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 698,
+ "laeufe": 699,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,22 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "mint": "DD6morQS2RkaYimQVQNtofKUvcfksaAvx3ws3nscpump",
-    "spaet": true,
-    "t": 1795801401.778389
-   },
-   {
-    "dauer": 21.11535620689392,
-    "ersteller_verkauft": true,
-    "kaeufer": 85,
-    "mint": "Eakz4H2TVJXDsfABtYPc7LzWa4w6N17hpa8Zfufipump",
-    "name": "Kheecoin",
-    "sol": 59.04197447299998,
-    "spaet": false,
-    "symbol": "Khee",
-    "t": 1795801650.2988393
-   },
    {
     "mint": "4S7DtsZhwpbYmVcoR7FZEShf2aVz8J3fNVNopiVKpump",
     "spaet": true,
@@ -561,6 +545,17 @@
     "mint": "8FbgVfuqtTaHkgDvbKGEsBrQ2ujbTVz1Eqw1qe45pump",
     "spaet": true,
     "t": 1795804946.195124
+   },
+   {
+    "dauer": 231.20111346244812,
+    "ersteller_verkauft": true,
+    "kaeufer": 24,
+    "mint": "CnStwiPAhvpuGdKnTK6b2SGqm9kmuujp51FPE1nFpump",
+    "name": "Official Slingoor",
+    "sol": -0.3733859120000002,
+    "spaet": false,
+    "symbol": "SLINGOOR",
+    "t": 1795805238.9218102
    }
   ],
   "uebersicht": 1795804378.8469467
