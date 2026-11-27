@@ -227,47 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 506,
+ "laeufe": 507,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795748337.0159345,
    1795749536.9144933
   ],
   "stunde": [
-   {
-    "dauer": 258.3297061920166,
-    "ersteller_verkauft": true,
-    "kaeufer": 684,
-    "mint": "HNR2jFksbGHR5fLBqfYe2LUXCGaj7YQkZs6ciSeYpump",
-    "name": "Scratchy",
-    "sol": 90.08784089499939,
-    "spaet": false,
-    "symbol": "SCRATCHY",
-    "t": 1795748106.3500903
-   },
-   {
-    "dauer": 160.989107131958,
-    "ersteller_verkauft": false,
-    "kaeufer": 37,
-    "mint": "BKhhdUECWECRKdB1q9oxXJiDSi4dapYdyD4sKtahpump",
-    "name": "impulse",
-    "sol": 0.9209606369999986,
-    "spaet": false,
-    "symbol": "imp",
-    "t": 1795748293.2104847
-   },
-   {
-    "dauer": 271.1121413707733,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "46ihjbLajoknUcjtsh7HT1vaLYLUdgRYQfdJpB1zpump",
-    "name": "Haaland Hair",
-    "sol": 0.032450289000000035,
-    "spaet": false,
-    "symbol": "HALH",
-    "t": 1795748341.219816
-   },
    {
     "dauer": 82.2299280166626,
     "ersteller_verkauft": true,
@@ -462,6 +428,11 @@
     "spaet": false,
     "symbol": "FLOAT",
     "t": 1795751408.9883637
+   },
+   {
+    "mint": "bnTTyeUBVnq9b48dVBppTPka5zjpQMamApZsCZTpump",
+    "spaet": true,
+    "t": 1795751868.625349
    }
   ],
   "uebersicht": 1795750736.6922324
