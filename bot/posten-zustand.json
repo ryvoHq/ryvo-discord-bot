@@ -297,52 +297,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 741,
+ "laeufe": 742,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795815396.2127461,
-   1795816296.2387698
+   1795816296.2387698,
+   1795817196.0699837
   ],
   "stunde": [
-   {
-    "mint": "FujpWWWfe1FfBMrQQ9fWuJQC3MkigLK2SXQwpeNPpump",
-    "spaet": true,
-    "t": 1795813387.7105057
-   },
-   {
-    "dauer": 689.3607685565948,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "HSnu5VSthiXAZMEs7EzhGQoWvnMLoQCmg3Ttn88ipump",
-    "name": " fennec coin",
-    "sol": 0.6567246649999997,
-    "spaet": false,
-    "symbol": "FNC",
-    "t": 1795813398.9807718
-   },
-   {
-    "dauer": 0.00034308433532714844,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "H2PjSbA2365uxBUJ3EBePSm67AYPuRMgcyswBnrVpump",
-    "name": "Maya The Samoyed",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "MAYA",
-    "t": 1795813450.9697342
-   },
-   {
-    "dauer": 62.15522336959839,
-    "ersteller_verkauft": true,
-    "kaeufer": 238,
-    "mint": "88E4iuKfowgqGpoRipaRJvGz5kMKrA6RxZYnAisjpump",
-    "name": "MOONDOGE",
-    "sol": 85.00535947699989,
-    "spaet": false,
-    "symbol": "MOONDOGE",
-    "t": 1795813534.5605972
-   },
    {
     "mint": "EUaXUvj2my5xFFULw95hRqfqDuki5v96uAw8NMa4pump",
     "spaet": true,
@@ -575,6 +538,28 @@
     "mint": "69UArmECWVbkCoNhbd8bMVM88q6Jrf8KNFdjtYt2pump",
     "spaet": true,
     "t": 1795816762.0870924
+   },
+   {
+    "dauer": 214.54688572883606,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "AZNAmeeuZFyJmtDmjWBjb8MbGRMWjxUMzWTFLEhypump",
+    "name": "100M$",
+    "sol": 0.59228942,
+    "spaet": false,
+    "symbol": "100M$",
+    "t": 1795817001.7026906
+   },
+   {
+    "dauer": 1555.9781517982483,
+    "ersteller_verkauft": false,
+    "kaeufer": 719,
+    "mint": "Xb6V46U9hHHxiJnoAFxiEqEh59owzdt1ZL9q5zpVSoL",
+    "name": "Solana",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Sol",
+    "t": 1795817064.613483
    }
   ],
   "uebersicht": 1795815697.1042492
