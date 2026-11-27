@@ -239,40 +239,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 540,
+ "laeufe": 541,
  "lagebrief_stand": 1795750500,
  "meme": {
-  "sofort": [
-   1795757763.4382763
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "mint": "9WKx16VGPxYZGP2meCF1zRe1RPVnBQkCqv2Nacbpump",
-    "spaet": true,
-    "t": 1795757536.1245487
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "UFkVsDKVP1Rh9JU7dsqV6suL4cwJFgHgwBKb2Khpump",
-    "name": "ATX",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "ATX",
-    "t": 1795757608.318981
-   },
-   {
-    "dauer": 76.10783267021179,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "BZUYxHMqLXCZ5evWoBuagMfpeYtPSXzr8kHvqqL5pump",
-    "name": "Caveman Baby",
-    "sol": 85.00535906899998,
-    "spaet": false,
-    "symbol": "CaveBaby",
-    "t": 1795757800.8128347
-   },
    {
     "dauer": 70.69194006919861,
     "ersteller_verkauft": false,
@@ -408,6 +379,22 @@
     "mint": "6xjxZATYCFba8BFR1QrqyFvpro1EZCox2mGab6VXpump",
     "spaet": true,
     "t": 1795761036.6571572
+   },
+   {
+    "mint": "3NdS5VqFAZts2Uxtn8zjB7WS5aWGeC299ffkhomHpump",
+    "spaet": true,
+    "t": 1795761285.7684999
+   },
+   {
+    "dauer": 407.06676292419434,
+    "ersteller_verkauft": false,
+    "kaeufer": 122,
+    "mint": "5VKCLbHMRPCCTWq8dWUTMxihuuHsHjoC9vEYDhrFpump",
+    "name": "EXEN",
+    "sol": 85.005359199,
+    "spaet": false,
+    "symbol": "EXEN",
+    "t": 1795761307.4080348
    }
   ],
   "uebersicht": 1795758363.9843912
