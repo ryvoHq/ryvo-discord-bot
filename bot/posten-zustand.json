@@ -252,35 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 567,
+ "laeufe": 568,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795767215.7774265
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "WfvS86dfMBuZSJQQL2PTNQNoPbZD1BC9e7Uuv5rpump",
-    "name": "NOAF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "NOAF",
-    "t": 1795765282.557156
-   },
-   {
-    "dauer": 0.001577615737915039,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
-    "name": "Snowballz",
-    "sol": 85.00535907099999,
-    "spaet": false,
-    "symbol": "SNOWBALLZ",
-    "t": 1795765345.267
-   },
    {
     "mint": "ABhMcqhLD4qzkW47BmXCAmBzb4PKTaoNt8ou8ycZpump",
     "spaet": true,
@@ -464,6 +442,28 @@
     "spaet": false,
     "symbol": "ChaMoo",
     "t": 1795768302.808004
+   },
+   {
+    "dauer": 23.389883279800415,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "4ZqdJyrTJctd2VTZRAiiLTUCWoAgzF9j1TfYv7rWpump",
+    "name": "MOSTO",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "MOSTO",
+    "t": 1795768838.0871265
+   },
+   {
+    "dauer": 238.10386109352112,
+    "ersteller_verkauft": true,
+    "kaeufer": 12,
+    "mint": "5VRymyDciANxMyz31NPmHQ39DUkobHcjDrujTyEXpump",
+    "name": "ATH",
+    "sol": 0.6245932560000003,
+    "spaet": false,
+    "symbol": "ATH",
+    "t": 1795769001.5900903
    }
   ],
   "uebersicht": 1795765677.4794989
