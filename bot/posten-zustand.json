@@ -6,10 +6,15 @@
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://www.moneycontrol.com/news/business/banks/rupee-recovery-eases-pressure-on-rbi-to-use-rate-hikes-as-currency-defence-14090215.html",
+  "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+  "https://www.thehindu.com/news/national/andhra-pradesh/sec-schedules-indirect-elections-to-deputy-mayor-vice-chairperson-posts-on-december-5/article71751086.ece",
+  "https://www.wiwo.de/unternehmen/banken/inflation-bundesbankchef-erwartet-anhebung-des-leitzins-durch-ezb/100273341.html",
   "https://www.business-standard.com/content/press-releases-ani/wazirx-on-bitcoin-s-recovery-and-its-liquidity-test-126112701068_1.html",
   "https://www.theglobeandmail.com/business/article-binance-withdrawals-reopen-after-crypto-platform-completes-recovery/",
   "https://www.moneycontrol.com/news/business/banks/rbi-allows-white-label-atm-operators-to-source-cash-from-multiple-banks-buy-directly-from-central-bank-14090496.html",
   "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+  "https://www.businesstimes.com.sg/companies-markets/energy-commodities/opec-set-keep-oil-production-targets-steady-sources-say",
   "https://www.deutschlandfunk.de/langzeitarbeitslose-bewerten-angebote-der-jobcenter-laut-studie-oft-als-unpassend-100.html",
   "https://www.euronews.com/video/2026/11/27/new-ecb-chief-should-prioritise-inflation-economist-says",
   "https://economictimes.indiatimes.com/markets/commodities/crude-oil-prices-near-97-as-west-asia-tensions-revive-supply-fears-opec-meeting-in-focus/articleshow/136222227.cms",
@@ -75,17 +80,17 @@
   "https://www.bnnbloomberg.ca/markets/crypto/2026/11/26/north-korean-launderers-turn-to-little-known-crypto-services-to-move-binance-haul-say-researchers/",
   "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk",
   "https://www.cbc.ca/news/canada/edmonton/q2-fiscal-update-alberta-9.7437528",
-  "https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html",
-  "https://www.irishtimes.com/business/2026/11/26/labour-market-churn-rises-in-third-quarter/",
-  "https://www.theglobeandmail.com/canada/alberta/article-alberta-projects-85-billion-surplus-as-global-turmoil-drives-up-oil/",
-  "https://www.rigzone.com/news/wire/opec_mulls_sticking_with_current_quotas-26-nov-2026-185177-article/",
-  "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
   "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html",
+  "https://www.irishtimes.com/business/2026/11/26/labour-market-churn-rises-in-third-quarter/",
+  "https://www.theglobeandmail.com/canada/alberta/article-alberta-projects-85-billion-surplus-as-global-turmoil-drives-up-oil/",
+  "https://www.rigzone.com/news/wire/opec_mulls_sticking_with_current_quotas-26-nov-2026-185177-article/",
+  "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
   "https://www.thehindu.com/news/national/cpi-announces-three-day-jail-bharo-andolan-from-december-1/article71747798.ece",
   "https://www.moneycontrol.com/news/business/markets/bitcoin-tops-60-000-as-risk-assets-rise-in-holiday-trading-14089877.html",
   "https://economictimes.indiatimes.com/markets/stocks/news/inflation-scare-rising-prices-could-squeeze-india-inc-profits-in-q3-says-icra/articleshow/136187211.cms",
@@ -288,25 +293,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 664,
- "lagebrief_stand": 1795750500,
+ "laeufe": 665,
+ "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795793101.9646134,
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 0.43979930877685547,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "AQFzxjKB66sXWHBUrEPpnrxQokPU3eDKKkkyprHBpump",
-    "name": "Snowballo",
-    "sol": 85.00535907399998,
-    "spaet": false,
-    "symbol": "SNOWBALLO",
-    "t": 1795792151.5036073
-   },
    {
     "mint": "8jrvnvvB9skmCYWB2tVP9DTYHt9yPet796GZMfK3pump",
     "spaet": true,
@@ -520,6 +514,21 @@
     "spaet": false,
     "symbol": "STAYB",
     "t": 1795795440.7088706
+   },
+   {
+    "mint": "2HdpqR2GtMF3SJLkHqcKxkecV3Yw5ZjayLMnJZXPpump",
+    "spaet": true,
+    "t": 1795795614.6257048
+   },
+   {
+    "mint": "FB96atyjDe7LJa7wNHc3keFkLr9dtAaGDzqrNvxtpump",
+    "spaet": true,
+    "t": 1795795674.820312
+   },
+   {
+    "mint": "FyjStgXaA6iuzqSa5QAKupDAxoxBvnh7UPruU6qapump",
+    "spaet": true,
+    "t": 1795795775.6183777
    }
   ],
   "uebersicht": 1795792501.9997852
