@@ -6,6 +6,12 @@
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-26",
  "gesehen": [
+  "https://www.n-tv.de/regionales/berlin-und-brandenburg/Arbeitslosigkeit-in-Brandenburg-sinkt-nur-leicht-id31584336.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+  "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-konjunkturschwaeche-bremst-inklusion-auf-dem-arbeitsmarkt/100271530.html",
+  "https://www.moneycontrol.com/world/us-pushed-venezuela-iraq-to-consider-leaving-opec-report-article-14090218.html",
+  "https://www.thehindubusinessline.com/news/world/us-reportedly-pushed-venezuela-iraq-to-consider-leaving-opec/article71749638.ece",
+  "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
   "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-sap-zeigt-wie-ki-den-arbeitsmarkt-wirklich-veraendert/100273130.html",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spains-pablo-hernandez-de-cos-set-to-become-next-ecb-president-as-netherlands-backs-candidacy/articleshow/136211541.cms",
   "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
@@ -14,6 +20,7 @@
   "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html",
   "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-recovers-above-61-000-as-equities-stabilize-rally-faces-headwinds-14090104.html",
   "https://www.moneycontrol.com/news/business/commodities/gold-rises-as-rebound-in-tech-stocks-offsets-rate-hike-concerns-14089978.html",
+  "https://www.thehindubusinessline.com/markets/indian-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/article71749426.ece",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-short-term-bond-yields-edge-higher-on-inflation-rate-hike-bets/articleshow/136208946.cms",
   "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist/article71749311.ece",
   "https://financialpost.com/press-releases/pr-newswire/viabtc-to-showcase-a-decade-of-mining-expertise-and-one-stop-asset-management-at-blockchain-life-2026/",
@@ -71,16 +78,16 @@
   "https://www.rte.ie/news/business/2026/1126/1600746-world-oil-prices/",
   "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111",
   "https://www.theglobeandmail.com/investing/article-oil-prices-fall-as-supply-concerns-linger-after-iran-claims-mine/",
-  "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-global-stock-rally-dents-safe-haven-demand/articleshow/136185124.cms",
-  "https://www.dw.com/de/news-kompakt-eu-spitzen-beraten-%C3%BCber-haushalt-und-ezb/a-80056515",
-  "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise/articleshow/136184058.cms",
-  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/japan-bond-yields-rise-as-boj-rate-hike-bets-strengthen-tamura-comments-in-focus/articleshow/136183213.cms",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-global-stock-rally-dents-safe-haven-demand/articleshow/136185124.cms",
+  "https://www.dw.com/de/news-kompakt-eu-spitzen-beraten-%C3%BCber-haushalt-und-ezb/a-80056515",
+  "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise/articleshow/136184058.cms",
+  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/japan-bond-yields-rise-as-boj-rate-hike-bets-strengthen-tamura-comments-in-focus/articleshow/136183213.cms",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-strengthen-as-strong-growth-fuels-inflation/articleshow/136181063.cms",
   "https://economictimes.indiatimes.com/mf/mf-news/gold-silver-etfs-rally-up-to-6-as-precious-metal-prices-rebound-despite-us-inflation-concerns/articleshow/136180767.cms",
   "https://www.afr.com/policy/economy/data-centres-become-new-mining-boom-powering-growth-and-inflation-20261126-p61hfu",
@@ -252,29 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 586,
+ "laeufe": 587,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795772057.8708842
   ],
   "stunde": [
-   {
-    "mint": "GHsbf9hoVsVEPYGMo47SUxHC33bMYTKZCVk3d4mypump",
-    "spaet": true,
-    "t": 1795770378.4956286
-   },
-   {
-    "dauer": 2.874648332595825,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "DGyYA1T6LMpAmZrXBKVKzBfprq6NycmNJDsLYfLyzbdC",
-    "name": "coin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "COIN",
-    "t": 1795770590.126581
-   },
    {
     "dauer": 23.529372453689575,
     "ersteller_verkauft": false,
@@ -485,6 +476,17 @@
     "mint": "HubcBJdhUKd1QjqLJioPwKEuAqeiJSSAHeTe4uyppump",
     "spaet": true,
     "t": 1795773880.0787427
+   },
+   {
+    "dauer": 144.9550380706787,
+    "ersteller_verkauft": false,
+    "kaeufer": 45,
+    "mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+    "name": "Muffin",
+    "sol": 85.16143250899997,
+    "spaet": false,
+    "symbol": "Muffin",
+    "t": 1795774125.8988323
    }
   ],
   "uebersicht": 1795773601.8562944
