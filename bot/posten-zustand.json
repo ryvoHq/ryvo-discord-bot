@@ -239,31 +239,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 525,
+ "laeufe": 526,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795753475.0919275,
    1795753774.69686,
    1795756514.653192
   ],
   "stunde": [
-   {
-    "mint": "5NawJgPe9yoyDYijrdwC3Lg94MJaZ9LaoJP1T6hKBrBL",
-    "spaet": true,
-    "t": 1795753264.7161713
-   },
-   {
-    "dauer": 25.597000122070312,
-    "ersteller_verkauft": false,
-    "kaeufer": 4,
-    "mint": "HLiYBFc7Yrmo9qm94jdUHtZyqXPq35dR11K8ncwApump",
-    "name": "Retarded Slop Ape Official",
-    "sol": 63.943452766999975,
-    "spaet": false,
-    "symbol": "RSA",
-    "t": 1795753376.0591798
-   },
    {
     "dauer": 763.8385281562805,
     "ersteller_verkauft": true,
@@ -385,6 +368,32 @@
     "spaet": false,
     "symbol": "RIPPACK",
     "t": 1795756605.0116394
+   },
+   {
+    "mint": "oSaCuqkDVk4RNDToTwUCzjKn2WUTnXyJb2Hu4bLpump",
+    "spaet": true,
+    "t": 1795756908.1461315
+   },
+   {
+    "mint": "D5oPGVkFkGoHmjKMaH9ZfQCsSvVFt5D4xCEb7ucSpump",
+    "spaet": true,
+    "t": 1795756962.3900144
+   },
+   {
+    "dauer": 0.0010938644409179688,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "7sf8dMoH68zJkTGBkqNH5LYC3qakL6nLy1YYmiLPpump",
+    "name": "Snowballin",
+    "sol": 85.00535907399998,
+    "spaet": false,
+    "symbol": "SNOWBALLIN",
+    "t": 1795757041.515276
+   },
+   {
+    "mint": "C6oCcRXnB6SEp3Pmi9gL8DHVsoEWR9aaZtf9UGj8pump",
+    "spaet": true,
+    "t": 1795757155.5555522
    }
   ],
   "uebersicht": 1795754714.6155627
