@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 761,
+ "laeufe": 762,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -446,6 +446,50 @@
     "spaet": false,
     "symbol": "MJ5",
     "t": 1795822346.8147073
+   },
+   {
+    "dauer": 580.9004271030426,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "HkahNgyjr2xfbtymTUjf5cnQxVUQrA8nBdBoyLCxpump",
+    "name": "GIGACAT",
+    "sol": -0.3388913330000001,
+    "spaet": false,
+    "symbol": "GIGACAT",
+    "t": 1795822410.0148828
+   },
+   {
+    "dauer": 727.898487329483,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "cAKjvzwktvZ5Uuke3BCDpTCTh4A559NkV99v3RPpump",
+    "name": "The Chosen",
+    "sol": 0.3652985180000002,
+    "spaet": false,
+    "symbol": "Comeandsee",
+    "t": 1795822587.8519678
+   },
+   {
+    "dauer": 126.57155728340149,
+    "ersteller_verkauft": false,
+    "kaeufer": 135,
+    "mint": "MGWLLAYqn6SvmvH6oDdGpSTc8wbbj8gYkVQSNQ6pump",
+    "name": "Google Gemini",
+    "sol": 83.65277809799997,
+    "spaet": false,
+    "symbol": "Gemini",
+    "t": 1795822590.7820559
+   },
+   {
+    "dauer": 87.74008512496948,
+    "ersteller_verkauft": true,
+    "kaeufer": 290,
+    "mint": "HV4J1bNFu59mEwXZY4yz58E9yorvNw5pAGindxNGpump",
+    "name": "hac",
+    "sol": 85.28137828699994,
+    "spaet": false,
+    "symbol": "hac",
+    "t": 1795822595.0162883
    }
   ],
   "uebersicht": 1795819361.7479584
