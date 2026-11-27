@@ -259,29 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 596,
+ "laeufe": 597,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
-    "spaet": true,
-    "t": 1795773121.9823735
-   },
-   {
-    "dauer": 880.6973314285278,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "5phSFous8mThwibFomir1t16TivbsxGtPMzMyJ15pump",
-    "name": "table",
-    "sol": 85.00535931399996,
-    "spaet": false,
-    "symbol": "table",
-    "t": 1795773324.355353
-   },
    {
     "mint": "C4UeUkjjmjW59WyfMhYeQ2onMVK89DXTvqyrdhnupump",
     "spaet": true,
@@ -512,6 +496,22 @@
     "spaet": false,
     "symbol": "GTAVI",
     "t": 1795776279.7143927
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "Xp4zgekMxKAs6fzRwWGhpAzj2qfY3vcY4YHukJUpump",
+    "name": "United Bitcoin Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795776662.2066538
+   },
+   {
+    "mint": "5AmygyYTDxxoSJfpRjLfB8J8i6ssi2ZCL4tZKYYSpump",
+    "spaet": true,
+    "t": 1795776838.6361842
    }
   ],
   "uebersicht": 1795773601.8562944
