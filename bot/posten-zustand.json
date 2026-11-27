@@ -293,30 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 701,
+ "laeufe": 702,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795802239.8007863,
    1795802539.372874
   ],
   "stunde": [
-   {
-    "mint": "D2AT44dD2HbcMRWqbndWamvdZKXtPXQoJPHaacimpump",
-    "spaet": true,
-    "t": 1795802093.7492595
-   },
-   {
-    "dauer": 193.77970266342163,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "BVXHJQafcfyJ9wXsDxsTdbk4u7pTRsExwZaiX1fEpump",
-    "name": "Forest Queen",
-    "sol": 0.8166784689999994,
-    "spaet": false,
-    "symbol": "QUEEN",
-    "t": 1795802203.1329565
-   },
    {
     "mint": "4TKxE1CC4W7sp6iLEJJUdUzgFRfxGAq7Kj46Rv2Qpump",
     "spaet": true,
@@ -513,6 +496,16 @@
     "spaet": false,
     "symbol": "SLINGOOR",
     "t": 1795805238.9218102
+   },
+   {
+    "mint": "ANufYeQw9diaimihuktYuRL57QUBU4dkEqghyptzpump",
+    "spaet": true,
+    "t": 1795805751.223893
+   },
+   {
+    "mint": "8EQHN5TYWjg43SoQVZaH6JUzMMLE6P9KtE8DvQLKpump",
+    "spaet": true,
+    "t": 1795805915.5512023
    }
   ],
   "uebersicht": 1795804378.8469467
