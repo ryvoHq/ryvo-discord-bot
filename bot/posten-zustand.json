@@ -239,47 +239,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 536,
+ "laeufe": 537,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795756514.653192,
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "dauer": 1019.5846433639526,
-    "ersteller_verkauft": false,
-    "kaeufer": 570,
-    "mint": "fMEwHFwbEmAWg5n5tvrVTJJR9cZnH2dTzZy3hY5pump",
-    "name": "Simyo (시묘일)",
-    "sol": 85.56121750099994,
-    "spaet": false,
-    "symbol": "Simyo",
-    "t": 1795756435.5967224
-   },
-   {
-    "dauer": 94.2362711429596,
-    "ersteller_verkauft": true,
-    "kaeufer": 152,
-    "mint": "DeJDTihNu934o6tqmafVSFA7DyGWFXYb5Hy5bputpump",
-    "name": "MrBeast",
-    "sol": 85.00535940200002,
-    "spaet": false,
-    "symbol": "BEAST",
-    "t": 1795756480.6975942
-   },
-   {
-    "dauer": 2278.2519817352295,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "2DVF2q4tEfntmfXxSRXFNwRq1P1xKSH8DAwHqZEdpump",
-    "name": "RIPPACK",
-    "sol": 85.00535909100003,
-    "spaet": false,
-    "symbol": "RIPPACK",
-    "t": 1795756605.0116394
-   },
    {
     "mint": "oSaCuqkDVk4RNDToTwUCzjKn2WUTnXyJb2Hu4bLpump",
     "spaet": true,
@@ -419,6 +385,17 @@
     "spaet": false,
     "symbol": "GTAVI",
     "t": 1795759669.9805892
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "ejz2TB4Boghn85j9irFSBwakjud4tg9J8KXsmgZpump",
+    "name": "VIDA",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "VIDA",
+    "t": 1795759920.1591735
    }
   ],
   "uebersicht": 1795758363.9843912
