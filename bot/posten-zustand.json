@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 489,
+ "laeufe": 490,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -237,16 +237,6 @@
    1795746463.5361197
   ],
   "stunde": [
-   {
-    "mint": "4nLoFx9pBjmjE6GZUrNd9LqEM5siQemwiX7jAMQfpump",
-    "spaet": true,
-    "t": 1795743477.613934
-   },
-   {
-    "mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
-    "spaet": true,
-    "t": 1795743557.4659321
-   },
    {
     "dauer": 66.13097286224365,
     "ersteller_verkauft": true,
@@ -595,6 +585,17 @@
     "spaet": false,
     "symbol": "fg",
     "t": 1795747004.5233567
+   },
+   {
+    "dauer": 259.57245659828186,
+    "ersteller_verkauft": false,
+    "kaeufer": 50,
+    "mint": "E6LskUHLpPb4QurJaRUyFaGMAZjVLVQCSYtgcqifpump",
+    "name": "ronney",
+    "sol": 0.06471973500000057,
+    "spaet": false,
+    "symbol": "rny",
+    "t": 1795747293.4968169
    }
   ],
   "uebersicht": 1795747063.2995136
