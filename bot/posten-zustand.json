@@ -252,33 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 578,
+ "laeufe": 579,
  "lagebrief_stand": 1795750500,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795772057.8708842
+  ],
   "stunde": [
-   {
-    "dauer": 954.3130459785461,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "4dzBaur6nH4ZuN4N9xoEDJYTjW8EBiRyFGhmaVDGpump",
-    "name": "MARIAH CAREY 2 YOu",
-    "sol": 0.03766870099999961,
-    "spaet": false,
-    "symbol": "MRHC",
-    "t": 1795768234.94735
-   },
-   {
-    "dauer": 1385.7590386867523,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "E8wpQaTT1PiXzr2U3CcXBVbw6CQfB5mA84pgLAvWpump",
-    "name": "ชา หมู",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ChaMoo",
-    "t": 1795768302.808004
-   },
    {
     "dauer": 23.389883279800415,
     "ersteller_verkauft": false,
@@ -408,6 +388,55 @@
     "spaet": false,
     "symbol": "$BUCKME",
     "t": 1795771750.417671
+   },
+   {
+    "mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+    "spaet": true,
+    "t": 1795771814.403681
+   },
+   {
+    "dauer": 1835.7495205402374,
+    "ersteller_verkauft": true,
+    "kaeufer": 789,
+    "mint": "3rwZaw2dxr34SeRYojfw6SKWUneHMzJXF5kGE236pump",
+    "name": "Ringball",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Ringball",
+    "t": 1795771822.058406
+   },
+   {
+    "dauer": 88.38943862915039,
+    "ersteller_verkauft": false,
+    "kaeufer": 33,
+    "mint": "B7UshtxnfhD1fUK4mEurTvudsfW6M4nmF3yxCMS8pump",
+    "name": "The Blind Guardian",
+    "sol": 85.00535909299995,
+    "spaet": false,
+    "symbol": "Estanislao",
+    "t": 1795771843.0101924
+   },
+   {
+    "dauer": 965.6606447696686,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "5FfLXBkCMThxVWgQeadpvSDsd7qsfeZSXaGDNRjspump",
+    "name": "Flyball",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Flyball",
+    "t": 1795771851.3023114
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "dbwTBVwggm5uxEfsCkQrTwn3gmBu4RoEomPCDfTpump",
+    "name": "NVIDIA Newsroom",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "NVIDIA",
+    "t": 1795771879.7520611
    }
   ],
   "uebersicht": 1795769956.7683537
