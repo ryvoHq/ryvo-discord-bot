@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 481,
+ "laeufe": 482,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,28 +235,6 @@
    1795744609.1542165
   ],
   "stunde": [
-   {
-    "dauer": 209.09482884407043,
-    "ersteller_verkauft": true,
-    "kaeufer": 19,
-    "mint": "4uKYscZU2dmi7DcyyakyiiC3ehr9m6dcvwEAYiENpump",
-    "name": "Weird Cat",
-    "sol": 0.05068159199999985,
-    "spaet": false,
-    "symbol": "WEIRDCAT",
-    "t": 1795741268.404369
-   },
-   {
-    "dauer": 2.2747528553009033,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "FcuXjAcxC6YGWhhRYybrH4an8EpWNgWci6qU4moipump",
-    "name": "Blueface Official Coin",
-    "sol": 85.005359084,
-    "spaet": false,
-    "symbol": "Blueface",
-    "t": 1795741358.7460358
-   },
    {
     "dauer": 185.03111934661865,
     "ersteller_verkauft": true,
@@ -595,6 +573,22 @@
     "spaet": false,
     "symbol": "Moo",
     "t": 1795744508.7196987
+   },
+   {
+    "mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+    "spaet": true,
+    "t": 1795744666.3519268
+   },
+   {
+    "dauer": 66.46872067451477,
+    "ersteller_verkauft": true,
+    "kaeufer": 327,
+    "mint": "HzbBFwHbFYHBLbDhuxTDrYHX9KGxJRG6yMpYfvfhpump",
+    "name": "Jae",
+    "sol": 84.29482821599989,
+    "spaet": false,
+    "symbol": "Jae",
+    "t": 1795744820.2429602
    }
   ],
   "uebersicht": 1795743408.1301825
