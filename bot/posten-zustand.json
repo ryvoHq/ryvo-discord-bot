@@ -259,46 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 595,
+ "laeufe": 596,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "dauer": 285.8706967830658,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "2UMEV8EnNykjzEKPFej3Zw139stga7LpmPiAEUbapump",
-    "name": "crihmas",
-    "sol": -0.683467372,
-    "spaet": false,
-    "symbol": "cms",
-    "t": 1795772808.3659167
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "8G88UysvMSjQk75HGgLRzHoRiYwWUBEo6gb5QJ5hpump",
-    "name": "Pompompurin",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Pompom",
-    "t": 1795772966.5885007
-   },
-   {
-    "dauer": 211.49590039253235,
-    "ersteller_verkauft": true,
-    "kaeufer": 27,
-    "mint": "AKAdkrAwKy4nb9dD81WitbgpUm3RfV6aBqMyvjcRpump",
-    "name": "Rice Inu",
-    "sol": 0.13144290199999994,
-    "spaet": false,
-    "symbol": "RI",
-    "t": 1795773014.1944683
-   },
    {
     "mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
     "spaet": true,
