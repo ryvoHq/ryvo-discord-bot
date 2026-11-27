@@ -6,6 +6,12 @@
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-26",
  "gesehen": [
+  "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
+  "https://www.dw.com/de/ki-wirbelt-arbeitsmarkt-laut-ba-chefin-durcheinander/a-79910561",
+  "https://www.straitstimes.com/world/argentina-bans-its-central-bank-from-printing-money-for-the-government",
+  "https://www.businesstimes.com.sg/companies-markets/banking-finance/binance-lifts-withdrawal-suspension-after-us6-3-billion-crypto-heist",
+  "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-higher-easing-tariff-fears-ecb-leadership-continuity",
+  "https://www.bnnbloomberg.ca/markets/crypto/2026/11/26/north-korean-launderers-turn-to-little-known-crypto-services-to-move-binance-haul-say-researchers/",
   "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk",
   "https://www.cbc.ca/news/canada/edmonton/q2-fiscal-update-alberta-9.7437528",
   "https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html",
@@ -60,17 +66,17 @@
   "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-edges-lower-us-inflation-data-fuels-bets-rate-hikes",
   "https://www.livemint.com/global/wild-market-swings-are-colliding-with-a-fed-bent-on-taming-inflation-11795656733183.html",
   "https://www.livemint.com/economy/south-korea-raises-rates-to-2-year-high-as-inflation-and-housing-prices-remain-a-worry-11795655573553.html",
-  "https://www.abc.net.au/listen/programs/worldtoday/parents-bearing-the-brunt-of-rising-inflation/107429960",
-  "https://www.koreatimes.co.kr/economy/20261126/bok-raises-key-rate-by-quarter-point-to-325-as-inflation-concerns-mount",
-  "https://www.thehindubusinessline.com/opinion/inflation-and-monetary-policy-limitations/article71743345.ece",
-  "https://www.afr.com/policy/economy/treasury-loses-chief-economist-during-inflation-shock-20261126-p61hfd",
-  "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+  "https://www.abc.net.au/listen/programs/worldtoday/parents-bearing-the-brunt-of-rising-inflation/107429960",
+  "https://www.koreatimes.co.kr/economy/20261126/bok-raises-key-rate-by-quarter-point-to-325-as-inflation-concerns-mount",
+  "https://www.thehindubusinessline.com/opinion/inflation-and-monetary-policy-limitations/article71743345.ece",
+  "https://www.afr.com/policy/economy/treasury-loses-chief-economist-during-inflation-shock-20261126-p61hfd",
+  "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
   "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-lower-rate-hike-fears-ai-doubts-hammer-banks-and-tech",
   "https://www.morningstar.com/news/dow-jones/202611256853/2-year-treasury-yield-falls-to-4633-data-talk",
   "https://www.morningstar.com/news/dow-jones/202611256855/10-year-treasury-yield-falls-to-4845-data-talk",
@@ -221,57 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 470,
+ "laeufe": 471,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 72.50141644477844,
-    "ersteller_verkauft": true,
-    "kaeufer": 287,
-    "mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
-    "name": "TechCat",
-    "sol": 85.00535969299992,
-    "spaet": false,
-    "symbol": "TechCat",
-    "t": 1795738059.1746523
-   },
-   {
-    "dauer": 80.4251172542572,
-    "ersteller_verkauft": false,
-    "kaeufer": 121,
-    "mint": "HeYnz24VxKGvoALc26gDLoVKjsHD9LVqLLDKoWpxpump",
-    "name": "Official Grand Theft Auto VI",
-    "sol": 85.00535938300001,
-    "spaet": false,
-    "symbol": "GTAVI",
-    "t": 1795738064.93132
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "remH7wVXNY1rCbuhdSN4nisUYMQCDHURoGZivLUpump",
-    "name": "United States Energy Fund",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "USEF",
-    "t": 1795738090.8580117
-   },
-   {
-    "dauer": 65.50577807426453,
-    "ersteller_verkauft": true,
-    "kaeufer": 289,
-    "mint": "FC98w6siZEqZ6DHxRhifgy7k7mk5W4txKPkNbi4Ppump",
-    "name": "Cat",
-    "sol": 83.42269616899996,
-    "spaet": false,
-    "symbol": "CAT",
-    "t": 1795738296.2821748
-   },
    {
     "dauer": 941.0809240341187,
     "ersteller_verkauft": false,
@@ -599,6 +561,11 @@
     "spaet": false,
     "symbol": "fg",
     "t": 1795741518.8660092
+   },
+   {
+    "mint": "3JFYQq12QtD8T1wbcgo8bUU66gc5E2YkJFjBKwMCD7xE",
+    "spaet": true,
+    "t": 1795741700.083229
    }
   ],
   "uebersicht": 1795739768.4662964
