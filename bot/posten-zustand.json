@@ -252,7 +252,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 585,
+ "laeufe": 586,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -464,6 +464,27 @@
     "mint": "C4UeUkjjmjW59WyfMhYeQ2onMVK89DXTvqyrdhnupump",
     "spaet": true,
     "t": 1795773385.559116
+   },
+   {
+    "mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+    "spaet": true,
+    "t": 1795773649.1025527
+   },
+   {
+    "dauer": 228.54996418952942,
+    "ersteller_verkauft": false,
+    "kaeufer": 109,
+    "mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+    "name": "GTA 6 Updates",
+    "sol": 84.887825051,
+    "spaet": false,
+    "symbol": "GTA 6",
+    "t": 1795773802.7796373
+   },
+   {
+    "mint": "HubcBJdhUKd1QjqLJioPwKEuAqeiJSSAHeTe4uyppump",
+    "spaet": true,
+    "t": 1795773880.0787427
    }
   ],
   "uebersicht": 1795773601.8562944
