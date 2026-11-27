@@ -301,28 +301,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 758,
+ "laeufe": 759,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795820261.4755316
   ],
   "stunde": [
-   {
-    "mint": "AMX3bkxcn2oUZ3mharuwhAAREuRDsYQ57chDjA5ypump",
-    "spaet": true,
-    "t": 1795817907.7399654
-   },
-   {
-    "mint": "ZjSXr2PZtrAPX9U5kgaczQJojcCCJvExArT91Ghpump",
-    "spaet": true,
-    "t": 1795817941.000549
-   },
-   {
-    "mint": "EqpHQG7BqS7B84GmGmwxridM1Jh3bbg8hW1Rd1d9pump",
-    "spaet": true,
-    "t": 1795818006.5444355
-   },
    {
     "mint": "GpfuVdTM3JBRnhRboYj5gT9QcSy7udzsECnMwydkpump",
     "spaet": true,
@@ -417,6 +402,17 @@
     "spaet": false,
     "symbol": "IPOY",
     "t": 1795821497.654965
+   },
+   {
+    "dauer": 67.01252055168152,
+    "ersteller_verkauft": true,
+    "kaeufer": 346,
+    "mint": "hqGktf1pVJMWfNgLmJGsYhkaVU3xuAejqkXsmb7pump",
+    "name": "The Good Boys",
+    "sol": 84.84733481999986,
+    "spaet": false,
+    "symbol": "GOOD",
+    "t": 1795821589.4639525
    }
   ],
   "uebersicht": 1795819361.7479584
