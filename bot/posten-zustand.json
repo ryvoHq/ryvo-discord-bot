@@ -293,33 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 674,
+ "laeufe": 675,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795798588.8234503
+  ],
   "stunde": [
-   {
-    "dauer": 17.37460422515869,
-    "ersteller_verkauft": false,
-    "kaeufer": 64,
-    "mint": "Fpbbrcyaz3CwcEwbR66e9FzDEtNfx8m7yvSjVZrNpump",
-    "name": "Veto Corleone",
-    "sol": 30.74687473699999,
-    "spaet": false,
-    "symbol": "VETO",
-    "t": 1795794984.3784475
-   },
-   {
-    "dauer": 0.001135110855102539,
-    "ersteller_verkauft": false,
-    "kaeufer": 6,
-    "mint": "CV1NPi8L2PSYMfALBh7GCfUwELZzG3DrLUUjCkeapump",
-    "name": "Memecoin",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Meme",
-    "t": 1795794986.7681963
-   },
    {
     "dauer": 0.003201007843017578,
     "ersteller_verkauft": false,
@@ -547,6 +527,17 @@
     "mint": "cjJT1FFHz5aEJNu43wh1ddevS5UfKCyPqG7i5vWpump",
     "spaet": true,
     "t": 1795798256.1602778
+   },
+   {
+    "dauer": 280.1666615009308,
+    "ersteller_verkauft": true,
+    "kaeufer": 275,
+    "mint": "84FJJ9DZKoB2jECtYV9qK5MSKcRvdJQ3j74fG3Jtpump",
+    "name": "Rice Inu",
+    "sol": 81.51331484900003,
+    "spaet": false,
+    "symbol": "RI",
+    "t": 1795798342.0991666
    }
   ],
   "uebersicht": 1795796148.1298294
