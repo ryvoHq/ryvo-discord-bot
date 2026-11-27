@@ -278,65 +278,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 632,
+ "laeufe": 633,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795783344.432021,
    1795784244.0034847,
    1795785497.8692348,
    1795786697.463176
   ],
   "stunde": [
-   {
-    "dauer": 192.19636154174805,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "HmZLhbUv1iQWLYsbgcda5hoAufU9ZdqQec6Q31sipump",
-    "name": "TEST",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TEST",
-    "t": 1795783234.5010052
-   },
-   {
-    "mint": "2bY6oD3LrVzti38JfhnLLwbbsThaRGHCo1xQPos9pump",
-    "spaet": true,
-    "t": 1795783252.3416264
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "YPNSU64SduS3P3uTjCNVBDFz3TgrdiHbDhAndaGpump",
-    "name": "UOF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UOF",
-    "t": 1795783259.197564
-   },
-   {
-    "dauer": 555.3228480815887,
-    "ersteller_verkauft": false,
-    "kaeufer": 26,
-    "mint": "28Ea9Mbs777hgh2XSVPYh5SLrL76iHTV1iuBZ6skpump",
-    "name": "pura",
-    "sol": 0.015754169000000436,
-    "spaet": false,
-    "symbol": "pura",
-    "t": 1795783284.8393347
-   },
-   {
-    "dauer": 795.8563115596771,
-    "ersteller_verkauft": false,
-    "kaeufer": 582,
-    "mint": "GvFXfz2YoZcu878RYuWB9FqzWMLwtyGD4Jssw4EBpump",
-    "name": "Republic Pad",
-    "sol": 84.64622488699995,
-    "spaet": false,
-    "symbol": "Republic ",
-    "t": 1795783343.3839045
-   },
    {
     "dauer": 0.009905099868774414,
     "ersteller_verkauft": false,
@@ -543,6 +493,50 @@
     "spaet": false,
     "symbol": "Pepe",
     "t": 1795786489.9493563
+   },
+   {
+    "dauer": 1875.3635821342468,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "KF7iioQ2Djm3ihD4hhrpvhNSxjQ5MbBU52hCoH4pump",
+    "name": "Wizard Monkey",
+    "sol": 85.00535909599999,
+    "spaet": false,
+    "symbol": "WIZMON",
+    "t": 1795786742.128309
+   },
+   {
+    "dauer": 82.31281733512878,
+    "ersteller_verkauft": true,
+    "kaeufer": 12,
+    "mint": "9qp1YVPdNeRhrhozoKoZmHrTq1RoDaPQW5VEdPV2pump",
+    "name": "rockstar games ",
+    "sol": 0.4999410160000003,
+    "spaet": false,
+    "symbol": "rockstar",
+    "t": 1795786768.1188636
+   },
+   {
+    "dauer": 132.53084897994995,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "5hPFxuEv2ypEJyxqspQmwMDm9CVW1yUDJ2PF7FjJpump",
+    "name": "The Toad Cat",
+    "sol": 0.3534690610000002,
+    "spaet": false,
+    "symbol": "TOAD",
+    "t": 1795786911.2866952
+   },
+   {
+    "dauer": 103.18915724754333,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "piEPXKgdjbFofvha6QAxqHvaGMnCVubVUfMimYepump",
+    "name": "Savage Piranha",
+    "sol": 0.16451831000000006,
+    "spaet": false,
+    "symbol": "SAVPIR",
+    "t": 1795786957.8935244
    }
   ],
   "uebersicht": 1795785198.054407
