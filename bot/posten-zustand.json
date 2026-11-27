@@ -288,24 +288,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 660,
+ "laeufe": 661,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795793101.9646134
+   1795793101.9646134,
+   1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 117.74550867080688,
-    "ersteller_verkauft": false,
-    "kaeufer": 355,
-    "mint": "2cb9iRRLVnZTtsN2dUAL2BGinekURyrfncbSzWTbfMiD",
-    "name": "Banana Coin",
-    "sol": 82.18087028899986,
-    "spaet": false,
-    "symbol": "BANANA",
-    "t": 1795790978.3211749
-   },
    {
     "dauer": 250.37843871116638,
     "ersteller_verkauft": true,
@@ -503,6 +493,17 @@
     "spaet": false,
     "symbol": "XXL",
     "t": 1795794187.6391501
+   },
+   {
+    "dauer": 208.02034664154053,
+    "ersteller_verkauft": false,
+    "kaeufer": 527,
+    "mint": "H3AXQ5iCN4AEr96AD6k4DJ7mdKwUJFSJMPM6b8Fkpump",
+    "name": "sale",
+    "sol": 31.914671035000076,
+    "spaet": false,
+    "symbol": "sale",
+    "t": 1795794471.603825
    }
   ],
   "uebersicht": 1795792501.9997852
