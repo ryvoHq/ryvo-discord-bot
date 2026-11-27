@@ -293,29 +293,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 702,
+ "laeufe": 703,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [
-   1795802539.372874
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "mint": "4TKxE1CC4W7sp6iLEJJUdUzgFRfxGAq7Kj46Rv2Qpump",
-    "spaet": true,
-    "t": 1795802491.637593
-   },
-   {
-    "dauer": 915.6762347221375,
-    "ersteller_verkauft": false,
-    "kaeufer": 399,
-    "mint": "xMi8Hh5i3pDPMsQLEo7Y84APrUqTJ5KHQ9HiXhApump",
-    "name": "Knoware",
-    "sol": 105.37964984499979,
-    "spaet": false,
-    "symbol": "Knoware",
-    "t": 1795802511.2752957
-   },
    {
     "mint": "FL56MXZUBytpVy4WgjBzeJ1hTjVpVA72TQhHtoiTpump",
     "spaet": true,
@@ -506,6 +488,17 @@
     "mint": "8EQHN5TYWjg43SoQVZaH6JUzMMLE6P9KtE8DvQLKpump",
     "spaet": true,
     "t": 1795805915.5512023
+   },
+   {
+    "dauer": 0.0007536411285400391,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "D3rFK86soe7751MF3G1TAbgvk7oVJH6WPHRF8jfVpump",
+    "name": "Maya The Samoyed",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "MAYA",
+    "t": 1795806040.7028081
    }
   ],
   "uebersicht": 1795804378.8469467
