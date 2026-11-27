@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 530,
+ "laeufe": 531,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -247,16 +247,6 @@
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "mint": "FCKMDhr7gFHHLrro98wbbq446er7bi1eufWrfGxupRUB",
-    "spaet": true,
-    "t": 1795754888.6571927
-   },
-   {
-    "mint": "moBcWLsQdn5Zyc8TRuSK65LTuj249y2BATjWUrEpump",
-    "spaet": true,
-    "t": 1795755014.707337
-   },
    {
     "dauer": 247.82877230644226,
     "ersteller_verkauft": false,
@@ -418,6 +408,17 @@
     "spaet": false,
     "symbol": "CaveBaby",
     "t": 1795757800.8128347
+   },
+   {
+    "dauer": 70.69194006919861,
+    "ersteller_verkauft": false,
+    "kaeufer": 355,
+    "mint": "8XEddj5r2MkiKgFgMGUev3WMAyk5td2NXD6z3bRypump",
+    "name": "Pilly",
+    "sol": 85.63086099399996,
+    "spaet": false,
+    "symbol": "Pilly",
+    "t": 1795758614.6608164
    }
   ],
   "uebersicht": 1795758363.9843912
