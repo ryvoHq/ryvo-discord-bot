@@ -259,33 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 607,
+ "laeufe": 608,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 124.39437890052795,
-    "ersteller_verkauft": false,
-    "kaeufer": 27,
-    "mint": "6grWYJYNbWxqaZGbzr7PEhD5xGc2pFHQMEgtDRNkpump",
-    "name": "EVILcoin",
-    "sol": -0.005464392000000082,
-    "spaet": false,
-    "symbol": "EVIL",
-    "t": 1795776218.9224765
-   },
-   {
-    "dauer": 148.06266140937805,
-    "ersteller_verkauft": false,
-    "kaeufer": 134,
-    "mint": "3UoD76QyGNnK942eMJ6YYqTcqbZEVdPoHn6eGXx8pump",
-    "name": "Official Grand Theft Auto VI",
-    "sol": 72.54737223599997,
-    "spaet": false,
-    "symbol": "GTAVI",
-    "t": 1795776279.7143927
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -513,6 +491,22 @@
     "spaet": false,
     "symbol": "Fireball",
     "t": 1795779689.30745
+   },
+   {
+    "mint": "Hj1yVaRPSkWC5ysGeUgdd1NPTZfXj7yuMuzsYWBypump",
+    "spaet": true,
+    "t": 1795779703.4950905
+   },
+   {
+    "dauer": 41.25815010070801,
+    "ersteller_verkauft": false,
+    "kaeufer": 8,
+    "mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+    "name": "Cat on Sale",
+    "sol": 85.005359065,
+    "spaet": false,
+    "symbol": "Salecat",
+    "t": 1795779728.0546384
    }
   ],
   "uebersicht": 1795777246.467679
@@ -520,7 +514,7 @@
  "momentum_sperre": {
   "HYPE": 1795746465.6142428,
   "MOODENG": 1795682429.2791297,
-  "xyz:NVDA": 1795628633.7291481,
+  "xyz:NVDA": 1795780000.0314324,
   "xyz:SILVER": 1795757465.3953183,
   "xyz:TSLA": 1795631409.8383093,
   "xyz:XYZ100": 1795628633.7291481
