@@ -288,11 +288,12 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 654,
+ "laeufe": 655,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795790049.7792227
+   1795790049.7792227,
+   1795793101.9646134
   ],
   "stunde": [
    {
@@ -419,6 +420,54 @@
     "mint": "5ViorGSNin1xgJ2eaRBJSBxXHMN5eUjtEKp9neATpump",
     "spaet": true,
     "t": 1795792645.272199
+   },
+   {
+    "mint": "6vWvySwTzD45KWyca652T3TSRAmgHDSWB8ssAVX8pump",
+    "spaet": true,
+    "t": 1795792846.235692
+   },
+   {
+    "dauer": 820.0674574375153,
+    "ersteller_verkauft": false,
+    "kaeufer": 148,
+    "mint": "wPUhbzGNKMhQ9aXhhodpoXchKC7yYFmVg1UvuHbpump",
+    "name": "Tesla",
+    "sol": 85.42476506099992,
+    "spaet": false,
+    "symbol": "Tesla",
+    "t": 1795792861.909719
+   },
+   {
+    "dauer": 1358.8791694641113,
+    "ersteller_verkauft": true,
+    "kaeufer": 30,
+    "mint": "8ENXrHE8qPNLb9rwmyotNRxnF7qYVcN6RXHSSi6Xpump",
+    "name": "MANATEE",
+    "sol": 8.865375142000001,
+    "spaet": false,
+    "symbol": "MANATEE",
+    "t": 1795792934.228567
+   },
+   {
+    "mint": "BGUrAYoXAYYu3B2bsd4u7A3FdX6wt9fvFkDQ2bhMpump",
+    "spaet": true,
+    "t": 1795792981.1491375
+   },
+   {
+    "dauer": 352.0897226333618,
+    "ersteller_verkauft": false,
+    "kaeufer": 617,
+    "mint": "hzSvaxi4hfGdr8NLpLchEPgTdgCqFXkmU3L8rpSpump",
+    "name": "sheeb",
+    "sol": 54.086457165999796,
+    "spaet": false,
+    "symbol": "sheeb",
+    "t": 1795793009.367348
+   },
+   {
+    "mint": "FqXx2BtbiSBSj6FdiHwLqnfr7VNQuiF8ezh6euWhpump",
+    "spaet": true,
+    "t": 1795793023.7354774
    }
   ],
   "uebersicht": 1795792501.9997852
