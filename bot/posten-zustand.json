@@ -239,22 +239,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 543,
+ "laeufe": 544,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 70.69194006919861,
-    "ersteller_verkauft": false,
-    "kaeufer": 355,
-    "mint": "8XEddj5r2MkiKgFgMGUev3WMAyk5td2NXD6z3bRypump",
-    "name": "Pilly",
-    "sol": 85.63086099399996,
-    "spaet": false,
-    "symbol": "Pilly",
-    "t": 1795758614.6608164
-   },
    {
     "dauer": 0.1556077003479004,
     "ersteller_verkauft": false,
@@ -406,6 +395,28 @@
     "spaet": false,
     "symbol": "34%",
     "t": 1795761937.7935007
+   },
+   {
+    "dauer": 494.57562470436096,
+    "ersteller_verkauft": true,
+    "kaeufer": 27,
+    "mint": "E481s3JLMDgqBuQTJnW1tpheD2w8qD6irfg6oUobpump",
+    "name": "GTA 6 x Solana",
+    "sol": 15.144427488000014,
+    "spaet": false,
+    "symbol": "GTA6",
+    "t": 1795762177.0648453
+   },
+   {
+    "dauer": 187.59259271621704,
+    "ersteller_verkauft": true,
+    "kaeufer": 64,
+    "mint": "87CvVzNfgYv6X64Hi6Gb3Lf4S9Ef5yBxPLk6EH1opump",
+    "name": "CedarCreek",
+    "sol": 79.82468765799997,
+    "spaet": false,
+    "symbol": "CEDARCREEK",
+    "t": 1795762264.341897
    }
   ],
   "uebersicht": 1795762010.0935252
