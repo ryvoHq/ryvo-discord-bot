@@ -297,27 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 720,
+ "laeufe": 721,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 380.8041820526123,
-    "ersteller_verkauft": true,
-    "kaeufer": 16,
-    "mint": "GFxnEVPDjkH8kFTixywGz3pv2YrtMndWWt7jkexupump",
-    "name": "Gucci Rick",
-    "sol": 0.3150784100000003,
-    "spaet": false,
-    "symbol": "RICK",
-    "t": 1795807512.8814259
-   },
-   {
-    "mint": "8hJUz2ggdXTTJMvDayWiJXamJKd9vT1dtSLQgf8qpump",
-    "spaet": true,
-    "t": 1795807627.5990062
-   },
    {
     "dauer": 1833.4972059726715,
     "ersteller_verkauft": true,
@@ -516,6 +500,44 @@
     "spaet": false,
     "symbol": "beer",
     "t": 1795810862.0895016
+   },
+   {
+    "dauer": 26.32135534286499,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "DMjDKbJnwcyzSNBBLc14roQSa7Avu8GWuYNUULhHqFzp",
+    "name": "Flywheel",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "FLYWHEEL",
+    "t": 1795811120.1033518
+   },
+   {
+    "dauer": 69.59103155136108,
+    "ersteller_verkauft": false,
+    "kaeufer": 217,
+    "mint": "Hivbqk3DcsEaP2gMQtWBG1N3s6KUYryokdBm9Ye8pump",
+    "name": "Justice for Taylor Tom Trevor",
+    "sol": 82.28543260900004,
+    "spaet": false,
+    "symbol": "TripleT",
+    "t": 1795811156.476351
+   },
+   {
+    "dauer": 175.61997032165527,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "unoDjpRAqQ3reWnenoNzWZ1qvUVDEvdbTg7qZLtpump",
+    "name": "wind",
+    "sol": 0.6790399320000006,
+    "spaet": false,
+    "symbol": "wind",
+    "t": 1795811290.3887486
+   },
+   {
+    "mint": "8fPdrNRgE7vecwMa99MZgf8uabmei9EK9MWgaEZtpump",
+    "spaet": true,
+    "t": 1795811332.6236644
    }
   ],
   "uebersicht": 1795808022.9660485
