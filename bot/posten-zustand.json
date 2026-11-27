@@ -252,35 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 560,
+ "laeufe": 561,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795764477.4050171
   ],
   "stunde": [
-   {
-    "dauer": 87.1618480682373,
-    "ersteller_verkauft": true,
-    "kaeufer": 16,
-    "mint": "42bid98yfirZsuXbjxPLKMViXuRDgJhB32jWsh8bDRzj",
-    "name": "G T A",
-    "sol": 1.640638195999999,
-    "spaet": false,
-    "symbol": "G T A",
-    "t": 1795763129.2850566
-   },
-   {
-    "dauer": 28.36655306816101,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "DA8KuSrRvobSd8n6BMnYzJpkqVYvaw7xKQqx1wSYpump",
-    "name": "inu",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "INU",
-    "t": 1795763134.6727273
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -408,6 +386,54 @@
     "spaet": false,
     "symbol": "GremlinX",
     "t": 1795766325.8323212
+   },
+   {
+    "dauer": 24.828710079193115,
+    "ersteller_verkauft": false,
+    "kaeufer": 134,
+    "mint": "h3tdpoiZY3EiWSQSwWMamkvWM7sm1w9Mzee3GzXpump",
+    "name": "Tesla",
+    "sol": 85.00535932999999,
+    "spaet": false,
+    "symbol": "Tesla",
+    "t": 1795766662.016368
+   },
+   {
+    "dauer": 282.39975666999817,
+    "ersteller_verkauft": true,
+    "kaeufer": 13,
+    "mint": "FW9jV7DjVAo3pvLePxit8d7jfmKUdGmKfh9hgoz8pump",
+    "name": "Drink Watta",
+    "sol": 0.7314268549999996,
+    "spaet": false,
+    "symbol": "DWTA",
+    "t": 1795766683.8484933
+   },
+   {
+    "dauer": 445.51252031326294,
+    "ersteller_verkauft": true,
+    "kaeufer": 37,
+    "mint": "568Am8LRaQjFSDH8qcdma1vpqQTuDHSfQVnbhsrFpump",
+    "name": "DICE",
+    "sol": 0.17838538599999895,
+    "spaet": false,
+    "symbol": "DICE",
+    "t": 1795766687.4390693
+   },
+   {
+    "mint": "5zKPPLtdyZ1cSbMDBGCmp5gJBmeccJHGNr1KhwUEpump",
+    "spaet": true,
+    "t": 1795766723.22071
+   },
+   {
+    "mint": "J4qnnLSg7vVAmRRGyHgZjMRJqSvbB4pUSChguTMMpump",
+    "spaet": true,
+    "t": 1795766880.375694
+   },
+   {
+    "mint": "8kpraBzKAjssi5mjAdHKy5x6mdYNb6S8bNk9s7Pqpump",
+    "spaet": true,
+    "t": 1795766887.680126
    }
   ],
   "uebersicht": 1795765677.4794989
