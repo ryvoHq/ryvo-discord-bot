@@ -259,7 +259,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 593,
+ "laeufe": 594,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -517,6 +517,28 @@
     "mint": "E3iqCHjYqaD3bNv5ufa6pthDLYTMhEGZ8NDuw7cTpump",
     "spaet": true,
     "t": 1795775735.1599038
+   },
+   {
+    "dauer": 277.1380829811096,
+    "ersteller_verkauft": true,
+    "kaeufer": 44,
+    "mint": "H94PVDBDuxnyqWw7iToCTpi1Hnxduv7kp7E5M8E3pump",
+    "name": "Black Friday Solana",
+    "sol": 0.7959451249999989,
+    "spaet": false,
+    "symbol": "$BFS",
+    "t": 1795775853.9063215
+   },
+   {
+    "dauer": 160.4484624862671,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "GwW2H4rFuhieTf324yDg43WNbgf2YBUqymH4hm7zpump",
+    "name": "Hennesy coin",
+    "sol": 1.9183272960000004,
+    "spaet": false,
+    "symbol": "$HENNY",
+    "t": 1795775997.3491995
    }
   ],
   "uebersicht": 1795773601.8562944
