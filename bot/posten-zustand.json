@@ -297,7 +297,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 729,
+ "laeufe": 730,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
@@ -597,6 +597,11 @@
     "spaet": false,
     "symbol": "MOONDOGE",
     "t": 1795813534.5605972
+   },
+   {
+    "mint": "EUaXUvj2my5xFFULw95hRqfqDuki5v96uAw8NMa4pump",
+    "spaet": true,
+    "t": 1795813694.517236
    }
   ],
   "uebersicht": 1795811669.655001
