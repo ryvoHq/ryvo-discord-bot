@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 750,
+ "laeufe": 751,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -310,33 +310,6 @@
    1795817496.3342245
   ],
   "stunde": [
-   {
-    "dauer": 83.4232349395752,
-    "ersteller_verkauft": true,
-    "kaeufer": 349,
-    "mint": "CEV2WFYH9eQ2tLdC5tg3PWqrpixUaST4hjjsxx9Ppump",
-    "name": "CONCERNING",
-    "sol": 85.00535984299998,
-    "spaet": false,
-    "symbol": "CONCERNING",
-    "t": 1795815798.164007
-   },
-   {
-    "mint": "7uJcmiVrDfMbGhwxakZHY9ByUtBGfU8oaSJwpyXSpump",
-    "spaet": true,
-    "t": 1795815896.5014358
-   },
-   {
-    "dauer": 811.5039808750153,
-    "ersteller_verkauft": false,
-    "kaeufer": 311,
-    "mint": "597W88FgeoLZLaV4poEPb4eNNa36NmZhPikGhrsEpump",
-    "name": "Codemen",
-    "sol": 65.30342293799997,
-    "spaet": false,
-    "symbol": "CODEMEN",
-    "t": 1795815999.5519652
-   },
    {
     "dauer": 58.32909965515137,
     "ersteller_verkauft": true,
@@ -493,6 +466,11 @@
     "mint": "EqpHQG7BqS7B84GmGmwxridM1Jh3bbg8hW1Rd1d9pump",
     "spaet": true,
     "t": 1795818006.5444355
+   },
+   {
+    "mint": "GpfuVdTM3JBRnhRboYj5gT9QcSy7udzsECnMwydkpump",
+    "spaet": true,
+    "t": 1795819368.8143606
    }
   ],
   "uebersicht": 1795819361.7479584
