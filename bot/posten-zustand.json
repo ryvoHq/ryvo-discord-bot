@@ -252,61 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 573,
+ "laeufe": 574,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795767215.7774265
   ],
   "stunde": [
-   {
-    "dauer": 24.828710079193115,
-    "ersteller_verkauft": false,
-    "kaeufer": 134,
-    "mint": "h3tdpoiZY3EiWSQSwWMamkvWM7sm1w9Mzee3GzXpump",
-    "name": "Tesla",
-    "sol": 85.00535932999999,
-    "spaet": false,
-    "symbol": "Tesla",
-    "t": 1795766662.016368
-   },
-   {
-    "dauer": 282.39975666999817,
-    "ersteller_verkauft": true,
-    "kaeufer": 13,
-    "mint": "FW9jV7DjVAo3pvLePxit8d7jfmKUdGmKfh9hgoz8pump",
-    "name": "Drink Watta",
-    "sol": 0.7314268549999996,
-    "spaet": false,
-    "symbol": "DWTA",
-    "t": 1795766683.8484933
-   },
-   {
-    "dauer": 445.51252031326294,
-    "ersteller_verkauft": true,
-    "kaeufer": 37,
-    "mint": "568Am8LRaQjFSDH8qcdma1vpqQTuDHSfQVnbhsrFpump",
-    "name": "DICE",
-    "sol": 0.17838538599999895,
-    "spaet": false,
-    "symbol": "DICE",
-    "t": 1795766687.4390693
-   },
-   {
-    "mint": "5zKPPLtdyZ1cSbMDBGCmp5gJBmeccJHGNr1KhwUEpump",
-    "spaet": true,
-    "t": 1795766723.22071
-   },
-   {
-    "mint": "J4qnnLSg7vVAmRRGyHgZjMRJqSvbB4pUSChguTMMpump",
-    "spaet": true,
-    "t": 1795766880.375694
-   },
-   {
-    "mint": "8kpraBzKAjssi5mjAdHKy5x6mdYNb6S8bNk9s7Pqpump",
-    "spaet": true,
-    "t": 1795766887.680126
-   },
    {
     "mint": "D8RAQyVX6yAFRh8c2XZLAQT7RrD8X4NbkqFzziHepump",
     "spaet": true,
@@ -464,6 +416,11 @@
     "mint": "9QYNCKc4Fnc4pFsmpjZhBq6odhooQbJdRz1eExc2pump",
     "spaet": true,
     "t": 1795769828.997939
+   },
+   {
+    "mint": "GHsbf9hoVsVEPYGMo47SUxHC33bMYTKZCVk3d4mypump",
+    "spaet": true,
+    "t": 1795770378.4956286
    }
   ],
   "uebersicht": 1795769956.7683537
