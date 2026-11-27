@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 760,
+ "laeufe": 761,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -435,6 +435,17 @@
     "spaet": false,
     "symbol": "Hackat",
     "t": 1795822068.8715718
+   },
+   {
+    "dauer": 276.86307430267334,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "31TFAGbeJrm7qfXCxmLVRnSry9pwFbAHoYhri5XMpump",
+    "name": "Michael Jackson",
+    "sol": 0.01747547600000103,
+    "spaet": false,
+    "symbol": "MJ5",
+    "t": 1795822346.8147073
    }
   ],
   "uebersicht": 1795819361.7479584
