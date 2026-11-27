@@ -227,40 +227,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 479,
+ "laeufe": 480,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795744307.9376364
+   1795744307.9376364,
+   1795744609.1542165
   ],
   "stunde": [
-   {
-    "mint": "26sgRqwNeNmGJf3roCqZq9YwChMypYXPG4QKPUegpump",
-    "spaet": true,
-    "t": 1795740749.3786798
-   },
-   {
-    "dauer": 116.29527997970581,
-    "ersteller_verkauft": true,
-    "kaeufer": 319,
-    "mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
-    "name": "Doomscrolling Monkey",
-    "sol": 85.00535973199993,
-    "spaet": false,
-    "symbol": "Doomscroll",
-    "t": 1795740830.2796626
-   },
-   {
-    "dauer": 57.45736742019653,
-    "ersteller_verkauft": true,
-    "kaeufer": 334,
-    "mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
-    "name": "Rodrigo Cat",
-    "sol": 76.83535950100006,
-    "spaet": false,
-    "symbol": "Rodrigo",
-    "t": 1795740961.650057
-   },
    {
     "dauer": 209.09482884407043,
     "ersteller_verkauft": true,
@@ -588,6 +562,39 @@
     "spaet": false,
     "symbol": "TOGI",
     "t": 1795744307.43585
+   },
+   {
+    "dauer": 64.36974287033081,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "FDJfGGPSw9jJ8JRnQW62GLGekjUHKDxdeA9kh27Tpump",
+    "name": "fomo Day",
+    "sol": 85.005359066,
+    "spaet": false,
+    "symbol": "fomoDay",
+    "t": 1795744398.4655175
+   },
+   {
+    "dauer": 182.0806803703308,
+    "ersteller_verkauft": true,
+    "kaeufer": 407,
+    "mint": "2sM24YZtNTwyvD3S2muZyTK19AFGpGHmRcwXdjHipump",
+    "name": "this is fine",
+    "sol": 57.18471050399993,
+    "spaet": false,
+    "symbol": "fine",
+    "t": 1795744474.7375968
+   },
+   {
+    "dauer": 2.7265026569366455,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "BwHbqPak7sn7KNo7PtXUZevGSwniSbFaS7bauKr5pump",
+    "name": "Moo",
+    "sol": 85.00535909199999,
+    "spaet": false,
+    "symbol": "Moo",
+    "t": 1795744508.7196987
    }
   ],
   "uebersicht": 1795743408.1301825
