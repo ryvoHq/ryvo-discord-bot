@@ -239,47 +239,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 511,
+ "laeufe": 512,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795752574.3285844,
-   1795752574.3285844
+   1795752574.3285844,
+   1795753475.0919275
   ],
   "stunde": [
-   {
-    "dauer": 94.30613684654236,
-    "ersteller_verkauft": false,
-    "kaeufer": 141,
-    "mint": "HP8TpWxch62wJwCmesgBCMbHwat6mjHpesVtkXZdpump",
-    "name": "Basket",
-    "sol": 85.18862102900006,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795749670.87776
-   },
-   {
-    "dauer": 14.688537359237671,
-    "ersteller_verkauft": false,
-    "kaeufer": 6,
-    "mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
-    "name": "DragonCoin",
-    "sol": 85.00535906199998,
-    "spaet": false,
-    "symbol": "Dragon",
-    "t": 1795749721.9140146
-   },
-   {
-    "dauer": 306.0831060409546,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "6QhQxyrAbjn8DxQCpzfEqKfFKL81b3n9gW6WtNdBpump",
-    "name": "Snowball",
-    "sol": 0.09378252199999981,
-    "spaet": false,
-    "symbol": "Snowball",
-    "t": 1795749769.0366473
-   },
    {
     "dauer": 1146.0488035678864,
     "ersteller_verkauft": false,
@@ -472,6 +440,33 @@
     "mint": "HndF7FLfdzXvc5ztwKVVuKakHEumZa54zWt54RAKbQ4V",
     "spaet": true,
     "t": 1795753015.1936593
+   },
+   {
+    "dauer": 1017.641889333725,
+    "ersteller_verkauft": false,
+    "kaeufer": 620,
+    "mint": "5hkBYuFQDpAAqemCiVqXCuU6Ya5dqKhtRobzJsg6pump",
+    "name": "Christmas Coin",
+    "sol": 85.29733667900007,
+    "spaet": false,
+    "symbol": "Christmas",
+    "t": 1795753193.826318
+   },
+   {
+    "mint": "5NawJgPe9yoyDYijrdwC3Lg94MJaZ9LaoJP1T6hKBrBL",
+    "spaet": true,
+    "t": 1795753264.7161713
+   },
+   {
+    "dauer": 25.597000122070312,
+    "ersteller_verkauft": false,
+    "kaeufer": 4,
+    "mint": "HLiYBFc7Yrmo9qm94jdUHtZyqXPq35dR11K8ncwApump",
+    "name": "Retarded Slop Ape Official",
+    "sol": 63.943452766999975,
+    "spaet": false,
+    "symbol": "RSA",
+    "t": 1795753376.0591798
    }
   ],
   "uebersicht": 1795750736.6922324
