@@ -227,67 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 474,
+ "laeufe": 475,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 166.815420627594,
-    "ersteller_verkauft": false,
-    "kaeufer": 27,
-    "mint": "GYk6co3g2gsHYjD4TBtctAoJKmnVmaGkwPBVVyb4pump",
-    "name": "DeadBullLabs",
-    "sol": 0.07369547299999983,
-    "spaet": false,
-    "symbol": "VIPER",
-    "t": 1795739310.939244
-   },
-   {
-    "dauer": 70.44484329223633,
-    "ersteller_verkauft": true,
-    "kaeufer": 197,
-    "mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
-    "name": "the future",
-    "sol": 85.00535945900005,
-    "spaet": false,
-    "symbol": "FUTURE",
-    "t": 1795739344.004033
-   },
-   {
-    "mint": "5mqvtSRzTCctWPqeDeVxr7c7xY6CvwXd1a6GLh51pump",
-    "spaet": true,
-    "t": 1795739368.8642035
-   },
-   {
-    "dauer": 17.882884740829468,
-    "ersteller_verkauft": true,
-    "kaeufer": 161,
-    "mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
-    "name": "Furture inu",
-    "sol": 85.00535929999992,
-    "spaet": false,
-    "symbol": "FI",
-    "t": 1795739369.7870286
-   },
-   {
-    "mint": "2dD94Lhoscbn7WUiFmDH9pxokErcTEZymbkH6RGNpump",
-    "spaet": true,
-    "t": 1795739476.9368873
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "4yQ24u7SKGRXUkYgfpgsDCHy5WmkFEECsqpkLMWpump",
-    "name": "United Bitcoin Reserve",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795739491.0545125
-   },
    {
     "dauer": 0.0008323192596435547,
     "ersteller_verkauft": false,
@@ -671,6 +617,39 @@
     "spaet": false,
     "symbol": "CAUA",
     "t": 1795742802.775983
+   },
+   {
+    "dauer": 0.0004298686981201172,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "2QChKk7EvS3K9ezWu7Qs7981Qd2aJz4FEPce1HBZpump",
+    "name": "Togo",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TOGO",
+    "t": 1795742901.2733715
+   },
+   {
+    "dauer": 95.87811613082886,
+    "ersteller_verkauft": true,
+    "kaeufer": 254,
+    "mint": "7RhUAYcj8iSsCweKkdJ71kKuAAcwYtBCpJz2ceG8pump",
+    "name": "Bae",
+    "sol": 84.98177942199989,
+    "spaet": false,
+    "symbol": "BAE",
+    "t": 1795742956.2688382
+   },
+   {
+    "dauer": 24.079463958740234,
+    "ersteller_verkauft": true,
+    "kaeufer": 147,
+    "mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+    "name": "fomo Day",
+    "sol": 85.00535930399997,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795742972.666288
    }
   ],
   "uebersicht": 1795739768.4662964
