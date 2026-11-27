@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 638,
+ "laeufe": 639,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -286,17 +286,6 @@
    1795786697.463176
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "aiHC7WubbvE5hG6XCQxCbVWT7zntrTaYinDmq8tpump",
-    "name": "GOTF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "GOTF",
-    "t": 1795784855.0098855
-   },
    {
     "mint": "26qFFJBo4F7EjtzCuCbJEdW4v233mY1aMRaw8Y2kpump",
     "spaet": true,
@@ -558,6 +547,17 @@
     "spaet": false,
     "symbol": "FRGST",
     "t": 1795788235.1012516
+   },
+   {
+    "dauer": 2.793877601623535,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "3QZSxazLf4qddQENjjbtwY8aDVfoXuaAykS9YRzNpump",
+    "name": "AREYOUNOTENTERTAINED?",
+    "sol": 85.00535908299999,
+    "spaet": false,
+    "symbol": "AREYOUNOTENTE",
+    "t": 1795788252.1168995
    }
   ],
   "uebersicht": 1795785198.054407
