@@ -293,18 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 669,
+ "laeufe": 670,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "mint": "5rRxk9FC3ma11neg8BGLwTWxt4PokH19Y92sERwa2PJ3",
-    "spaet": true,
-    "t": 1795793250.4772365
-   },
    {
     "mint": "CMNHEatExv5pVVwAiRPLreNvbCZJsqRirsgLfvVBpump",
     "spaet": true,
@@ -518,6 +513,43 @@
     "mint": "6e9AGbPARNWRQLMGN2kBKrMZ26XAKQWRRJEEiL1qpump",
     "spaet": true,
     "t": 1795796646.044262
+   },
+   {
+    "mint": "A6jTfxSnjhTxuCmPKLyL675MPGm6fc2AAhjtAa9kpump",
+    "spaet": true,
+    "t": 1795796808.9648473
+   },
+   {
+    "mint": "8MSanNQ42P9r3KPTtGhtTGYh4mokALj6Tp9ZDXfopump",
+    "spaet": true,
+    "t": 1795796810.6858475
+   },
+   {
+    "dauer": 0.005776882171630859,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump",
+    "name": "Never Broke Again",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "NBA",
+    "t": 1795797008.552775
+   },
+   {
+    "mint": "33w1TNZJ5m5URMEihcBCb7K6uisoiGRELPhKQvetpump",
+    "spaet": true,
+    "t": 1795797031.89556
+   },
+   {
+    "dauer": 37.23757076263428,
+    "ersteller_verkauft": false,
+    "kaeufer": 296,
+    "mint": "8ob6WB1VTJasK2r6EjzbMyJ5Zv8bd6jDsTtahvxunyLV",
+    "name": "Six Seven",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "67",
+    "t": 1795797041.189469
    }
   ],
   "uebersicht": 1795796148.1298294
