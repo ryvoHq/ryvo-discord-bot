@@ -288,7 +288,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 663,
+ "laeufe": 664,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -296,28 +296,6 @@
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 108.189049243927,
-    "ersteller_verkauft": false,
-    "kaeufer": 133,
-    "mint": "CbCatpj3mNJs9Q3PvPyG973Hoeq5vMRGE7zcNDm5pump",
-    "name": "Snowball",
-    "sol": 81.98999730400006,
-    "spaet": false,
-    "symbol": "Snowball",
-    "t": 1795791671.3813875
-   },
-   {
-    "dauer": 0.0014748573303222656,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "54jKBorvDP4eB7vZnWy1HJfhm4X17pSJCE6o2Lshpump",
-    "name": "ComputeCoin",
-    "sol": 85.00535906900001,
-    "spaet": false,
-    "symbol": "COMPUTE",
-    "t": 1795791785.0405767
-   },
    {
     "dauer": 0.43979930877685547,
     "ersteller_verkauft": false,
@@ -504,6 +482,44 @@
     "spaet": false,
     "symbol": "Meme",
     "t": 1795794986.7681963
+   },
+   {
+    "dauer": 0.003201007843017578,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "92tFJ6CvgCuoS1c34Qy5g3RPVRDmLyHtknMnuoYqpump",
+    "name": "Elfball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Elfball",
+    "t": 1795795314.5361907
+   },
+   {
+    "dauer": 259.50081729888916,
+    "ersteller_verkauft": false,
+    "kaeufer": 101,
+    "mint": "ChMaXd6czWFcUfMNUmQHhGcaAnD34pvMRFwkEw7dpump",
+    "name": "winter arc",
+    "sol": 49.60518028299999,
+    "spaet": false,
+    "symbol": "WINTER",
+    "t": 1795795338.327073
+   },
+   {
+    "mint": "4VkDEfDvpxuUvewZ3KTj3i8UdjgtiL5RvrMsrvtSPAqg",
+    "spaet": true,
+    "t": 1795795413.679066
+   },
+   {
+    "dauer": 41.1371693611145,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "EaHo5mpcamny3L2VhC9o7nFGunJnjmXZ46iWRqybpump",
+    "name": "Fernandes Stays",
+    "sol": 60.55482574799999,
+    "spaet": false,
+    "symbol": "STAYB",
+    "t": 1795795440.7088706
    }
   ],
   "uebersicht": 1795792501.9997852
