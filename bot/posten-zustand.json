@@ -301,25 +301,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 756,
+ "laeufe": 757,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795817496.3342245,
    1795820261.4755316
   ],
   "stunde": [
-   {
-    "dauer": 293.67042112350464,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "5JP2AcP2D6VFBUkEcoXXfnPu4zMryZFQpeGu8gNXpump",
-    "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
-    "sol": -0.03436091399999994,
-    "spaet": false,
-    "symbol": "FOMOCAT",
-    "t": 1795817395.9471831
-   },
    {
     "dauer": 222.4647455215454,
     "ersteller_verkauft": true,
@@ -430,6 +418,11 @@
     "spaet": false,
     "symbol": "$BFKITTY",
     "t": 1795820800.8096857
+   },
+   {
+    "mint": "Bhj8AutNrUfxg2aR2gkNzraTVYXywm7Hus8H3sjKpump",
+    "spaet": true,
+    "t": 1795821114.6154983
    }
   ],
   "uebersicht": 1795819361.7479584
