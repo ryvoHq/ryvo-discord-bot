@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-26",
  "lab_tageslog": [],
- "laeufe": 454,
+ "laeufe": 455,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -231,27 +231,6 @@
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "mint": "BmMKWvmAofGVpZE1MK4pdTNi5UjfhWLZyNcrV3Gpump",
-    "spaet": true,
-    "t": 1795733776.800991
-   },
-   {
-    "mint": "TgDHwSH5YjX84F9JDWYgaQxTpptLnyHFvSwkvSXpump",
-    "spaet": true,
-    "t": 1795733978.19046
-   },
-   {
-    "dauer": 54.444101333618164,
-    "ersteller_verkauft": false,
-    "kaeufer": 77,
-    "mint": "G28eLyNwmauAwrXHJb81inhg2LnbWfP42G4SafyFpump",
-    "name": "Rasmr Wasted",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "RASMR",
-    "t": 1795733996.6923366
-   },
    {
     "mint": "5NweyLSe3KPw9vGUurLnD4Cx2f7JVoHGCtuW72ybpump",
     "spaet": true,
@@ -556,6 +535,28 @@
     "spaet": false,
     "symbol": "FF",
     "t": 1795737170.5707672
+   },
+   {
+    "dauer": 52.48200559616089,
+    "ersteller_verkauft": true,
+    "kaeufer": 236,
+    "mint": "D43PBweGL9R9beB6NagU8SdTKgn1JhdUJ8XQwBKnpump",
+    "name": "if",
+    "sol": 80.41535943400017,
+    "spaet": false,
+    "symbol": "if",
+    "t": 1795737445.4804125
+   },
+   {
+    "dauer": 158.08185815811157,
+    "ersteller_verkauft": false,
+    "kaeufer": 150,
+    "mint": "2KNE6xr1Jre7LoX3U82deuuyJbFVEsqcCtwyvkMfpump",
+    "name": "Basket",
+    "sol": 76.788075341,
+    "spaet": false,
+    "symbol": "BASKET",
+    "t": 1795737596.7643194
    }
   ],
   "uebersicht": 1795735188.828268
@@ -574,8 +575,8 @@
    "zeit": 1795633206.42857
   },
   "fvg:ETH": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795734000000,
+   "zeit": 1795737628.4888701
   },
   "fvg:SOL": {
    "t": 1795629600000,
