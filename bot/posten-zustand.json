@@ -297,33 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 732,
+ "laeufe": 733,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 102.3097312450409,
-    "ersteller_verkauft": false,
-    "kaeufer": 10,
-    "mint": "HhvH6r8uEqUZn8LkGSRUhtrDVqwhuBAiDGj4h1Yhpump",
-    "name": "beer",
-    "sol": 0.21221186499999992,
-    "spaet": false,
-    "symbol": "beer",
-    "t": 1795810862.0895016
-   },
-   {
-    "dauer": 26.32135534286499,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "DMjDKbJnwcyzSNBBLc14roQSa7Avu8GWuYNUULhHqFzp",
-    "name": "Flywheel",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "FLYWHEEL",
-    "t": 1795811120.1033518
-   },
    {
     "dauer": 69.59103155136108,
     "ersteller_verkauft": false,
@@ -537,6 +515,28 @@
     "spaet": false,
     "symbol": "Only.meme",
     "t": 1795814403.5019274
+   },
+   {
+    "dauer": 130.14288544654846,
+    "ersteller_verkauft": true,
+    "kaeufer": 389,
+    "mint": "8sWubkEFZFAzBUGF7YvqRZD8HrPBwZ9swtgDGYRjpump",
+    "name": "Grok Bot Inu",
+    "sol": 86.78788119500001,
+    "spaet": false,
+    "symbol": "BOT",
+    "t": 1795814614.6017475
+   },
+   {
+    "dauer": 76.54289412498474,
+    "ersteller_verkauft": true,
+    "kaeufer": 273,
+    "mint": "eqoWGkyCaoJYdbjZvjJWonhNF1zhCxGdtb49pBapump",
+    "name": "bear inu",
+    "sol": 85.00535941199998,
+    "spaet": false,
+    "symbol": "BI",
+    "t": 1795814707.8408422
    }
   ],
   "uebersicht": 1795811669.655001
