@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 484,
+ "laeufe": 485,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,28 +235,6 @@
    1795744609.1542165
   ],
   "stunde": [
-   {
-    "dauer": 45.98030185699463,
-    "ersteller_verkauft": false,
-    "kaeufer": 156,
-    "mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
-    "name": "Buttercup",
-    "sol": 46.85085983099999,
-    "spaet": false,
-    "symbol": "Buttercup",
-    "t": 1795741999.0328004
-   },
-   {
-    "dauer": 113.00450372695923,
-    "ersteller_verkauft": true,
-    "kaeufer": 369,
-    "mint": "42YmKSGkLyazwYLENJFQf58wxvsfbtwJsr3bHjQUpump",
-    "name": "Ozzy",
-    "sol": 77.60738404399996,
-    "spaet": false,
-    "symbol": "Ozzy",
-    "t": 1795742058.132719
-   },
    {
     "dauer": 94.66956663131714,
     "ersteller_verkauft": false,
@@ -638,6 +616,55 @@
     "spaet": false,
     "symbol": "Fireball",
     "t": 1795745541.33702
+   },
+   {
+    "dauer": 95.63963532447815,
+    "ersteller_verkauft": true,
+    "kaeufer": 376,
+    "mint": "3wBf3h6uxqAsb2RizqQudNGK1VAUKew2H9GpQtHDpump",
+    "name": "Corn Sugar",
+    "sol": 85.00535958100001,
+    "spaet": false,
+    "symbol": "CORNSUGAR",
+    "t": 1795745661.52681
+   },
+   {
+    "dauer": 51.925029277801514,
+    "ersteller_verkauft": false,
+    "kaeufer": 258,
+    "mint": "6CivJJZhRfkL9Efumy4mJWqcqMpmHpT9uY66TfE5pump",
+    "name": "The Thanksgiving Effect",
+    "sol": 85.03498936300005,
+    "spaet": false,
+    "symbol": "Thanksgiving",
+    "t": 1795745721.5991957
+   },
+   {
+    "dauer": 172.7130482196808,
+    "ersteller_verkauft": false,
+    "kaeufer": 325,
+    "mint": "CpsGS1uqg5sgDG16Peio5wXCJekgZwAt5zVhV89mpump",
+    "name": "avalanche",
+    "sol": 85.00535998700003,
+    "spaet": false,
+    "symbol": "avalanche",
+    "t": 1795745763.8500123
+   },
+   {
+    "dauer": 135.0457375049591,
+    "ersteller_verkauft": false,
+    "kaeufer": 146,
+    "mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+    "name": "ZeroSumEnjoyer",
+    "sol": 85.00535926500002,
+    "spaet": false,
+    "symbol": "Zero",
+    "t": 1795745850.0285301
+   },
+   {
+    "mint": "8YjTr1ehqPHXRTuZuULJAuciFqNMRJmNmzyrY2cUpump",
+    "spaet": true,
+    "t": 1795745860.5056481
    }
   ],
   "uebersicht": 1795743408.1301825
