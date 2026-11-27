@@ -259,27 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 605,
+ "laeufe": 606,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 76.87728929519653,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "EsP2kSNR6g1sGGxbnZza73aPdhBDYF4yG8zbGGpvpump",
-    "name": "EVERYONE SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795775665.5732427
-   },
-   {
-    "mint": "E3iqCHjYqaD3bNv5ufa6pthDLYTMhEGZ8NDuw7cTpump",
-    "spaet": true,
-    "t": 1795775735.1599038
-   },
    {
     "dauer": 277.1380829811096,
     "ersteller_verkauft": true,
@@ -487,6 +471,43 @@
     "spaet": false,
     "symbol": "SELL",
     "t": 1795779008.0594516
+   },
+   {
+    "mint": "GmcithkhAoqGJY9jhCGS5g51G1aL2mNgDpS2eQbFWJVW",
+    "spaet": true,
+    "t": 1795779147.6818614
+   },
+   {
+    "mint": "51ggDdZ3AJC2U3gX3EjQddUQ26vmGnAw2Ui5jDf1pump",
+    "spaet": true,
+    "t": 1795779243.3038423
+   },
+   {
+    "mint": "Ep4BN61gu1z94VH6Y7DkaHeo9byKVj2TrX2xm9BGGZ9c",
+    "spaet": true,
+    "t": 1795779266.9577172
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "YnUWYyiUTSJmpR6bWPFeDkS6BrRsmQBtS9s9dSepump",
+    "name": "Tenex Cash",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "TXC",
+    "t": 1795779272.6264987
+   },
+   {
+    "dauer": 46.06860828399658,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "DGKevnNjSKwKCJ8qhUwATm1675bDcJAMhz2koX9upump",
+    "name": "SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795779395.9365785
    }
   ],
   "uebersicht": 1795777246.467679
