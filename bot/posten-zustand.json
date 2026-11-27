@@ -297,23 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 714,
+ "laeufe": 715,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "mint": "ANufYeQw9diaimihuktYuRL57QUBU4dkEqghyptzpump",
-    "spaet": true,
-    "t": 1795805751.223893
-   },
-   {
-    "mint": "8EQHN5TYWjg43SoQVZaH6JUzMMLE6P9KtE8DvQLKpump",
-    "spaet": true,
-    "t": 1795805915.5512023
-   },
    {
     "dauer": 0.0007536411285400391,
     "ersteller_verkauft": false,
@@ -480,6 +470,22 @@
     "spaet": false,
     "symbol": "GETPAID",
     "t": 1795809048.4892263
+   },
+   {
+    "dauer": 0.0036466121673583984,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "BFFxXi7xD9uhf7fKujN8kJzsmDouP4Y91z1nsPcapump",
+    "name": "Bitcoin Trench Cat",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "BTCAT",
+    "t": 1795809352.1037385
+   },
+   {
+    "mint": "H3EYhJbuNby2scFMEWdkD7S5dP4bR5B9TJGLgNRupump",
+    "spaet": true,
+    "t": 1795809519.4936497
    }
   ],
   "uebersicht": 1795808022.9660485
