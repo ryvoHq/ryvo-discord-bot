@@ -239,18 +239,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 527,
+ "laeufe": 528,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795756514.653192
+   1795756514.653192,
+   1795757763.4382763
   ],
   "stunde": [
-   {
-    "mint": "4suTqHLfusyCwGSStMkj4EoEbYZxNodrwcVxwdFypump",
-    "spaet": true,
-    "t": 1795753865.5197735
-   },
    {
     "mint": "2TjUpMTvXtqiSstnNxsKM9eLYyXQt99Pw5aNqWsbpump",
     "spaet": true,
@@ -404,6 +400,33 @@
     "spaet": false,
     "symbol": "dogthink",
     "t": 1795757280.3346555
+   },
+   {
+    "dauer": 527.4528782367706,
+    "ersteller_verkauft": false,
+    "kaeufer": 653,
+    "mint": "7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump",
+    "name": "キボウ",
+    "sol": 83.89364741599985,
+    "spaet": false,
+    "symbol": "Kibo",
+    "t": 1795757490.141464
+   },
+   {
+    "mint": "9WKx16VGPxYZGP2meCF1zRe1RPVnBQkCqv2Nacbpump",
+    "spaet": true,
+    "t": 1795757536.1245487
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "UFkVsDKVP1Rh9JU7dsqV6suL4cwJFgHgwBKb2Khpump",
+    "name": "ATX",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "ATX",
+    "t": 1795757608.318981
    }
   ],
   "uebersicht": 1795754714.6155627
