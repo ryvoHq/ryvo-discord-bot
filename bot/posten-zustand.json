@@ -2,7 +2,7 @@
  "aktien_tag": "2026-11-26",
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-26",
- "ebenen_krypto": "2026-11-26",
+ "ebenen_krypto": "2026-11-27",
  "ebenen_trad": "2026-11-26",
  "ezb_tag": "2026-11-26",
  "gesehen": [
@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 532,
+ "laeufe": 533,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -247,17 +247,6 @@
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "dauer": 82.48400735855103,
-    "ersteller_verkauft": false,
-    "kaeufer": 151,
-    "mint": "AeNY1zJWSfXNo6n24MBVzVu59b2wDitLL96bkNnRpump",
-    "name": "MrBeast",
-    "sol": 85.00535939699988,
-    "spaet": false,
-    "symbol": "BEAST",
-    "t": 1795755622.925417
-   },
    {
     "dauer": 210.59032726287842,
     "ersteller_verkauft": false,
@@ -419,6 +408,22 @@
     "spaet": false,
     "symbol": "SNOWBALLED",
     "t": 1795758857.2576973
+   },
+   {
+    "mint": "7Bf2bYAG9wjYB2GaYAe4Haczh4qNFMa5QH2EQLVWpump",
+    "spaet": true,
+    "t": 1795759049.2851653
+   },
+   {
+    "dauer": 132.31765031814575,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "43GGzLyNpmS1vJriFdd1AjU2pR5zPaUzGPA6JFtspump",
+    "name": "FreakHouse",
+    "sol": 0.634019881,
+    "spaet": false,
+    "symbol": "FHC",
+    "t": 1795759177.8455033
    }
   ],
   "uebersicht": 1795758363.9843912
@@ -457,8 +462,8 @@
    "zeit": 1795748635.7522614
   },
   "smt:BTC:ETH": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795755600000,
+   "zeit": 1795759262.4776418
   },
   "smt:xyz:SP500:xyz:XYZ100": {
    "t": 1795708800000,
