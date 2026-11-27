@@ -297,27 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 723,
+ "laeufe": 724,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "FzBtBoWuF1e2W2PEBQJMorUy3wkXGN17URfCYWLSpump",
-    "spaet": true,
-    "t": 1795808278.6574442
-   },
-   {
-    "dauer": 88.78163242340088,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "ASZXDWf1a8JwruZwXzwhGqQ4HbnWWBywMmJJAnfEpump",
-    "name": "DERPCAT",
-    "sol": 1.7638555280000001,
-    "spaet": false,
-    "symbol": "DERP",
-    "t": 1795808326.283028
-   },
    {
     "mint": "4vwAuMWFnT3EJodRjAULM2bYvrJCaXrpfahVX2yuyghC",
     "spaet": true,
@@ -544,6 +528,27 @@
     "spaet": false,
     "symbol": "PVE",
     "t": 1795811594.0132217
+   },
+   {
+    "mint": "2bYUkViyQBuT8Bms3vjapcunxPVgq7bBsLg2x74dpump",
+    "spaet": true,
+    "t": 1795811757.3500175
+   },
+   {
+    "dauer": 28.823548555374146,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "BWMJs2is6ZyTE66p9Eu8MYp7SF4ReJYufQ84voPBpump",
+    "name": "mayhem",
+    "sol": 16.022744861,
+    "spaet": false,
+    "symbol": "mayhem",
+    "t": 1795811988.0823085
+   },
+   {
+    "mint": "21XniVJWfj4DZ9Gmxrn4Ja163Ei7G4temXXmzpFWpump",
+    "spaet": true,
+    "t": 1795812041.1404567
    }
   ],
   "uebersicht": 1795811669.655001
