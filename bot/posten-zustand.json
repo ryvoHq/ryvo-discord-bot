@@ -254,12 +254,12 @@
   "https://www.theglobeandmail.com/business/technology/article-operation-niagara-cryptocurrency-fraud-scams-law-enforcement/",
   "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
  ],
- "indizes_tag": "2026-11-26",
+ "indizes_tag": "2026-11-27",
  "krypto_tag": "2026-11-27",
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 624,
+ "laeufe": 625,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -267,17 +267,6 @@
    1795784244.0034847
   ],
   "stunde": [
-   {
-    "dauer": 381.2811930179596,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "AEuM2Yvg3sPR7g2QzPqudg3XbTwUiLrTBBHsP45Dpump",
-    "name": "MAEMUKI",
-    "sol": 1.535234884,
-    "spaet": false,
-    "symbol": "MAEMUKI",
-    "t": 1795780976.4090629
-   },
    {
     "dauer": 236.6398983001709,
     "ersteller_verkauft": false,
@@ -500,6 +489,11 @@
     "spaet": false,
     "symbol": "Zhaki",
     "t": 1795784088.23495
+   },
+   {
+    "mint": "3AYshf6BKsM9HVxbPk6vZ3QyWC5H4zTetAANynLrDmmZ",
+    "spaet": true,
+    "t": 1795784333.1540766
    }
   ],
   "uebersicht": 1795780902.3769503
