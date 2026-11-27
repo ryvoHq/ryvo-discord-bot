@@ -227,49 +227,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 499,
+ "laeufe": 500,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795746463.5361197,
-   1795746463.5361197,
    1795748337.0159345,
    1795749536.9144933
   ],
   "stunde": [
-   {
-    "dauer": 334.57562470436096,
-    "ersteller_verkauft": false,
-    "kaeufer": 561,
-    "mint": "6wu8aTDFEvb5gZdNJFy7eeV6VWpZH8xfykagKdgGpump",
-    "name": "avalanche",
-    "sol": 68.68082519900007,
-    "spaet": false,
-    "symbol": "avalanche",
-    "t": 1795746240.0482008
-   },
-   {
-    "dauer": 0.11140727996826172,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "G2XqmSc8vJpLLwaLVXUeNkxsrhVT8vQ3Pje8MqeDpump",
-    "name": "SpaceXCoin",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "SpaceXCoin",
-    "t": 1795746265.0959582
-   },
-   {
-    "dauer": 207.90684509277344,
-    "ersteller_verkauft": true,
-    "kaeufer": 540,
-    "mint": "GvuCLHfq5dK8hj2bwLZ5xPEuE6gj3yUcX2St2wZapump",
-    "name": "DOGE SMILE",
-    "sol": 86.63538949699972,
-    "spaet": false,
-    "symbol": "SMILE",
-    "t": 1795746281.2887955
-   },
    {
     "dauer": 655.6830840110779,
     "ersteller_verkauft": false,
@@ -477,6 +442,28 @@
     "spaet": false,
     "symbol": "Snowball",
     "t": 1795749769.0366473
+   },
+   {
+    "dauer": 1146.0488035678864,
+    "ersteller_verkauft": false,
+    "kaeufer": 157,
+    "mint": "ERVmk8XQhjKmqD9e3kBvUg5bc8HsbfKbQYKzmsGZpump",
+    "name": "FomoFamily | Offical Team",
+    "sol": 82.43535190099998,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795750015.793035
+   },
+   {
+    "dauer": 157.01875734329224,
+    "ersteller_verkauft": false,
+    "kaeufer": 141,
+    "mint": "8KZTHRWwiVsJb6vkKGurusowUcCEH77hAUCKqRgpump",
+    "name": "CocaCola | Offical",
+    "sol": 84.78194773800003,
+    "spaet": false,
+    "symbol": "Coca-Cola",
+    "t": 1795750094.1967432
    }
   ],
   "uebersicht": 1795747063.2995136
