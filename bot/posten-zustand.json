@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 496,
+ "laeufe": 497,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -236,44 +236,6 @@
    1795748337.0159345
   ],
   "stunde": [
-   {
-    "dauer": 118.26960325241089,
-    "ersteller_verkauft": true,
-    "kaeufer": 341,
-    "mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
-    "name": "The Unicorn",
-    "sol": 85.11704720499996,
-    "spaet": false,
-    "symbol": "Unicorn",
-    "t": 1795745346.7169077
-   },
-   {
-    "mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
-    "spaet": true,
-    "t": 1795745389.840078
-   },
-   {
-    "dauer": 158.07279634475708,
-    "ersteller_verkauft": true,
-    "kaeufer": 36,
-    "mint": "2hHVHU2rhfrApiQzowp3eD4xWo86KKycnHKh7VJepump",
-    "name": "Haunted Mound Coin U Bastards",
-    "sol": 0.5536990489999992,
-    "spaet": false,
-    "symbol": "MOUND",
-    "t": 1795745524.957216
-   },
-   {
-    "dauer": 0.0007851123809814453,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "8fho5936LNG62MKjQpN7ufvYGqQ99C5CmwnaVBvrpump",
-    "name": "Fireball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Fireball",
-    "t": 1795745541.33702
-   },
    {
     "dauer": 95.63963532447815,
     "ersteller_verkauft": true,
@@ -524,6 +486,17 @@
     "spaet": false,
     "symbol": "SOLCAP",
     "t": 1795748823.0467286
+   },
+   {
+    "dauer": 320.83175778388977,
+    "ersteller_verkauft": false,
+    "kaeufer": 42,
+    "mint": "A8E3esjnZfxRpytZXbT2ga9QthN94Y1HCUQ1Fm2Tpump",
+    "name": "crimecat",
+    "sol": 75.17430376199998,
+    "spaet": false,
+    "symbol": "crimecat",
+    "t": 1795748963.5955493
    }
   ],
   "uebersicht": 1795747063.2995136
