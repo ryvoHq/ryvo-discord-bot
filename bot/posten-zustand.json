@@ -221,35 +221,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 467,
+ "laeufe": 468,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 52.48200559616089,
-    "ersteller_verkauft": true,
-    "kaeufer": 236,
-    "mint": "D43PBweGL9R9beB6NagU8SdTKgn1JhdUJ8XQwBKnpump",
-    "name": "if",
-    "sol": 80.41535943400017,
-    "spaet": false,
-    "symbol": "if",
-    "t": 1795737445.4804125
-   },
-   {
-    "dauer": 158.08185815811157,
-    "ersteller_verkauft": false,
-    "kaeufer": 150,
-    "mint": "2KNE6xr1Jre7LoX3U82deuuyJbFVEsqcCtwyvkMfpump",
-    "name": "Basket",
-    "sol": 76.788075341,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795737596.7643194
-   },
    {
     "dauer": 259.33825421333313,
     "ersteller_verkauft": false,
@@ -610,6 +588,17 @@
     "spaet": false,
     "symbol": "Rodrigo",
     "t": 1795740961.650057
+   },
+   {
+    "dauer": 209.09482884407043,
+    "ersteller_verkauft": true,
+    "kaeufer": 19,
+    "mint": "4uKYscZU2dmi7DcyyakyiiC3ehr9m6dcvwEAYiENpump",
+    "name": "Weird Cat",
+    "sol": 0.05068159199999985,
+    "spaet": false,
+    "symbol": "WEIRDCAT",
+    "t": 1795741268.404369
    }
   ],
   "uebersicht": 1795739768.4662964
