@@ -259,22 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 608,
+ "laeufe": 609,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "Xp4zgekMxKAs6fzRwWGhpAzj2qfY3vcY4YHukJUpump",
-    "name": "United Bitcoin Reserve",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UBR",
-    "t": 1795776662.2066538
-   },
    {
     "mint": "5AmygyYTDxxoSJfpRjLfB8J8i6ssi2ZCL4tZKYYSpump",
     "spaet": true,
@@ -507,6 +496,22 @@
     "spaet": false,
     "symbol": "Salecat",
     "t": 1795779728.0546384
+   },
+   {
+    "mint": "AUyNPr9VZaeF8rGzHJ7dx7g6XDpy2gYpV6zq2fDspump",
+    "spaet": true,
+    "t": 1795780093.2965913
+   },
+   {
+    "dauer": 63.091721057891846,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "2cRyNvP4Q93JHtofohQ8bPcx995xxhwg5GqEtmuEpump",
+    "name": "USFF",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "USFF",
+    "t": 1795780164.3111477
    }
   ],
   "uebersicht": 1795777246.467679
