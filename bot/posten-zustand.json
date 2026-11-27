@@ -259,11 +259,12 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 589,
+ "laeufe": 590,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795772057.8708842
+   1795772057.8708842,
+   1795775101.291693
   ],
   "stunde": [
    {
@@ -492,6 +493,39 @@
     "mint": "8we9RFYkHS7RAMtFbHAwwkcWM1UoxLDJXNpABgSXpump",
     "spaet": true,
     "t": 1795774695.4762983
+   },
+   {
+    "dauer": 2710.6079456806183,
+    "ersteller_verkauft": false,
+    "kaeufer": 850,
+    "mint": "CyMXmRYQabAyBNEBkeaAGZ6Fbj8gCY7R2uZxD1G4mBk",
+    "name": "1 grain of rice",
+    "sol": 81.42895312299962,
+    "spaet": false,
+    "symbol": "rice",
+    "t": 1795774894.0944645
+   },
+   {
+    "dauer": 35.12178158760071,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "EBiQSJ9d1NvWb61ex2qYGi5qkzLgiaDKeER91i24pump",
+    "name": "USFF",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "USFF",
+    "t": 1795775039.5024698
+   },
+   {
+    "dauer": 141.78557658195496,
+    "ersteller_verkauft": true,
+    "kaeufer": 3,
+    "mint": "C6wMqB7dv1qV8gL6Frrh1LFDuJMBwF2coEFdQ69jpump",
+    "name": "SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795775055.4067805
    }
   ],
   "uebersicht": 1795773601.8562944
