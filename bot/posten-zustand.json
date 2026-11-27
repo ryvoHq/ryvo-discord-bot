@@ -3,7 +3,7 @@
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-27",
  "ebenen_krypto": "2026-11-27",
- "ebenen_trad": "2026-11-26",
+ "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-26",
  "gesehen": [
   "https://www.n-tv.de/regionales/berlin-und-brandenburg/Arbeitslosigkeit-in-Brandenburg-sinkt-nur-leicht-id31584336.html",
@@ -259,27 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 610,
+ "laeufe": 611,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "coHkKo296Eujwda5NEQkEdpx3uEbtueQhRubV94pump",
-    "name": "ConConAI",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ConConAI",
-    "t": 1795777023.1474419
-   },
-   {
-    "mint": "HJCnN3z8t76EKngKFUFVuz5WCGDfMDQwgGThLLcDpump",
-    "spaet": true,
-    "t": 1795777238.1163013
-   },
    {
     "dauer": 239.2884681224823,
     "ersteller_verkauft": true,
@@ -545,9 +529,20 @@
     "spaet": false,
     "symbol": "NCSP",
     "t": 1795780519.1992154
+   },
+   {
+    "dauer": 12.785238265991211,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "Fns2S2oSUX9TucDyAc6XPGVpcb9Wo7K6ifgc8Y2Lpump",
+    "name": "USFF",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "USFF",
+    "t": 1795780684.4309967
    }
   ],
-  "uebersicht": 1795777246.467679
+  "uebersicht": 1795780902.3769503
  },
  "momentum_sperre": {
   "HYPE": 1795746465.6142428,
