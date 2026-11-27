@@ -227,64 +227,16 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 497,
+ "laeufe": 498,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795746463.5361197,
    1795746463.5361197,
-   1795748337.0159345
+   1795748337.0159345,
+   1795749536.9144933
   ],
   "stunde": [
-   {
-    "dauer": 95.63963532447815,
-    "ersteller_verkauft": true,
-    "kaeufer": 376,
-    "mint": "3wBf3h6uxqAsb2RizqQudNGK1VAUKew2H9GpQtHDpump",
-    "name": "Corn Sugar",
-    "sol": 85.00535958100001,
-    "spaet": false,
-    "symbol": "CORNSUGAR",
-    "t": 1795745661.52681
-   },
-   {
-    "dauer": 51.925029277801514,
-    "ersteller_verkauft": false,
-    "kaeufer": 258,
-    "mint": "6CivJJZhRfkL9Efumy4mJWqcqMpmHpT9uY66TfE5pump",
-    "name": "The Thanksgiving Effect",
-    "sol": 85.03498936300005,
-    "spaet": false,
-    "symbol": "Thanksgiving",
-    "t": 1795745721.5991957
-   },
-   {
-    "dauer": 172.7130482196808,
-    "ersteller_verkauft": false,
-    "kaeufer": 325,
-    "mint": "CpsGS1uqg5sgDG16Peio5wXCJekgZwAt5zVhV89mpump",
-    "name": "avalanche",
-    "sol": 85.00535998700003,
-    "spaet": false,
-    "symbol": "avalanche",
-    "t": 1795745763.8500123
-   },
-   {
-    "dauer": 135.0457375049591,
-    "ersteller_verkauft": false,
-    "kaeufer": 146,
-    "mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
-    "name": "ZeroSumEnjoyer",
-    "sol": 85.00535926500002,
-    "spaet": false,
-    "symbol": "Zero",
-    "t": 1795745850.0285301
-   },
-   {
-    "mint": "8YjTr1ehqPHXRTuZuULJAuciFqNMRJmNmzyrY2cUpump",
-    "spaet": true,
-    "t": 1795745860.5056481
-   },
    {
     "mint": "3nJg9zjUmup7a95DoDsoVbJv5MsK9zMPq2cAbnkBpump",
     "spaet": true,
@@ -497,6 +449,17 @@
     "spaet": false,
     "symbol": "crimecat",
     "t": 1795748963.5955493
+   },
+   {
+    "dauer": 425.07127118110657,
+    "ersteller_verkauft": false,
+    "kaeufer": 538,
+    "mint": "77iw79xUzrzzvsc4Tt52EEZz6V1dqxaSGh3pqj7Vpump",
+    "name": "Solana Playground",
+    "sol": 81.83531143799982,
+    "spaet": false,
+    "symbol": "PLAYGROUND",
+    "t": 1795749412.84362
    }
   ],
   "uebersicht": 1795747063.2995136
