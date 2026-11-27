@@ -252,22 +252,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 575,
+ "laeufe": 576,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 842.6114275455475,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "BKEiCKPiYvNhFooQBcbx95rRUEEGs9vMccZSVbaxpump",
-    "name": "Tesla",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Tesla",
-    "t": 1795767522.3163087
-   },
    {
     "dauer": 146.8236882686615,
     "ersteller_verkauft": true,
@@ -414,6 +403,44 @@
     "spaet": false,
     "symbol": "MiHaoCat",
     "t": 1795770830.6839213
+   },
+   {
+    "dauer": 1729.8767311573029,
+    "ersteller_verkauft": false,
+    "kaeufer": 156,
+    "mint": "3ZCjXnPCNDkmwbFmaty5WrD8A1vQ5oG2z2fmT5QUpump",
+    "name": "Jensen Is Back",
+    "sol": 85.005359547,
+    "spaet": false,
+    "symbol": "JENSEN",
+    "t": 1795770889.2504137
+   },
+   {
+    "mint": "BfBjraPGZns5cc3gFx7HQva9vSAQzBBjWPvZc49Wpump",
+    "spaet": true,
+    "t": 1795770946.0381463
+   },
+   {
+    "dauer": 446.6992223262787,
+    "ersteller_verkauft": false,
+    "kaeufer": 173,
+    "mint": "5r46BtNjKhSGgFuqj6n9tcbFY2Uk7YX9bSjDz4ZQmwdS",
+    "name": "coin",
+    "sol": 82.063309194,
+    "spaet": false,
+    "symbol": "COIN",
+    "t": 1795770986.5246131
+   },
+   {
+    "dauer": 34.50611686706543,
+    "ersteller_verkauft": true,
+    "kaeufer": 19,
+    "mint": "EKJWntD7EdE1FvsyRz1cPYzwgty1eFuYHSbzduxfpump",
+    "name": "adolf musk",
+    "sol": 3.054251416,
+    "spaet": false,
+    "symbol": "amusk",
+    "t": 1795771143.518988
    }
   ],
   "uebersicht": 1795769956.7683537
