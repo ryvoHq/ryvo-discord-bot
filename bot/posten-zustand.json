@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 459,
+ "laeufe": 460,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -230,27 +230,6 @@
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "mint": "5EE52BuCsLTKC9kmNCeAMcJguBk9u8KYr7rCRpeApump",
-    "spaet": true,
-    "t": 1795734970.221403
-   },
-   {
-    "mint": "4eVerqsHvQEBfUNKo4QP87XMQg2Hm8Bv56hhAEWupump",
-    "spaet": true,
-    "t": 1795735170.689586
-   },
-   {
-    "dauer": 74.91925311088562,
-    "ersteller_verkauft": true,
-    "kaeufer": 178,
-    "mint": "5YLDE7jH2geaSzj4eBYhjiq5sjN6sQcTu263STYdpump",
-    "name": "N3ON COIN",
-    "sol": 70.17474224199998,
-    "spaet": false,
-    "symbol": "N3ON",
-    "t": 1795735222.7657182
-   },
    {
     "dauer": 2787.4059019088745,
     "ersteller_verkauft": true,
@@ -557,6 +536,22 @@
     "spaet": false,
     "symbol": "TOGI",
     "t": 1795738526.327501
+   },
+   {
+    "mint": "BidVprwobLJuGtdCDo9xdFFiFJbaydscuQswwnzSpump",
+    "spaet": true,
+    "t": 1795738744.4640508
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "cKMGm9TRAmhP2P9DB2RHY2LQBRULtReiqsh1CkXpump",
+    "name": "VIDA",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "VIDA",
+    "t": 1795738751.218141
    }
   ],
   "uebersicht": 1795735188.828268
