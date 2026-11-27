@@ -221,7 +221,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 461,
+ "laeufe": 462,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -229,22 +229,6 @@
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "dauer": 12.348502159118652,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "4aABkT7wtTHMLfJT6ZHEQsRxMm3ePBedkF2WNdUzpump",
-    "name": "vetocat",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "VETO",
-    "t": 1795735587.8380344
-   },
-   {
-    "mint": "GRJ5PgitXnDo4iufLWUqS7iRADKKgdj2tMUWS2HBpump",
-    "spaet": true,
-    "t": 1795735707.2074273
-   },
    {
     "mint": "FxWDDcxosMaRnFRzzDQisFjN4a5Gip5ECs7MtsQYFLoW",
     "spaet": true,
@@ -540,6 +524,44 @@
     "spaet": false,
     "symbol": "ROCKER",
     "t": 1795739042.8875284
+   },
+   {
+    "dauer": 166.815420627594,
+    "ersteller_verkauft": false,
+    "kaeufer": 27,
+    "mint": "GYk6co3g2gsHYjD4TBtctAoJKmnVmaGkwPBVVyb4pump",
+    "name": "DeadBullLabs",
+    "sol": 0.07369547299999983,
+    "spaet": false,
+    "symbol": "VIPER",
+    "t": 1795739310.939244
+   },
+   {
+    "dauer": 70.44484329223633,
+    "ersteller_verkauft": true,
+    "kaeufer": 197,
+    "mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+    "name": "the future",
+    "sol": 85.00535945900005,
+    "spaet": false,
+    "symbol": "FUTURE",
+    "t": 1795739344.004033
+   },
+   {
+    "mint": "5mqvtSRzTCctWPqeDeVxr7c7xY6CvwXd1a6GLh51pump",
+    "spaet": true,
+    "t": 1795739368.8642035
+   },
+   {
+    "dauer": 17.882884740829468,
+    "ersteller_verkauft": true,
+    "kaeufer": 161,
+    "mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+    "name": "Furture inu",
+    "sol": 85.00535929999992,
+    "spaet": false,
+    "symbol": "FI",
+    "t": 1795739369.7870286
    }
   ],
   "uebersicht": 1795735188.828268
