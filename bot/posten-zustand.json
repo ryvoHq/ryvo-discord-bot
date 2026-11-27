@@ -252,7 +252,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 565,
+ "laeufe": 566,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -431,6 +431,39 @@
     "spaet": false,
     "symbol": "PACS",
     "t": 1795767864.8782296
+   },
+   {
+    "dauer": 125.56072759628296,
+    "ersteller_verkauft": true,
+    "kaeufer": 23,
+    "mint": "8sjh8F4LrkqnNn3z7FFbhttrwJD5hZAwG4uWdezWpump",
+    "name": "MoonChacha",
+    "sol": 0.7872035080000028,
+    "spaet": false,
+    "symbol": "MCH",
+    "t": 1795768126.8197534
+   },
+   {
+    "dauer": 954.3130459785461,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "4dzBaur6nH4ZuN4N9xoEDJYTjW8EBiRyFGhmaVDGpump",
+    "name": "MARIAH CAREY 2 YOu",
+    "sol": 0.03766870099999961,
+    "spaet": false,
+    "symbol": "MRHC",
+    "t": 1795768234.94735
+   },
+   {
+    "dauer": 1385.7590386867523,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "E8wpQaTT1PiXzr2U3CcXBVbw6CQfB5mA84pgLAvWpump",
+    "name": "ชา หมู",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ChaMoo",
+    "t": 1795768302.808004
    }
   ],
   "uebersicht": 1795765677.4794989
