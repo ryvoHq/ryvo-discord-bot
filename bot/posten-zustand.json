@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 641,
+ "laeufe": 642,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -286,28 +286,6 @@
    1795789149.308356
   ],
   "stunde": [
-   {
-    "dauer": 1019.1847751140594,
-    "ersteller_verkauft": false,
-    "kaeufer": 132,
-    "mint": "6qnngE4MYP4BFPAVnJ8RPuFxc6LXCnUNX42FJBvopump",
-    "name": "Apple official",
-    "sol": 85.00989168299998,
-    "spaet": false,
-    "symbol": "Apple",
-    "t": 1795785610.3185465
-   },
-   {
-    "dauer": 839.5182292461395,
-    "ersteller_verkauft": false,
-    "kaeufer": 236,
-    "mint": "ESTKGW9yTRXJCBA6s6ZCogjfxZGgLajuseZBAEkApump",
-    "name": "Rockstar Games",
-    "sol": 84.56202419399997,
-    "spaet": false,
-    "symbol": "Rockstar G",
-    "t": 1795785731.6298585
-   },
    {
     "dauer": 97.96297979354858,
     "ersteller_verkauft": true,
