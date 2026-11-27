@@ -221,25 +221,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 466,
+ "laeufe": 467,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795737328.1390703,
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 211.47243285179138,
-    "ersteller_verkauft": false,
-    "kaeufer": 443,
-    "mint": "B2JjjQfrDAiDM99haXM5jpFibxbQaPvdqX7aB9Tupump",
-    "name": "Family Friendly Coin",
-    "sol": 46.551645774000065,
-    "spaet": false,
-    "symbol": "FF",
-    "t": 1795737170.5707672
-   },
    {
     "dauer": 52.48200559616089,
     "ersteller_verkauft": true,
@@ -584,6 +572,44 @@
     "spaet": false,
     "symbol": "Santaball",
     "t": 1795740443.9596987
+   },
+   {
+    "dauer": 99.06918025016785,
+    "ersteller_verkauft": true,
+    "kaeufer": 294,
+    "mint": "3G4iUm9cBsBJeGqKWRu7S1i7VW45LmuguJwGLANtpump",
+    "name": "Cumass Coin",
+    "sol": 78.23463990900001,
+    "spaet": false,
+    "symbol": "CUMASS",
+    "t": 1795740671.346216
+   },
+   {
+    "mint": "26sgRqwNeNmGJf3roCqZq9YwChMypYXPG4QKPUegpump",
+    "spaet": true,
+    "t": 1795740749.3786798
+   },
+   {
+    "dauer": 116.29527997970581,
+    "ersteller_verkauft": true,
+    "kaeufer": 319,
+    "mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+    "name": "Doomscrolling Monkey",
+    "sol": 85.00535973199993,
+    "spaet": false,
+    "symbol": "Doomscroll",
+    "t": 1795740830.2796626
+   },
+   {
+    "dauer": 57.45736742019653,
+    "ersteller_verkauft": true,
+    "kaeufer": 334,
+    "mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+    "name": "Rodrigo Cat",
+    "sol": 76.83535950100006,
+    "spaet": false,
+    "symbol": "Rodrigo",
+    "t": 1795740961.650057
    }
   ],
   "uebersicht": 1795739768.4662964
