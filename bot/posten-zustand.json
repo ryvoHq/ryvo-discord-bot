@@ -259,7 +259,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 625,
+ "laeufe": 626,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -267,17 +267,6 @@
    1795784244.0034847
   ],
   "stunde": [
-   {
-    "dauer": 236.6398983001709,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "4tbX6Y1RWSbPtjJ7TPhq5qiAGJGJKnF4CXDhxHiypump",
-    "name": "BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795781162.073214
-   },
    {
     "mint": "6n6eRRRseGhk5ZfDVzpAUKNL1AVu8oVwi73NPwo6BTwM",
     "spaet": true,
@@ -494,6 +483,17 @@
     "mint": "3AYshf6BKsM9HVxbPk6vZ3QyWC5H4zTetAANynLrDmmZ",
     "spaet": true,
     "t": 1795784333.1540766
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "aiHC7WubbvE5hG6XCQxCbVWT7zntrTaYinDmq8tpump",
+    "name": "GOTF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "GOTF",
+    "t": 1795784855.0098855
    }
   ],
   "uebersicht": 1795780902.3769503
