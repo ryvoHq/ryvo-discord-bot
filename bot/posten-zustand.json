@@ -293,47 +293,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 687,
+ "laeufe": 688,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795798588.8234503,
-   1795799489.8600817
+   1795799489.8600817,
+   1795802239.8007863
   ],
   "stunde": [
-   {
-    "dauer": 280.1666615009308,
-    "ersteller_verkauft": true,
-    "kaeufer": 275,
-    "mint": "84FJJ9DZKoB2jECtYV9qK5MSKcRvdJQ3j74fG3Jtpump",
-    "name": "Rice Inu",
-    "sol": 81.51331484900003,
-    "spaet": false,
-    "symbol": "RI",
-    "t": 1795798342.0991666
-   },
-   {
-    "dauer": 212.82652831077576,
-    "ersteller_verkauft": false,
-    "kaeufer": 25,
-    "mint": "FbXPgoABto3z3fY4yDVBxqN6zySnWCbQJh3J9nDupump",
-    "name": "Jerry Trick",
-    "sol": -0.23572466600000025,
-    "spaet": false,
-    "symbol": "JETRI",
-    "t": 1795798630.5930057
-   },
-   {
-    "dauer": 131.37661027908325,
-    "ersteller_verkauft": true,
-    "kaeufer": 289,
-    "mint": "8L2uLXaampSTz6e6gHUqYBq5YDsVrtbPqmgs7uuFpump",
-    "name": "AI Agents Companies",
-    "sol": 63.49191760999994,
-    "spaet": false,
-    "symbol": "AAC",
-    "t": 1795798636.2645962
-   },
    {
     "dauer": 581.0985405445099,
     "ersteller_verkauft": true,
@@ -482,6 +449,33 @@
     "spaet": false,
     "symbol": "TOGO",
     "t": 1795801819.0283978
+   },
+   {
+    "dauer": 409.6007342338562,
+    "ersteller_verkauft": false,
+    "kaeufer": 590,
+    "mint": "GAopBtW1tjM3GNTSocR6DQubXcifDJBEYWNyJBB4Upc3",
+    "name": "Keecoin",
+    "sol": 63.98158030399974,
+    "spaet": false,
+    "symbol": "KEE",
+    "t": 1795801955.6625228
+   },
+   {
+    "mint": "D2AT44dD2HbcMRWqbndWamvdZKXtPXQoJPHaacimpump",
+    "spaet": true,
+    "t": 1795802093.7492595
+   },
+   {
+    "dauer": 193.77970266342163,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "BVXHJQafcfyJ9wXsDxsTdbk4u7pTRsExwZaiX1fEpump",
+    "name": "Forest Queen",
+    "sol": 0.8166784689999994,
+    "spaet": false,
+    "symbol": "QUEEN",
+    "t": 1795802203.1329565
    }
   ],
   "uebersicht": 1795800739.3007104
