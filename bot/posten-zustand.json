@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 699,
+ "laeufe": 700,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,49 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "mint": "4S7DtsZhwpbYmVcoR7FZEShf2aVz8J3fNVNopiVKpump",
-    "spaet": true,
-    "t": 1795801691.5286295
-   },
-   {
-    "dauer": 170.0581955909729,
-    "ersteller_verkauft": false,
-    "kaeufer": 83,
-    "mint": "12ZHQSxUcABkJHGLKAjY4CUhmr3DJ4FCVYahgD2Fpump",
-    "name": "Claude | Official",
-    "sol": 53.58760445799999,
-    "spaet": false,
-    "symbol": "Claude AI",
-    "t": 1795801780.1529737
-   },
-   {
-    "mint": "CX1Tq8FAZcPaueyVJV9Trc6RKjoz6riRBQ41bGCKpump",
-    "spaet": true,
-    "t": 1795801789.127745
-   },
-   {
-    "dauer": 0.0008606910705566406,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "2nJYJnAoXzoSkb4Q4L7LgnUaQrBy7kdzFApFZVL2pump",
-    "name": "Togo",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "TOGO",
-    "t": 1795801819.0283978
-   },
-   {
-    "dauer": 409.6007342338562,
-    "ersteller_verkauft": false,
-    "kaeufer": 590,
-    "mint": "GAopBtW1tjM3GNTSocR6DQubXcifDJBEYWNyJBB4Upc3",
-    "name": "Keecoin",
-    "sol": 63.98158030399974,
-    "spaet": false,
-    "symbol": "KEE",
-    "t": 1795801955.6625228
-   },
    {
     "mint": "D2AT44dD2HbcMRWqbndWamvdZKXtPXQoJPHaacimpump",
     "spaet": true,
