@@ -259,33 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 611,
+ "laeufe": 612,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 239.2884681224823,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "G3eKHMHLnUjrKPZz2PAPfaFdBFDVh2riGrWWH46pump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 0.2706024039999994,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795777332.233401
-   },
-   {
-    "dauer": 145.6490297317505,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "7iAgcXB8wxax8t4NM6t5GqU17r5cANEmdYTDm6aopump",
-    "name": "BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795777524.9835398
-   },
    {
     "dauer": 177.9718849658966,
     "ersteller_verkauft": true,
@@ -540,6 +518,28 @@
     "spaet": false,
     "symbol": "USFF",
     "t": 1795780684.4309967
+   },
+   {
+    "dauer": 381.2811930179596,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "AEuM2Yvg3sPR7g2QzPqudg3XbTwUiLrTBBHsP45Dpump",
+    "name": "MAEMUKI",
+    "sol": 1.535234884,
+    "spaet": false,
+    "symbol": "MAEMUKI",
+    "t": 1795780976.4090629
+   },
+   {
+    "dauer": 236.6398983001709,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "4tbX6Y1RWSbPtjJ7TPhq5qiAGJGJKnF4CXDhxHiypump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795781162.073214
    }
   ],
   "uebersicht": 1795780902.3769503
