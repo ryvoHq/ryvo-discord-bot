@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 753,
+ "laeufe": 754,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -310,33 +310,6 @@
    1795820261.4755316
   ],
   "stunde": [
-   {
-    "dauer": 299.89874172210693,
-    "ersteller_verkauft": false,
-    "kaeufer": 140,
-    "mint": "13raNhQCgoxWncXZCSjNVznBC3VNZJEE7gunZf6Upump",
-    "name": "Meta | Official Team",
-    "sol": 84.01441137299994,
-    "spaet": false,
-    "symbol": "Meta",
-    "t": 1795816713.6768239
-   },
-   {
-    "dauer": 156.27810668945312,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "2TYaAMQP1G14qbd3fJaNPqwaoiRkWJJ7ro2ufuDzpump",
-    "name": "Tukanon",
-    "sol": 0.6917110529999999,
-    "spaet": false,
-    "symbol": "shib",
-    "t": 1795816745.0434694
-   },
-   {
-    "mint": "69UArmECWVbkCoNhbd8bMVM88q6Jrf8KNFdjtYt2pump",
-    "spaet": true,
-    "t": 1795816762.0870924
-   },
    {
     "dauer": 214.54688572883606,
     "ersteller_verkauft": false,
@@ -459,6 +432,22 @@
     "spaet": false,
     "symbol": "Hyperball",
     "t": 1795820104.5870976
+   },
+   {
+    "dauer": 282.64805269241333,
+    "ersteller_verkauft": false,
+    "kaeufer": 106,
+    "mint": "6DmC5KR6DF62Gfz5oe8uVkNFrQb5N3kdXpKswA7pump",
+    "name": "Spectre",
+    "sol": 41.18373674699997,
+    "spaet": false,
+    "symbol": "SPEC",
+    "t": 1795820274.9154003
+   },
+   {
+    "mint": "SjVFmcRwepM5N5Bp9GXjCkDe24knT1Ymh6MAiYdpump",
+    "spaet": true,
+    "t": 1795820354.6366653
    }
   ],
   "uebersicht": 1795819361.7479584
