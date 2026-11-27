@@ -297,45 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 708,
+ "laeufe": 709,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "mint": "G2b7U6DGVLaGTmovAUxw9A9DmNZ8gwfhYbEpUTspump",
-    "spaet": true,
-    "t": 1795804125.4486313
-   },
-   {
-    "mint": "67g3MmcHTkCmZJzLxoS4i492ZE2kBWGi2RKcbGSnpump",
-    "spaet": true,
-    "t": 1795804288.9316316
-   },
-   {
-    "dauer": 78.90644264221191,
-    "ersteller_verkauft": true,
-    "kaeufer": 136,
-    "mint": "8xEhHDvZ1UuAkoqJRut5x5i7kX75WaoQeQqB9Rahpump",
-    "name": "Free SBF",
-    "sol": 43.74742368899995,
-    "spaet": false,
-    "symbol": "SBF",
-    "t": 1795804405.0802839
-   },
-   {
-    "dauer": 949.3450977802277,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "B9nPGMrp5nYyvNqapnyQfWhxYGFuZ6MRGSCPBbzFpump",
-    "name": "The Black Bullshit",
-    "sol": 0.29091020499999953,
-    "spaet": false,
-    "symbol": "Bullshit",
-    "t": 1795804418.3005152
-   },
    {
     "dauer": 438.72730135917664,
     "ersteller_verkauft": false,
@@ -507,9 +475,30 @@
     "mint": "8hJUz2ggdXTTJMvDayWiJXamJKd9vT1dtSLQgf8qpump",
     "spaet": true,
     "t": 1795807627.5990062
+   },
+   {
+    "dauer": 1833.4972059726715,
+    "ersteller_verkauft": true,
+    "kaeufer": 9,
+    "mint": "FJM6PTYpxEzN6NpdgiahNU16TtPrwXzD646X13fspump",
+    "name": "memevault.fun",
+    "sol": 0.6078239259999999,
+    "spaet": false,
+    "symbol": "memevault",
+    "t": 1795807868.862139
+   },
+   {
+    "mint": "F84mTX2Pn6DnqK8XTVpXdW9R9YtRjrxyZJDD6H4Dpump",
+    "spaet": true,
+    "t": 1795807906.0374866
+   },
+   {
+    "mint": "4Lrn4h8EfZrLh1RxA2tj2vhDU3ig7YcZZHy7aBxEpump",
+    "spaet": true,
+    "t": 1795807916.3828125
    }
   ],
-  "uebersicht": 1795804378.8469467
+  "uebersicht": 1795808022.9660485
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
