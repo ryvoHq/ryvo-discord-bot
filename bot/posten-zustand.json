@@ -297,22 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 722,
+ "laeufe": 723,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0026607513427734375,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "D7mnTcp4Q8Ab1gzThm3DcAATs6BmkJBj48c7FzLKpump",
-    "name": "Maya The Samoyed",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "MAYA",
-    "t": 1795808124.9276154
-   },
    {
     "mint": "FzBtBoWuF1e2W2PEBQJMorUy3wkXGN17URfCYWLSpump",
     "spaet": true,
