@@ -297,29 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 716,
+ "laeufe": 717,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "dauer": 150.15801167488098,
-    "ersteller_verkauft": false,
-    "kaeufer": 292,
-    "mint": "2dynAjPBnkqzjUwozgn8pDRkCf7k7CDJkLfcf4rupump",
-    "name": "FARMCOIN",
-    "sol": 70.09807256899994,
-    "spaet": false,
-    "symbol": "FARM",
-    "t": 1795806308.598072
-   },
-   {
-    "mint": "AnJYu8n3Ei4D6imnUCQx1pt4D7Rcnoxs3MfongB9pump",
-    "spaet": true,
-    "t": 1795806479.0640347
-   },
    {
     "dauer": 826.6245656013489,
     "ersteller_verkauft": false,
