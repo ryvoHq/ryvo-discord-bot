@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 666,
+ "laeufe": 667,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,27 +301,6 @@
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 629.6167168617249,
-    "ersteller_verkauft": true,
-    "kaeufer": 36,
-    "mint": "7h8Ecmt6F7jizVqs4NBc4keFopgexHRRwVBKTZFMpump",
-    "name": "$PumpFomo",
-    "sol": -0.14217068799999943,
-    "spaet": false,
-    "symbol": "FomoFun",
-    "t": 1795792560.733296
-   },
-   {
-    "mint": "5ViorGSNin1xgJ2eaRBJSBxXHMN5eUjtEKp9neATpump",
-    "spaet": true,
-    "t": 1795792645.272199
-   },
-   {
-    "mint": "6vWvySwTzD45KWyca652T3TSRAmgHDSWB8ssAVX8pump",
-    "spaet": true,
-    "t": 1795792846.235692
-   },
    {
     "dauer": 820.0674574375153,
     "ersteller_verkauft": false,
@@ -551,6 +530,28 @@
     "spaet": false,
     "symbol": "REVINU",
     "t": 1795796109.624488
+   },
+   {
+    "dauer": 203.2565360069275,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "7PR93hMRehCjazgEfKmZv419CHa1nDJJZzmMuYudpump",
+    "name": "ELONCAT",
+    "sol": -0.24197614499999986,
+    "spaet": false,
+    "symbol": "ELONCAT",
+    "t": 1795796232.9323702
+   },
+   {
+    "dauer": 0.0012810230255126953,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "99CQuNiF6WN44xyKqPP9N41x5R9Uu8MkTM9CK3Rzpump",
+    "name": "DIH Wif Balls",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "DIHBALL",
+    "t": 1795796404.7976592
    }
   ],
   "uebersicht": 1795796148.1298294
