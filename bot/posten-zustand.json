@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 696,
+ "laeufe": 697,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,17 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "dauer": 0.023803234100341797,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "GjSXerNFEUK4pX6FFyyDhYXFNxyJMtDvJueZxffDpump",
-    "name": "Togo",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "TOGO",
-    "t": 1795800961.8430183
-   },
    {
     "mint": "H71okKKShRTjCDh6KtiDBZ3DBKzUNofTV1jnEV3epump",
     "spaet": true,
@@ -512,6 +501,55 @@
     "mint": "67g3MmcHTkCmZJzLxoS4i492ZE2kBWGi2RKcbGSnpump",
     "spaet": true,
     "t": 1795804288.9316316
+   },
+   {
+    "dauer": 78.90644264221191,
+    "ersteller_verkauft": true,
+    "kaeufer": 136,
+    "mint": "8xEhHDvZ1UuAkoqJRut5x5i7kX75WaoQeQqB9Rahpump",
+    "name": "Free SBF",
+    "sol": 43.74742368899995,
+    "spaet": false,
+    "symbol": "SBF",
+    "t": 1795804405.0802839
+   },
+   {
+    "dauer": 949.3450977802277,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "B9nPGMrp5nYyvNqapnyQfWhxYGFuZ6MRGSCPBbzFpump",
+    "name": "The Black Bullshit",
+    "sol": 0.29091020499999953,
+    "spaet": false,
+    "symbol": "Bullshit",
+    "t": 1795804418.3005152
+   },
+   {
+    "dauer": 438.72730135917664,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "9KkfUH16cktF2dt7gLY8vD1zxDa8CM6QqEj12Jw6pump",
+    "name": "Alien Shiba Inux",
+    "sol": -0.023557422000000154,
+    "spaet": false,
+    "symbol": "INUX",
+    "t": 1795804528.2587056
+   },
+   {
+    "mint": "5uVBUvCDrgg95yMQb6Yx5UgkQ8LF4JFpALmUBvTGpump",
+    "spaet": true,
+    "t": 1795804541.8170512
+   },
+   {
+    "dauer": 624.5455551147461,
+    "ersteller_verkauft": false,
+    "kaeufer": 15,
+    "mint": "DBbr8NyVbbrcmKbkW9mmWyZKoW9jmeYHqSxSjNB9pump",
+    "name": "DERPCAT",
+    "sol": 0.39301297199999957,
+    "spaet": false,
+    "symbol": "DERP",
+    "t": 1795804583.4012258
    }
   ],
   "uebersicht": 1795804378.8469467
