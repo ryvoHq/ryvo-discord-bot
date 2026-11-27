@@ -221,48 +221,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 460,
+ "laeufe": 461,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
-   1795735486.0610247,
    1795736127.7741737,
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "dauer": 2787.4059019088745,
-    "ersteller_verkauft": true,
-    "kaeufer": 29,
-    "mint": "FNCCEKCJAhb9NFk6RnRkr4w4cvGi1AC9SRXpxpippump",
-    "name": "bus down Jensen ",
-    "sol": -0.6552669319999983,
-    "spaet": false,
-    "symbol": "Jensen ",
-    "t": 1795735350.4162834
-   },
-   {
-    "dauer": 71.27255344390869,
-    "ersteller_verkauft": true,
-    "kaeufer": 319,
-    "mint": "EuQf9PmYWNLjXJk4D755kuyuMVAut84TZBqq69Ckpump",
-    "name": "Veto Cat",
-    "sol": 80.38376479,
-    "spaet": false,
-    "symbol": "VETO",
-    "t": 1795735416.9467232
-   },
-   {
-    "dauer": 622.3273234367371,
-    "ersteller_verkauft": true,
-    "kaeufer": 762,
-    "mint": "7DCFn5HQzzvZ2iTsmECXoBF5jn8hMA6mZJL9sd46pump",
-    "name": "Costakid Coin",
-    "sol": 72.1121321589995,
-    "spaet": false,
-    "symbol": "COSTAKID",
-    "t": 1795735475.8347359
-   },
    {
     "dauer": 12.348502159118652,
     "ersteller_verkauft": false,
@@ -552,6 +518,28 @@
     "spaet": false,
     "symbol": "VIDA",
     "t": 1795738751.218141
+   },
+   {
+    "dauer": 128.6172068119049,
+    "ersteller_verkauft": true,
+    "kaeufer": 28,
+    "mint": "3y4NdBZERF9zM8LqFbUVTQt85sQ7u5tvf8UcKne4pump",
+    "name": "dog wif cap",
+    "sol": 0.708975153,
+    "spaet": false,
+    "symbol": "cap",
+    "t": 1795738894.7140424
+   },
+   {
+    "dauer": 63.88192796707153,
+    "ersteller_verkauft": true,
+    "kaeufer": 316,
+    "mint": "8fUBQzwphbfA7s3VSr7Q8CnhCHUasbMVtVF8Gggnpump",
+    "name": "Rocker the Coonhound",
+    "sol": 85.00535945599992,
+    "spaet": false,
+    "symbol": "ROCKER",
+    "t": 1795739042.8875284
    }
   ],
   "uebersicht": 1795735188.828268
