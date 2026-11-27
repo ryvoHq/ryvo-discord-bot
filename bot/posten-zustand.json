@@ -227,79 +227,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 477,
+ "laeufe": 478,
  "lagebrief_stand": 1795706700,
  "meme": {
-  "sofort": [
-   1795740368.8402197
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 71.36455750465393,
-    "ersteller_verkauft": true,
-    "kaeufer": 322,
-    "mint": "HGyafVUPawSnM4X12oLo68gG7qehcVBj4QvNLMGPpump",
-    "name": "mathematical breakthroughs",
-    "sol": 85.00535949899995,
-    "spaet": false,
-    "symbol": "mathematical",
-    "t": 1795740160.3834293
-   },
-   {
-    "dauer": 39.86516332626343,
-    "ersteller_verkauft": false,
-    "kaeufer": 166,
-    "mint": "8VKHSbpFVYikHqGmYHc5aF2xuD6ZfGg1SjTTaSBapump",
-    "name": "Winstoncoin",
-    "sol": 56.02265365699999,
-    "spaet": false,
-    "symbol": "WINSTON",
-    "t": 1795740252.2689934
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "G2ZDG8q3QMYk3KR58JFFYsvaTk4Gy94UzMo7Re7spump",
-    "name": "Kai Ken",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "KAI",
-    "t": 1795740257.3746378
-   },
-   {
-    "dauer": 135.673677444458,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "8tiWobkyfwAaagnrQ2DdVi8L3cf83FuZWbsrWUTNpump",
-    "name": "Winston",
-    "sol": 86.479380322,
-    "spaet": false,
-    "symbol": "Winston",
-    "t": 1795740271.2408955
-   },
-   {
-    "dauer": 283.0344042778015,
-    "ersteller_verkauft": true,
-    "kaeufer": 411,
-    "mint": "Bg84XT66kZDCVojghAzseaBaHayFfXKQGRy9p4gqpump",
-    "name": "DeepWeb",
-    "sol": 55.152423223999925,
-    "spaet": false,
-    "symbol": "DeepWeb",
-    "t": 1795740321.792206
-   },
-   {
-    "dauer": 128.17925095558167,
-    "ersteller_verkauft": false,
-    "kaeufer": 239,
-    "mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
-    "name": "Cumass Coin",
-    "sol": 78.48074153999991,
-    "spaet": false,
-    "symbol": "CUMASS",
-    "t": 1795740394.748202
-   },
    {
     "dauer": 0.0017421245574951172,
     "ersteller_verkauft": false,
@@ -594,6 +526,33 @@
     "mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
     "spaet": true,
     "t": 1795743557.4659321
+   },
+   {
+    "dauer": 66.13097286224365,
+    "ersteller_verkauft": true,
+    "kaeufer": 270,
+    "mint": "3VKrh6Hn8Fbpxn4JRuGCvgfUZGpu7iqzHdCf1zQKpump",
+    "name": "DragonRiders",
+    "sol": 85.00535947899999,
+    "spaet": false,
+    "symbol": "DragonRiders",
+    "t": 1795743764.926206
+   },
+   {
+    "dauer": 139.23944067955017,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "6TWfx4Dx1F3mpKcjCzQUumST7a47ptqoTSEzG5B3pump",
+    "name": "POWERLINE",
+    "sol": 0.6421358930000013,
+    "spaet": false,
+    "symbol": "PLINE",
+    "t": 1795743891.7703621
+   },
+   {
+    "mint": "BpNfXPvYiLusKT6cNBFddjkw1bn4iGL6hWzRPxJGpump",
+    "spaet": true,
+    "t": 1795743892.197516
    }
   ],
   "uebersicht": 1795743408.1301825
@@ -602,7 +561,7 @@
   "HYPE": 1795628333.8068695,
   "MOODENG": 1795682429.2791297,
   "xyz:NVDA": 1795628633.7291481,
-  "xyz:SILVER": 1795660466.4136481,
+  "xyz:SILVER": 1795744010.2200115,
   "xyz:TSLA": 1795631409.8383093,
   "xyz:XYZ100": 1795628633.7291481
  },
