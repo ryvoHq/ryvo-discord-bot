@@ -239,27 +239,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 547,
+ "laeufe": 548,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "D62Y491GnbypoZfpdec26jGhF6Jv5NNZxLjUHfiapump",
-    "spaet": true,
-    "t": 1795759466.5630288
-   },
-   {
-    "dauer": 398.87326526641846,
-    "ersteller_verkauft": false,
-    "kaeufer": 164,
-    "mint": "HRRoxn8Luc54HJcVvpbfyXDXtxjgFGsydmRWc2r2pump",
-    "name": "Official Grand Theft Auto VI",
-    "sol": 84.77838196399996,
-    "spaet": false,
-    "symbol": "GTAVI",
-    "t": 1795759669.9805892
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -434,6 +418,33 @@
     "spaet": false,
     "symbol": "SNOWBALLER",
     "t": 1795762355.6217158
+   },
+   {
+    "mint": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump",
+    "spaet": true,
+    "t": 1795763005.1848185
+   },
+   {
+    "dauer": 87.1618480682373,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "42bid98yfirZsuXbjxPLKMViXuRDgJhB32jWsh8bDRzj",
+    "name": "G T A",
+    "sol": 1.640638195999999,
+    "spaet": false,
+    "symbol": "G T A",
+    "t": 1795763129.2850566
+   },
+   {
+    "dauer": 28.36655306816101,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "DA8KuSrRvobSd8n6BMnYzJpkqVYvaw7xKQqx1wSYpump",
+    "name": "inu",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "INU",
+    "t": 1795763134.6727273
    }
   ],
   "uebersicht": 1795762010.0935252
