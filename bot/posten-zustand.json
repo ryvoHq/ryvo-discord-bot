@@ -298,26 +298,16 @@
  ],
  "indizes_tag": "2026-11-27",
  "krypto_tag": "2026-11-27",
- "lab_log_tag": "2026-11-26",
+ "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 764,
+ "laeufe": 765,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795820261.4755316
   ],
   "stunde": [
-   {
-    "mint": "8Sx4i5RTRhkjednpNqtaHWkVfRThYj9UpwaLiFLkpump",
-    "spaet": true,
-    "t": 1795819818.490561
-   },
-   {
-    "mint": "GcrARgWYiJVyGtoYhSJbucqBbQVYUq66aQEJrxdpump",
-    "spaet": true,
-    "t": 1795819971.685483
-   },
    {
     "dauer": 1513.497797012329,
     "ersteller_verkauft": false,
@@ -539,6 +529,22 @@
     "spaet": false,
     "symbol": "RICK",
     "t": 1795823105.0220344
+   },
+   {
+    "mint": "8XJzPg4ENptSj5g7pFcvnadniBuEuLEQHzAUexSnpump",
+    "spaet": true,
+    "t": 1795823322.6980472
+   },
+   {
+    "dauer": 51.16679239273071,
+    "ersteller_verkauft": true,
+    "kaeufer": 249,
+    "mint": "HHs1s3uiTghagPxKZK4Vouc4zXzhsSFcjFrXwQHKpump",
+    "name": "Artificial Intelligence Company",
+    "sol": 84.48422237199998,
+    "spaet": false,
+    "symbol": "AIC",
+    "t": 1795823358.9849265
    }
   ],
   "uebersicht": 1795823000.229913
