@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 523,
+ "laeufe": 524,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -248,33 +248,6 @@
    1795756514.653192
   ],
   "stunde": [
-   {
-    "dauer": 2099.138088941574,
-    "ersteller_verkauft": false,
-    "kaeufer": 147,
-    "mint": "54xaFdqLfkNZu2S4GbJhv36yrJsz1DVPA2ns6qiApump",
-    "name": "Basket",
-    "sol": 84.91883376599992,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795752972.1070852
-   },
-   {
-    "mint": "HndF7FLfdzXvc5ztwKVVuKakHEumZa54zWt54RAKbQ4V",
-    "spaet": true,
-    "t": 1795753015.1936593
-   },
-   {
-    "dauer": 1017.641889333725,
-    "ersteller_verkauft": false,
-    "kaeufer": 620,
-    "mint": "5hkBYuFQDpAAqemCiVqXCuU6Ya5dqKhtRobzJsg6pump",
-    "name": "Christmas Coin",
-    "sol": 85.29733667900007,
-    "spaet": false,
-    "symbol": "Christmas",
-    "t": 1795753193.826318
-   },
    {
     "mint": "5NawJgPe9yoyDYijrdwC3Lg94MJaZ9LaoJP1T6hKBrBL",
     "spaet": true,
@@ -401,6 +374,17 @@
     "spaet": false,
     "symbol": "BEAST",
     "t": 1795756480.6975942
+   },
+   {
+    "dauer": 2278.2519817352295,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "2DVF2q4tEfntmfXxSRXFNwRq1P1xKSH8DAwHqZEdpump",
+    "name": "RIPPACK",
+    "sol": 85.00535909100003,
+    "spaet": false,
+    "symbol": "RIPPACK",
+    "t": 1795756605.0116394
    }
   ],
   "uebersicht": 1795754714.6155627
