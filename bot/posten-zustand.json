@@ -297,35 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 717,
+ "laeufe": 718,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "dauer": 826.6245656013489,
-    "ersteller_verkauft": false,
-    "kaeufer": 73,
-    "mint": "AuXPU9r3eweWLkfUteaBnFgqakQN6ozEie4byMg8pump",
-    "name": "NVIDIA Newsroom",
-    "sol": 83.26168374200003,
-    "spaet": false,
-    "symbol": "NVIDIA",
-    "t": 1795806809.1705859
-   },
-   {
-    "dauer": 75.06905627250671,
-    "ersteller_verkauft": true,
-    "kaeufer": 8,
-    "mint": "3L3zS81Hv7AiQnSoF59x9XXxUDMn4J7rGT2EBYF7pump",
-    "name": "wrappedape",
-    "sol": 0.5981544059999999,
-    "spaet": false,
-    "symbol": "wApe",
-    "t": 1795806864.1184711
-   },
    {
     "mint": "7au7hZMSaKbdzqV3tTLMe9tLbED1GCpxdDrR9cbpump",
     "spaet": true,
@@ -453,6 +431,22 @@
     "mint": "DUZPzRooWiLqvNoZnreZQrp2wAS87ps3DiDTL6vApump",
     "spaet": true,
     "t": 1795809720.8627276
+   },
+   {
+    "dauer": 0.0015664100646972656,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "GzdUV4xe5Rmt34iNBoNKBzf4t8b8y3Pigu3iRcT8pump",
+    "name": "Commotitty",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Commotitty",
+    "t": 1795810287.465393
+   },
+   {
+    "mint": "5jvUfm5zau2cKswxdLtQaPZavfF6mdmbhsbUHuZ3pump",
+    "spaet": true,
+    "t": 1795810291.1552107
    }
   ],
   "uebersicht": 1795808022.9660485
