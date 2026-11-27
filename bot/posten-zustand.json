@@ -239,34 +239,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 538,
+ "laeufe": 539,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "mint": "D5oPGVkFkGoHmjKMaH9ZfQCsSvVFt5D4xCEb7ucSpump",
-    "spaet": true,
-    "t": 1795756962.3900144
-   },
-   {
-    "dauer": 0.0010938644409179688,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "7sf8dMoH68zJkTGBkqNH5LYC3qakL6nLy1YYmiLPpump",
-    "name": "Snowballin",
-    "sol": 85.00535907399998,
-    "spaet": false,
-    "symbol": "SNOWBALLIN",
-    "t": 1795757041.515276
-   },
-   {
-    "mint": "C6oCcRXnB6SEp3Pmi9gL8DHVsoEWR9aaZtf9UGj8pump",
-    "spaet": true,
-    "t": 1795757155.5555522
-   },
    {
     "dauer": 155.74156284332275,
     "ersteller_verkauft": false,
@@ -402,6 +381,39 @@
     "spaet": false,
     "symbol": "GTAVI",
     "t": 1795760217.9481277
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "1yQeZvoQDFPrAJoU49C6TqkqSMCXcqg8W8E2j2gpump",
+    "name": "UBR",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795760653.7184303
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "13bTGnVDnxeo5HuLZ6gCxt6PqNQtXcRsfmwfoSuJpump",
+    "name": "UBR",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UBR",
+    "t": 1795760713.6386738
+   },
+   {
+    "dauer": 583.3494548797607,
+    "ersteller_verkauft": true,
+    "kaeufer": 15,
+    "mint": "HKKX64H1sLwS42nUpCcNxti546E3FKEHZifhhekFpump",
+    "name": "Baby Shark",
+    "sol": 0.7534213759999997,
+    "spaet": false,
+    "symbol": "SHARK",
+    "t": 1795760744.9170334
    }
   ],
   "uebersicht": 1795758363.9843912
