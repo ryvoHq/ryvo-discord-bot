@@ -239,30 +239,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 522,
+ "laeufe": 523,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795753475.0919275,
-   1795753774.69686
+   1795753774.69686,
+   1795756514.653192
   ],
   "stunde": [
-   {
-    "mint": "6jS9L2H6XaSbVaB7jZn86uHZoPGxSUbuKKNNoBAEpump",
-    "spaet": true,
-    "t": 1795752630.288214
-   },
-   {
-    "dauer": 257.78115487098694,
-    "ersteller_verkauft": false,
-    "kaeufer": 135,
-    "mint": "AYfPJnkCMhyPsXpPKaSQY1Y9rzkpERejWisPaCrQpump",
-    "name": "Snowball",
-    "sol": 74.34066795300005,
-    "spaet": false,
-    "symbol": "Snowball",
-    "t": 1795752844.9222522
-   },
    {
     "dauer": 2099.138088941574,
     "ersteller_verkauft": false,
@@ -389,6 +374,33 @@
     "mint": "NtxRXKTHMuQ99yPAEYKcjfBPvHrnMTHjG8maFWjpump",
     "spaet": true,
     "t": 1795756192.1641488
+   },
+   {
+    "mint": "MXBoMLYqsWf7AevLbao3SM7XtnJ76sZm8kUoUP1pump",
+    "spaet": true,
+    "t": 1795756241.7667742
+   },
+   {
+    "dauer": 1019.5846433639526,
+    "ersteller_verkauft": false,
+    "kaeufer": 570,
+    "mint": "fMEwHFwbEmAWg5n5tvrVTJJR9cZnH2dTzZy3hY5pump",
+    "name": "Simyo (시묘일)",
+    "sol": 85.56121750099994,
+    "spaet": false,
+    "symbol": "Simyo",
+    "t": 1795756435.5967224
+   },
+   {
+    "dauer": 94.2362711429596,
+    "ersteller_verkauft": true,
+    "kaeufer": 152,
+    "mint": "DeJDTihNu934o6tqmafVSFA7DyGWFXYb5Hy5bputpump",
+    "name": "MrBeast",
+    "sol": 85.00535940200002,
+    "spaet": false,
+    "symbol": "BEAST",
+    "t": 1795756480.6975942
    }
   ],
   "uebersicht": 1795754714.6155627
