@@ -297,35 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 715,
+ "laeufe": 716,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "dauer": 0.0007536411285400391,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "D3rFK86soe7751MF3G1TAbgvk7oVJH6WPHRF8jfVpump",
-    "name": "Maya The Samoyed",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "MAYA",
-    "t": 1795806040.7028081
-   },
-   {
-    "dauer": 74.18211936950684,
-    "ersteller_verkauft": false,
-    "kaeufer": 102,
-    "mint": "8nd3NLZwt3B1NuXkZKcWw3hnGo9pLv891XsW5CDWpump",
-    "name": "Kettle Charity",
-    "sol": 45.749592449999994,
-    "spaet": false,
-    "symbol": "KETTLE",
-    "t": 1795806229.4016793
-   },
    {
     "dauer": 150.15801167488098,
     "ersteller_verkauft": false,
@@ -486,6 +464,11 @@
     "mint": "H3EYhJbuNby2scFMEWdkD7S5dP4bR5B9TJGLgNRupump",
     "spaet": true,
     "t": 1795809519.4936497
+   },
+   {
+    "mint": "DUZPzRooWiLqvNoZnreZQrp2wAS87ps3DiDTL6vApump",
+    "spaet": true,
+    "t": 1795809720.8627276
    }
   ],
   "uebersicht": 1795808022.9660485
