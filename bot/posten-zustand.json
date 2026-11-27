@@ -252,33 +252,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 577,
+ "laeufe": 578,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 380.708544254303,
-    "ersteller_verkauft": true,
-    "kaeufer": 3,
-    "mint": "3SHABqgYFkfaRW3jDnMSiTyQ9cpMBrZHnDkYammvpump",
-    "name": "Praxion Agentic CRM Solutions",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "PACS",
-    "t": 1795767864.8782296
-   },
-   {
-    "dauer": 125.56072759628296,
-    "ersteller_verkauft": true,
-    "kaeufer": 23,
-    "mint": "8sjh8F4LrkqnNn3z7FFbhttrwJD5hZAwG4uWdezWpump",
-    "name": "MoonChacha",
-    "sol": 0.7872035080000028,
-    "spaet": false,
-    "symbol": "MCH",
-    "t": 1795768126.8197534
-   },
    {
     "dauer": 954.3130459785461,
     "ersteller_verkauft": true,
@@ -419,6 +397,17 @@
     "spaet": false,
     "symbol": "amusk",
     "t": 1795771143.518988
+   },
+   {
+    "dauer": 483.40456438064575,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "98f7xcYoe6ixcM7EzKSpK77TXnYSXdX2rTh5mi3gpump",
+    "name": "BUCKME",
+    "sol": 0.6702141080000006,
+    "spaet": false,
+    "symbol": "$BUCKME",
+    "t": 1795771750.417671
    }
   ],
   "uebersicht": 1795769956.7683537
