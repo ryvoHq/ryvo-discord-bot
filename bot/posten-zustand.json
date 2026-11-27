@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 682,
+ "laeufe": 683,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,44 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "dauer": 0.005776882171630859,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "AjucUKL3i8wh7SvFL9h5cZbWkd3M9JibLkdvRJKppump",
-    "name": "Never Broke Again",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "NBA",
-    "t": 1795797008.552775
-   },
-   {
-    "mint": "33w1TNZJ5m5URMEihcBCb7K6uisoiGRELPhKQvetpump",
-    "spaet": true,
-    "t": 1795797031.89556
-   },
-   {
-    "dauer": 37.23757076263428,
-    "ersteller_verkauft": false,
-    "kaeufer": 296,
-    "mint": "8ob6WB1VTJasK2r6EjzbMyJ5Zv8bd6jDsTtahvxunyLV",
-    "name": "Six Seven",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "67",
-    "t": 1795797041.189469
-   },
-   {
-    "dauer": 63.5255708694458,
-    "ersteller_verkauft": true,
-    "kaeufer": 221,
-    "mint": "DS86GPmm5eGUBwJDjuFxDSiF1bNdZHVtjvm7zKonpump",
-    "name": "Six Seven",
-    "sol": 70.14284249800001,
-    "spaet": false,
-    "symbol": "67",
-    "t": 1795797099.5347123
-   },
    {
     "mint": "DSKXx3BbxiU87p1dS4G1W5HoPuziTqegC1fvHeLwpump",
     "spaet": true,
@@ -482,9 +444,36 @@
     "mint": "A2fkVTksJh7xLhmAcf8ST97va5TYN3Skvk42TBcUpump",
     "spaet": true,
     "t": 1795800296.6004114
+   },
+   {
+    "mint": "EcScZ8pFoTNcLNCNYXeT2yJYriNEWVHQEMqTQVNLpump",
+    "spaet": true,
+    "t": 1795800461.9530678
+   },
+   {
+    "dauer": 26.562516450881958,
+    "ersteller_verkauft": true,
+    "kaeufer": 97,
+    "mint": "BEH9JgHkpTRtAEy38qVnTjQtEShNJXw7ehmPWK6ipump",
+    "name": "Rice +95%",
+    "sol": 59.35700295699998,
+    "spaet": false,
+    "symbol": "RI",
+    "t": 1795800643.4559262
+   },
+   {
+    "dauer": 138.94596147537231,
+    "ersteller_verkauft": false,
+    "kaeufer": 84,
+    "mint": "yRHB5a3iphJP5CJGdYmBQYf4VFiedwLS3hRJvSSpump",
+    "name": "CocaCola | Offical",
+    "sol": 53.95762174900001,
+    "spaet": false,
+    "symbol": "Coca-Cola",
+    "t": 1795800707.1724772
    }
   ],
-  "uebersicht": 1795796148.1298294
+  "uebersicht": 1795800739.3007104
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
