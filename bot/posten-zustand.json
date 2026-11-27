@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 690,
+ "laeufe": 691,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -302,17 +302,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "dauer": 581.0985405445099,
-    "ersteller_verkauft": true,
-    "kaeufer": 395,
-    "mint": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump",
-    "name": "Split",
-    "sol": 75.18961510999995,
-    "spaet": false,
-    "symbol": "Split",
-    "t": 1795799225.8373337
-   },
    {
     "mint": "9qXQCUDwgkyQM9yPWeXQVLpaU6ndoMN1JJpz4cqpump",
     "spaet": true,
@@ -493,6 +482,38 @@
     "spaet": false,
     "symbol": "Knoware",
     "t": 1795802511.2752957
+   },
+   {
+    "mint": "FL56MXZUBytpVy4WgjBzeJ1hTjVpVA72TQhHtoiTpump",
+    "spaet": true,
+    "t": 1795802649.9294915
+   },
+   {
+    "mint": "46HWndTsHthKcTPgHd5erPQmuA45staCmzQgdjS5pump",
+    "spaet": true,
+    "t": 1795802693.1589375
+   },
+   {
+    "dauer": 0.0005850791931152344,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "8LX2fFyENqu1R6bmzk461BH3ZPVbmpCpppe1K7Zcpump",
+    "name": "Togo",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "TOGO",
+    "t": 1795802730.0968103
+   },
+   {
+    "dauer": 0.0002048015594482422,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "4WZLGbAp6oEPxFbDcsfADCo1AgYZkfiteQhtM5iwpump",
+    "name": "Viking Cat",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "VICAT",
+    "t": 1795802866.9164839
    }
   ],
   "uebersicht": 1795800739.3007104
