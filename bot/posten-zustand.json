@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 514,
+ "laeufe": 515,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -249,28 +249,6 @@
    1795753774.69686
   ],
   "stunde": [
-   {
-    "dauer": 20.884486198425293,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "54pSXLaer2zKuenzLafS9ZYJFtQHyRy6G1A7Nw2rpump",
-    "name": "Retarded Slop Ape Official",
-    "sol": 84.51337751400003,
-    "spaet": false,
-    "symbol": "RSA",
-    "t": 1795750286.1057687
-   },
-   {
-    "dauer": 546.5062606334686,
-    "ersteller_verkauft": false,
-    "kaeufer": 151,
-    "mint": "8k2FoAHkxxcjusKpat5p8BMy6cTbdZK5RAQYFgsapump",
-    "name": "FLOAT",
-    "sol": 54.88171997099999,
-    "spaet": false,
-    "symbol": "FLOAT",
-    "t": 1795750318.5360518
-   },
    {
     "mint": "1FPJonsGnK5uHGUgot6GxFx3tF4eS1PezjxQWMupump",
     "spaet": true,
@@ -457,6 +435,11 @@
     "spaet": false,
     "symbol": "Christmas",
     "t": 1795753570.5624707
+   },
+   {
+    "mint": "4suTqHLfusyCwGSStMkj4EoEbYZxNodrwcVxwdFypump",
+    "spaet": true,
+    "t": 1795753865.5197735
    }
   ],
   "uebersicht": 1795750736.6922324
