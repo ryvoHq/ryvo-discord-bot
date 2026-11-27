@@ -6,6 +6,10 @@
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://economictimes.indiatimes.com/news/international/world-news/washington-pushed-venezuela-iraq-to-consider-leaving-opec/articleshow/136231459.cms",
+  "https://www.business-standard.com/markets/news/it-bank-heavyweights-drag-markets-down-1-amid-rising-crude-oil-prices-126112701207_1.html",
+  "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_week_on_week-27-nov-2026-185190-article/",
+  "https://www.faz.net/aktuell/rhein-main/wirtschaft/hessens-arbeitsmarkt-mehr-stellen-aber-schwierigkeiten-fuer-akademiker-201722245.html",
   "https://www.moneycontrol.com/news/business/banks/rupee-recovery-eases-pressure-on-rbi-to-use-rate-hikes-as-currency-defence-14090215.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
   "https://www.thehindu.com/news/national/andhra-pradesh/sec-schedules-indirect-elections-to-deputy-mayor-vice-chairperson-posts-on-december-5/article71751086.ece",
@@ -76,16 +80,16 @@
   "https://www.straitstimes.com/world/argentina-bans-its-central-bank-from-printing-money-for-the-government",
   "https://www.independent.co.uk/news/uk/home-news/bank-of-england-labour-tax-hike-customers-b3092462.html",
   "https://www.businesstimes.com.sg/companies-markets/banking-finance/binance-lifts-withdrawal-suspension-after-us6-3-billion-crypto-heist",
-  "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-higher-easing-tariff-fears-ecb-leadership-continuity",
-  "https://www.bnnbloomberg.ca/markets/crypto/2026/11/26/north-korean-launderers-turn-to-little-known-crypto-services-to-move-binance-haul-say-researchers/",
-  "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk",
-  "https://www.cbc.ca/news/canada/edmonton/q2-fiscal-update-alberta-9.7437528",
   "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-higher-easing-tariff-fears-ecb-leadership-continuity",
+  "https://www.bnnbloomberg.ca/markets/crypto/2026/11/26/north-korean-launderers-turn-to-little-known-crypto-services-to-move-binance-haul-say-researchers/",
+  "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk",
+  "https://www.cbc.ca/news/canada/edmonton/q2-fiscal-update-alberta-9.7437528",
   "https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html",
   "https://www.irishtimes.com/business/2026/11/26/labour-market-churn-rises-in-third-quarter/",
   "https://www.theglobeandmail.com/canada/alberta/article-alberta-projects-85-billion-surplus-as-global-turmoil-drives-up-oil/",
@@ -293,7 +297,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 704,
+ "laeufe": 705,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
@@ -494,6 +498,17 @@
     "mint": "AnJYu8n3Ei4D6imnUCQx1pt4D7Rcnoxs3MfongB9pump",
     "spaet": true,
     "t": 1795806479.0640347
+   },
+   {
+    "dauer": 826.6245656013489,
+    "ersteller_verkauft": false,
+    "kaeufer": 73,
+    "mint": "AuXPU9r3eweWLkfUteaBnFgqakQN6ozEie4byMg8pump",
+    "name": "NVIDIA Newsroom",
+    "sol": 83.26168374200003,
+    "spaet": false,
+    "symbol": "NVIDIA",
+    "t": 1795806809.1705859
    }
   ],
   "uebersicht": 1795804378.8469467
