@@ -259,40 +259,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 622,
+ "laeufe": 623,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795783344.432021
+   1795783344.432021,
+   1795784244.0034847
   ],
   "stunde": [
-   {
-    "dauer": 33.72840332984924,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "4stswcC7XhMgWXm6Uo1nzEjUrNKJkwzrdRtJMZ3Fpump",
-    "name": "EVERYONE BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795780454.4028523
-   },
-   {
-    "mint": "AwDkkmvZ8CbgTxSCXwW5uLGwCUSJ6W4aGEEu2tcEMQpL",
-    "spaet": true,
-    "t": 1795780500.954648
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "x3LnQaCS4ojN6DTvF1kcHUiJMzigQwTdNn74eAApump",
-    "name": "National Cybersecurity Protocol",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "NCSP",
-    "t": 1795780519.1992154
-   },
    {
     "dauer": 12.785238265991211,
     "ersteller_verkauft": false,
@@ -515,6 +489,28 @@
     "spaet": false,
     "symbol": "FOX",
     "t": 1795783678.7437227
+   },
+   {
+    "dauer": 135.90585851669312,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "A3HegVnqLdf3285Ue6GL1toSFtq2McXHN3DJGj5Apump",
+    "name": "dogbaton",
+    "sol": 0.15592390299999973,
+    "spaet": false,
+    "symbol": "dogbaton",
+    "t": 1795783977.6131248
+   },
+   {
+    "dauer": 2013.9634637832642,
+    "ersteller_verkauft": false,
+    "kaeufer": 691,
+    "mint": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump",
+    "name": "Baboon Smirk",
+    "sol": 84.37829936699967,
+    "spaet": false,
+    "symbol": "Zhaki",
+    "t": 1795784088.23495
    }
   ],
   "uebersicht": 1795780902.3769503
