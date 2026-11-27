@@ -259,48 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 618,
+ "laeufe": 619,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "GmcithkhAoqGJY9jhCGS5g51G1aL2mNgDpS2eQbFWJVW",
-    "spaet": true,
-    "t": 1795779147.6818614
-   },
-   {
-    "mint": "51ggDdZ3AJC2U3gX3EjQddUQ26vmGnAw2Ui5jDf1pump",
-    "spaet": true,
-    "t": 1795779243.3038423
-   },
-   {
-    "mint": "Ep4BN61gu1z94VH6Y7DkaHeo9byKVj2TrX2xm9BGGZ9c",
-    "spaet": true,
-    "t": 1795779266.9577172
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "YnUWYyiUTSJmpR6bWPFeDkS6BrRsmQBtS9s9dSepump",
-    "name": "Tenex Cash",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TXC",
-    "t": 1795779272.6264987
-   },
-   {
-    "dauer": 46.06860828399658,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "DGKevnNjSKwKCJ8qhUwATm1675bDcJAMhz2koX9upump",
-    "name": "SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795779395.9365785
-   },
    {
     "dauer": 282.8411612510681,
     "ersteller_verkauft": false,
@@ -494,6 +457,50 @@
     "spaet": false,
     "symbol": "ChokingCat",
     "t": 1795782061.9173307
+   },
+   {
+    "dauer": 123.80025506019592,
+    "ersteller_verkauft": false,
+    "kaeufer": 25,
+    "mint": "9voFCT3PsQJb3fjVdiJRuse6iaYtbqJikFEDP9Mvpump",
+    "name": "GTA VI online",
+    "sol": 0.08792143599999996,
+    "spaet": false,
+    "symbol": "GTAO",
+    "t": 1795782780.7237754
+   },
+   {
+    "dauer": 67.91508102416992,
+    "ersteller_verkauft": true,
+    "kaeufer": 3,
+    "mint": "EWPctnsbJ9AyhhE1zFBYFbbBsfTbcYkrB4vWYcrdpump",
+    "name": "BLACK ROCK",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BLACK ",
+    "t": 1795782808.9973626
+   },
+   {
+    "dauer": 136.4842050075531,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "AY99HRQtudxfymwUCDM7rPXt9A7ZzxAE28YyYYbJpump",
+    "name": "CATECOIN",
+    "sol": 0.4457881359999999,
+    "spaet": false,
+    "symbol": "$CAT",
+    "t": 1795782889.3076572
+   },
+   {
+    "dauer": 657.6789004802704,
+    "ersteller_verkauft": false,
+    "kaeufer": 78,
+    "mint": "4Bu13wMk2VU1QpKWeEjnMdVB1xw1sNreXKkP8oNEeP4s",
+    "name": "crypto peace",
+    "sol": 85.00994403699998,
+    "spaet": false,
+    "symbol": "peace",
+    "t": 1795782952.0635896
    }
   ],
   "uebersicht": 1795780902.3769503
