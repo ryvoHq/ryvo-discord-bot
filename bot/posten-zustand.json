@@ -259,7 +259,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 620,
+ "laeufe": 621,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -509,6 +509,28 @@
     "spaet": false,
     "symbol": "Republic ",
     "t": 1795783343.3839045
+   },
+   {
+    "dauer": 0.009905099868774414,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "3FYTVzMji7cN2gARmmFoxFVmEJ6zaz7fwZFMUzdHpump",
+    "name": "Snowbally",
+    "sol": 53.997707719,
+    "spaet": false,
+    "symbol": "SNOWBALLY",
+    "t": 1795783420.805664
+   },
+   {
+    "dauer": 43.615827560424805,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "4ZieHmkSUdVTS6UU4sXFC98BgSaVTcGePJBiPE1Rpump",
+    "name": "ICE PUTIN",
+    "sol": 1.1703423379999998,
+    "spaet": false,
+    "symbol": "iPUT",
+    "t": 1795783477.5470686
    }
   ],
   "uebersicht": 1795780902.3769503
