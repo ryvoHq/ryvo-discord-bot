@@ -301,47 +301,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 752,
+ "laeufe": 753,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795817196.0699837,
-   1795817496.3342245
+   1795817496.3342245,
+   1795820261.4755316
   ],
   "stunde": [
-   {
-    "dauer": 58.32909965515137,
-    "ersteller_verkauft": true,
-    "kaeufer": 170,
-    "mint": "DhS4zhogbV1jMUM6sTHmRB7fuF1DxMwbLayCrrW1pump",
-    "name": "Voyager 1",
-    "sol": 58.240905815000005,
-    "spaet": false,
-    "symbol": "Voyager",
-    "t": 1795816592.9045908
-   },
-   {
-    "dauer": 204.31904006004333,
-    "ersteller_verkauft": false,
-    "kaeufer": 28,
-    "mint": "8mMkCuSP4kNKAiTijnaTyuh3yHQaBPwopDuPG2Cbpump",
-    "name": "100M$",
-    "sol": 0.048126016000000396,
-    "spaet": false,
-    "symbol": "100M$",
-    "t": 1795816622.6613274
-   },
-   {
-    "dauer": 235.68192100524902,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "6TisRh5vrV7gGm8r86KknBV6NfhNUNLNagbXSV5Zpump",
-    "name": "DOGUE",
-    "sol": 0.08731033000000013,
-    "spaet": false,
-    "symbol": "DOGU",
-    "t": 1795816650.4540505
-   },
    {
     "dauer": 299.89874172210693,
     "ersteller_verkauft": false,
@@ -475,6 +443,22 @@
     "mint": "8Sx4i5RTRhkjednpNqtaHWkVfRThYj9UpwaLiFLkpump",
     "spaet": true,
     "t": 1795819818.490561
+   },
+   {
+    "mint": "GcrARgWYiJVyGtoYhSJbucqBbQVYUq66aQEJrxdpump",
+    "spaet": true,
+    "t": 1795819971.685483
+   },
+   {
+    "dauer": 1513.497797012329,
+    "ersteller_verkauft": false,
+    "kaeufer": 506,
+    "mint": "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump",
+    "name": "Hyperball",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Hyperball",
+    "t": 1795820104.5870976
    }
   ],
   "uebersicht": 1795819361.7479584
