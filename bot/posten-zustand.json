@@ -227,40 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 472,
+ "laeufe": 473,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "mint": "BidVprwobLJuGtdCDo9xdFFiFJbaydscuQswwnzSpump",
-    "spaet": true,
-    "t": 1795738744.4640508
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "cKMGm9TRAmhP2P9DB2RHY2LQBRULtReiqsh1CkXpump",
-    "name": "VIDA",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "VIDA",
-    "t": 1795738751.218141
-   },
-   {
-    "dauer": 128.6172068119049,
-    "ersteller_verkauft": true,
-    "kaeufer": 28,
-    "mint": "3y4NdBZERF9zM8LqFbUVTQt85sQ7u5tvf8UcKne4pump",
-    "name": "dog wif cap",
-    "sol": 0.708975153,
-    "spaet": false,
-    "symbol": "cap",
-    "t": 1795738894.7140424
-   },
    {
     "dauer": 63.88192796707153,
     "ersteller_verkauft": true,
@@ -566,6 +539,61 @@
     "spaet": false,
     "symbol": "Ozzy",
     "t": 1795742058.132719
+   },
+   {
+    "dauer": 94.66956663131714,
+    "ersteller_verkauft": false,
+    "kaeufer": 101,
+    "mint": "EohmYBesawQhoUTdNWeHHnC1piWvvzJCg3rv77mopump",
+    "name": "FomoFamily | Offical Team",
+    "sol": 84.76546740399996,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795742348.1633365
+   },
+   {
+    "dauer": 61.63787221908569,
+    "ersteller_verkauft": true,
+    "kaeufer": 265,
+    "mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+    "name": "Truck In Snow",
+    "sol": 71.74772803099995,
+    "spaet": false,
+    "symbol": "SNOWTRUCK",
+    "t": 1795742376.308022
+   },
+   {
+    "dauer": 385.5222234725952,
+    "ersteller_verkauft": false,
+    "kaeufer": 27,
+    "mint": "C8XnENQ1QnnSJr8BBA7CwrXD4TLAL76eMnDQcYfppump",
+    "name": "DeadBullLabs",
+    "sol": 0.1861619750000001,
+    "spaet": false,
+    "symbol": "VIPER",
+    "t": 1795742387.4357562
+   },
+   {
+    "dauer": 0.0007646083831787109,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "8BGYJMyfhidTjzmJGTwGixMBV6T2PaPFq6mJPc1vpump",
+    "name": "Santaball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Santaball",
+    "t": 1795742447.7698734
+   },
+   {
+    "dauer": 161.32750535011292,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "CRknBv1ot1Jy9FR5XcUnqwJwvqepjs62ucJpZz6upump",
+    "name": "EVILcoin",
+    "sol": 0.06730880700000003,
+    "spaet": false,
+    "symbol": "EVIL",
+    "t": 1795742481.7076435
    }
   ],
   "uebersicht": 1795739768.4662964
