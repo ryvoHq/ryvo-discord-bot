@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 694,
+ "laeufe": 695,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,16 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "mint": "A2fkVTksJh7xLhmAcf8ST97va5TYN3Skvk42TBcUpump",
-    "spaet": true,
-    "t": 1795800296.6004114
-   },
-   {
-    "mint": "EcScZ8pFoTNcLNCNYXeT2yJYriNEWVHQEMqTQVNLpump",
-    "spaet": true,
-    "t": 1795800461.9530678
-   },
    {
     "dauer": 26.562516450881958,
     "ersteller_verkauft": true,
@@ -491,6 +481,27 @@
     "mint": "8jMB4LYQH5vDEDWcqf2HfnTdSxguVtqCdcmQvg2Fpump",
     "spaet": true,
     "t": 1795803568.906788
+   },
+   {
+    "mint": "e1ZqbS7DfhSc389ZdcvS1QMJ7R9X9kyZMfKDBFypump",
+    "spaet": true,
+    "t": 1795803865.4588268
+   },
+   {
+    "mint": "A6xehhePhNfRB7xFosp4R6hXANAhfUMNdCiPtReupump",
+    "spaet": true,
+    "t": 1795803936.5637584
+   },
+   {
+    "dauer": 225.08308935165405,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "HX93gtRUXjCSDYYroGj6pXQG2wikDFQcnjU71tNnpump",
+    "name": "Tom pearl ",
+    "sol": -0.20658793500000017,
+    "spaet": false,
+    "symbol": "Pearl ",
+    "t": 1795803983.0155282
    }
   ],
   "uebersicht": 1795800739.3007104
