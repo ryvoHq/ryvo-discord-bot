@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 697,
+ "laeufe": 698,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,16 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "mint": "H71okKKShRTjCDh6KtiDBZ3DBKzUNofTV1jnEV3epump",
-    "spaet": true,
-    "t": 1795801200.6795924
-   },
-   {
-    "mint": "8adjHy6G8E93dje6eMH2q3bGSTp7pV6CdCfmtX62pump",
-    "spaet": true,
-    "t": 1795801223.53639
-   },
    {
     "mint": "DD6morQS2RkaYimQVQNtofKUvcfksaAvx3ws3nscpump",
     "spaet": true,
@@ -550,6 +540,27 @@
     "spaet": false,
     "symbol": "DERP",
     "t": 1795804583.4012258
+   },
+   {
+    "mint": "C5xGkiWztBdGS84PmQoazz8H8Dp8L6ScbRAquHEFpump",
+    "spaet": true,
+    "t": 1795804794.753926
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "BTMBdEw5hpj5B3nXSgcmDSBFja6FhAAsC27gF96Tpump",
+    "name": "United States Oil Index",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USOI",
+    "t": 1795804802.1990151
+   },
+   {
+    "mint": "8FbgVfuqtTaHkgDvbKGEsBrQ2ujbTVz1Eqw1qe45pump",
+    "spaet": true,
+    "t": 1795804946.195124
    }
   ],
   "uebersicht": 1795804378.8469467
