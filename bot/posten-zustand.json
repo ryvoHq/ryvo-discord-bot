@@ -297,7 +297,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 726,
+ "laeufe": 727,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
@@ -553,6 +553,28 @@
     "mint": "EJTf8Bg6KWPwrH3BxCT5ufeXCr6atmYnSaMRzuNWpump",
     "spaet": true,
     "t": 1795812494.3661757
+   },
+   {
+    "dauer": 229.31334686279297,
+    "ersteller_verkauft": false,
+    "kaeufer": 27,
+    "mint": "EwnMu6h1AfbKr4pKUvDJCkPuZVaaF72XwTrBDUA1pump",
+    "name": "MoneyDuck",
+    "sol": 0.2542884559999995,
+    "spaet": false,
+    "symbol": "MnyDuk",
+    "t": 1795812770.9364836
+   },
+   {
+    "dauer": 331.8076813220978,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "H99M3mzJvhZzZVQhsCfq187aczJvrDfW4ieeqNrWpump",
+    "name": "inuvest",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "inuvest",
+    "t": 1795812844.2068958
    }
   ],
   "uebersicht": 1795811669.655001
