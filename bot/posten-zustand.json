@@ -252,22 +252,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 549,
+ "laeufe": 550,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 77.96224045753479,
-    "ersteller_verkauft": true,
-    "kaeufer": 154,
-    "mint": "GsjyhywQrWK7h3opyPinvR7CpsBezZHdaowyp7E6pump",
-    "name": "Official Grand Theft Auto VI",
-    "sol": 72.37326069299999,
-    "spaet": false,
-    "symbol": "GTAVI",
-    "t": 1795760217.9481277
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -489,6 +478,17 @@
     "mint": "7ryBLCYRziFN7sg2tXdNxJ1drbreNHChpD2Z7hMJpump",
     "spaet": true,
     "t": 1795763566.6818576
+   },
+   {
+    "dauer": 485.0186131000519,
+    "ersteller_verkauft": true,
+    "kaeufer": 9,
+    "mint": "zbEFTJwNuSNjRmVKoWkuT7QgWbw52hJ2JJwq7SCpump",
+    "name": "O algo coin",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ALGO",
+    "t": 1795763856.2873259
    }
   ],
   "uebersicht": 1795762010.0935252
