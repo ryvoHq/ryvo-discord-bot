@@ -259,62 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 600,
+ "laeufe": 601,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "dauer": 100.19624352455139,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "84Qck2pv8YMDDAHR5y53iWSketJP77kGauLXCrxTpump",
-    "name": "Carry",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "CARRY",
-    "t": 1795774256.204549
-   },
-   {
-    "dauer": 37.0599730014801,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "9K9KDsnhTfuZxH9B9cXNExhsbXfJSBdUQeLXPG3zpump",
-    "name": "CATECOIN",
-    "sol": 3.8486000650000003,
-    "spaet": false,
-    "symbol": "$CAT",
-    "t": 1795774358.2159119
-   },
-   {
-    "dauer": 99.79673194885254,
-    "ersteller_verkauft": true,
-    "kaeufer": 137,
-    "mint": "HmpBJMhMP7G5AWewpXQEqij5eGduJXiGS1fG69ftpump",
-    "name": "ni hao cat",
-    "sol": 85.00535926000002,
-    "spaet": false,
-    "symbol": "mihao",
-    "t": 1795774363.98542
-   },
-   {
-    "mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
-    "spaet": true,
-    "t": 1795774377.936016
-   },
-   {
-    "dauer": 93.706707239151,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "EDEuB9VRTrHc3LwS9dJapieyKhKHod2xEmXwFeDgpump",
-    "name": "DOGE PAID",
-    "sol": 0.3250529009999999,
-    "spaet": false,
-    "symbol": "DOGE PAID",
-    "t": 1795774544.34156
-   },
    {
     "dauer": 84.97207713127136,
     "ersteller_verkauft": false,
@@ -540,6 +491,22 @@
     "spaet": false,
     "symbol": "STOCKD",
     "t": 1795777839.2053466
+   },
+   {
+    "mint": "BAgZ21dqPDjkwWK2Pj4Y9J4HYkBubMcQ68DpmRmpump",
+    "spaet": true,
+    "t": 1795777964.4726036
+   },
+   {
+    "dauer": 428.9757807254791,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "CtRqXf1vRsifREYdZZxmgHHy2JtqnUYD2hADKqUcpump",
+    "name": "34percent",
+    "sol": 0.1806356599999999,
+    "spaet": false,
+    "symbol": "34%",
+    "t": 1795778070.4538314
    }
   ],
   "uebersicht": 1795777246.467679
