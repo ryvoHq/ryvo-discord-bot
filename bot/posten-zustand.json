@@ -252,7 +252,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 563,
+ "laeufe": 564,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -260,22 +260,6 @@
    1795767215.7774265
   ],
   "stunde": [
-   {
-    "mint": "6L8K86ZXNosNKe5E73wRnCNKrep6F8wCeSziC7Tgpump",
-    "spaet": true,
-    "t": 1795763989.3112314
-   },
-   {
-    "dauer": 240.34040069580078,
-    "ersteller_verkauft": true,
-    "kaeufer": 329,
-    "mint": "H8cim5HL7iSqTKhb47TLzwC54Ag7si1V3nob8rwWpump",
-    "name": "Stickman",
-    "sol": 85.17833966699992,
-    "spaet": false,
-    "symbol": "Stickman",
-    "t": 1795764180.864932
-   },
    {
     "mint": "CheA7rfKyGbgqQNdZGn4TeXYnrWkjd9qCfk3iRR1pump",
     "spaet": true,
@@ -420,6 +404,39 @@
     "spaet": false,
     "symbol": "Inu",
     "t": 1795767182.3293753
+   },
+   {
+    "dauer": 842.6114275455475,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "BKEiCKPiYvNhFooQBcbx95rRUEEGs9vMccZSVbaxpump",
+    "name": "Tesla",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Tesla",
+    "t": 1795767522.3163087
+   },
+   {
+    "dauer": 146.8236882686615,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "Hfz6ivu6Az1XcV6KD2TCranGYTcYn9inm3GL4zi5pump",
+    "name": "Megan Fox",
+    "sol": 0.16212639200000004,
+    "spaet": false,
+    "symbol": "Fox",
+    "t": 1795767640.6519585
+   },
+   {
+    "dauer": 128.78171348571777,
+    "ersteller_verkauft": false,
+    "kaeufer": 24,
+    "mint": "2TGGqRUKiFZ5SkxnmuY3SNxKjpGFx71zbJ8KgWiipump",
+    "name": "song coin",
+    "sol": 0.3571497469999999,
+    "spaet": false,
+    "symbol": "song",
+    "t": 1795767700.1549108
    }
   ],
   "uebersicht": 1795765677.4794989
