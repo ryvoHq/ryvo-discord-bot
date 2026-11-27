@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 695,
+ "laeufe": 696,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,28 +301,6 @@
    1795802539.372874
   ],
   "stunde": [
-   {
-    "dauer": 26.562516450881958,
-    "ersteller_verkauft": true,
-    "kaeufer": 97,
-    "mint": "BEH9JgHkpTRtAEy38qVnTjQtEShNJXw7ehmPWK6ipump",
-    "name": "Rice +95%",
-    "sol": 59.35700295699998,
-    "spaet": false,
-    "symbol": "RI",
-    "t": 1795800643.4559262
-   },
-   {
-    "dauer": 138.94596147537231,
-    "ersteller_verkauft": false,
-    "kaeufer": 84,
-    "mint": "yRHB5a3iphJP5CJGdYmBQYf4VFiedwLS3hRJvSSpump",
-    "name": "CocaCola | Offical",
-    "sol": 53.95762174900001,
-    "spaet": false,
-    "symbol": "Coca-Cola",
-    "t": 1795800707.1724772
-   },
    {
     "dauer": 0.023803234100341797,
     "ersteller_verkauft": false,
@@ -502,9 +480,41 @@
     "spaet": false,
     "symbol": "Pearl ",
     "t": 1795803983.0155282
+   },
+   {
+    "dauer": 127.646733045578,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "3PoY1jrTdmqNTTiviSfdM2Aa4NfXS39mGRziCQ81pump",
+    "name": "MOONPAWS",
+    "sol": 0.19124739999999998,
+    "spaet": false,
+    "symbol": "$MOOP",
+    "t": 1795804095.5253344
+   },
+   {
+    "dauer": 84.6234803199768,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "AQCZjRDPgALUVcNwNiSnVxR4SBW2DAQ8BoJ3oKJcpump",
+    "name": "USMS",
+    "sol": 0.4110713350000001,
+    "spaet": false,
+    "symbol": "USMS",
+    "t": 1795804105.2279327
+   },
+   {
+    "mint": "G2b7U6DGVLaGTmovAUxw9A9DmNZ8gwfhYbEpUTspump",
+    "spaet": true,
+    "t": 1795804125.4486313
+   },
+   {
+    "mint": "67g3MmcHTkCmZJzLxoS4i492ZE2kBWGi2RKcbGSnpump",
+    "spaet": true,
+    "t": 1795804288.9316316
    }
   ],
-  "uebersicht": 1795800739.3007104
+  "uebersicht": 1795804378.8469467
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
