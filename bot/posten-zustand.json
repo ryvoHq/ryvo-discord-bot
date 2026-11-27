@@ -301,18 +301,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 762,
+ "laeufe": 763,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795820261.4755316
   ],
   "stunde": [
-   {
-    "mint": "GpfuVdTM3JBRnhRboYj5gT9QcSy7udzsECnMwydkpump",
-    "spaet": true,
-    "t": 1795819368.8143606
-   },
    {
     "mint": "8Sx4i5RTRhkjednpNqtaHWkVfRThYj9UpwaLiFLkpump",
     "spaet": true,
@@ -490,9 +485,36 @@
     "spaet": false,
     "symbol": "hac",
     "t": 1795822595.0162883
+   },
+   {
+    "dauer": 35.803380727767944,
+    "ersteller_verkauft": true,
+    "kaeufer": 196,
+    "mint": "29bwoQiYhDWk3bzHWFFxiJ7fFqVsby2NA4FAvXH8pump",
+    "name": "Trump Effect",
+    "sol": 83.20042849199993,
+    "spaet": false,
+    "symbol": "TE",
+    "t": 1795822727.4294748
+   },
+   {
+    "mint": "9YZfqcxcCkv5rE17UaPCr1zph3mqT66AY6SjcCyQpump",
+    "spaet": true,
+    "t": 1795822740.952605
+   },
+   {
+    "dauer": 286.66203451156616,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "CkVgSPeL7RrWxmRYzWUbG1aFB7uUqvipUVb4cQGCpump",
+    "name": "GIGACAT",
+    "sol": 0.08816530700000007,
+    "spaet": false,
+    "symbol": "GIGACAT",
+    "t": 1795822780.6517925
    }
   ],
-  "uebersicht": 1795819361.7479584
+  "uebersicht": 1795823000.229913
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
