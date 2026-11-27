@@ -297,38 +297,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 730,
+ "laeufe": 731,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0015664100646972656,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "GzdUV4xe5Rmt34iNBoNKBzf4t8b8y3Pigu3iRcT8pump",
-    "name": "Commotitty",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Commotitty",
-    "t": 1795810287.465393
-   },
-   {
-    "mint": "5jvUfm5zau2cKswxdLtQaPZavfF6mdmbhsbUHuZ3pump",
-    "spaet": true,
-    "t": 1795810291.1552107
-   },
-   {
-    "dauer": 158.39790081977844,
-    "ersteller_verkauft": true,
-    "kaeufer": 333,
-    "mint": "3TdnoEYoiehDGAGmSNDbZdWVM8jLYn9sVSZbbCNfpump",
-    "name": "Zerocoin",
-    "sol": 65.98479271499993,
-    "spaet": false,
-    "symbol": "zero",
-    "t": 1795810535.056816
-   },
    {
     "dauer": 60.39224624633789,
     "ersteller_verkauft": true,
@@ -602,6 +575,28 @@
     "mint": "EUaXUvj2my5xFFULw95hRqfqDuki5v96uAw8NMa4pump",
     "spaet": true,
     "t": 1795813694.517236
+   },
+   {
+    "dauer": 246.75823187828064,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "7w8E2fQ8BCPchWU9YNLxwx63a2NiBZJ7SEidCrA2pump",
+    "name": "MOONDOGE",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "MOONDOGE",
+    "t": 1795813900.626805
+   },
+   {
+    "dauer": 32.39273023605347,
+    "ersteller_verkauft": true,
+    "kaeufer": 153,
+    "mint": "9Vr8XJ8PzCP2jcJ1CKTgnsGEp9sQYtZZ4o375UVbpump",
+    "name": "Hilbert Hilbert Hilbert Sahur",
+    "sol": 60.63501879499998,
+    "spaet": false,
+    "symbol": "TripleH",
+    "t": 1795813907.0099804
    }
   ],
   "uebersicht": 1795811669.655001
