@@ -297,7 +297,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 739,
+ "laeufe": 740,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -305,28 +305,6 @@
    1795816296.2387698
   ],
   "stunde": [
-   {
-    "dauer": 229.31334686279297,
-    "ersteller_verkauft": false,
-    "kaeufer": 27,
-    "mint": "EwnMu6h1AfbKr4pKUvDJCkPuZVaaF72XwTrBDUA1pump",
-    "name": "MoneyDuck",
-    "sol": 0.2542884559999995,
-    "spaet": false,
-    "symbol": "MnyDuk",
-    "t": 1795812770.9364836
-   },
-   {
-    "dauer": 331.8076813220978,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "H99M3mzJvhZzZVQhsCfq187aczJvrDfW4ieeqNrWpump",
-    "name": "inuvest",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "inuvest",
-    "t": 1795812844.2068958
-   },
    {
     "mint": "A4NU3STf3Fy4T2k9xqTCYvoxubxiJTKGo96RvpoUpump",
     "spaet": true,
@@ -542,6 +520,17 @@
     "spaet": false,
     "symbol": "CODEMEN",
     "t": 1795815999.5519652
+   },
+   {
+    "dauer": 58.32909965515137,
+    "ersteller_verkauft": true,
+    "kaeufer": 170,
+    "mint": "DhS4zhogbV1jMUM6sTHmRB7fuF1DxMwbLayCrrW1pump",
+    "name": "Voyager 1",
+    "sol": 58.240905815000005,
+    "spaet": false,
+    "symbol": "Voyager",
+    "t": 1795816592.9045908
    }
   ],
   "uebersicht": 1795815697.1042492
