@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 646,
+ "laeufe": 647,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -286,39 +286,6 @@
    1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 132.53084897994995,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "5hPFxuEv2ypEJyxqspQmwMDm9CVW1yUDJ2PF7FjJpump",
-    "name": "The Toad Cat",
-    "sol": 0.3534690610000002,
-    "spaet": false,
-    "symbol": "TOAD",
-    "t": 1795786911.2866952
-   },
-   {
-    "dauer": 103.18915724754333,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "piEPXKgdjbFofvha6QAxqHvaGMnCVubVUfMimYepump",
-    "name": "Savage Piranha",
-    "sol": 0.16451831000000006,
-    "spaet": false,
-    "symbol": "SAVPIR",
-    "t": 1795786957.8935244
-   },
-   {
-    "dauer": 151.94860434532166,
-    "ersteller_verkauft": false,
-    "kaeufer": 138,
-    "mint": "2YTyz6FzNUmEnVZ4JCLSECx4AxB1XQfQ25FuFSzMpump",
-    "name": "Sukicoin",
-    "sol": 84.78819397799992,
-    "spaet": false,
-    "symbol": "Suki",
-    "t": 1795787049.5771778
-   },
    {
     "dauer": 128.89664006233215,
     "ersteller_verkauft": false,
@@ -455,6 +422,11 @@
     "spaet": false,
     "symbol": "COMPUTE",
     "t": 1795790034.5164
+   },
+   {
+    "mint": "ZRpRXGP6LivoXZL5uagVtZSqzDeRSFA3yrc5sECpump",
+    "spaet": true,
+    "t": 1795790501.7707932
    }
   ],
   "uebersicht": 1795788849.2832122
