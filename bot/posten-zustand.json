@@ -301,38 +301,15 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 748,
+ "laeufe": 749,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795815396.2127461,
    1795816296.2387698,
    1795817196.0699837,
    1795817496.3342245
   ],
   "stunde": [
-   {
-    "dauer": 50.712122201919556,
-    "ersteller_verkauft": false,
-    "kaeufer": 271,
-    "mint": "5oW1hCUtzvSQ7HtZUahgJ1bdptHSH85ammFkzrt3pump",
-    "name": "Shrek",
-    "sol": 85.03498903999996,
-    "spaet": false,
-    "symbol": "宝宝",
-    "t": 1795815167.2918334
-   },
-   {
-    "dauer": 468.12127900123596,
-    "ersteller_verkauft": false,
-    "kaeufer": 515,
-    "mint": "9BAwZLtzdqKNGvfVLtvkneeJRcpwseTfsq7dL1tPpump",
-    "name": "Commodity Markets",
-    "sol": 62.77554889799979,
-    "spaet": false,
-    "symbol": "CM",
-    "t": 1795815320.8023005
-   },
    {
     "dauer": 295.90248346328735,
     "ersteller_verkauft": false,
