@@ -252,33 +252,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 576,
+ "laeufe": 577,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 146.8236882686615,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "Hfz6ivu6Az1XcV6KD2TCranGYTcYn9inm3GL4zi5pump",
-    "name": "Megan Fox",
-    "sol": 0.16212639200000004,
-    "spaet": false,
-    "symbol": "Fox",
-    "t": 1795767640.6519585
-   },
-   {
-    "dauer": 128.78171348571777,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "2TGGqRUKiFZ5SkxnmuY3SNxKjpGFx71zbJ8KgWiipump",
-    "name": "song coin",
-    "sol": 0.3571497469999999,
-    "spaet": false,
-    "symbol": "song",
-    "t": 1795767700.1549108
-   },
    {
     "dauer": 380.708544254303,
     "ersteller_verkauft": true,
