@@ -293,56 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 668,
+ "laeufe": 669,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795793101.9646134,
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 1358.8791694641113,
-    "ersteller_verkauft": true,
-    "kaeufer": 30,
-    "mint": "8ENXrHE8qPNLb9rwmyotNRxnF7qYVcN6RXHSSi6Xpump",
-    "name": "MANATEE",
-    "sol": 8.865375142000001,
-    "spaet": false,
-    "symbol": "MANATEE",
-    "t": 1795792934.228567
-   },
-   {
-    "mint": "BGUrAYoXAYYu3B2bsd4u7A3FdX6wt9fvFkDQ2bhMpump",
-    "spaet": true,
-    "t": 1795792981.1491375
-   },
-   {
-    "dauer": 352.0897226333618,
-    "ersteller_verkauft": false,
-    "kaeufer": 617,
-    "mint": "hzSvaxi4hfGdr8NLpLchEPgTdgCqFXkmU3L8rpSpump",
-    "name": "sheeb",
-    "sol": 54.086457165999796,
-    "spaet": false,
-    "symbol": "sheeb",
-    "t": 1795793009.367348
-   },
-   {
-    "mint": "FqXx2BtbiSBSj6FdiHwLqnfr7VNQuiF8ezh6euWhpump",
-    "spaet": true,
-    "t": 1795793023.7354774
-   },
-   {
-    "mint": "D9Kuzi5v5SESSNQKmywWMgAzdPQv55K5tZ9eSXVFpump",
-    "spaet": true,
-    "t": 1795793123.3369193
-   },
-   {
-    "mint": "Hepcp2T7LiCdqz6hLbAGseWb4f7esWTfeocRM8RWpump",
-    "spaet": true,
-    "t": 1795793163.3643851
-   },
    {
     "mint": "5rRxk9FC3ma11neg8BGLwTWxt4PokH19Y92sERwa2PJ3",
     "spaet": true,
@@ -541,6 +498,26 @@
     "spaet": false,
     "symbol": "DIHBALL",
     "t": 1795796404.7976592
+   },
+   {
+    "mint": "64wYHd7DBQ53YUgBK3zeiFHZJ15q85pYiS5xjZ19pump",
+    "spaet": true,
+    "t": 1795796522.3683293
+   },
+   {
+    "mint": "EVASJxNTfg5P8qrj3crg11pQNDva6fqzfHavZ9NLpump",
+    "spaet": true,
+    "t": 1795796530.258317
+   },
+   {
+    "mint": "57UZoXWeQxCfi7hCN1hsqkoFF7621CFhX4xFTdKppump",
+    "spaet": true,
+    "t": 1795796634.4617782
+   },
+   {
+    "mint": "6e9AGbPARNWRQLMGN2kBKrMZ26XAKQWRRJEEiL1qpump",
+    "spaet": true,
+    "t": 1795796646.044262
    }
   ],
   "uebersicht": 1795796148.1298294
