@@ -227,24 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 473,
+ "laeufe": 474,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 63.88192796707153,
-    "ersteller_verkauft": true,
-    "kaeufer": 316,
-    "mint": "8fUBQzwphbfA7s3VSr7Q8CnhCHUasbMVtVF8Gggnpump",
-    "name": "Rocker the Coonhound",
-    "sol": 85.00535945599992,
-    "spaet": false,
-    "symbol": "ROCKER",
-    "t": 1795739042.8875284
-   },
    {
     "dauer": 166.815420627594,
     "ersteller_verkauft": false,
@@ -594,6 +583,94 @@
     "spaet": false,
     "symbol": "EVIL",
     "t": 1795742481.7076435
+   },
+   {
+    "dauer": 155.88717555999756,
+    "ersteller_verkauft": false,
+    "kaeufer": 31,
+    "mint": "GRynhUEpn4yy35LWQXvRiKRwyp13kW4sU6AwRe59pump",
+    "name": "BBC COIN",
+    "sol": 0.21965639000000028,
+    "spaet": false,
+    "symbol": "BBC",
+    "t": 1795742535.8330405
+   },
+   {
+    "dauer": 231.85840010643005,
+    "ersteller_verkauft": true,
+    "kaeufer": 27,
+    "mint": "4VikWiHwMwFWqd8pGVse4ocLn9tTPEm3AkM2Wq2Dpump",
+    "name": "GOLD EGG",
+    "sol": 0.9885178530000006,
+    "spaet": false,
+    "symbol": "GOLD",
+    "t": 1795742541.09058
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "7RTrgLLoEieeS4s5D6K6STzAxzC5Fcu1QR1qVnMmpump",
+    "name": "Offcial RINSIFY COIN",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "ORC",
+    "t": 1795742576.8555899
+   },
+   {
+    "dauer": 0.006443023681640625,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "Bn52qPBp1ch5C1reVuTuEMk61yDSMK68zru25KmLpump",
+    "name": "Fireball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Fireball",
+    "t": 1795742598.8104146
+   },
+   {
+    "dauer": 94.75078344345093,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "HhnxB4T5DiiQaHAN5kbtD7f6qDhhPLX1pNNwmTULpump",
+    "name": "Haaland Hair",
+    "sol": 0.285676065,
+    "spaet": false,
+    "symbol": "HALH",
+    "t": 1795742730.6067066
+   },
+   {
+    "dauer": 100.47924447059631,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "CRbsCJjVKwQKTe1e7qwfe7Kan4tjLDfnXakdn2Svpump",
+    "name": "Buttercup",
+    "sol": 85.005359073,
+    "spaet": false,
+    "symbol": "Buttercup",
+    "t": 1795742758.5632288
+   },
+   {
+    "dauer": 132.40160202980042,
+    "ersteller_verkauft": false,
+    "kaeufer": 334,
+    "mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+    "name": "hold and retire",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "530A",
+    "t": 1795742799.1335192
+   },
+   {
+    "dauer": 201.55219435691833,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "EzsysLrf8YcuKbmxg6bjJRTgAGu1VKpBxEtfue4Wpump",
+    "name": "Cauamtfe Oficial Token",
+    "sol": 0.5767731769999997,
+    "spaet": false,
+    "symbol": "CAUA",
+    "t": 1795742802.775983
    }
   ],
   "uebersicht": 1795739768.4662964
