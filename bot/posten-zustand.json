@@ -293,7 +293,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 683,
+ "laeufe": 684,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -301,11 +301,6 @@
    1795799489.8600817
   ],
   "stunde": [
-   {
-    "mint": "DSKXx3BbxiU87p1dS4G1W5HoPuziTqegC1fvHeLwpump",
-    "spaet": true,
-    "t": 1795797423.871382
-   },
    {
     "mint": "cR6BbS1RBej9LqYZeES61Jp223KNJPRBnritbMmpump",
     "spaet": true,
@@ -471,6 +466,17 @@
     "spaet": false,
     "symbol": "Coca-Cola",
     "t": 1795800707.1724772
+   },
+   {
+    "dauer": 0.023803234100341797,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "GjSXerNFEUK4pX6FFyyDhYXFNxyJMtDvJueZxffDpump",
+    "name": "Togo",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "TOGO",
+    "t": 1795800961.8430183
    }
   ],
   "uebersicht": 1795800739.3007104
