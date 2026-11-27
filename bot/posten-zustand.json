@@ -288,7 +288,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 650,
+ "laeufe": 651,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -296,39 +296,6 @@
    1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 229.84059405326843,
-    "ersteller_verkauft": false,
-    "kaeufer": 146,
-    "mint": "69S2S9n72X5qJLHjFPKLEqfcW4ayqJW1soJHYgqVpump",
-    "name": "Sukicoin",
-    "sol": 84.87593124300004,
-    "spaet": false,
-    "symbol": "Suki",
-    "t": 1795788199.262683
-   },
-   {
-    "dauer": 0.0009930133819580078,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "DNgboHpauGZ5KbSptWSkwQyQLSDCQKdoU3qsk9FTpump",
-    "name": "Froggies Token",
-    "sol": 85.005359066,
-    "spaet": false,
-    "symbol": "FRGST",
-    "t": 1795788235.1012516
-   },
-   {
-    "dauer": 2.793877601623535,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "3QZSxazLf4qddQENjjbtwY8aDVfoXuaAykS9YRzNpump",
-    "name": "AREYOUNOTENTERTAINED?",
-    "sol": 85.00535908299999,
-    "spaet": false,
-    "symbol": "AREYOUNOTENTE",
-    "t": 1795788252.1168995
-   },
    {
     "dauer": 0.017808198928833008,
     "ersteller_verkauft": false,
@@ -432,6 +399,28 @@
     "spaet": false,
     "symbol": "THX",
     "t": 1795791295.8207483
+   },
+   {
+    "dauer": 108.189049243927,
+    "ersteller_verkauft": false,
+    "kaeufer": 133,
+    "mint": "CbCatpj3mNJs9Q3PvPyG973Hoeq5vMRGE7zcNDm5pump",
+    "name": "Snowball",
+    "sol": 81.98999730400006,
+    "spaet": false,
+    "symbol": "Snowball",
+    "t": 1795791671.3813875
+   },
+   {
+    "dauer": 0.0014748573303222656,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "54jKBorvDP4eB7vZnWy1HJfhm4X17pSJCE6o2Lshpump",
+    "name": "ComputeCoin",
+    "sol": 85.00535906900001,
+    "spaet": false,
+    "symbol": "COMPUTE",
+    "t": 1795791785.0405767
    }
   ],
   "uebersicht": 1795788849.2832122
