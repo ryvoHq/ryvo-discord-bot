@@ -293,33 +293,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 677,
+ "laeufe": 678,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795798588.8234503
+   1795798588.8234503,
+   1795799489.8600817
   ],
   "stunde": [
-   {
-    "mint": "2HdpqR2GtMF3SJLkHqcKxkecV3Yw5ZjayLMnJZXPpump",
-    "spaet": true,
-    "t": 1795795614.6257048
-   },
-   {
-    "mint": "FB96atyjDe7LJa7wNHc3keFkLr9dtAaGDzqrNvxtpump",
-    "spaet": true,
-    "t": 1795795674.820312
-   },
-   {
-    "mint": "FyjStgXaA6iuzqSa5QAKupDAxoxBvnh7UPruU6qapump",
-    "spaet": true,
-    "t": 1795795775.6183777
-   },
-   {
-    "mint": "CBk8V166Fno71h8XUCkVTguFYqCfBnjzRaaNoYfWpump",
-    "spaet": true,
-    "t": 1795795879.5969212
-   },
    {
     "dauer": 568.5624096393585,
     "ersteller_verkauft": true,
@@ -522,6 +503,17 @@
     "spaet": false,
     "symbol": "AAC",
     "t": 1795798636.2645962
+   },
+   {
+    "dauer": 581.0985405445099,
+    "ersteller_verkauft": true,
+    "kaeufer": 395,
+    "mint": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump",
+    "name": "Split",
+    "sol": 75.18961510999995,
+    "spaet": false,
+    "symbol": "Split",
+    "t": 1795799225.8373337
    }
   ],
   "uebersicht": 1795796148.1298294
