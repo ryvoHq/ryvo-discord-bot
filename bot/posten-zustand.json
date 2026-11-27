@@ -293,29 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 671,
+ "laeufe": 672,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "dauer": 136.7593970298767,
-    "ersteller_verkauft": false,
-    "kaeufer": 108,
-    "mint": "zDR5k9e1otT9x9aGUDjsa6fLqTforwNM88wUJvvpump",
-    "name": "Claude | Official",
-    "sol": 84.79423030700003,
-    "spaet": false,
-    "symbol": "Claude AI",
-    "t": 1795793939.9581053
-   },
-   {
-    "mint": "6PyFtdPM4V593Ygkg6bseD4zGo2cpySWWoXCtrFApump",
-    "spaet": true,
-    "t": 1795794039.3710036
-   },
    {
     "mint": "3fAPRDU6kqaKFn3qWzbCi21soAAzD4yBU4hyzMALpump",
     "spaet": true,
@@ -545,6 +529,16 @@
     "spaet": false,
     "symbol": "67",
     "t": 1795797099.5347123
+   },
+   {
+    "mint": "DSKXx3BbxiU87p1dS4G1W5HoPuziTqegC1fvHeLwpump",
+    "spaet": true,
+    "t": 1795797423.871382
+   },
+   {
+    "mint": "cR6BbS1RBej9LqYZeES61Jp223KNJPRBnritbMmpump",
+    "spaet": true,
+    "t": 1795797440.388584
    }
   ],
   "uebersicht": 1795796148.1298294
