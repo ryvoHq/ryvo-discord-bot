@@ -259,29 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 594,
+ "laeufe": 595,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795775101.291693
   ],
   "stunde": [
-   {
-    "dauer": 33.52872586250305,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
-    "name": "The Blind Guardian",
-    "sol": 85.00535906899997,
-    "spaet": false,
-    "symbol": "Estanislao",
-    "t": 1795772584.9274395
-   },
-   {
-    "mint": "EvEo6NGk7uDLcvZa3tUigiu5svFsEkpzbbdimK2spump",
-    "spaet": true,
-    "t": 1795772664.9897752
-   },
    {
     "dauer": 285.8706967830658,
     "ersteller_verkauft": false,
@@ -539,6 +523,28 @@
     "spaet": false,
     "symbol": "$HENNY",
     "t": 1795775997.3491995
+   },
+   {
+    "dauer": 124.39437890052795,
+    "ersteller_verkauft": false,
+    "kaeufer": 27,
+    "mint": "6grWYJYNbWxqaZGbzr7PEhD5xGc2pFHQMEgtDRNkpump",
+    "name": "EVILcoin",
+    "sol": -0.005464392000000082,
+    "spaet": false,
+    "symbol": "EVIL",
+    "t": 1795776218.9224765
+   },
+   {
+    "dauer": 148.06266140937805,
+    "ersteller_verkauft": false,
+    "kaeufer": 134,
+    "mint": "3UoD76QyGNnK942eMJ6YYqTcqbZEVdPoHn6eGXx8pump",
+    "name": "Official Grand Theft Auto VI",
+    "sol": 72.54737223599997,
+    "spaet": false,
+    "symbol": "GTAVI",
+    "t": 1795776279.7143927
    }
   ],
   "uebersicht": 1795773601.8562944
