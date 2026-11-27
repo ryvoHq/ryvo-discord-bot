@@ -278,48 +278,16 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 631,
+ "laeufe": 632,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795783344.432021,
    1795784244.0034847,
-   1795785497.8692348
+   1795785497.8692348,
+   1795786697.463176
   ],
   "stunde": [
-   {
-    "dauer": 67.91508102416992,
-    "ersteller_verkauft": true,
-    "kaeufer": 3,
-    "mint": "EWPctnsbJ9AyhhE1zFBYFbbBsfTbcYkrB4vWYcrdpump",
-    "name": "BLACK ROCK",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BLACK ",
-    "t": 1795782808.9973626
-   },
-   {
-    "dauer": 136.4842050075531,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "AY99HRQtudxfymwUCDM7rPXt9A7ZzxAE28YyYYbJpump",
-    "name": "CATECOIN",
-    "sol": 0.4457881359999999,
-    "spaet": false,
-    "symbol": "$CAT",
-    "t": 1795782889.3076572
-   },
-   {
-    "dauer": 657.6789004802704,
-    "ersteller_verkauft": false,
-    "kaeufer": 78,
-    "mint": "4Bu13wMk2VU1QpKWeEjnMdVB1xw1sNreXKkP8oNEeP4s",
-    "name": "crypto peace",
-    "sol": 85.00994403699998,
-    "spaet": false,
-    "symbol": "peace",
-    "t": 1795782952.0635896
-   },
    {
     "dauer": 192.19636154174805,
     "ersteller_verkauft": true,
@@ -553,6 +521,28 @@
     "spaet": false,
     "symbol": "FLOAT",
     "t": 1795786289.9656541
+   },
+   {
+    "dauer": 215.73756527900696,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "BKKwFa8FjbbbaKhwGCuoYe9ndgThXhZwAzgeKxfJpump",
+    "name": "ok bulsh $200000",
+    "sol": 0.4688040860000001,
+    "spaet": false,
+    "symbol": "bulls",
+    "t": 1795786409.55696
+   },
+   {
+    "dauer": 405.03216338157654,
+    "ersteller_verkauft": true,
+    "kaeufer": 557,
+    "mint": "F5sXLrvCZwyXF4R3hhLfA2xVZDv4oJYQw83MWgDW4VLC",
+    "name": "Pepe",
+    "sol": 78.94348662399986,
+    "spaet": false,
+    "symbol": "Pepe",
+    "t": 1795786489.9493563
    }
   ],
   "uebersicht": 1795785198.054407
