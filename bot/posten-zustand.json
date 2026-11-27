@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 500,
+ "laeufe": 501,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -235,28 +235,6 @@
    1795749536.9144933
   ],
   "stunde": [
-   {
-    "dauer": 655.6830840110779,
-    "ersteller_verkauft": false,
-    "kaeufer": 563,
-    "mint": "D3PSUeS11AQNgpfX8GRFdXfVzZwmNanPX9MdGKyHpump",
-    "name": "Waha",
-    "sol": 77.40497865599954,
-    "spaet": false,
-    "symbol": "WAHA",
-    "t": 1795746591.3278549
-   },
-   {
-    "dauer": 156.7573835849762,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "Er5kwdaChgGK2SaprBYkyh3hDkJuGddM3tVNEMk4pump",
-    "name": "Dinner is Served",
-    "sol": 0.628121299,
-    "spaet": false,
-    "symbol": "SERVED",
-    "t": 1795746737.8657606
-   },
    {
     "dauer": 188.71575260162354,
     "ersteller_verkauft": true,
@@ -464,6 +442,28 @@
     "spaet": false,
     "symbol": "Coca-Cola",
     "t": 1795750094.1967432
+   },
+   {
+    "dauer": 20.884486198425293,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "54pSXLaer2zKuenzLafS9ZYJFtQHyRy6G1A7Nw2rpump",
+    "name": "Retarded Slop Ape Official",
+    "sol": 84.51337751400003,
+    "spaet": false,
+    "symbol": "RSA",
+    "t": 1795750286.1057687
+   },
+   {
+    "dauer": 546.5062606334686,
+    "ersteller_verkauft": false,
+    "kaeufer": 151,
+    "mint": "8k2FoAHkxxcjusKpat5p8BMy6cTbdZK5RAQYFgsapump",
+    "name": "FLOAT",
+    "sol": 54.88171997099999,
+    "spaet": false,
+    "symbol": "FLOAT",
+    "t": 1795750318.5360518
    }
   ],
   "uebersicht": 1795747063.2995136
