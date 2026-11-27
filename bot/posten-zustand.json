@@ -252,30 +252,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 564,
+ "laeufe": 565,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795764477.4050171,
    1795767215.7774265
   ],
   "stunde": [
-   {
-    "mint": "CheA7rfKyGbgqQNdZGn4TeXYnrWkjd9qCfk3iRR1pump",
-    "spaet": true,
-    "t": 1795764235.7725384
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "eMSpHgPMZruRVEHNtgANgTTpmUefUvNmNeJ1toJpump",
-    "name": "National Cybersecurity Protocol",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "NCSP",
-    "t": 1795764286.2053883
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -437,6 +420,17 @@
     "spaet": false,
     "symbol": "song",
     "t": 1795767700.1549108
+   },
+   {
+    "dauer": 380.708544254303,
+    "ersteller_verkauft": true,
+    "kaeufer": 3,
+    "mint": "3SHABqgYFkfaRW3jDnMSiTyQ9cpMBrZHnDkYammvpump",
+    "name": "Praxion Agentic CRM Solutions",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "PACS",
+    "t": 1795767864.8782296
    }
   ],
   "uebersicht": 1795765677.4794989
