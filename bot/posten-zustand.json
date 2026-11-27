@@ -227,79 +227,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 476,
+ "laeufe": 477,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795740368.8402197
   ],
   "stunde": [
-   {
-    "dauer": 0.0008323192596435547,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "BuorVu99GQ1LHT194YNYRbdXivTCA8o58nz7iji2pump",
-    "name": "Kuro",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Kuro",
-    "t": 1795739862.4273715
-   },
-   {
-    "dauer": 0.00016808509826660156,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "3m3XdrLN77fJD6FU78Y3EsfCKuXB8wv38QSkVuHntY5q",
-    "name": "Winstoncoin",
-    "sol": 85.005359058,
-    "spaet": false,
-    "symbol": "WINSTON",
-    "t": 1795739950.9016187
-   },
-   {
-    "dauer": 0.3103201389312744,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "2XhzitEppvAJ6nsZ125ex2KA15PFJhKv2ABJY9cgtZQf",
-    "name": "La Misery",
-    "sol": 85.005359058,
-    "spaet": false,
-    "symbol": "LaMisery",
-    "t": 1795739964.043096
-   },
-   {
-    "dauer": 0.2577238082885742,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "9i2jr2vYzmco3txSmrXXr9qFr1VnASqhZaoi9MdtNUxx",
-    "name": "OTTERPRENEUR",
-    "sol": 85.005359058,
-    "spaet": false,
-    "symbol": "OTTER",
-    "t": 1795739979.6155226
-   },
-   {
-    "dauer": 0.724888801574707,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "H9muQtkWbqY7udP35H3ShfpkvP91GHYrUXiYJaoutu8t",
-    "name": "Pan Baobao",
-    "sol": 85.005359058,
-    "spaet": false,
-    "symbol": "BAOBAO",
-    "t": 1795739993.104138
-   },
-   {
-    "dauer": 0.9008238315582275,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "GhKgpNhidWLSUNJr64Uomibw6nbBtVST43r9jUbxxz3b",
-    "name": "Alien Shiba Inux",
-    "sol": 85.005359058,
-    "spaet": false,
-    "symbol": "INUX",
-    "t": 1795740002.2687895
-   },
    {
     "dauer": 71.36455750465393,
     "ersteller_verkauft": true,
@@ -650,6 +584,16 @@
     "spaet": false,
     "symbol": "FOMO",
     "t": 1795742972.666288
+   },
+   {
+    "mint": "4nLoFx9pBjmjE6GZUrNd9LqEM5siQemwiX7jAMQfpump",
+    "spaet": true,
+    "t": 1795743477.613934
+   },
+   {
+    "mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+    "spaet": true,
+    "t": 1795743557.4659321
    }
   ],
   "uebersicht": 1795743408.1301825
