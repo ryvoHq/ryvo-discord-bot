@@ -278,31 +278,14 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 636,
+ "laeufe": 637,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795784244.0034847,
    1795785497.8692348,
    1795786697.463176
   ],
   "stunde": [
-   {
-    "dauer": 2013.9634637832642,
-    "ersteller_verkauft": false,
-    "kaeufer": 691,
-    "mint": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump",
-    "name": "Baboon Smirk",
-    "sol": 84.37829936699967,
-    "spaet": false,
-    "symbol": "Zhaki",
-    "t": 1795784088.23495
-   },
-   {
-    "mint": "3AYshf6BKsM9HVxbPk6vZ3QyWC5H4zTetAANynLrDmmZ",
-    "spaet": true,
-    "t": 1795784333.1540766
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -542,6 +525,17 @@
     "spaet": false,
     "symbol": "FRGST",
     "t": 1795787647.674513
+   },
+   {
+    "dauer": 121.7931456565857,
+    "ersteller_verkauft": false,
+    "kaeufer": 136,
+    "mint": "3TFkMa9uD4phxs1Hg4gqiV5hYcJJ947hDWMjdfYCpump",
+    "name": "DacityCoin",
+    "sol": 84.40168079399993,
+    "spaet": false,
+    "symbol": "DCTY",
+    "t": 1795787828.7260675
    }
   ],
   "uebersicht": 1795785198.054407
