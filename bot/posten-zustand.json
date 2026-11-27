@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 534,
+ "laeufe": 535,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -247,16 +247,6 @@
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "mint": "NtxRXKTHMuQ99yPAEYKcjfBPvHrnMTHjG8maFWjpump",
-    "spaet": true,
-    "t": 1795756192.1641488
-   },
-   {
-    "mint": "MXBoMLYqsWf7AevLbao3SM7XtnJ76sZm8kUoUP1pump",
-    "spaet": true,
-    "t": 1795756241.7667742
-   },
    {
     "dauer": 1019.5846433639526,
     "ersteller_verkauft": false,
@@ -418,6 +408,17 @@
     "mint": "D62Y491GnbypoZfpdec26jGhF6Jv5NNZxLjUHfiapump",
     "spaet": true,
     "t": 1795759466.5630288
+   },
+   {
+    "dauer": 398.87326526641846,
+    "ersteller_verkauft": false,
+    "kaeufer": 164,
+    "mint": "HRRoxn8Luc54HJcVvpbfyXDXtxjgFGsydmRWc2r2pump",
+    "name": "Official Grand Theft Auto VI",
+    "sol": 84.77838196399996,
+    "spaet": false,
+    "symbol": "GTAVI",
+    "t": 1795759669.9805892
    }
   ],
   "uebersicht": 1795758363.9843912
