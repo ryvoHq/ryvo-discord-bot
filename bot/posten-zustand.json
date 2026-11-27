@@ -259,40 +259,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 621,
+ "laeufe": 622,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
    1795783344.432021
   ],
   "stunde": [
-   {
-    "mint": "AUyNPr9VZaeF8rGzHJ7dx7g6XDpy2gYpV6zq2fDspump",
-    "spaet": true,
-    "t": 1795780093.2965913
-   },
-   {
-    "dauer": 63.091721057891846,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "2cRyNvP4Q93JHtofohQ8bPcx995xxhwg5GqEtmuEpump",
-    "name": "USFF",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "USFF",
-    "t": 1795780164.3111477
-   },
-   {
-    "dauer": 488.52315616607666,
-    "ersteller_verkauft": false,
-    "kaeufer": 18,
-    "mint": "3gw25YQ5bEoPgHKkBpPGvr5RrHYeRJozYB3kx6FNpump",
-    "name": "BNB B",
-    "sol": 0.17837960900000005,
-    "spaet": false,
-    "symbol": "Bangkok ",
-    "t": 1795780298.4472666
-   },
    {
     "dauer": 33.72840332984924,
     "ersteller_verkauft": false,
@@ -531,6 +504,17 @@
     "spaet": false,
     "symbol": "iPUT",
     "t": 1795783477.5470686
+   },
+   {
+    "dauer": 155.67977571487427,
+    "ersteller_verkauft": false,
+    "kaeufer": 28,
+    "mint": "EXJZQmvb1jdUSE8c8roBrKyPpctjaSPGDTTKeUDDpump",
+    "name": "Nietzschean Fox",
+    "sol": 0.19569756200000024,
+    "spaet": false,
+    "symbol": "FOX",
+    "t": 1795783678.7437227
    }
   ],
   "uebersicht": 1795780902.3769503
