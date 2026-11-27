@@ -259,42 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 614,
+ "laeufe": 615,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "BAgZ21dqPDjkwWK2Pj4Y9J4HYkBubMcQ68DpmRmpump",
-    "spaet": true,
-    "t": 1795777964.4726036
-   },
-   {
-    "dauer": 428.9757807254791,
-    "ersteller_verkauft": true,
-    "kaeufer": 16,
-    "mint": "CtRqXf1vRsifREYdZZxmgHHy2JtqnUYD2hADKqUcpump",
-    "name": "34percent",
-    "sol": 0.1806356599999999,
-    "spaet": false,
-    "symbol": "34%",
-    "t": 1795778070.4538314
-   },
-   {
-    "mint": "8qfeWgXGHzFNCLRYYfPSxLAb17Em5SNpJDH5UW2epump",
-    "spaet": true,
-    "t": 1795778204.8682115
-   },
-   {
-    "mint": "4tqzkSWA9tiWYhzYpSt81We3cVNkrEbkD1tzjFDZpump",
-    "spaet": true,
-    "t": 1795778219.255658
-   },
-   {
-    "mint": "6KqHKQjhuN2Qbj19TMxyfWqUYQ3XS5nJcb7oYUripump",
-    "spaet": true,
-    "t": 1795778238.2162423
-   },
    {
     "dauer": 10.114858627319336,
     "ersteller_verkauft": false,
@@ -523,6 +492,22 @@
     "mint": "HeHYTV15pcUrEgz1Z8XkV9BDVQ8KTJa54xaspPgWpump",
     "spaet": true,
     "t": 1795781384.1732373
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "jzDukcjGTFnK6DQSPqhhoDos6ry5uRxcSFxLJQPpump",
+    "name": "ConConAI",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ConConAI",
+    "t": 1795781764.9226878
+   },
+   {
+    "mint": "4vCuJEGoiP1g7KUKRj8NTE2ep73Tz5anhxYrnr8HnoEy",
+    "spaet": true,
+    "t": 1795781792.5027878
    }
   ],
   "uebersicht": 1795780902.3769503
