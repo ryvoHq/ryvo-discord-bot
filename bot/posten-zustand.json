@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 745,
+ "laeufe": 746,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,22 +311,6 @@
    1795817496.3342245
   ],
   "stunde": [
-   {
-    "mint": "8Cvy12PCoCH9z7cnoTVcuWxDm8NCapwY9UP2hEb1pump",
-    "spaet": true,
-    "t": 1795814267.4676695
-   },
-   {
-    "dauer": 6.84761381149292,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "4vG365YpctBEgJZfG1iMJ6gMU9KdpH43iyB3Zzvbpump",
-    "name": "Only.meme",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Only.meme",
-    "t": 1795814403.5019274
-   },
    {
     "dauer": 130.14288544654846,
     "ersteller_verkauft": true,
@@ -593,6 +577,26 @@
     "spaet": false,
     "symbol": "HUSS",
     "t": 1795817714.9552824
+   },
+   {
+    "mint": "6iNMMQ7h1T6u7X2nrKsWp9NU5VyLbiJuQaPWwJN3pump",
+    "spaet": true,
+    "t": 1795817864.68672
+   },
+   {
+    "mint": "AMX3bkxcn2oUZ3mharuwhAAREuRDsYQ57chDjA5ypump",
+    "spaet": true,
+    "t": 1795817907.7399654
+   },
+   {
+    "mint": "ZjSXr2PZtrAPX9U5kgaczQJojcCCJvExArT91Ghpump",
+    "spaet": true,
+    "t": 1795817941.000549
+   },
+   {
+    "mint": "EqpHQG7BqS7B84GmGmwxridM1Jh3bbg8hW1Rd1d9pump",
+    "spaet": true,
+    "t": 1795818006.5444355
    }
   ],
   "uebersicht": 1795815697.1042492
