@@ -227,7 +227,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 494,
+ "laeufe": 495,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
@@ -236,17 +236,6 @@
    1795748337.0159345
   ],
   "stunde": [
-   {
-    "dauer": 66.46872067451477,
-    "ersteller_verkauft": true,
-    "kaeufer": 327,
-    "mint": "HzbBFwHbFYHBLbDhuxTDrYHX9KGxJRG6yMpYfvfhpump",
-    "name": "Jae",
-    "sol": 84.29482821599989,
-    "spaet": false,
-    "symbol": "Jae",
-    "t": 1795744820.2429602
-   },
    {
     "dauer": 56.129640340805054,
     "ersteller_verkauft": true,
@@ -540,6 +529,17 @@
     "spaet": false,
     "symbol": "imp",
     "t": 1795748293.2104847
+   },
+   {
+    "dauer": 271.1121413707733,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "46ihjbLajoknUcjtsh7HT1vaLYLUdgRYQfdJpB1zpump",
+    "name": "Haaland Hair",
+    "sol": 0.032450289000000035,
+    "spaet": false,
+    "symbol": "HALH",
+    "t": 1795748341.219816
    }
   ],
   "uebersicht": 1795747063.2995136
@@ -566,16 +566,16 @@
    "zeit": 1795633206.42857
   },
   "fvg:xyz:GOLD": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795744800000,
+   "zeit": 1795748635.7522614
   },
   "fvg:xyz:SP500": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795744800000,
+   "zeit": 1795748635.7522614
   },
   "fvg:xyz:XYZ100": {
-   "t": 1795629600000,
-   "zeit": 1795633206.42857
+   "t": 1795744800000,
+   "zeit": 1795748635.7522614
   },
   "smt:BTC:ETH": {
    "t": 1795629600000,
