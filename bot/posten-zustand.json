@@ -293,29 +293,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 670,
+ "laeufe": 671,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795794648.2662551
   ],
   "stunde": [
-   {
-    "mint": "CMNHEatExv5pVVwAiRPLreNvbCZJsqRirsgLfvVBpump",
-    "spaet": true,
-    "t": 1795793660.169744
-   },
-   {
-    "dauer": 121.1695704460144,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "ym4ryd1QTRYEZ8h3ngEixadLha5QK62pq9vG7kHpump",
-    "name": "INU-6",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "INU-6",
-    "t": 1795793762.516493
-   },
    {
     "dauer": 136.7593970298767,
     "ersteller_verkauft": false,
@@ -550,6 +534,17 @@
     "spaet": false,
     "symbol": "67",
     "t": 1795797041.189469
+   },
+   {
+    "dauer": 63.5255708694458,
+    "ersteller_verkauft": true,
+    "kaeufer": 221,
+    "mint": "DS86GPmm5eGUBwJDjuFxDSiF1bNdZHVtjvm7zKonpump",
+    "name": "Six Seven",
+    "sol": 70.14284249800001,
+    "spaet": false,
+    "symbol": "67",
+    "t": 1795797099.5347123
    }
   ],
   "uebersicht": 1795796148.1298294
