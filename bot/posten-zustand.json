@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 628,
+ "laeufe": 629,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -287,28 +287,6 @@
    1795785497.8692348
   ],
   "stunde": [
-   {
-    "dauer": 74.42111802101135,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "28EWy7kkFkqzfT1DWJe2365WAAejeDy46xgmKA8Kpump",
-    "name": "arm",
-    "sol": 0.24763730899999986,
-    "spaet": false,
-    "symbol": "arm",
-    "t": 1795782022.6193392
-   },
-   {
-    "dauer": 175.59992742538452,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "ExpdNM5YykDnGTmyxCH5B3s7mdWi1cEreDvK6ic8pump",
-    "name": "Choking Cat",
-    "sol": 85.00535907899999,
-    "spaet": false,
-    "symbol": "ChokingCat",
-    "t": 1795782061.9173307
-   },
    {
     "dauer": 123.80025506019592,
     "ersteller_verkauft": false,
@@ -553,6 +531,28 @@
     "mint": "5zpFmDhjE9NLP2w5wjnVQs3g5sg7M2bihnV7pi6vudAR",
     "spaet": true,
     "t": 1795785448.8258176
+   },
+   {
+    "dauer": 1019.1847751140594,
+    "ersteller_verkauft": false,
+    "kaeufer": 132,
+    "mint": "6qnngE4MYP4BFPAVnJ8RPuFxc6LXCnUNX42FJBvopump",
+    "name": "Apple official",
+    "sol": 85.00989168299998,
+    "spaet": false,
+    "symbol": "Apple",
+    "t": 1795785610.3185465
+   },
+   {
+    "dauer": 839.5182292461395,
+    "ersteller_verkauft": false,
+    "kaeufer": 236,
+    "mint": "ESTKGW9yTRXJCBA6s6ZCogjfxZGgLajuseZBAEkApump",
+    "name": "Rockstar Games",
+    "sol": 84.56202419399997,
+    "spaet": false,
+    "symbol": "Rockstar G",
+    "t": 1795785731.6298585
    }
   ],
   "uebersicht": 1795785198.054407
