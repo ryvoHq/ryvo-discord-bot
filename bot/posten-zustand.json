@@ -259,32 +259,11 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 617,
+ "laeufe": 618,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "25zaRksN6A9NHdEt7P323Ut6CqG7mwxntyAfgVm2pump",
-    "spaet": true,
-    "t": 1795778845.30754
-   },
-   {
-    "mint": "GAaa3GHtaf8V18yD853AZ3wp6GuTjtzhmkBj7gdepump",
-    "spaet": true,
-    "t": 1795778890.756703
-   },
-   {
-    "dauer": 169.91373825073242,
-    "ersteller_verkauft": true,
-    "kaeufer": 3,
-    "mint": "6qu1yiQVawXK5TDjFcgidTDxhH5EGCcaWVw5tGABpump",
-    "name": "EVERYONE SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795779008.0594516
-   },
    {
     "mint": "GmcithkhAoqGJY9jhCGS5g51G1aL2mNgDpS2eQbFWJVW",
     "spaet": true,
