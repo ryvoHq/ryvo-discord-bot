@@ -252,7 +252,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 562,
+ "laeufe": 563,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -260,17 +260,6 @@
    1795767215.7774265
   ],
   "stunde": [
-   {
-    "dauer": 485.0186131000519,
-    "ersteller_verkauft": true,
-    "kaeufer": 9,
-    "mint": "zbEFTJwNuSNjRmVKoWkuT7QgWbw52hJ2JJwq7SCpump",
-    "name": "O algo coin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ALGO",
-    "t": 1795763856.2873259
-   },
    {
     "mint": "6L8K86ZXNosNKe5E73wRnCNKrep6F8wCeSziC7Tgpump",
     "spaet": true,
