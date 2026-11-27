@@ -297,18 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 718,
+ "laeufe": 719,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "mint": "7au7hZMSaKbdzqV3tTLMe9tLbED1GCpxdDrR9cbpump",
-    "spaet": true,
-    "t": 1795807029.7479272
-   },
    {
     "dauer": 0.0006318092346191406,
     "ersteller_verkauft": false,
@@ -447,6 +442,82 @@
     "mint": "5jvUfm5zau2cKswxdLtQaPZavfF6mdmbhsbUHuZ3pump",
     "spaet": true,
     "t": 1795810291.1552107
+   },
+   {
+    "dauer": 158.39790081977844,
+    "ersteller_verkauft": true,
+    "kaeufer": 333,
+    "mint": "3TdnoEYoiehDGAGmSNDbZdWVM8jLYn9sVSZbbCNfpump",
+    "name": "Zerocoin",
+    "sol": 65.98479271499993,
+    "spaet": false,
+    "symbol": "zero",
+    "t": 1795810535.056816
+   },
+   {
+    "dauer": 60.39224624633789,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "AzMWoyZwnsE1r3CG2s1rBtSadHFcprYZaWCEhCybpump",
+    "name": "CATECOIN",
+    "sol": 1.066274363,
+    "spaet": false,
+    "symbol": "$CAT",
+    "t": 1795810554.5493836
+   },
+   {
+    "dauer": 126.34649777412415,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "3uftFxKBkyPR7ottJPsdTYJrxeX8W7KdTejkUmiEpump",
+    "name": "LUCKY",
+    "sol": 0.1983928710000001,
+    "spaet": false,
+    "symbol": "LUCKY",
+    "t": 1795810580.6529431
+   },
+   {
+    "mint": "5vyY1atB46AN4Zcz2eU5Hb7mjCGKuUkXsj2iVP8Tpump",
+    "spaet": true,
+    "t": 1795810613.4546921
+   },
+   {
+    "dauer": 0.0035555362701416016,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "3skmLmsBsmzBjnrvYqNftbpsZVpzsK7UquTyDkJCpump",
+    "name": "Maya The Samoyed",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "MAYA",
+    "t": 1795810615.364231
+   },
+   {
+    "dauer": 1.373192548751831,
+    "ersteller_verkauft": false,
+    "kaeufer": 37,
+    "mint": "7dc3gFoyuDCPWjrfZfX99uasJJSceAJx5ucE8bDGpump",
+    "name": "WINTER ARC",
+    "sol": 85.005359111,
+    "spaet": false,
+    "symbol": "WINTER",
+    "t": 1795810636.1023197
+   },
+   {
+    "dauer": 174.69746565818787,
+    "ersteller_verkauft": true,
+    "kaeufer": 327,
+    "mint": "3tfekhS7kFnmZ9Fbcw5meF8uQzKpHraF9zYXurw1pump",
+    "name": "The AI Dictators",
+    "sol": 66.46017471599994,
+    "spaet": false,
+    "symbol": "Dictators",
+    "t": 1795810743.6584733
+   },
+   {
+    "mint": "CeQZQ4Afx2NqiinL3YUrUVVm2byFzCJUMjmUqzR6pump",
+    "spaet": true,
+    "t": 1795810743.6630168
    }
   ],
   "uebersicht": 1795808022.9660485
