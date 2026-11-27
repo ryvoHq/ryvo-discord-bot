@@ -288,7 +288,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 652,
+ "laeufe": 653,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -421,9 +421,14 @@
     "spaet": false,
     "symbol": "SNOWBALLO",
     "t": 1795792151.5036073
+   },
+   {
+    "mint": "8jrvnvvB9skmCYWB2tVP9DTYHt9yPet796GZMfK3pump",
+    "spaet": true,
+    "t": 1795792468.0576968
    }
   ],
-  "uebersicht": 1795788849.2832122
+  "uebersicht": 1795792501.9997852
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
