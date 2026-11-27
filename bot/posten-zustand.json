@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 637,
+ "laeufe": 638,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -536,6 +536,28 @@
     "spaet": false,
     "symbol": "DCTY",
     "t": 1795787828.7260675
+   },
+   {
+    "dauer": 229.84059405326843,
+    "ersteller_verkauft": false,
+    "kaeufer": 146,
+    "mint": "69S2S9n72X5qJLHjFPKLEqfcW4ayqJW1soJHYgqVpump",
+    "name": "Sukicoin",
+    "sol": 84.87593124300004,
+    "spaet": false,
+    "symbol": "Suki",
+    "t": 1795788199.262683
+   },
+   {
+    "dauer": 0.0009930133819580078,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "DNgboHpauGZ5KbSptWSkwQyQLSDCQKdoU3qsk9FTpump",
+    "name": "Froggies Token",
+    "sol": 85.005359066,
+    "spaet": false,
+    "symbol": "FRGST",
+    "t": 1795788235.1012516
    }
   ],
   "uebersicht": 1795785198.054407
