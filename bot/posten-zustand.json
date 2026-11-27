@@ -297,40 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 709,
+ "laeufe": 710,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "dauer": 438.72730135917664,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "9KkfUH16cktF2dt7gLY8vD1zxDa8CM6QqEj12Jw6pump",
-    "name": "Alien Shiba Inux",
-    "sol": -0.023557422000000154,
-    "spaet": false,
-    "symbol": "INUX",
-    "t": 1795804528.2587056
-   },
-   {
-    "mint": "5uVBUvCDrgg95yMQb6Yx5UgkQ8LF4JFpALmUBvTGpump",
-    "spaet": true,
-    "t": 1795804541.8170512
-   },
-   {
-    "dauer": 624.5455551147461,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "DBbr8NyVbbrcmKbkW9mmWyZKoW9jmeYHqSxSjNB9pump",
-    "name": "DERPCAT",
-    "sol": 0.39301297199999957,
-    "spaet": false,
-    "symbol": "DERP",
-    "t": 1795804583.4012258
-   },
    {
     "mint": "C5xGkiWztBdGS84PmQoazz8H8Dp8L6ScbRAquHEFpump",
     "spaet": true,
@@ -496,6 +469,22 @@
     "mint": "4Lrn4h8EfZrLh1RxA2tj2vhDU3ig7YcZZHy7aBxEpump",
     "spaet": true,
     "t": 1795807916.3828125
+   },
+   {
+    "dauer": 0.0026607513427734375,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "D7mnTcp4Q8Ab1gzThm3DcAATs6BmkJBj48c7FzLKpump",
+    "name": "Maya The Samoyed",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "MAYA",
+    "t": 1795808124.9276154
+   },
+   {
+    "mint": "FzBtBoWuF1e2W2PEBQJMorUy3wkXGN17URfCYWLSpump",
+    "spaet": true,
+    "t": 1795808278.6574442
    }
   ],
   "uebersicht": 1795808022.9660485
