@@ -288,36 +288,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 653,
+ "laeufe": 654,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795789149.308356,
    1795790049.7792227
   ],
   "stunde": [
-   {
-    "dauer": 380.2273440361023,
-    "ersteller_verkauft": false,
-    "kaeufer": 142,
-    "mint": "6rdrHFPsHL1kif7uorfAa91GrCYJcXPaG2tz1jDtpump",
-    "name": "DacityCoin",
-    "sol": 85.00985926999996,
-    "spaet": false,
-    "symbol": "DCTY",
-    "t": 1795788998.0913618
-   },
-   {
-    "dauer": 1624.3740396499634,
-    "ersteller_verkauft": false,
-    "kaeufer": 1096,
-    "mint": "4gekdrLHoMtP2Qo9QHxM4Z8BDB9TibHKFEMkbMbMMTAb",
-    "name": "H100 Coin",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "H100",
-    "t": 1795789085.2120805
-   },
    {
     "dauer": 268.7552344799042,
     "ersteller_verkauft": false,
@@ -426,6 +403,22 @@
     "mint": "8jrvnvvB9skmCYWB2tVP9DTYHt9yPet796GZMfK3pump",
     "spaet": true,
     "t": 1795792468.0576968
+   },
+   {
+    "dauer": 629.6167168617249,
+    "ersteller_verkauft": true,
+    "kaeufer": 36,
+    "mint": "7h8Ecmt6F7jizVqs4NBc4keFopgexHRRwVBKTZFMpump",
+    "name": "$PumpFomo",
+    "sol": -0.14217068799999943,
+    "spaet": false,
+    "symbol": "FomoFun",
+    "t": 1795792560.733296
+   },
+   {
+    "mint": "5ViorGSNin1xgJ2eaRBJSBxXHMN5eUjtEKp9neATpump",
+    "spaet": true,
+    "t": 1795792645.272199
    }
   ],
   "uebersicht": 1795792501.9997852
