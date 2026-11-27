@@ -297,24 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 712,
+ "laeufe": 713,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "dauer": 231.20111346244812,
-    "ersteller_verkauft": true,
-    "kaeufer": 24,
-    "mint": "CnStwiPAhvpuGdKnTK6b2SGqm9kmuujp51FPE1nFpump",
-    "name": "Official Slingoor",
-    "sol": -0.3733859120000002,
-    "spaet": false,
-    "symbol": "SLINGOOR",
-    "t": 1795805238.9218102
-   },
    {
     "mint": "ANufYeQw9diaimihuktYuRL57QUBU4dkEqghyptzpump",
     "spaet": true,
