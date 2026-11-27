@@ -278,7 +278,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 639,
+ "laeufe": 640,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -286,44 +286,6 @@
    1795786697.463176
   ],
   "stunde": [
-   {
-    "mint": "26qFFJBo4F7EjtzCuCbJEdW4v233mY1aMRaw8Y2kpump",
-    "spaet": true,
-    "t": 1795784987.880976
-   },
-   {
-    "dauer": 141.67854356765747,
-    "ersteller_verkauft": false,
-    "kaeufer": 238,
-    "mint": "FjfhXHU7f4ZY1u8G2MUvYJZCoNBEXarAK8mJhHx5pump",
-    "name": "Fullport",
-    "sol": 84.97516724699996,
-    "spaet": false,
-    "symbol": "FULLPORT",
-    "t": 1795785170.2204554
-   },
-   {
-    "dauer": 255.89785742759705,
-    "ersteller_verkauft": false,
-    "kaeufer": 117,
-    "mint": "GA1Hjoh9ozunSdhYudJRv3pbyQDKmpddZq6vBdUBpump",
-    "name": "GTA 6",
-    "sol": 85.005359148,
-    "spaet": false,
-    "symbol": "GTA 6",
-    "t": 1795785185.4539642
-   },
-   {
-    "dauer": 154.94292068481445,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "6AZcKKJr6HXLTobbg4bB3yL9TK2WcEfULbuENDbqpump",
-    "name": "PUMP",
-    "sol": 0.5814367249999999,
-    "spaet": false,
-    "symbol": "Pump",
-    "t": 1795785239.493639
-   },
    {
     "dauer": 0.006534099578857422,
     "ersteller_verkauft": false,
@@ -558,9 +520,20 @@
     "spaet": false,
     "symbol": "AREYOUNOTENTE",
     "t": 1795788252.1168995
+   },
+   {
+    "dauer": 0.017808198928833008,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump",
+    "name": "Fireball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Fireball",
+    "t": 1795788552.4084125
    }
   ],
-  "uebersicht": 1795785198.054407
+  "uebersicht": 1795788849.2832122
  },
  "momentum_sperre": {
   "HYPE": 1795746465.6142428,
