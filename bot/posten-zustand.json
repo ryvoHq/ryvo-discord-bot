@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 759,
+ "laeufe": 760,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -413,6 +413,28 @@
     "spaet": false,
     "symbol": "GOOD",
     "t": 1795821589.4639525
+   },
+   {
+    "dauer": 134.09883379936218,
+    "ersteller_verkauft": true,
+    "kaeufer": 260,
+    "mint": "HF8rALuMz9zMWaDwrPuvat8sLPkwtU2SsQTakvXdpump",
+    "name": "farmcoin",
+    "sol": 84.68150852899998,
+    "spaet": false,
+    "symbol": "farmcoin",
+    "t": 1795822047.8462236
+   },
+   {
+    "dauer": 56.90883803367615,
+    "ersteller_verkauft": true,
+    "kaeufer": 324,
+    "mint": "C5mEPFQQqwgde83YWKufYKm9TDnsPaUAAMnQ6CAtpump",
+    "name": "Hackat",
+    "sol": 84.77086097599995,
+    "spaet": false,
+    "symbol": "Hackat",
+    "t": 1795822068.8715718
    }
   ],
   "uebersicht": 1795819361.7479584
