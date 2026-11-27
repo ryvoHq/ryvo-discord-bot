@@ -239,25 +239,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 526,
+ "laeufe": 527,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
-   1795753774.69686,
    1795756514.653192
   ],
   "stunde": [
-   {
-    "dauer": 763.8385281562805,
-    "ersteller_verkauft": true,
-    "kaeufer": 513,
-    "mint": "AgBxPNBFmBks58rtVnp2ZW5WHtE2968qTPWgDEvbpump",
-    "name": "Christmas Coin",
-    "sol": 78.02544641699986,
-    "spaet": false,
-    "symbol": "Christmas",
-    "t": 1795753570.5624707
-   },
    {
     "mint": "4suTqHLfusyCwGSStMkj4EoEbYZxNodrwcVxwdFypump",
     "spaet": true,
@@ -394,6 +382,28 @@
     "mint": "C6oCcRXnB6SEp3Pmi9gL8DHVsoEWR9aaZtf9UGj8pump",
     "spaet": true,
     "t": 1795757155.5555522
+   },
+   {
+    "dauer": 155.74156284332275,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "7sVFQTnpENmgoSvLbDYspM6YfvppqAjYyFkLsgk6pump",
+    "name": "GLITCH ",
+    "sol": 1.999568889999999,
+    "spaet": false,
+    "symbol": "GLITCH",
+    "t": 1795757230.462959
+   },
+   {
+    "dauer": 222.65238881111145,
+    "ersteller_verkauft": true,
+    "kaeufer": 29,
+    "mint": "BVZfgD8aWLGqKhSpcnRNPD1LJpaC2U782m7g1Wmrpump",
+    "name": "dog think",
+    "sol": 2.138158353000001,
+    "spaet": false,
+    "symbol": "dogthink",
+    "t": 1795757280.3346555
    }
   ],
   "uebersicht": 1795754714.6155627
@@ -402,7 +412,7 @@
   "HYPE": 1795746465.6142428,
   "MOODENG": 1795682429.2791297,
   "xyz:NVDA": 1795628633.7291481,
-  "xyz:SILVER": 1795744010.2200115,
+  "xyz:SILVER": 1795757465.3953183,
   "xyz:TSLA": 1795631409.8383093,
   "xyz:XYZ100": 1795628633.7291481
  },
