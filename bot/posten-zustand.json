@@ -297,56 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 707,
+ "laeufe": 708,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795807423.3098633
   ],
   "stunde": [
-   {
-    "mint": "e1ZqbS7DfhSc389ZdcvS1QMJ7R9X9kyZMfKDBFypump",
-    "spaet": true,
-    "t": 1795803865.4588268
-   },
-   {
-    "mint": "A6xehhePhNfRB7xFosp4R6hXANAhfUMNdCiPtReupump",
-    "spaet": true,
-    "t": 1795803936.5637584
-   },
-   {
-    "dauer": 225.08308935165405,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "HX93gtRUXjCSDYYroGj6pXQG2wikDFQcnjU71tNnpump",
-    "name": "Tom pearl ",
-    "sol": -0.20658793500000017,
-    "spaet": false,
-    "symbol": "Pearl ",
-    "t": 1795803983.0155282
-   },
-   {
-    "dauer": 127.646733045578,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "3PoY1jrTdmqNTTiviSfdM2Aa4NfXS39mGRziCQ81pump",
-    "name": "MOONPAWS",
-    "sol": 0.19124739999999998,
-    "spaet": false,
-    "symbol": "$MOOP",
-    "t": 1795804095.5253344
-   },
-   {
-    "dauer": 84.6234803199768,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "AQCZjRDPgALUVcNwNiSnVxR4SBW2DAQ8BoJ3oKJcpump",
-    "name": "USMS",
-    "sol": 0.4110713350000001,
-    "spaet": false,
-    "symbol": "USMS",
-    "t": 1795804105.2279327
-   },
    {
     "mint": "G2b7U6DGVLaGTmovAUxw9A9DmNZ8gwfhYbEpUTspump",
     "spaet": true,
@@ -534,6 +491,22 @@
     "spaet": false,
     "symbol": "Coinmas",
     "t": 1795807277.5539513
+   },
+   {
+    "dauer": 380.8041820526123,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "GFxnEVPDjkH8kFTixywGz3pv2YrtMndWWt7jkexupump",
+    "name": "Gucci Rick",
+    "sol": 0.3150784100000003,
+    "spaet": false,
+    "symbol": "RICK",
+    "t": 1795807512.8814259
+   },
+   {
+    "mint": "8hJUz2ggdXTTJMvDayWiJXamJKd9vT1dtSLQgf8qpump",
+    "spaet": true,
+    "t": 1795807627.5990062
    }
   ],
   "uebersicht": 1795804378.8469467
