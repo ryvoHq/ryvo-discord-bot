@@ -252,7 +252,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 554,
+ "laeufe": 555,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -447,6 +447,28 @@
     "spaet": false,
     "symbol": "NCSP",
     "t": 1795764286.2053883
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "WfvS86dfMBuZSJQQL2PTNQNoPbZD1BC9e7Uuv5rpump",
+    "name": "NOAF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "NOAF",
+    "t": 1795765282.557156
+   },
+   {
+    "dauer": 0.001577615737915039,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+    "name": "Snowballz",
+    "sol": 85.00535907099999,
+    "spaet": false,
+    "symbol": "SNOWBALLZ",
+    "t": 1795765345.267
    }
   ],
   "uebersicht": 1795762010.0935252
