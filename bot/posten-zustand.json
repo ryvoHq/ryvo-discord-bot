@@ -297,38 +297,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 735,
+ "laeufe": 736,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795815396.2127461
+  ],
   "stunde": [
-   {
-    "dauer": 85.84147214889526,
-    "ersteller_verkauft": true,
-    "kaeufer": 181,
-    "mint": "HdHWyJcts7md7RJaQzEzTdPiKspFLsw9oUrg4Mwppump",
-    "name": "buy and do nothing",
-    "sol": 60.775329027000005,
-    "spaet": false,
-    "symbol": "nothing",
-    "t": 1795811528.812542
-   },
-   {
-    "dauer": 526.973461151123,
-    "ersteller_verkauft": false,
-    "kaeufer": 221,
-    "mint": "6qJz3M5TzY4Y6CxXQukm4ZSdKfBW6XavbC7Q2uAU67c5",
-    "name": "PVE",
-    "sol": 69.06424567699989,
-    "spaet": false,
-    "symbol": "PVE",
-    "t": 1795811594.0132217
-   },
-   {
-    "mint": "2bYUkViyQBuT8Bms3vjapcunxPVgq7bBsLg2x74dpump",
-    "spaet": true,
-    "t": 1795811757.3500175
-   },
    {
     "dauer": 28.823548555374146,
     "ersteller_verkauft": false,
@@ -509,6 +484,39 @@
     "mint": "AXTfFj5YiwzTiH74X1Jf4xMa622eP4NbLe1DC9fapump",
     "spaet": true,
     "t": 1795815082.1271825
+   },
+   {
+    "dauer": 176.18145489692688,
+    "ersteller_verkauft": true,
+    "kaeufer": 431,
+    "mint": "5e6oJaUrfjW25VRDqrvj2p7jF9qHWfPxqr7CZP9ppump",
+    "name": "Dollar Cat",
+    "sol": 79.19376832399993,
+    "spaet": false,
+    "symbol": "DCAT",
+    "t": 1795815114.9422052
+   },
+   {
+    "dauer": 50.712122201919556,
+    "ersteller_verkauft": false,
+    "kaeufer": 271,
+    "mint": "5oW1hCUtzvSQ7HtZUahgJ1bdptHSH85ammFkzrt3pump",
+    "name": "Shrek",
+    "sol": 85.03498903999996,
+    "spaet": false,
+    "symbol": "宝宝",
+    "t": 1795815167.2918334
+   },
+   {
+    "dauer": 468.12127900123596,
+    "ersteller_verkauft": false,
+    "kaeufer": 515,
+    "mint": "9BAwZLtzdqKNGvfVLtvkneeJRcpwseTfsq7dL1tPpump",
+    "name": "Commodity Markets",
+    "sol": 62.77554889799979,
+    "spaet": false,
+    "symbol": "CM",
+    "t": 1795815320.8023005
    }
   ],
   "uebersicht": 1795811669.655001
