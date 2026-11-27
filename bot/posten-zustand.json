@@ -301,35 +301,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 765,
+ "laeufe": 766,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [
-   1795820261.4755316
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 1513.497797012329,
-    "ersteller_verkauft": false,
-    "kaeufer": 506,
-    "mint": "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump",
-    "name": "Hyperball",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Hyperball",
-    "t": 1795820104.5870976
-   },
-   {
-    "dauer": 282.64805269241333,
-    "ersteller_verkauft": false,
-    "kaeufer": 106,
-    "mint": "6DmC5KR6DF62Gfz5oe8uVkNFrQb5N3kdXpKswA7pump",
-    "name": "Spectre",
-    "sol": 41.18373674699997,
-    "spaet": false,
-    "symbol": "SPEC",
-    "t": 1795820274.9154003
-   },
    {
     "mint": "SjVFmcRwepM5N5Bp9GXjCkDe24knT1Ymh6MAiYdpump",
     "spaet": true,
@@ -545,6 +521,39 @@
     "spaet": false,
     "symbol": "AIC",
     "t": 1795823358.9849265
+   },
+   {
+    "dauer": 217.8690881729126,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "FfMJsFpgsDvVMFa35R5yt2hNndFdLPog3tZR5FLppump",
+    "name": "DICE",
+    "sol": 0.5152373489999998,
+    "spaet": false,
+    "symbol": "DICE",
+    "t": 1795823669.814058
+   },
+   {
+    "dauer": 125.29320764541626,
+    "ersteller_verkauft": true,
+    "kaeufer": 336,
+    "mint": "CLfFoTp8g6i92NAF3EMd91i7numDyyo7a7y8w4Kupump",
+    "name": "penisguy",
+    "sol": 85.13265946199996,
+    "spaet": false,
+    "symbol": "penisguy",
+    "t": 1795823676.8957133
+   },
+   {
+    "dauer": 126.46792244911194,
+    "ersteller_verkauft": true,
+    "kaeufer": 418,
+    "mint": "DCWh3KMBcdmVqgEb54auyCH7cJ6FwH1vsP2aA3nUpump",
+    "name": "BlackFriday69420",
+    "sol": 85.38426885599998,
+    "spaet": false,
+    "symbol": "BF69420",
+    "t": 1795823884.7800102
    }
   ],
   "uebersicht": 1795823000.229913
