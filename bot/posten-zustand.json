@@ -221,79 +221,13 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 463,
+ "laeufe": 464,
  "lagebrief_stand": 1795706700,
  "meme": {
   "sofort": [
    1795737328.1390703
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "Gwkfk9vohzhiRhVLpbWmK16PwqJiQci25mHcMwUUpump",
-    "name": "Togi Coin",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795736176.265695
-   },
-   {
-    "dauer": 10.461480140686035,
-    "ersteller_verkauft": true,
-    "kaeufer": 73,
-    "mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
-    "name": "Togi Coin",
-    "sol": 28.55719101400002,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795736225.7389736
-   },
-   {
-    "dauer": 90.28020596504211,
-    "ersteller_verkauft": true,
-    "kaeufer": 240,
-    "mint": "Ncpa5HMF6QDVrz6FLLFR1sSNZyk2sYkvoKgEFkrpump",
-    "name": "Togi Coin",
-    "sol": 67.14808931399993,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795736278.2606256
-   },
-   {
-    "dauer": 5.364418029785156e-05,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "7ktD849Ga6pxQzuaQiocEpLAiCB1fcLR2fQ1CpeDpump",
-    "name": "Togi Coin",
-    "sol": 85.005359058,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795736310.6698928
-   },
-   {
-    "dauer": 349.68613862991333,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "48fQU1pekPnbWavAmEC6zD8ZmyUtXi4bEUjfRoxrpump",
-    "name": "TUX",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TUX",
-    "t": 1795736325.8625627
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "86WcFmGoiE6yW9466Af9sR1gap7iVW6e3cPVivNVpump",
-    "name": "Togi Coin",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "TOGI",
-    "t": 1795736404.108087
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -539,6 +473,72 @@
     "spaet": false,
     "symbol": "UBR",
     "t": 1795739491.0545125
+   },
+   {
+    "dauer": 0.0008323192596435547,
+    "ersteller_verkauft": false,
+    "kaeufer": 19,
+    "mint": "BuorVu99GQ1LHT194YNYRbdXivTCA8o58nz7iji2pump",
+    "name": "Kuro",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Kuro",
+    "t": 1795739862.4273715
+   },
+   {
+    "dauer": 0.00016808509826660156,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "3m3XdrLN77fJD6FU78Y3EsfCKuXB8wv38QSkVuHntY5q",
+    "name": "Winstoncoin",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "WINSTON",
+    "t": 1795739950.9016187
+   },
+   {
+    "dauer": 0.3103201389312744,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "2XhzitEppvAJ6nsZ125ex2KA15PFJhKv2ABJY9cgtZQf",
+    "name": "La Misery",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "LaMisery",
+    "t": 1795739964.043096
+   },
+   {
+    "dauer": 0.2577238082885742,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "9i2jr2vYzmco3txSmrXXr9qFr1VnASqhZaoi9MdtNUxx",
+    "name": "OTTERPRENEUR",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "OTTER",
+    "t": 1795739979.6155226
+   },
+   {
+    "dauer": 0.724888801574707,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "H9muQtkWbqY7udP35H3ShfpkvP91GHYrUXiYJaoutu8t",
+    "name": "Pan Baobao",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "BAOBAO",
+    "t": 1795739993.104138
+   },
+   {
+    "dauer": 0.9008238315582275,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "GhKgpNhidWLSUNJr64Uomibw6nbBtVST43r9jUbxxz3b",
+    "name": "Alien Shiba Inux",
+    "sol": 85.005359058,
+    "spaet": false,
+    "symbol": "INUX",
+    "t": 1795740002.2687895
    }
   ],
   "uebersicht": 1795739768.4662964
