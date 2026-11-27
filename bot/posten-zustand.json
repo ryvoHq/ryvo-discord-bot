@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 542,
+ "laeufe": 543,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [],
@@ -395,9 +395,20 @@
     "spaet": false,
     "symbol": "EXEN",
     "t": 1795761307.4080348
+   },
+   {
+    "dauer": 260.5346426963806,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "ad5yC19oysFCRiMKppaBWGChhZGsG5eNMDKZMgCpump",
+    "name": "34percent",
+    "sol": 1.3923907049999986,
+    "spaet": false,
+    "symbol": "34%",
+    "t": 1795761937.7935007
    }
   ],
-  "uebersicht": 1795758363.9843912
+  "uebersicht": 1795762010.0935252
  },
  "momentum_sperre": {
   "HYPE": 1795746465.6142428,
