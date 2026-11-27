@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 743,
+ "laeufe": 744,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,28 +311,6 @@
    1795817496.3342245
   ],
   "stunde": [
-   {
-    "dauer": 246.75823187828064,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "7w8E2fQ8BCPchWU9YNLxwx63a2NiBZJ7SEidCrA2pump",
-    "name": "MOONDOGE",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "MOONDOGE",
-    "t": 1795813900.626805
-   },
-   {
-    "dauer": 32.39273023605347,
-    "ersteller_verkauft": true,
-    "kaeufer": 153,
-    "mint": "9Vr8XJ8PzCP2jcJ1CKTgnsGEp9sQYtZZ4o375UVbpump",
-    "name": "Hilbert Hilbert Hilbert Sahur",
-    "sol": 60.63501879499998,
-    "spaet": false,
-    "symbol": "TripleH",
-    "t": 1795813907.0099804
-   },
    {
     "mint": "8Cvy12PCoCH9z7cnoTVcuWxDm8NCapwY9UP2hEb1pump",
     "spaet": true,
@@ -582,6 +560,39 @@
     "spaet": false,
     "symbol": "FOMOCAT",
     "t": 1795817395.9471831
+   },
+   {
+    "dauer": 222.4647455215454,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "Cpr57yi3hgLPNy32nTAFTYyzREWT3UekwTtoc7dppump",
+    "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
+    "sol": 0.31745437800000004,
+    "spaet": false,
+    "symbol": "FOMOCAT",
+    "t": 1795817638.5036616
+   },
+   {
+    "dauer": 119.8739721775055,
+    "ersteller_verkauft": false,
+    "kaeufer": 18,
+    "mint": "6aPQe2nq8veRL7s8uBjhzEfd5JMSAnu4FzKH6MN2pump",
+    "name": "100M$",
+    "sol": 0.26550372000000017,
+    "spaet": false,
+    "symbol": "100M$",
+    "t": 1795817682.3171573
+   },
+   {
+    "dauer": 829.0902590751648,
+    "ersteller_verkauft": false,
+    "kaeufer": 25,
+    "mint": "BnCV9v25qadkmxSS2DBEkRp4iR5MHTDs73vKiz5wpump",
+    "name": "Huss",
+    "sol": 0.03214140300000007,
+    "spaet": false,
+    "symbol": "HUSS",
+    "t": 1795817714.9552824
    }
   ],
   "uebersicht": 1795815697.1042492
