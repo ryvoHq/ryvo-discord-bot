@@ -239,7 +239,7 @@
  "lab_log_tag": "2026-11-26",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 533,
+ "laeufe": 534,
  "lagebrief_stand": 1795750500,
  "meme": {
   "sofort": [
@@ -247,17 +247,6 @@
    1795757763.4382763
   ],
   "stunde": [
-   {
-    "dauer": 210.59032726287842,
-    "ersteller_verkauft": false,
-    "kaeufer": 140,
-    "mint": "CmZcJVr3zmyz6bHP9jHY2J1BZ4ZYng9z2DSGaZtrpump",
-    "name": "Basket",
-    "sol": 85.08574864100001,
-    "spaet": false,
-    "symbol": "BASKET",
-    "t": 1795755787.4809124
-   },
    {
     "mint": "NtxRXKTHMuQ99yPAEYKcjfBPvHrnMTHjG8maFWjpump",
     "spaet": true,
@@ -424,6 +413,11 @@
     "spaet": false,
     "symbol": "FHC",
     "t": 1795759177.8455033
+   },
+   {
+    "mint": "D62Y491GnbypoZfpdec26jGhF6Jv5NNZxLjUHfiapump",
+    "spaet": true,
+    "t": 1795759466.5630288
    }
   ],
   "uebersicht": 1795758363.9843912
