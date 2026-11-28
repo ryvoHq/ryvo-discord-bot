@@ -317,29 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 908,
+ "laeufe": 909,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 145.6388876438141,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "BHyVoCoorz7NBdDyWxtFRmhdQxchhHHZs6aSpJv9pump",
-    "name": "EARTH ",
-    "sol": 0.13851763500000014,
-    "spaet": false,
-    "symbol": "EARTH",
-    "t": 1795859660.5243087
-   },
-   {
-    "mint": "8EvSPCVd4qfPERdXVWAyEc4SGYXLLk6Zpcwd78PApump",
-    "spaet": true,
-    "t": 1795859793.9873145
-   },
    {
     "dauer": 2298.7573614120483,
     "ersteller_verkauft": false,
@@ -457,6 +441,44 @@
     "spaet": false,
     "symbol": "X",
     "t": 1795862991.0316074
+   },
+   {
+    "dauer": 31.48819613456726,
+    "ersteller_verkauft": true,
+    "kaeufer": 15,
+    "mint": "2KussCMzU9tkomCy2WMQSYu93cpTegBbebrL5bAEpump",
+    "name": "GTA6",
+    "sol": 2.8948148419999997,
+    "spaet": false,
+    "symbol": "GTA",
+    "t": 1795863266.6132019
+   },
+   {
+    "mint": "2B3LavRALyzf52WNjtT9DYaA9zxK8uAh4dGuzmQUpump",
+    "spaet": true,
+    "t": 1795863388.0476556
+   },
+   {
+    "dauer": 762.4284801483154,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "5f9C5onbKqkwTNYEhhWZxeHkME2ytNYJEXvkxsrvpump",
+    "name": "🍌 BANANA WIZARD",
+    "sol": 0.08935487899999994,
+    "spaet": false,
+    "symbol": "$BWIZ",
+    "t": 1795863392.542562
+   },
+   {
+    "dauer": 82.70866823196411,
+    "ersteller_verkauft": false,
+    "kaeufer": 15,
+    "mint": "5AezL7mkf89PGsq9r6siH6wZGtrstNcDfDARH4npump",
+    "name": "Tesla",
+    "sol": 1.149684522,
+    "spaet": false,
+    "symbol": "TESLA",
+    "t": 1795863411.7346144
    }
   ],
   "uebersicht": 1795861674.999723
