@@ -322,41 +322,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 938,
+ "laeufe": 939,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795868051.495723,
    1795870516.9806318
   ],
   "stunde": [
-   {
-    "mint": "CmEJfeTQM8VmAts3PtFrKgtSU9MkC7CvRiJpPuoNpump",
-    "spaet": true,
-    "t": 1795867822.757209
-   },
-   {
-    "dauer": 0.006125926971435547,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "JE6Wx8ZzGEUkMWxFvPnq4QSZqwDbLnKkf6ppjj9epump",
-    "name": "CS 1.6 Web",
-    "sol": 85.005359083,
-    "spaet": false,
-    "symbol": "CS",
-    "t": 1795867969.9527369
-   },
-   {
-    "dauer": 845.3499338626862,
-    "ersteller_verkauft": false,
-    "kaeufer": 692,
-    "mint": "2sAKJvmN8E8twDoGEtSYBCdj8MCySXkgs5hynvetpump",
-    "name": "motionmkts.com",
-    "sol": 85.6669740019996,
-    "spaet": false,
-    "symbol": "motion",
-    "t": 1795868019.0617611
-   },
    {
     "dauer": 200.04220533370972,
     "ersteller_verkauft": true,
@@ -563,6 +535,43 @@
     "spaet": false,
     "symbol": "vetocat",
     "t": 1795871311.2801504
+   },
+   {
+    "mint": "9iC3PPNdwBVZQLfdwE8JLusMXDkJjpGkAJJ3W1vR3zJi",
+    "spaet": true,
+    "t": 1795871526.4625876
+   },
+   {
+    "dauer": 134.22792196273804,
+    "ersteller_verkauft": false,
+    "kaeufer": 460,
+    "mint": "DGTzszV5JdbG6iBAFN6GJtcv1sTd2FZkaib9k6FfLXsq",
+    "name": "KyunCoin",
+    "sol": 86.97005037099964,
+    "spaet": false,
+    "symbol": "Kyun",
+    "t": 1795871554.40512
+   },
+   {
+    "mint": "21Z5XF5Rc9GkXCHoyXTdJ549A2DyriUxJhd6j6Ztpump",
+    "spaet": true,
+    "t": 1795871613.7529807
+   },
+   {
+    "mint": "7KfePEwUqjVZKg4kQjoLSPFfayBomgcek2VT7oapump",
+    "spaet": true,
+    "t": 1795871663.8599684
+   },
+   {
+    "dauer": 118.53006315231323,
+    "ersteller_verkauft": false,
+    "kaeufer": 26,
+    "mint": "8Gv1cgYH3R7h1Mo9PDwqRi5LGXTGoNchYruC4vk1pump",
+    "name": "ULTRAPAID",
+    "sol": 0.4335550359999995,
+    "spaet": false,
+    "symbol": "ULTRA",
+    "t": 1795871677.9408987
    }
   ],
   "uebersicht": 1795868951.8121321
