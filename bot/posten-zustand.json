@@ -311,16 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 868,
+ "laeufe": 869,
  "lagebrief_stand": 1795836600,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795852234.6433523
+  ],
   "stunde": [
-   {
-    "mint": "CpQmkCUPJsSYW7XNUVgG8h4xTApyKZ1vKEztoA1xpump",
-    "spaet": true,
-    "t": 1795848446.881095
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -400,6 +397,17 @@
     "mint": "6aJmVyNtyHtcjE8NpfHsZhdwHJpQ7FEFEPrtwCiqpump",
     "spaet": true,
     "t": 1795851345.0439694
+   },
+   {
+    "dauer": 254.97266101837158,
+    "ersteller_verkauft": false,
+    "kaeufer": 543,
+    "mint": "HpzTDpPKruZN9VkiphHAoyUWy5Yrg8Y2J3TLAUj3pump",
+    "name": "Tremp Family",
+    "sol": 83.9822915329996,
+    "spaet": false,
+    "symbol": "TREMPS",
+    "t": 1795852105.9770086
    }
   ],
   "uebersicht": 1795849782.068453
