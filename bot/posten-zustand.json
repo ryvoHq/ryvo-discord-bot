@@ -311,16 +311,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 864,
+ "laeufe": 865,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "6HVwJdFszAvdm6NwLaeGbj6eZkz5DorUYqaXE92pump",
-    "spaet": true,
-    "t": 1795847566.6326456
-   },
    {
     "dauer": 209.1886944770813,
     "ersteller_verkauft": false,
@@ -395,6 +390,22 @@
     "spaet": false,
     "symbol": "USD1",
     "t": 1795850776.4644818
+   },
+   {
+    "mint": "6ddeEkuJq8c3WdoNrQgVC4WbFL9HgM9dnxvjNM8Bpump",
+    "spaet": true,
+    "t": 1795851090.2511642
+   },
+   {
+    "dauer": 237.6752805709839,
+    "ersteller_verkauft": false,
+    "kaeufer": 151,
+    "mint": "8rTiQX85cSrg4G2EtQLMXu6zXTLEgjZsSNU9zgZPpump",
+    "name": "Baboon Smirk",
+    "sol": 84.83149723500004,
+    "spaet": false,
+    "symbol": "Zhaki",
+    "t": 1795851199.2236104
    }
   ],
   "uebersicht": 1795849782.068453
