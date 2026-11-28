@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 787,
+ "laeufe": 788,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -492,6 +492,17 @@
     "spaet": false,
     "symbol": "semigenius",
     "t": 1795829558.9468853
+   },
+   {
+    "dauer": 90.84930086135864,
+    "ersteller_verkauft": false,
+    "kaeufer": 10,
+    "mint": "BgxHzmgAAeSsrDz4fHnPbEctFrfytrEnsHrULTcwpump",
+    "name": "DOOBIE",
+    "sol": 1.065671897,
+    "spaet": false,
+    "symbol": "DOOB",
+    "t": 1795829703.5374768
    }
   ],
   "uebersicht": 1795826643.6076992
