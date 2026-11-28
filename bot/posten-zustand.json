@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 839,
+ "laeufe": 840,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,33 +319,6 @@
    1795842801.9154005
   ],
   "stunde": [
-   {
-    "dauer": 182.39825534820557,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "HLyB56H8mtLYNEQYRgZfe2fJhE45g1FAM5YCjuSkpump",
-    "name": "BARONG",
-    "sol": 0.5887172299999994,
-    "spaet": false,
-    "symbol": "BARONG",
-    "t": 1795840507.7432091
-   },
-   {
-    "dauer": 166.75103640556335,
-    "ersteller_verkauft": true,
-    "kaeufer": 23,
-    "mint": "HnRr6rDa1LcC17DK2EtPeygfcEjPp9jaaP5ppbYspump",
-    "name": "Breastcoin",
-    "sol": 1.0154816839999996,
-    "spaet": false,
-    "symbol": "BTC",
-    "t": 1795840605.6645029
-   },
-   {
-    "mint": "7yizwJWbcayGTzF9xpibm3j1T2dvHj1vAtk9tqLfpump",
-    "spaet": true,
-    "t": 1795840657.394586
-   },
    {
     "dauer": 249.72379398345947,
     "ersteller_verkauft": true,
