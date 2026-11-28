@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 970,
+ "laeufe": 971,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -331,17 +331,6 @@
    1795880237.8543587
   ],
   "stunde": [
-   {
-    "dauer": 155.07418060302734,
-    "ersteller_verkauft": true,
-    "kaeufer": 5,
-    "mint": "4oypdMwi3wS6sViStZaGjnqVZxYkGtuhGH8XwwN8pump",
-    "name": "FIRST BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795876859.0986557
-   },
    {
     "dauer": 498.6901912689209,
     "ersteller_verkauft": false,
@@ -731,9 +720,20 @@
     "spaet": false,
     "symbol": "HARU",
     "t": 1795880225.4907682
+   },
+   {
+    "dauer": 110.44205045700073,
+    "ersteller_verkauft": true,
+    "kaeufer": 27,
+    "mint": "9bNqBvAKYvoySMZWadNYgkFuMS3G66yok7KinkEzpump",
+    "name": "WINNER",
+    "sol": 0.24995696800000017,
+    "spaet": false,
+    "symbol": "WINNER",
+    "t": 1795880325.638658
    }
   ],
-  "uebersicht": 1795876893.0700972
+  "uebersicht": 1795880537.8372564
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
