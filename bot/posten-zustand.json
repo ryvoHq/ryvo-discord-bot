@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 786,
+ "laeufe": 787,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -314,28 +314,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 50.39607334136963,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "7a9hCBRuUNa4PhXeJpvp7HSYjE8qPR2PZy8HNeqtpump",
-    "name": "Digital Peecasso",
-    "sol": 4.952688877000001,
-    "spaet": false,
-    "symbol": "PEECASO",
-    "t": 1795825930.4886
-   },
-   {
-    "dauer": 13.82612657546997,
-    "ersteller_verkauft": true,
-    "kaeufer": 85,
-    "mint": "AfBQgzsTsmKxCfc6Yuod4qivYUsao12o3LcHMXRppump",
-    "name": "Scam Altman",
-    "sol": 82.18263114899997,
-    "spaet": false,
-    "symbol": "SCAM",
-    "t": 1795825983.9261525
-   },
    {
     "dauer": 1457.2935774326324,
     "ersteller_verkauft": true,
@@ -492,6 +470,28 @@
     "spaet": false,
     "symbol": "Pete",
     "t": 1795829224.6885557
+   },
+   {
+    "dauer": 16.110594987869263,
+    "ersteller_verkauft": false,
+    "kaeufer": 100,
+    "mint": "4HdH4EKBKCVaPD9f4TxdGhcWyhm259qKa7JHSGhMpump",
+    "name": "Project Mandy",
+    "sol": 85.0053593,
+    "spaet": false,
+    "symbol": "MANDY",
+    "t": 1795829389.2203414
+   },
+   {
+    "dauer": 315.64943170547485,
+    "ersteller_verkauft": false,
+    "kaeufer": 17,
+    "mint": "2dRRRcMMM7nYr8rpnrCksrLN8eR8LcscQ77ybZGapump",
+    "name": "semi genius",
+    "sol": 85.00535908000002,
+    "spaet": false,
+    "symbol": "semigenius",
+    "t": 1795829558.9468853
    }
   ],
   "uebersicht": 1795826643.6076992
