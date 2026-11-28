@@ -312,12 +312,12 @@
   "https://www.theglobeandmail.com/business/technology/article-operation-niagara-cryptocurrency-fraud-scams-law-enforcement/",
   "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
  ],
- "indizes_tag": "2026-11-27",
+ "indizes_tag": "2026-11-28",
  "krypto_tag": "2026-11-28",
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 935,
+ "laeufe": 936,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -325,38 +325,6 @@
    1795870516.9806318
   ],
   "stunde": [
-   {
-    "mint": "DbUpd3uzW4KxAujwQ3axyqTcoF78fXSi1fv9ddpRpump",
-    "spaet": true,
-    "t": 1795866948.0616858
-   },
-   {
-    "mint": "6gkyWNSST5roufAM26dd3ZMNHKDdAHTSSKczkDhspump",
-    "spaet": true,
-    "t": 1795867026.9578643
-   },
-   {
-    "dauer": 144.55262565612793,
-    "ersteller_verkauft": true,
-    "kaeufer": 28,
-    "mint": "7ckRc2nvrxgJjtUGuNBRGrD4CGNFoyQ1JtxCirhzpump",
-    "name": "makemerich",
-    "sol": 0.142210235,
-    "spaet": false,
-    "symbol": "mmrich",
-    "t": 1795867131.849496
-   },
-   {
-    "dauer": 159.43309545516968,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "2eTfwHWKdJgTKPHLoJX4ysv4sqmjyJG8XRo4LvHrpump",
-    "name": "EVERYONE BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795867160.3680072
-   },
    {
     "mint": "BDQb7ye5mjUWPfQ4AhhxKUw319JRTijvpo5M8XJZpump",
     "spaet": true,
@@ -588,6 +556,28 @@
     "spaet": false,
     "symbol": "BNB",
     "t": 1795870437.7245765
+   },
+   {
+    "dauer": 88.71159315109253,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "7Piy8veZspafxK5GnUw4J2M8sqguTAuX6FZk16Tcpump",
+    "name": "EVERYONE SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795870621.8319757
+   },
+   {
+    "dauer": 109.56920909881592,
+    "ersteller_verkauft": true,
+    "kaeufer": 7,
+    "mint": "5UZpDSYuro5rZWd12oCUdjEFh4YCUE7sTkftV1Njpump",
+    "name": "SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795870783.3753538
    }
   ],
   "uebersicht": 1795868951.8121321
