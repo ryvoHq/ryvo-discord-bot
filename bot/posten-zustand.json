@@ -322,30 +322,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 969,
+ "laeufe": 970,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795877193.8568563,
-   1795879637.9204814
+   1795879637.9204814,
+   1795880237.8543587
   ],
   "stunde": [
-   {
-    "mint": "HnRPNwcYZFhsuRg5ChqdBEUR7DLx1XrGXdYkuSBqpump",
-    "spaet": true,
-    "t": 1795876337.7526262
-   },
-   {
-    "dauer": 0.000274658203125,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "9HMNRRRhvnDgEtshp2WjW6tQu6vvHWZ9Akgeosedpump",
-    "name": "Mona Lisa",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Mona Lisa",
-    "t": 1795876611.2451937
-   },
    {
     "dauer": 155.07418060302734,
     "ersteller_verkauft": true,
@@ -675,6 +660,77 @@
     "spaet": false,
     "symbol": "UVRE",
     "t": 1795879760.7683253
+   },
+   {
+    "mint": "7D4yQ9YZUQ4XpoUbph3d9cMCtiw7zFvxDDEzr1WRpump",
+    "spaet": true,
+    "t": 1795879950.5399058
+   },
+   {
+    "dauer": 624.8902251720428,
+    "ersteller_verkauft": false,
+    "kaeufer": 448,
+    "mint": "jQ3R6wx1Mb6fQAkstCTfqkhgaC69UrueYmFLLu3pump",
+    "name": "Mona Lisa",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "Mona",
+    "t": 1795879978.4470682
+   },
+   {
+    "dauer": 5.379673004150391,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "AGgijtYmQYtADquGHP6CGyDznoYwaLgmMcgh2brPpump",
+    "name": "a gud company",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "agudcompan",
+    "t": 1795880081.283679
+   },
+   {
+    "dauer": 177.89068627357483,
+    "ersteller_verkauft": false,
+    "kaeufer": 141,
+    "mint": "124aL8KLgkrDHGT2mewgGoEwxAHrfNndRuMQTFh4pump",
+    "name": "Meta | Official Team",
+    "sol": 33.10359432,
+    "spaet": false,
+    "symbol": "Meta",
+    "t": 1795880102.952969
+   },
+   {
+    "dauer": 1299.5686218738556,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "Ds7caCuocia1Cpef34EZB6A8Arb6daxedHUoZhA1pump",
+    "name": "$HAVE A GOOD DAY",
+    "sol": 0.4921697299999993,
+    "spaet": false,
+    "symbol": "$LA BEAST",
+    "t": 1795880108.6645422
+   },
+   {
+    "dauer": 0.0011506080627441406,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "B6JwxRFd5Nomou9v2CELN3rjgwVxCzoAZbZqLHszpump",
+    "name": "Timmy",
+    "sol": 85.00535906900001,
+    "spaet": false,
+    "symbol": "TIMMY",
+    "t": 1795880199.2594259
+   },
+   {
+    "dauer": 148.14342069625854,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "CLJsrDvTHnVRJmHR9MVgJ3qS6pxeC9PSZcYcYykUpump",
+    "name": "HIKARU",
+    "sol": 0.32641076300000016,
+    "spaet": false,
+    "symbol": "HARU",
+    "t": 1795880225.4907682
    }
   ],
   "uebersicht": 1795876893.0700972
