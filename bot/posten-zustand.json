@@ -328,52 +328,16 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 978,
+ "laeufe": 979,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
    1795879637.9204814,
    1795880237.8543587,
-   1795881437.611222
+   1795881437.611222,
+   1795882682.5676491
   ],
   "stunde": [
-   {
-    "mint": "3vXroL7im1nrUPuVq7xiAmx8cDDG5sQyZUMm4sPcpump",
-    "spaet": true,
-    "t": 1795878806.6999683
-   },
-   {
-    "mint": "3SXp99svkDhmTM3kvBpLEWnaSSVJK5MBNtEpJ1QVpump",
-    "spaet": true,
-    "t": 1795878879.9931507
-   },
-   {
-    "mint": "AR8dy6s9kGDGT6UGGBwBZCMrqaESwupfsee2hhopump",
-    "spaet": true,
-    "t": 1795878890.9014711
-   },
-   {
-    "dauer": 14.620941400527954,
-    "ersteller_verkauft": false,
-    "kaeufer": 47,
-    "mint": "H7GA3US42AcyidEWsRHDbxkHpJQ76cSpBmKHowcNpump",
-    "name": "Winter Crypto",
-    "sol": 32.915940370000015,
-    "spaet": false,
-    "symbol": "WINTER",
-    "t": 1795878939.0153706
-   },
-   {
-    "dauer": 3.4299094676971436,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "3g9d2AY2JE8Mzvvj5w24a1qHi6DYrk95zabwRPKxpump",
-    "name": "BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795878957.794052
-   },
    {
     "dauer": 221.2879617214203,
     "ersteller_verkauft": false,
@@ -652,6 +616,17 @@
     "mint": "7JvDioz1dP5UqoPTiBt1412fAZQKyfznpxSYFPbfpump",
     "spaet": true,
     "t": 1795882372.7216003
+   },
+   {
+    "dauer": 190.02216410636902,
+    "ersteller_verkauft": true,
+    "kaeufer": 503,
+    "mint": "88hUWazxt2vsHFrGgGg6A5CPD5rtAJaMZ8H7S7ZCpump",
+    "name": "Flip The Rial",
+    "sol": 86.69318806399995,
+    "spaet": false,
+    "symbol": "RIAL",
+    "t": 1795882618.2696614
    }
   ],
   "uebersicht": 1795880537.8372564
