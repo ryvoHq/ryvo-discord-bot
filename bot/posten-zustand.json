@@ -311,25 +311,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 896,
+ "laeufe": 897,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795856772.57658,
-   1795857372.4745736
+   1795857372.4745736,
+   1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 409.88202238082886,
-    "ersteller_verkauft": false,
-    "kaeufer": 16,
-    "mint": "HrnE42CjKmQnVDqtLu1259jUHfqZ2ihEwp2SeB49pump",
-    "name": "LMAO",
-    "sol": 1.9187905709999988,
-    "spaet": false,
-    "symbol": "LMAO",
-    "t": 1795856462.1519222
-   },
    {
     "dauer": 416.3258059024811,
     "ersteller_verkauft": false,
@@ -550,6 +540,17 @@
     "mint": "8EvSPCVd4qfPERdXVWAyEc4SGYXLLk6Zpcwd78PApump",
     "spaet": true,
     "t": 1795859793.9873145
+   },
+   {
+    "dauer": 2298.7573614120483,
+    "ersteller_verkauft": false,
+    "kaeufer": 940,
+    "mint": "2n5tTb5UXKABFXYRxDEjtDpWFh5ZFk7oRcNLDML5pump",
+    "name": "Smoothie",
+    "sol": 87.50530379599982,
+    "spaet": false,
+    "symbol": "SMOOTH",
+    "t": 1795859987.3364828
    }
   ],
   "uebersicht": 1795857372.4745736
