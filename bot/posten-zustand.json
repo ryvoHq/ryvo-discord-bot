@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 783,
+ "laeufe": 784,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -315,38 +315,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 118.85052061080933,
-    "ersteller_verkauft": false,
-    "kaeufer": 31,
-    "mint": "VeeVfh2kbgMp1FNSL18VdrePjjs24EVmyE3f3T1pump",
-    "name": "Mr Lucky☘️ coin",
-    "sol": 0.2901141879999969,
-    "spaet": false,
-    "symbol": "LKY☘️",
-    "t": 1795824897.2143512
-   },
-   {
-    "mint": "8GvRyqhfqxZWjSYiPVdTe1inAm3NQM2c8BAKget8pump",
-    "spaet": true,
-    "t": 1795824940.3314495
-   },
-   {
-    "mint": "2xu3o3EfwwrPhmE7CCyfssfkNLjuHpnkFkHNwWRapump",
-    "spaet": true,
-    "t": 1795824982.5451376
-   },
-   {
-    "dauer": 647.1726157665253,
-    "ersteller_verkauft": true,
-    "kaeufer": 555,
-    "mint": "GwquWa45CSfhfE3GiSZa7YhXxgG8DwDJZaTGuswipump",
-    "name": "Justice For Bambi",
-    "sol": 89.072690531,
-    "spaet": false,
-    "symbol": "Bambi",
-    "t": 1795825143.628987
-   },
    {
     "dauer": 110.57433819770813,
     "ersteller_verkauft": true,
@@ -494,6 +462,22 @@
     "spaet": false,
     "symbol": "#Penissad",
     "t": 1795828208.392255
+   },
+   {
+    "dauer": 205.41571187973022,
+    "ersteller_verkauft": false,
+    "kaeufer": 148,
+    "mint": "7F5Xamqc5eGTfJZE9EyMiPA5QSNziWua6zL1M1kTpump",
+    "name": "crema.click",
+    "sol": 85.40514734699995,
+    "spaet": false,
+    "symbol": "Crema",
+    "t": 1795828741.961214
+   },
+   {
+    "mint": "31yPP3Wwkm9QfNzQmGWjA4ggCsEWmTazDFv2Bbjfpump",
+    "spaet": true,
+    "t": 1795828771.3302586
    }
   ],
   "uebersicht": 1795826643.6076992
