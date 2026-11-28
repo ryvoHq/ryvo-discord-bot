@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 889,
+ "laeufe": 890,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,28 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "dauer": 137.08053421974182,
-    "ersteller_verkauft": true,
-    "kaeufer": 155,
-    "mint": "CRFnwCJDncGawsNxGLUN1dUBSiNmBFa7wTWzprxFpump",
-    "name": "MoonBoy",
-    "sol": 85.00535935099998,
-    "spaet": false,
-    "symbol": "MoonBoy",
-    "t": 1795854239.5172355
-   },
-   {
-    "dauer": 9.542927742004395,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "3MuRPukoaqzahRTyatko13VSSCjnCRDhMsNAcMKvpump",
-    "name": "Useless Shitty Dollar 1  ",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "USD1",
-    "t": 1795854253.7217875
-   },
    {
     "mint": "ByWihBAmCWjPMShRzw4V2uhfjuSyvoB3PyjJRvsJpump",
     "spaet": true,
@@ -568,6 +546,38 @@
     "spaet": false,
     "symbol": "WEIRDCAT",
     "t": 1795857646.9020205
+   },
+   {
+    "mint": "DhxLfVjew9w481bnxhZLSjqugKoGW98He5mUQmespump",
+    "spaet": true,
+    "t": 1795857748.6609883
+   },
+   {
+    "mint": "GMNPusTuHzJTTuWvi2T6psigM5QWu6Zmvewtv47Mpump",
+    "spaet": true,
+    "t": 1795857762.5137706
+   },
+   {
+    "dauer": 175.973708152771,
+    "ersteller_verkauft": false,
+    "kaeufer": 153,
+    "mint": "DgJVFkHcCNK4ZVD9MDkrgvN3YqvENZyHUBSoRZoopump",
+    "name": "MoonBoy",
+    "sol": 85.00535934099996,
+    "spaet": false,
+    "symbol": "MoonBoy",
+    "t": 1795857864.54712
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "sFtjvR8ydeqyYetbRZVnptA6mERhFkKvCpNyghwpump",
+    "name": "Timothy the Hippo",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TIMOTHY",
+    "t": 1795857927.1329749
    }
   ],
   "uebersicht": 1795857372.4745736
