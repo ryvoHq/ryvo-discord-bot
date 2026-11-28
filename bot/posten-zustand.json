@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 831,
+ "laeufe": 832,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,22 +319,6 @@
    1795841255.624771
   ],
   "stunde": [
-   {
-    "dauer": 325.50288486480713,
-    "ersteller_verkauft": false,
-    "kaeufer": 25,
-    "mint": "6sSRabNwSXwLJZEqNp2C6af8J4NW6jV9awtEppSYpump",
-    "name": "F***myLife",
-    "sol": 0.2033237649999998,
-    "spaet": false,
-    "symbol": "FML",
-    "t": 1795838338.7984881
-   },
-   {
-    "mint": "6p2w5YcZqTDv31J7kFh2XaEbB7HQgGWp35DWrUPMpump",
-    "spaet": true,
-    "t": 1795838546.7947392
-   },
    {
     "mint": "4EydKwponjbGErbBb5Upd49rQy9Q7zey8Nu1yYTapump",
     "spaet": true,
@@ -537,6 +521,22 @@
     "spaet": false,
     "symbol": "CRIME",
     "t": 1795841466.2383933
+   },
+   {
+    "dauer": 2402.69287276268,
+    "ersteller_verkauft": false,
+    "kaeufer": 169,
+    "mint": "3N77W25zTjKXRWztBS2S7eAJStEYyGXjZpMA9hxwpump",
+    "name": "Snowball",
+    "sol": 84.87833508200004,
+    "spaet": false,
+    "symbol": "Snowball",
+    "t": 1795841947.773759
+   },
+   {
+    "mint": "2317Z3LepUD64GFJcQnZEMrFxqKQdtaKqQJNePuM6bWk",
+    "spaet": true,
+    "t": 1795841984.0517292
    }
   ],
   "uebersicht": 1795841855.3694134
@@ -591,5 +591,5 @@
  "swing_tag": "2026-11-27",
  "terminal_hash": "72856675800e8502de88b236d805b27f772946d10f8dadee5d8b4d4ee94fdc2e",
  "terminal_notiz_zeit": 1795608189.1678889,
- "thread_tag": "2026-11-27"
+ "thread_tag": "2026-11-28"
 }
