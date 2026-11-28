@@ -309,45 +309,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 847,
+ "laeufe": 848,
  "lagebrief_stand": 1795836600,
  "meme": {
-  "sofort": [
-   1795842801.9154005
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "mint": "3MxSaF32zAv4sfGVKVR8uuifmiaCRZPxdkionS5Ypump",
-    "spaet": true,
-    "t": 1795842635.212832
-   },
-   {
-    "dauer": 306.4241828918457,
-    "ersteller_verkauft": false,
-    "kaeufer": 304,
-    "mint": "7rUMBAXwQP4XszazSXiRxUiXY7tEaGtD3AZmA4oZpump",
-    "name": "I Am Not Corrupt",
-    "sol": 98.4368675900002,
-    "spaet": false,
-    "symbol": "TRUMP",
-    "t": 1795842645.5207448
-   },
-   {
-    "mint": "9E7JAwvHdrQA1rFJZcmyi6EscJ26JDMjDQ2JKL2Fpump",
-    "spaet": true,
-    "t": 1795842736.008661
-   },
-   {
-    "dauer": 426.8708577156067,
-    "ersteller_verkauft": true,
-    "kaeufer": 47,
-    "mint": "GVTnVq7xcKTrx2Fwg5czjxAz9j6jinmuhykkb15ypump",
-    "name": "FLOAT",
-    "sol": 52.77071265,
-    "spaet": false,
-    "symbol": "FLOAT",
-    "t": 1795842794.4744048
-   },
    {
     "dauer": 852.2500479221344,
     "ersteller_verkauft": false,
@@ -430,6 +396,11 @@
     "mint": "24eDZJLXyppqXCu4hXPoS9qqMHkJYq4zwJkdooeVpump",
     "spaet": true,
     "t": 1795845708.8870997
+   },
+   {
+    "mint": "tHeDA4aSm27EgaWNToveqWKyaTE3H1qWSigcFCYpump",
+    "spaet": true,
+    "t": 1795846205.765144
    }
   ],
   "uebersicht": 1795846141.988093
