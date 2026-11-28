@@ -317,35 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 902,
+ "laeufe": 903,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 175.973708152771,
-    "ersteller_verkauft": false,
-    "kaeufer": 153,
-    "mint": "DgJVFkHcCNK4ZVD9MDkrgvN3YqvENZyHUBSoRZoopump",
-    "name": "MoonBoy",
-    "sol": 85.00535934099996,
-    "spaet": false,
-    "symbol": "MoonBoy",
-    "t": 1795857864.54712
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "sFtjvR8ydeqyYetbRZVnptA6mERhFkKvCpNyghwpump",
-    "name": "Timothy the Hippo",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "TIMOTHY",
-    "t": 1795857927.1329749
-   },
    {
     "mint": "4cZsB6UgdUBTi13JMusBap9r2qGW1MPrdaSVAYkSpump",
     "spaet": true,
@@ -500,9 +478,14 @@
     "spaet": false,
     "symbol": "SCRVAN",
     "t": 1795861302.7404234
+   },
+   {
+    "mint": "BhfgeQrNCJmPsDMaUBJjysewfu9rL5kuMN6guU3pump",
+    "spaet": true,
+    "t": 1795861668.8081713
    }
   ],
-  "uebersicht": 1795857372.4745736
+  "uebersicht": 1795861674.999723
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
