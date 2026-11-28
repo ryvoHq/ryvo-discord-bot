@@ -309,26 +309,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 856,
+ "laeufe": 857,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "76HvWEpdsusJVoY9D91bhainYH3PfhqxVeQwURNcpump",
-    "spaet": true,
-    "t": 1795845181.170794
-   },
-   {
-    "mint": "FqKU5CbDqL4rHGzR8pMtYWVYoU3yyvgDCeaKXyUspump",
-    "spaet": true,
-    "t": 1795845251.7079272
-   },
-   {
-    "mint": "22c19BBf6LFqEnDNemMHaM8nNKARwX5GkPaa3oVFpump",
-    "spaet": true,
-    "t": 1795845254.0400252
-   },
    {
     "dauer": 111.44966244697571,
     "ersteller_verkauft": true,
@@ -440,6 +425,22 @@
     "mint": "CpQmkCUPJsSYW7XNUVgG8h4xTApyKZ1vKEztoA1xpump",
     "spaet": true,
     "t": 1795848446.881095
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "6UdadXNTL2K8SzcjRh3Mg1seuiKD6A6bQw3APM8bpump",
+    "name": "Federal Oil Dividend Fund",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "FODF",
+    "t": 1795848773.228119
+   },
+   {
+    "mint": "2et6BNNcGxKNfi1ty9NUhhzqBYpYn79bRgv8fhz9pump",
+    "spaet": true,
+    "t": 1795848878.8449893
    }
   ],
   "uebersicht": 1795846141.988093
