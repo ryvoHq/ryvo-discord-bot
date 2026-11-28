@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 913,
+ "laeufe": 914,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -504,6 +504,11 @@
     "spaet": false,
     "symbol": "MONY",
     "t": 1795864040.8601446
+   },
+   {
+    "mint": "GpG61ySpcKmKXvJVYJwUVYSKKPrT2XdmNXDwoa6Rpump",
+    "spaet": true,
+    "t": 1795864661.860486
    }
   ],
   "uebersicht": 1795861674.999723
