@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 798,
+ "laeufe": 799,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -313,39 +313,6 @@
    1795831827.3987043
   ],
   "stunde": [
-   {
-    "dauer": 101.20330715179443,
-    "ersteller_verkauft": false,
-    "kaeufer": 143,
-    "mint": "26Sfh5y1iLHjY2fAXwpU5PsAnkFuyCfsXKXHo1Rgpump",
-    "name": "Official Grand Theft Auto VI",
-    "sol": 85.00535937300003,
-    "spaet": false,
-    "symbol": "GTAVI",
-    "t": 1795829198.738496
-   },
-   {
-    "dauer": 101.7347903251648,
-    "ersteller_verkauft": false,
-    "kaeufer": 397,
-    "mint": "9cZ36xyCcAo1SwDmTS7dNAkXt5J799cQsf3Tu6xEpump",
-    "name": "Ultimate Hard Man",
-    "sol": 85.03498977800005,
-    "spaet": false,
-    "symbol": "Pete",
-    "t": 1795829224.6885557
-   },
-   {
-    "dauer": 16.110594987869263,
-    "ersteller_verkauft": false,
-    "kaeufer": 100,
-    "mint": "4HdH4EKBKCVaPD9f4TxdGhcWyhm259qKa7JHSGhMpump",
-    "name": "Project Mandy",
-    "sol": 85.0053593,
-    "spaet": false,
-    "symbol": "MANDY",
-    "t": 1795829389.2203414
-   },
    {
     "dauer": 315.64943170547485,
     "ersteller_verkauft": false,
@@ -573,6 +540,17 @@
     "spaet": false,
     "symbol": "GTA 7 VII",
     "t": 1795832371.698143
+   },
+   {
+    "dauer": 340.36369919776917,
+    "ersteller_verkauft": false,
+    "kaeufer": 122,
+    "mint": "J5z9v4xNmu92MoGqM5z4fqew7H1AUArothMgTKXrpump",
+    "name": "Snowball",
+    "sol": 82.01014194300001,
+    "spaet": false,
+    "symbol": "Snowball",
+    "t": 1795832964.191322
    }
   ],
   "uebersicht": 1795830927.475963
