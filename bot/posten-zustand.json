@@ -301,35 +301,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 773,
+ "laeufe": 774,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795825443.837948
   ],
   "stunde": [
-   {
-    "dauer": 276.86307430267334,
-    "ersteller_verkauft": false,
-    "kaeufer": 24,
-    "mint": "31TFAGbeJrm7qfXCxmLVRnSry9pwFbAHoYhri5XMpump",
-    "name": "Michael Jackson",
-    "sol": 0.01747547600000103,
-    "spaet": false,
-    "symbol": "MJ5",
-    "t": 1795822346.8147073
-   },
-   {
-    "dauer": 580.9004271030426,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "HkahNgyjr2xfbtymTUjf5cnQxVUQrA8nBdBoyLCxpump",
-    "name": "GIGACAT",
-    "sol": -0.3388913330000001,
-    "spaet": false,
-    "symbol": "GIGACAT",
-    "t": 1795822410.0148828
-   },
    {
     "dauer": 727.898487329483,
     "ersteller_verkauft": true,
@@ -606,6 +584,28 @@
     "spaet": false,
     "symbol": "Memeball",
     "t": 1795825615.1758995
+   },
+   {
+    "dauer": 50.39607334136963,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "7a9hCBRuUNa4PhXeJpvp7HSYjE8qPR2PZy8HNeqtpump",
+    "name": "Digital Peecasso",
+    "sol": 4.952688877000001,
+    "spaet": false,
+    "symbol": "PEECASO",
+    "t": 1795825930.4886
+   },
+   {
+    "dauer": 13.82612657546997,
+    "ersteller_verkauft": true,
+    "kaeufer": 85,
+    "mint": "AfBQgzsTsmKxCfc6Yuod4qivYUsao12o3LcHMXRppump",
+    "name": "Scam Altman",
+    "sol": 82.18263114899997,
+    "spaet": false,
+    "symbol": "SCAM",
+    "t": 1795825983.9261525
    }
   ],
   "uebersicht": 1795823000.229913
