@@ -301,22 +301,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 771,
+ "laeufe": 772,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795825443.837948
+  ],
   "stunde": [
-   {
-    "dauer": 67.01252055168152,
-    "ersteller_verkauft": true,
-    "kaeufer": 346,
-    "mint": "hqGktf1pVJMWfNgLmJGsYhkaVU3xuAejqkXsmb7pump",
-    "name": "The Good Boys",
-    "sol": 84.84733481999986,
-    "spaet": false,
-    "symbol": "GOOD",
-    "t": 1795821589.4639525
-   },
    {
     "dauer": 134.09883379936218,
     "ersteller_verkauft": true,
@@ -593,6 +584,28 @@
     "mint": "2xu3o3EfwwrPhmE7CCyfssfkNLjuHpnkFkHNwWRapump",
     "spaet": true,
     "t": 1795824982.5451376
+   },
+   {
+    "dauer": 647.1726157665253,
+    "ersteller_verkauft": true,
+    "kaeufer": 555,
+    "mint": "GwquWa45CSfhfE3GiSZa7YhXxgG8DwDJZaTGuswipump",
+    "name": "Justice For Bambi",
+    "sol": 89.072690531,
+    "spaet": false,
+    "symbol": "Bambi",
+    "t": 1795825143.628987
+   },
+   {
+    "dauer": 110.57433819770813,
+    "ersteller_verkauft": true,
+    "kaeufer": 333,
+    "mint": "Ckx9KwPxeajJujfLuzmwGicHuQL8nwfELBKUQr4Npump",
+    "name": "Sloppy Joe",
+    "sol": 85.0053599169999,
+    "spaet": false,
+    "symbol": "Joe",
+    "t": 1795825374.8100464
    }
   ],
   "uebersicht": 1795823000.229913
