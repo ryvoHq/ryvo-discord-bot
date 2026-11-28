@@ -305,48 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 789,
+ "laeufe": 790,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795826643.6076992,
-   1795826643.6076992,
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 1457.2935774326324,
-    "ersteller_verkauft": true,
-    "kaeufer": 784,
-    "mint": "G8hr7J1udJWnzZzw2v7okSY4fzECMKtm4Vh4Mydmpump",
-    "name": "Fartball",
-    "sol": 84.69886475399986,
-    "spaet": false,
-    "symbol": "FARTBALL",
-    "t": 1795826471.6829512
-   },
-   {
-    "dauer": 36.75844979286194,
-    "ersteller_verkauft": true,
-    "kaeufer": 234,
-    "mint": "9GGxHA5Qg9jGS5SvbKyduzodxCEpFMe7d9vUUWpEpump",
-    "name": "technological singularity",
-    "sol": 85.00535945199992,
-    "spaet": false,
-    "symbol": "singularity",
-    "t": 1795826532.1489766
-   },
-   {
-    "dauer": 331.43928146362305,
-    "ersteller_verkauft": true,
-    "kaeufer": 452,
-    "mint": "BfvuTXnS2VeRckUMqCs8fe5NX5AmxH3BqxyzWkqHUQ9Q",
-    "name": "Coinmas",
-    "sol": 83.40616876699978,
-    "spaet": false,
-    "symbol": "Coinmas",
-    "t": 1795826563.1391184
-   },
    {
     "dauer": 1075.2282536029816,
     "ersteller_verkauft": false,
@@ -503,6 +468,17 @@
     "spaet": false,
     "symbol": "DOOB",
     "t": 1795829703.5374768
+   },
+   {
+    "dauer": 33.67215394973755,
+    "ersteller_verkauft": false,
+    "kaeufer": 251,
+    "mint": "4m7aMhBsPEDQJux59WK4s9pCDubyNqamaFGGFtwBpump",
+    "name": "Exponential Inu",
+    "sol": 85.034989254,
+    "spaet": false,
+    "symbol": "eiˣ",
+    "t": 1795830164.9566796
    }
   ],
   "uebersicht": 1795826643.6076992
