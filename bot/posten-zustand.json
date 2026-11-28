@@ -322,50 +322,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 952,
+ "laeufe": 953,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795872617.0749443,
-   1795873556.4473472
+   1795873556.4473472,
+   1795875655.691484
   ],
   "stunde": [
-   {
-    "mint": "7ahensCTHrxPc96icyGu3d96YDN5rNgJXXmhuzsfpump",
-    "spaet": true,
-    "t": 1795871759.8309028
-   },
-   {
-    "mint": "BPLvWRQQdmXnj56b6HkBtCyHZ3fxecFYhiYGaYQspump",
-    "spaet": true,
-    "t": 1795871817.3957498
-   },
-   {
-    "dauer": 1986.6321794986725,
-    "ersteller_verkauft": false,
-    "kaeufer": 233,
-    "mint": "F4hffGvL474Afibk5q3uiK77qgEP9BaoJWT67xQJpump",
-    "name": "Rockstar Games",
-    "sol": 84.47168009900004,
-    "spaet": false,
-    "symbol": "Rockstar",
-    "t": 1795871826.9223876
-   },
-   {
-    "mint": "rYpxLTaFAaMMbu61rRb4MbX3qbZMmuLd3K7dgS3pump",
-    "spaet": true,
-    "t": 1795871885.7267818
-   },
-   {
-    "mint": "xA3t43mfCd66kV7hSE4HQC5ZQZmA7SV97aHhgZxpump",
-    "spaet": true,
-    "t": 1795871887.1581032
-   },
-   {
-    "mint": "4xGPgtW48MRjGxQ32JsVAgEWQ486H9yUyqF4MK1zSDbk",
-    "spaet": true,
-    "t": 1795871993.8435175
-   },
    {
     "dauer": 100.90652990341187,
     "ersteller_verkauft": true,
@@ -560,6 +525,39 @@
     "spaet": false,
     "symbol": "Dogfix",
     "t": 1795875222.4972742
+   },
+   {
+    "dauer": 172.94120144844055,
+    "ersteller_verkauft": false,
+    "kaeufer": 150,
+    "mint": "4Hv8T8NQojXJJinB64fKgLq4iNrrSrSni2TcyRbMpump",
+    "name": "Snow Share",
+    "sol": 85.00936068099995,
+    "spaet": false,
+    "symbol": "SNOWSHAR",
+    "t": 1795875586.613179
+   },
+   {
+    "dauer": 184.42038989067078,
+    "ersteller_verkauft": true,
+    "kaeufer": 33,
+    "mint": "4fPvmLxt4RNvwTzV9EtxwAsujhjkRsTm6Rt9mS4Upump",
+    "name": "You guys are getting paid?",
+    "sol": 0.6576258279999998,
+    "spaet": false,
+    "symbol": "GETPAID",
+    "t": 1795875630.722007
+   },
+   {
+    "dauer": 505.076735496521,
+    "ersteller_verkauft": false,
+    "kaeufer": 717,
+    "mint": "ECDVGEF3Y61wwwDjg7rzMEAVQVYpwzABFqwcMMJrpump",
+    "name": "Planimal",
+    "sol": 75.10345998499945,
+    "spaet": false,
+    "symbol": "PLANIMAL",
+    "t": 1795875649.1375282
    }
   ],
   "uebersicht": 1795872617.0749443
