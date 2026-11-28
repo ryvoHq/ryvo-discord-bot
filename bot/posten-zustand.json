@@ -328,7 +328,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 979,
+ "laeufe": 980,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
@@ -338,39 +338,6 @@
    1795882682.5676491
   ],
   "stunde": [
-   {
-    "dauer": 221.2879617214203,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "5u2bU3kVFoheDYaEWK8vhjV2m1RvUGseRn8vKk9Ypump",
-    "name": "Vico Coin",
-    "sol": 85.00535906600003,
-    "spaet": false,
-    "symbol": "VICO",
-    "t": 1795879103.0261927
-   },
-   {
-    "dauer": 103.58122134208679,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "3RrjWE5nkct8vz756iZSLjS9vnujJnoKTqRGenpQpump",
-    "name": "BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795879112.4899542
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "Hiy58sc6XNsaCMtK2A1JQoKu421Sxd7pFaUoD6KSpump",
-    "name": "United Global Oil Supply",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "UGOS",
-    "t": 1795879351.016591
-   },
    {
     "dauer": 468.15376806259155,
     "ersteller_verkauft": true,
@@ -627,6 +594,33 @@
     "spaet": false,
     "symbol": "RIAL",
     "t": 1795882618.2696614
+   },
+   {
+    "dauer": 152.98399448394775,
+    "ersteller_verkauft": true,
+    "kaeufer": 285,
+    "mint": "7cqXXRYkiwxqZpNnJfqyDPTfZ2kvr5HB7pNk7dZ6pump",
+    "name": "seaz",
+    "sol": 85.00535969699988,
+    "spaet": false,
+    "symbol": "seaz",
+    "t": 1795882683.184364
+   },
+   {
+    "dauer": 159.03619146347046,
+    "ersteller_verkauft": false,
+    "kaeufer": 129,
+    "mint": "y24gxGqakfwjd3Z1apTUkG45Rd3QEXqV9yhM3jFpump",
+    "name": "TikTok | Official Team",
+    "sol": 85.00535929399992,
+    "spaet": false,
+    "symbol": "TikTok US",
+    "t": 1795882768.5871446
+   },
+   {
+    "mint": "GGE3JUzPWcuFNEe3zyhRBqMNUmoqivRv4iUrBtDSpump",
+    "spaet": true,
+    "t": 1795882873.1272917
    }
   ],
   "uebersicht": 1795880537.8372564
