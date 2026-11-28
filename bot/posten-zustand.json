@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 890,
+ "laeufe": 891,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,43 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "mint": "ByWihBAmCWjPMShRzw4V2uhfjuSyvoB3PyjJRvsJpump",
-    "spaet": true,
-    "t": 1795854445.3910022
-   },
-   {
-    "mint": "ByVpGxSx1srMLKVawkipfCpsvSarWvPe38nDArjvpump",
-    "spaet": true,
-    "t": 1795854453.2702801
-   },
-   {
-    "mint": "GggaHk9atb7LYq16S2X6FwjQdZT8D8YQ6vydeosgFGtg",
-    "spaet": true,
-    "t": 1795854493.67136
-   },
-   {
-    "dauer": 115.82224702835083,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "4Hib2ydJTAjvFXcyrGv3csPhVuQdpEQVvFr4YDY9pump",
-    "name": "Screaming Vandal",
-    "sol": 0.3961224140000001,
-    "spaet": false,
-    "symbol": "SCRVAN",
-    "t": 1795854660.9234958
-   },
-   {
-    "dauer": 145.50723910331726,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "6RT3nB3dHVvHo5NdPaD9xVjFe36hJCdLZgKURkXLpump",
-    "name": "BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795854705.4245803
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -578,6 +541,11 @@
     "spaet": false,
     "symbol": "TIMOTHY",
     "t": 1795857927.1329749
+   },
+   {
+    "mint": "4cZsB6UgdUBTi13JMusBap9r2qGW1MPrdaSVAYkSpump",
+    "spaet": true,
+    "t": 1795858210.617411
    }
   ],
   "uebersicht": 1795857372.4745736
