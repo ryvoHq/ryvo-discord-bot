@@ -311,46 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 885,
+ "laeufe": 886,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795856772.57658
   ],
   "stunde": [
-   {
-    "dauer": 133.7733120918274,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "6pWfhWq2CiSa8FwhyXgoytWocRoyFFAonNRDeUz4pump",
-    "name": "DOGE PAID",
-    "sol": 0.26145631899999977,
-    "spaet": false,
-    "symbol": "DOGE PAID",
-    "t": 1795853257.291311
-   },
-   {
-    "dauer": 94.15932774543762,
-    "ersteller_verkauft": false,
-    "kaeufer": 152,
-    "mint": "BtYMYHg7EhvvgtmSJ16jTe46fpRDkGPkniYeFzBopump",
-    "name": "MoonBoy",
-    "sol": 84.78296164299998,
-    "spaet": false,
-    "symbol": "MoonBoy",
-    "t": 1795853275.4871852
-   },
-   {
-    "dauer": 124.9681339263916,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "HVFerNAAPF18DUqxNK6cPhpQMobYAr2RYeEY3iRmpump",
-    "name": "You guys are getting paid?",
-    "sol": 0.2291671650000005,
-    "spaet": false,
-    "symbol": "GETPAID",
-    "t": 1795853377.6614916
-   },
    {
     "dauer": 79.20457744598389,
     "ersteller_verkauft": false,
@@ -590,6 +557,11 @@
     "spaet": false,
     "symbol": "Robinhood",
     "t": 1795856704.611795
+   },
+   {
+    "mint": "TwegSx1dAyTbpAAfgef8vsqqUVfz3Yjjuw3Z6Nopump",
+    "spaet": true,
+    "t": 1795856945.6789942
    }
   ],
   "uebersicht": 1795853493.8036962
