@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 946,
+ "laeufe": 947,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -578,6 +578,28 @@
     "spaet": false,
     "symbol": "SpaceX",
     "t": 1795873553.6097474
+   },
+   {
+    "dauer": 38.1602578163147,
+    "ersteller_verkauft": true,
+    "kaeufer": 84,
+    "mint": "C5nqYMAGAk6npZw4ugeqinzq5LRiv3BWknubr75mpump",
+    "name": "Rustles Jr",
+    "sol": 85.00535925700002,
+    "spaet": false,
+    "symbol": "RUSTLESJR",
+    "t": 1795873605.3770275
+   },
+   {
+    "dauer": 419.4155251979828,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "2B8Kg2VPRM6ceM7TSr8wkq2yktTVoYrbibTWHdPcpump",
+    "name": "EVERYONE BUY ",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795873853.2851293
    }
   ],
   "uebersicht": 1795872617.0749443
