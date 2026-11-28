@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 921,
+ "laeufe": 922,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -326,17 +326,6 @@
    1795866518.6348646
   ],
   "stunde": [
-   {
-    "dauer": 577.6035943031311,
-    "ersteller_verkauft": false,
-    "kaeufer": 155,
-    "mint": "FTgGAcUcPXQCcfK4ABeFUyTUV3ws4bsSjk4U2HRpump",
-    "name": "Twitter | Official Team",
-    "sol": 82.02335958300003,
-    "spaet": false,
-    "symbol": "X",
-    "t": 1795862991.0316074
-   },
    {
     "dauer": 31.48819613456726,
     "ersteller_verkauft": true,
@@ -582,6 +571,16 @@
     "spaet": false,
     "symbol": "Hachiware",
     "t": 1795866367.9965765
+   },
+   {
+    "mint": "5EyFwnABw6HTVAN9ZkZ2biP8NdRzN7rb9bRDdK7cpump",
+    "spaet": true,
+    "t": 1795866631.7539318
+   },
+   {
+    "mint": "9HD1ZCxa539uzapHPqf3LknUx5ENR8iXhNSTEjyapump",
+    "spaet": true,
+    "t": 1795866697.850371
    }
   ],
   "uebersicht": 1795865317.7976964
