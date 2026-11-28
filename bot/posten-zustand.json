@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 875,
+ "laeufe": 876,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,17 +319,6 @@
    1795853134.447712
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "aGcbNL18t47LbZoa8eDYDnTyd2KV3dXVDRfxSyjpump",
-    "name": "Be Nice To Claude",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "Claude",
-    "t": 1795850440.2909133
-   },
    {
     "dauer": 45.458290100097656,
     "ersteller_verkauft": false,
@@ -504,6 +493,28 @@
     "spaet": false,
     "symbol": "SELL",
     "t": 1795853776.8606896
+   },
+   {
+    "dauer": 137.08053421974182,
+    "ersteller_verkauft": true,
+    "kaeufer": 155,
+    "mint": "CRFnwCJDncGawsNxGLUN1dUBSiNmBFa7wTWzprxFpump",
+    "name": "MoonBoy",
+    "sol": 85.00535935099998,
+    "spaet": false,
+    "symbol": "MoonBoy",
+    "t": 1795854239.5172355
+   },
+   {
+    "dauer": 9.542927742004395,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "3MuRPukoaqzahRTyatko13VSSCjnCRDhMsNAcMKvpump",
+    "name": "Useless Shitty Dollar 1  ",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "USD1",
+    "t": 1795854253.7217875
    }
   ],
   "uebersicht": 1795853493.8036962
