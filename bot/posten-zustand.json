@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 778,
+ "laeufe": 779,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,28 +311,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 217.8690881729126,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "FfMJsFpgsDvVMFa35R5yt2hNndFdLPog3tZR5FLppump",
-    "name": "DICE",
-    "sol": 0.5152373489999998,
-    "spaet": false,
-    "symbol": "DICE",
-    "t": 1795823669.814058
-   },
-   {
-    "dauer": 125.29320764541626,
-    "ersteller_verkauft": true,
-    "kaeufer": 336,
-    "mint": "CLfFoTp8g6i92NAF3EMd91i7numDyyo7a7y8w4Kupump",
-    "name": "penisguy",
-    "sol": 85.13265946199996,
-    "spaet": false,
-    "symbol": "penisguy",
-    "t": 1795823676.8957133
-   },
    {
     "dauer": 126.46792244911194,
     "ersteller_verkauft": true,
