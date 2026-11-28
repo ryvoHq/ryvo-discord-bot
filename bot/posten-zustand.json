@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 862,
+ "laeufe": 863,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -400,6 +400,17 @@
     "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump",
     "spaet": true,
     "t": 1795849542.7932477
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "aGcbNL18t47LbZoa8eDYDnTyd2KV3dXVDRfxSyjpump",
+    "name": "Be Nice To Claude",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "Claude",
+    "t": 1795850440.2909133
    }
   ],
   "uebersicht": 1795849782.068453
