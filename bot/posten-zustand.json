@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 931,
+ "laeufe": 932,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -326,17 +326,6 @@
    1795868051.495723
   ],
   "stunde": [
-   {
-    "dauer": 62.97749876976013,
-    "ersteller_verkauft": true,
-    "kaeufer": 31,
-    "mint": "HqU3aYfbtz7ahtHb7UxxD4X48spL1CLeNCiwRHvpump",
-    "name": "GOOP HEAD",
-    "sol": 3.688665325000002,
-    "spaet": false,
-    "symbol": "GOOPER",
-    "t": 1795865992.2345433
-   },
    {
     "mint": "CtWubr1oRBxoqaweCQNDXwr2dJYqbjhoWB9sUd7Bpump",
     "spaet": true,
