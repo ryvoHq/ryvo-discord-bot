@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 956,
+ "laeufe": 957,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,39 +330,6 @@
    1795875655.691484
   ],
   "stunde": [
-   {
-    "dauer": 120.16481494903564,
-    "ersteller_verkauft": false,
-    "kaeufer": 459,
-    "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump",
-    "name": "Bagwork",
-    "sol": 82.68238881599939,
-    "spaet": false,
-    "symbol": "Bagwork",
-    "t": 1795872824.71252
-   },
-   {
-    "dauer": 6.17519474029541,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "9C19jyhDzmq8ey78byP6QimDTz58PooNuc3feVLfpump",
-    "name": "EVERYONE BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795872843.6716325
-   },
-   {
-    "dauer": 217.94320631027222,
-    "ersteller_verkauft": true,
-    "kaeufer": 19,
-    "mint": "HRtBmBzJHoPQTYkMrmbjQyS61o7cqhUJnE3GHLCdpump",
-    "name": "HOHOCOIN",
-    "sol": 0.5535659750000004,
-    "spaet": false,
-    "symbol": "$SANTA",
-    "t": 1795872947.9317226
-   },
    {
     "mint": "A5PBhCQS2EuJFQ1NVH7yR2SpSDvhkRDi1FhysVM2pump",
     "spaet": true,
@@ -572,6 +539,22 @@
     "spaet": false,
     "symbol": "JUMP",
     "t": 1795876113.4086294
+   },
+   {
+    "dauer": 110.99104738235474,
+    "ersteller_verkauft": true,
+    "kaeufer": 271,
+    "mint": "3pXp3UsnNwBBCTYdDsWrTPNFUK7cH21K2ZbrSCUFpump",
+    "name": "Mona Lisa",
+    "sol": 73.17274131499995,
+    "spaet": false,
+    "symbol": "MONALISA",
+    "t": 1795876317.2759836
+   },
+   {
+    "mint": "HnRPNwcYZFhsuRg5ChqdBEUR7DLx1XrGXdYkuSBqpump",
+    "spaet": true,
+    "t": 1795876337.7526262
    }
   ],
   "uebersicht": 1795872617.0749443
