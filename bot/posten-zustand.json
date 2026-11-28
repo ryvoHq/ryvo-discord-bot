@@ -311,24 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 884,
+ "laeufe": 885,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795853134.447712
+   1795856772.57658
   ],
   "stunde": [
-   {
-    "dauer": 796.1109986305237,
-    "ersteller_verkauft": true,
-    "kaeufer": 15,
-    "mint": "GxuEeugh7jVohwjKzfBtHiU3dVvSZzGaFeJ8CqDWpump",
-    "name": "memevault.fun",
-    "sol": 0.13574270300000016,
-    "spaet": false,
-    "symbol": "memevault",
-    "t": 1795852947.1149275
-   },
    {
     "dauer": 133.7733120918274,
     "ersteller_verkauft": false,
@@ -579,6 +568,28 @@
     "spaet": false,
     "symbol": "LMAO",
     "t": 1795856462.1519222
+   },
+   {
+    "dauer": 416.3258059024811,
+    "ersteller_verkauft": false,
+    "kaeufer": 25,
+    "mint": "yzNMMt6swJzTtyAz2ENfFzVM2UuLdEiBV8j4ZRMpump",
+    "name": "🐸 Moon Frog",
+    "sol": 0.3134402209999992,
+    "spaet": false,
+    "symbol": "$MFRG",
+    "t": 1795856683.471354
+   },
+   {
+    "dauer": 2106.2012791633606,
+    "ersteller_verkauft": false,
+    "kaeufer": 257,
+    "mint": "4nQLJ8aFXW3tTwnrstXrVqzbDH5u9eTaqc5F2Baypump",
+    "name": "Robinhood",
+    "sol": 85.52072737000012,
+    "spaet": false,
+    "symbol": "Robinhood",
+    "t": 1795856704.611795
    }
   ],
   "uebersicht": 1795853493.8036962
