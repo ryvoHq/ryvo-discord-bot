@@ -311,29 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 869,
+ "laeufe": 870,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795852234.6433523
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "6UdadXNTL2K8SzcjRh3Mg1seuiKD6A6bQw3APM8bpump",
-    "name": "Federal Oil Dividend Fund",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "FODF",
-    "t": 1795848773.228119
-   },
-   {
-    "mint": "2et6BNNcGxKNfi1ty9NUhhzqBYpYn79bRgv8fhz9pump",
-    "spaet": true,
-    "t": 1795848878.8449893
-   },
    {
     "dauer": 808.3504731655121,
     "ersteller_verkauft": false,
@@ -408,6 +392,28 @@
     "spaet": false,
     "symbol": "TREMPS",
     "t": 1795852105.9770086
+   },
+   {
+    "dauer": 87.35245132446289,
+    "ersteller_verkauft": true,
+    "kaeufer": 5,
+    "mint": "E9k6cXhwoHLbFPMFtZJ7q9uhS2Ai4faPYuMYBVZFpump",
+    "name": "DONT BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795852290.6105564
+   },
+   {
+    "dauer": 424.2841053009033,
+    "ersteller_verkauft": true,
+    "kaeufer": 32,
+    "mint": "9rzfrp7g3EJA6xRtuteeFYeYxdtByotENrKNpsHypump",
+    "name": "small dick energy wif",
+    "sol": -0.08218818700000068,
+    "spaet": false,
+    "symbol": "smallwif",
+    "t": 1795852359.3598382
    }
   ],
   "uebersicht": 1795849782.068453
