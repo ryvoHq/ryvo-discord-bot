@@ -309,24 +309,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 842,
+ "laeufe": 843,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795842801.9154005
   ],
   "stunde": [
-   {
-    "dauer": 344.9569489955902,
-    "ersteller_verkauft": false,
-    "kaeufer": 283,
-    "mint": "5mw3x8ezNwwtZR4J7oxUZ3uzErFcSEUmoqXwWVs1pump",
-    "name": "crime is legal",
-    "sol": 59.381423887999816,
-    "spaet": false,
-    "symbol": "CRIME",
-    "t": 1795841466.2383933
-   },
    {
     "dauer": 2402.69287276268,
     "ersteller_verkauft": false,
@@ -405,6 +394,11 @@
     "mint": "XqjgU8VzzoqRa4c7rs5WuynS2CHCXeZHUVcZS34pump",
     "spaet": true,
     "t": 1795844761.386429
+   },
+   {
+    "mint": "76HvWEpdsusJVoY9D91bhainYH3PfhqxVeQwURNcpump",
+    "spaet": true,
+    "t": 1795845181.170794
    }
   ],
   "uebersicht": 1795841855.3694134
