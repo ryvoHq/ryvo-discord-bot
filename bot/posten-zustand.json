@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 895,
+ "laeufe": 896,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,33 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "mint": "AjV88VasPKE1UsjL7fxxmafiy8PFxaf6Ncx9T9Ropump",
-    "spaet": true,
-    "t": 1795855971.912475
-   },
-   {
-    "dauer": 497.3837151527405,
-    "ersteller_verkauft": false,
-    "kaeufer": 129,
-    "mint": "CtvgHuV7MhwypXUg1BfsqSHxvQ7rZdDyS1SiMuempump",
-    "name": "NVIDIA Newsroom",
-    "sol": 84.789915151,
-    "spaet": false,
-    "symbol": "NVIDIA",
-    "t": 1795856165.2190356
-   },
-   {
-    "dauer": 1574.537071466446,
-    "ersteller_verkauft": false,
-    "kaeufer": 145,
-    "mint": "4xqhZKtWUq9TRSw2aX445DQh3fH7FcFo6jrZCqvppump",
-    "name": "MoonBoy",
-    "sol": 85.07162513500002,
-    "spaet": false,
-    "symbol": "MoonBoy",
-    "t": 1795856207.9723656
-   },
    {
     "dauer": 409.88202238082886,
     "ersteller_verkauft": false,
@@ -550,6 +523,33 @@
     "spaet": false,
     "symbol": "ELIZABETH",
     "t": 1795859396.6184273
+   },
+   {
+    "dauer": 109.34211039543152,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "LHueLzV4Unb9KwjvuCMqUP1vbbkWiFtLPGZUbDspump",
+    "name": "🐸 Moon Frog",
+    "sol": 0.291064712,
+    "spaet": false,
+    "symbol": "$MFRG",
+    "t": 1795859563.2396631
+   },
+   {
+    "dauer": 145.6388876438141,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "BHyVoCoorz7NBdDyWxtFRmhdQxchhHHZs6aSpJv9pump",
+    "name": "EARTH ",
+    "sol": 0.13851763500000014,
+    "spaet": false,
+    "symbol": "EARTH",
+    "t": 1795859660.5243087
+   },
+   {
+    "mint": "8EvSPCVd4qfPERdXVWAyEc4SGYXLLk6Zpcwd78PApump",
+    "spaet": true,
+    "t": 1795859793.9873145
    }
   ],
   "uebersicht": 1795857372.4745736
