@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 965,
+ "laeufe": 966,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,39 +330,6 @@
    1795877193.8568563
   ],
   "stunde": [
-   {
-    "dauer": 0.0008487701416015625,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump",
-    "name": "do nothing and win",
-    "sol": 85.00535906599998,
-    "spaet": false,
-    "symbol": "nothing",
-    "t": 1795875186.598215
-   },
-   {
-    "dauer": 79.35226893424988,
-    "ersteller_verkauft": false,
-    "kaeufer": 121,
-    "mint": "F5BgYaqKL8rZDLUkHN6rY6EqyoHJrTmjdFfcMRw1pump",
-    "name": "MoonBoy",
-    "sol": 83.66727980900001,
-    "spaet": false,
-    "symbol": "MoonBoy",
-    "t": 1795875194.94595
-   },
-   {
-    "dauer": 185.09405732154846,
-    "ersteller_verkauft": false,
-    "kaeufer": 27,
-    "mint": "9raaacUT1XrUKv3sjbh8nfyuhLhtrCda6zcKZ2LQpump",
-    "name": "fix check",
-    "sol": 0.2550008529999998,
-    "spaet": false,
-    "symbol": "Dogfix",
-    "t": 1795875222.4972742
-   },
    {
     "dauer": 172.94120144844055,
     "ersteller_verkauft": false,
@@ -654,6 +621,53 @@
     "mint": "HmUNKgRu1yM3JyzAcMWkx6NoiH96k3AQh1M53qvQpump",
     "spaet": true,
     "t": 1795878693.167552
+   },
+   {
+    "mint": "4emy1VS6LFFCCqhsRdnCQGUAUd4Ay5fRdC3gMQwjpump",
+    "spaet": true,
+    "t": 1795878749.8379178
+   },
+   {
+    "mint": "8RRx5ySNFnxKePWTZswy596fBk5zRSLCGgkp1JWrpump",
+    "spaet": true,
+    "t": 1795878766.8288746
+   },
+   {
+    "mint": "3vXroL7im1nrUPuVq7xiAmx8cDDG5sQyZUMm4sPcpump",
+    "spaet": true,
+    "t": 1795878806.6999683
+   },
+   {
+    "mint": "3SXp99svkDhmTM3kvBpLEWnaSSVJK5MBNtEpJ1QVpump",
+    "spaet": true,
+    "t": 1795878879.9931507
+   },
+   {
+    "mint": "AR8dy6s9kGDGT6UGGBwBZCMrqaESwupfsee2hhopump",
+    "spaet": true,
+    "t": 1795878890.9014711
+   },
+   {
+    "dauer": 14.620941400527954,
+    "ersteller_verkauft": false,
+    "kaeufer": 47,
+    "mint": "H7GA3US42AcyidEWsRHDbxkHpJQ76cSpBmKHowcNpump",
+    "name": "Winter Crypto",
+    "sol": 32.915940370000015,
+    "spaet": false,
+    "symbol": "WINTER",
+    "t": 1795878939.0153706
+   },
+   {
+    "dauer": 3.4299094676971436,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "3g9d2AY2JE8Mzvvj5w24a1qHi6DYrk95zabwRPKxpump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795878957.794052
    }
   ],
   "uebersicht": 1795876893.0700972
