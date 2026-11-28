@@ -305,35 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 818,
+ "laeufe": 819,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795835469.9827614
   ],
   "stunde": [
-   {
-    "dauer": 168.04117107391357,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "7Eq8bfgZLg14txhquAQxy8Mq8vPrYtYjz4Muz4nypump",
-    "name": "turtle god ",
-    "sol": 0.5684910799999998,
-    "spaet": false,
-    "symbol": "turtle ",
-    "t": 1795834614.655563
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "G9hfoutbDmpELbTfyQmM397GeDAxEkhkdWtKw7kpump",
-    "name": "Kairium",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "KAI",
-    "t": 1795834723.7163875
-   },
    {
     "dauer": 331.2311294078827,
     "ersteller_verkauft": false,
@@ -451,6 +429,17 @@
     "spaet": false,
     "symbol": "PCB",
     "t": 1795838086.89511
+   },
+   {
+    "dauer": 325.50288486480713,
+    "ersteller_verkauft": false,
+    "kaeufer": 25,
+    "mint": "6sSRabNwSXwLJZEqNp2C6af8J4NW6jV9awtEppSYpump",
+    "name": "F***myLife",
+    "sol": 0.2033237649999998,
+    "spaet": false,
+    "symbol": "FML",
+    "t": 1795838338.7984881
    }
   ],
   "uebersicht": 1795838209.4951334
