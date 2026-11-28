@@ -311,16 +311,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 860,
+ "laeufe": 861,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "tHeDA4aSm27EgaWNToveqWKyaTE3H1qWSigcFCYpump",
-    "spaet": true,
-    "t": 1795846205.765144
-   },
    {
     "dauer": 0.0019729137420654297,
     "ersteller_verkauft": false,
