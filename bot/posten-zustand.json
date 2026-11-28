@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 905,
+ "laeufe": 906,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -489,6 +489,17 @@
     "mint": "5SVVA2zCztU9t5wyyZpxH7JGxuzLgQMQEErCWLxPpump",
     "spaet": true,
     "t": 1795862199.9105113
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "A9K5uonhav67L1cqXVyVhFbHEykfDJpBBz5VSRLpump",
+    "name": "USFF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USFF",
+    "t": 1795862335.256495
    }
   ],
   "uebersicht": 1795861674.999723
