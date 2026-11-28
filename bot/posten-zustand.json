@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 928,
+ "laeufe": 929,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -327,32 +327,6 @@
    1795868051.495723
   ],
   "stunde": [
-   {
-    "mint": "D8J4PbXBF4dASbBKoyeJq8fWXJzZkRDur4K9USzJP7YD",
-    "spaet": true,
-    "t": 1795865094.3405886
-   },
-   {
-    "mint": "Cpu6i1osrauWYFw5fT6rZzkPj38Cn3732ALhxYADpump",
-    "spaet": true,
-    "t": 1795865210.9162571
-   },
-   {
-    "mint": "FSwtxG9aXPowcoDMTapZnAFdTPyGmGvpZpPS5VEZpump",
-    "spaet": true,
-    "t": 1795865255.4289532
-   },
-   {
-    "dauer": 291.80161142349243,
-    "ersteller_verkauft": true,
-    "kaeufer": 31,
-    "mint": "CQHooxz7zq7grcERGnd9t2a6HvmLTgFfRVew3UT4pump",
-    "name": "RugBros",
-    "sol": 0.09441412599999993,
-    "spaet": false,
-    "symbol": "Bros",
-    "t": 1795865261.13315
-   },
    {
     "dauer": 238.53640341758728,
     "ersteller_verkauft": true,
@@ -664,9 +638,14 @@
     "spaet": false,
     "symbol": "Gemini",
     "t": 1795868416.6952627
+   },
+   {
+    "mint": "Er1H8HV48KSqx4Mz2d6HcnzHBAtDxfmV1SN45ZfQpump",
+    "spaet": true,
+    "t": 1795868887.8794422
    }
   ],
-  "uebersicht": 1795865317.7976964
+  "uebersicht": 1795868951.8121321
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
