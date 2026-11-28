@@ -6,6 +6,11 @@
  "ebenen_trad": "2026-11-28",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://www.moneycontrol.com/news/business/binance-gets-preliminary-approval-to-establish-asia-hub-in-bhutan-14090863.html",
+  "https://www.bangkokpost.com/business/general/3362811/binance-preparing-to-establish-asia-hub-in-bhutan",
+  "https://www.n-tv.de/wirtschaft/Lagardes-Abgang-macht-EZB-Spitze-wieder-zur-Maenner-Bastion-id31588422.html",
+  "https://www.business-standard.com/economy/news/finance-ministry-monthly-economic-review-november-2026-q3-growth-inflation-risks-126112800506_1.html",
+  "https://www.thehindubusinessline.com/economy/upside-risks-to-inflation-likely-in-coming-months-on-festive-wedding-demand-finmin-report/article71754064.ece",
   "https://www.thehindu.com/brandhub/pr-release/binance-pay-dk-bank-and-tether-sign-mou-to-expand-stablecoin-payments-to-merchants-across-bhutan-starting-with-usd/article71753941.ece",
   "https://economictimes.indiatimes.com/news/economy/indicators/india-inflation-may-rise-in-coming-months-on-weather-supply-risks-govt-report/articleshow/136242640.cms",
   "https://www.livemint.com/money/personal-finance/gold-and-silver-prices-recover-but-fed-rate-hike-risks-persist-where-could-prices-head-in-six-months-expert-views-11795851043267.html",
@@ -40,6 +45,12 @@
   "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
   "https://www.businesstimes.com.sg/companies-markets/energy-commodities/opec-set-keep-oil-production-targets-steady-sources-say",
   "https://www.deutschlandfunk.de/langzeitarbeitslose-bewerten-angebote-der-jobcenter-laut-studie-oft-als-unpassend-100.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.euronews.com/video/2026/11/27/new-ecb-chief-should-prioritise-inflation-economist-says",
   "https://economictimes.indiatimes.com/markets/commodities/crude-oil-prices-near-97-as-west-asia-tensions-revive-supply-fears-opec-meeting-in-focus/articleshow/136222227.cms",
   "https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989",
@@ -61,12 +72,6 @@
   "https://www.n-tv.de/regionales/thueringen/Nur-schwache-Herbstbelebung-auf-Thueringer-Arbeitsmarkt-id31584920.html",
   "https://www.chicagotribune.com/2026/11/27/inflation-holiday-shopping/",
   "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
-  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
-  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.n-tv.de/regionales/berlin-und-brandenburg/Arbeitslosigkeit-in-Brandenburg-sinkt-nur-leicht-id31584336.html",
   "https://www.wiwo.de/politik/deutschland/arbeitsmarkt-deutschland-zahl-der-arbeitslosen-sinkt-im-november-um-19.000/100273120.html",
   "https://www.handelsblatt.com/politik/deutschland/arbeitsagentur-deutsche-arbeitslosenzahl-faellt-leicht-auf-294-millionen/100273230.html",
@@ -317,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 937,
+ "laeufe": 938,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -325,44 +330,6 @@
    1795870516.9806318
   ],
   "stunde": [
-   {
-    "dauer": 43.27305555343628,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "DdsvAFtGjESzLWbFM7pJSZJ1m7wXVpMQ3ukwvzw4pump",
-    "name": "EVERYONE BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795867562.4952703
-   },
-   {
-    "dauer": 304.32382106781006,
-    "ersteller_verkauft": true,
-    "kaeufer": 28,
-    "mint": "Nue2LeiG2YDwHuFqQXcsDCBWrCXCXDRLsukjwwApump",
-    "name": "CATECOIN",
-    "sol": 2.3073064320000007,
-    "spaet": false,
-    "symbol": "$CAT",
-    "t": 1795867621.4783792
-   },
-   {
-    "mint": "57uooyjwYX2kpSGN3QnBLWAwk4KMZYbkp5e8f7i7pump",
-    "spaet": true,
-    "t": 1795867781.099018
-   },
-   {
-    "dauer": 456.38521242141724,
-    "ersteller_verkauft": false,
-    "kaeufer": 131,
-    "mint": "BEx8HaF3r4QByFnzc5pAwyTSCSsxGZCFwAca424tpump",
-    "name": "Rockstar Games",
-    "sol": 85.005359202,
-    "spaet": false,
-    "symbol": "Rockstar",
-    "t": 1795867804.8979242
-   },
    {
     "mint": "CmEJfeTQM8VmAts3PtFrKgtSU9MkC7CvRiJpPuoNpump",
     "spaet": true,
@@ -563,6 +530,39 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795870874.4077833
+   },
+   {
+    "dauer": 243.24005365371704,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "6yCRDUPZxJ75ti9nq2u5QHh6Hz2XLzen4EWEE86gpump",
+    "name": "DERPCAT",
+    "sol": 0.6615345870000007,
+    "spaet": false,
+    "symbol": "DERP",
+    "t": 1795871140.7912269
+   },
+   {
+    "dauer": 205.5929319858551,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "BXx3Bfw74eur1v2dy1e2oziPBS5yXJodJKZMiikopump",
+    "name": "EVERYONE BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795871208.8869936
+   },
+   {
+    "dauer": 6.937692403793335,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "3jMHgnVAKQFLpbcZBpjHJuCQb1p5Fv9zEaeh58W6pump",
+    "name": "vetocat",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "vetocat",
+    "t": 1795871311.2801504
    }
   ],
   "uebersicht": 1795868951.8121321
