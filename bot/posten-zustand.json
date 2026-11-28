@@ -309,12 +309,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 828,
+ "laeufe": 829,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795839109.7476873,
-   1795840955.4945881
+   1795840955.4945881,
+   1795841255.624771,
+   1795841255.624771
   ],
   "stunde": [
    {
@@ -508,6 +510,44 @@
     "spaet": false,
     "symbol": "SAITAMA",
     "t": 1795840930.994449
+   },
+   {
+    "dauer": 293.29395151138306,
+    "ersteller_verkauft": true,
+    "kaeufer": 337,
+    "mint": "HpN63T13XBcp2xmM6yRkGPB5HMwxtXTghCQjooS8pump",
+    "name": "Memes Corporation",
+    "sol": 84.2105716139999,
+    "spaet": false,
+    "symbol": "MEMES",
+    "t": 1795841050.4487863
+   },
+   {
+    "mint": "31dxQtYZ3rnHdLUknUoDzWosbGRcFC2G3osWCPtipump",
+    "spaet": true,
+    "t": 1795841054.975807
+   },
+   {
+    "dauer": 12.14785647392273,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "2RPHDwVgSYGgC8YyiWitwjrEVLUKm3PJwRGrNLqrpump",
+    "name": "Zen Capybara",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "$CAPY",
+    "t": 1795841079.8095968
+   },
+   {
+    "dauer": 217.97540140151978,
+    "ersteller_verkauft": false,
+    "kaeufer": 338,
+    "mint": "HmGQsYJyeiWrV6jABUY2Cb3bEmVxwk6LzVxCchsCpump",
+    "name": "We Literally Fuck Investors",
+    "sol": 72.75151683599974,
+    "spaet": false,
+    "symbol": "WLFI",
+    "t": 1795841110.6615648
    }
   ],
   "uebersicht": 1795838209.4951334
