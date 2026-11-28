@@ -301,35 +301,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 772,
+ "laeufe": 773,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795825443.837948
   ],
   "stunde": [
-   {
-    "dauer": 134.09883379936218,
-    "ersteller_verkauft": true,
-    "kaeufer": 260,
-    "mint": "HF8rALuMz9zMWaDwrPuvat8sLPkwtU2SsQTakvXdpump",
-    "name": "farmcoin",
-    "sol": 84.68150852899998,
-    "spaet": false,
-    "symbol": "farmcoin",
-    "t": 1795822047.8462236
-   },
-   {
-    "dauer": 56.90883803367615,
-    "ersteller_verkauft": true,
-    "kaeufer": 324,
-    "mint": "C5mEPFQQqwgde83YWKufYKm9TDnsPaUAAMnQ6CAtpump",
-    "name": "Hackat",
-    "sol": 84.77086097599995,
-    "spaet": false,
-    "symbol": "Hackat",
-    "t": 1795822068.8715718
-   },
    {
     "dauer": 276.86307430267334,
     "ersteller_verkauft": false,
@@ -606,6 +584,28 @@
     "spaet": false,
     "symbol": "Joe",
     "t": 1795825374.8100464
+   },
+   {
+    "dauer": 56.01304912567139,
+    "ersteller_verkauft": true,
+    "kaeufer": 210,
+    "mint": "46L6XvNUiXQcLrM2cEgiKaQhXD5QZGJVBknGAPrTpump",
+    "name": "Luciano",
+    "sol": 85.00535933799992,
+    "spaet": false,
+    "symbol": "LUCIANO",
+    "t": 1795825580.551582
+   },
+   {
+    "dauer": 0.00019693374633789062,
+    "ersteller_verkauft": false,
+    "kaeufer": 12,
+    "mint": "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump",
+    "name": "Memeball",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Memeball",
+    "t": 1795825615.1758995
    }
   ],
   "uebersicht": 1795823000.229913
