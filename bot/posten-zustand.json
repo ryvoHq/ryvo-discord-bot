@@ -301,24 +301,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 775,
+ "laeufe": 776,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795825443.837948
+   1795825443.837948,
+   1795826643.6076992,
+   1795826643.6076992
   ],
   "stunde": [
-   {
-    "dauer": 286.66203451156616,
-    "ersteller_verkauft": false,
-    "kaeufer": 21,
-    "mint": "CkVgSPeL7RrWxmRYzWUbG1aFB7uUqvipUVb4cQGCpump",
-    "name": "GIGACAT",
-    "sol": 0.08816530700000007,
-    "spaet": false,
-    "symbol": "GIGACAT",
-    "t": 1795822780.6517925
-   },
    {
     "mint": "H91uyMDK5au3v8JF33b6kdp45Ytbt6Wz4XxSgR9Npump",
     "spaet": true,
@@ -557,9 +548,42 @@
     "spaet": false,
     "symbol": "SCAM",
     "t": 1795825983.9261525
+   },
+   {
+    "dauer": 1457.2935774326324,
+    "ersteller_verkauft": true,
+    "kaeufer": 784,
+    "mint": "G8hr7J1udJWnzZzw2v7okSY4fzECMKtm4Vh4Mydmpump",
+    "name": "Fartball",
+    "sol": 84.69886475399986,
+    "spaet": false,
+    "symbol": "FARTBALL",
+    "t": 1795826471.6829512
+   },
+   {
+    "dauer": 36.75844979286194,
+    "ersteller_verkauft": true,
+    "kaeufer": 234,
+    "mint": "9GGxHA5Qg9jGS5SvbKyduzodxCEpFMe7d9vUUWpEpump",
+    "name": "technological singularity",
+    "sol": 85.00535945199992,
+    "spaet": false,
+    "symbol": "singularity",
+    "t": 1795826532.1489766
+   },
+   {
+    "dauer": 331.43928146362305,
+    "ersteller_verkauft": true,
+    "kaeufer": 452,
+    "mint": "BfvuTXnS2VeRckUMqCs8fe5NX5AmxH3BqxyzWkqHUQ9Q",
+    "name": "Coinmas",
+    "sol": 83.40616876699978,
+    "spaet": false,
+    "symbol": "Coinmas",
+    "t": 1795826563.1391184
    }
   ],
-  "uebersicht": 1795823000.229913
+  "uebersicht": 1795826643.6076992
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
