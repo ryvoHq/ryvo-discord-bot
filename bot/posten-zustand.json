@@ -328,48 +328,16 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 984,
+ "laeufe": 985,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
    1795881437.611222,
    1795882682.5676491,
-   1795883283.491524
+   1795883283.491524,
+   1795884482.4202523
   ],
   "stunde": [
-   {
-    "dauer": 112.1651656627655,
-    "ersteller_verkauft": true,
-    "kaeufer": 362,
-    "mint": "9V7CKzBPz5osWSMvAQgJCHgXCWiYmAVg3bFULGPjpump",
-    "name": "Timmy",
-    "sol": 85.00535977700002,
-    "spaet": false,
-    "symbol": "TIMMY",
-    "t": 1795880660.5495186
-   },
-   {
-    "dauer": 238.75803518295288,
-    "ersteller_verkauft": true,
-    "kaeufer": 45,
-    "mint": "28HLZ29DQRGmRU2JdTtEUvN77ncxHQqWiU5kLUjbpump",
-    "name": "Moon Coin",
-    "sol": 0.17224366600000002,
-    "spaet": false,
-    "symbol": "MoonCoin",
-    "t": 1795880773.0381315
-   },
-   {
-    "dauer": 66.46212148666382,
-    "ersteller_verkauft": false,
-    "kaeufer": 221,
-    "mint": "8U4DBxBCNk5VcKUpRJtQZm9Kott5o5ogNQ71qaSpump",
-    "name": "Sector",
-    "sol": 85.00535937999992,
-    "spaet": false,
-    "symbol": "SECTOR",
-    "t": 1795880866.700091
-   },
    {
     "dauer": 218.3974323272705,
     "ersteller_verkauft": false,
@@ -641,6 +609,39 @@
     "spaet": false,
     "symbol": "MPEPE",
     "t": 1795884152.5068707
+   },
+   {
+    "dauer": 15.353863000869751,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "C7KmDLcfwnXbxgNZ7H9CQrDMJYhqH8jUnppNm9Mhpump",
+    "name": "SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795884194.4805167
+   },
+   {
+    "dauer": 308.8938035964966,
+    "ersteller_verkauft": true,
+    "kaeufer": 946,
+    "mint": "CzG2i96mBNQxb8RpayfcuhPAXnaNy5dEtiemJaeKpump",
+    "name": "proofofmath.fun",
+    "sol": 88.28256358299959,
+    "spaet": false,
+    "symbol": "P=NP",
+    "t": 1795884288.5257201
+   },
+   {
+    "dauer": 108.4916844367981,
+    "ersteller_verkauft": false,
+    "kaeufer": 130,
+    "mint": "NQCNVYUxZgS8NQKwJXL69dCTTAFcLN3dhHU5xYzpump",
+    "name": "Nike | Official Team",
+    "sol": 84.72010535499996,
+    "spaet": false,
+    "symbol": "Nike",
+    "t": 1795884482.3755906
    }
   ],
   "uebersicht": 1795884182.2414935
