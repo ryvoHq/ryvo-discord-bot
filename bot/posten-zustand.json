@@ -309,21 +309,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 855,
+ "laeufe": 856,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "7oYHrakrFTrGSW7uNdshD8KWGHjbETU2rkwp8r46pump",
-    "spaet": true,
-    "t": 1795844715.0729978
-   },
-   {
-    "mint": "XqjgU8VzzoqRa4c7rs5WuynS2CHCXeZHUVcZS34pump",
-    "spaet": true,
-    "t": 1795844761.386429
-   },
    {
     "mint": "76HvWEpdsusJVoY9D91bhainYH3PfhqxVeQwURNcpump",
     "spaet": true,
@@ -445,6 +435,11 @@
     "spaet": false,
     "symbol": "DICE",
     "t": 1795848214.409169
+   },
+   {
+    "mint": "CpQmkCUPJsSYW7XNUVgG8h4xTApyKZ1vKEztoA1xpump",
+    "spaet": true,
+    "t": 1795848446.881095
    }
   ],
   "uebersicht": 1795846141.988093
