@@ -309,45 +309,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 822,
+ "laeufe": 823,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795839109.7476873
   ],
   "stunde": [
-   {
-    "mint": "FbqYSBSJuWGnoGap5HwQfkwHajRJ29gF6n2oY4P4pump",
-    "spaet": true,
-    "t": 1795835592.4765139
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "F9MMb1RV3buCR3NEfqpBEnNMveVYvEtiGFfYyCJpump",
-    "name": "Project Cyber",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "PCB",
-    "t": 1795835656.0515852
-   },
-   {
-    "mint": "8C1npLb8P1e5jrf7pw9N7xEcj5MCtrk4fG1j1Hynpump",
-    "spaet": true,
-    "t": 1795835793.995259
-   },
-   {
-    "dauer": 152.467942237854,
-    "ersteller_verkauft": true,
-    "kaeufer": 15,
-    "mint": "3cAyvFEc3u14ivQVA9fuNFaETKR5AzWGJe8kwr2rPtZT",
-    "name": "Capo Winter Arc",
-    "sol": 0.04020729599999996,
-    "spaet": false,
-    "symbol": "WINTERARC",
-    "t": 1795835839.7758665
-   },
    {
     "mint": "ExKWd2Gbck3eemAPAaoVNKrrvy5tUtrJyevrqRXPpump",
     "spaet": true,
@@ -438,6 +406,21 @@
     "mint": "AF9Mimzone9VzWpBgr5u8fadpqUeds8aPChU879PATZN",
     "spaet": true,
     "t": 1795839092.1268396
+   },
+   {
+    "mint": "CcjgygsqfecmANocQU7KCA62FQ5ykc6UxHzoMUiWpump",
+    "spaet": true,
+    "t": 1795839160.4835477
+   },
+   {
+    "mint": "9cmL8R2jZjKss6uYiQpQFphv6ygfirZQJEpEatKGpump",
+    "spaet": true,
+    "t": 1795839177.9536464
+   },
+   {
+    "mint": "AQTtWNbr8HmYjWznN4auPjPFkhKSgsKVWvUfUzRbpump",
+    "spaet": true,
+    "t": 1795839231.6303682
    }
   ],
   "uebersicht": 1795838209.4951334
