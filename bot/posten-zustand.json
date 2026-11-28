@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 797,
+ "laeufe": 798,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -313,32 +313,6 @@
    1795831827.3987043
   ],
   "stunde": [
-   {
-    "mint": "3Tix4KMmTp4PNwMXLcgJ7pKeZgPH1qH2W2cpEmfUpump",
-    "spaet": true,
-    "t": 1795828941.879427
-   },
-   {
-    "mint": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump",
-    "spaet": true,
-    "t": 1795829003.3418665
-   },
-   {
-    "mint": "TUACYDL7GeVQxnoUTKjyMNTYNuViZF2cLTDFmZPpump",
-    "spaet": true,
-    "t": 1795829117.6925275
-   },
-   {
-    "dauer": 208.75274014472961,
-    "ersteller_verkauft": true,
-    "kaeufer": 10,
-    "mint": "HQBNdJVcLkve2RieJPChoimXy1CJEpfHFc7gNDJNpump",
-    "name": "wrappedape",
-    "sol": 0.928354537,
-    "spaet": false,
-    "symbol": "wApe",
-    "t": 1795829119.9960177
-   },
    {
     "dauer": 101.20330715179443,
     "ersteller_verkauft": false,
