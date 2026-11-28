@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 796,
+ "laeufe": 797,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -313,22 +313,6 @@
    1795831827.3987043
   ],
   "stunde": [
-   {
-    "dauer": 205.41571187973022,
-    "ersteller_verkauft": false,
-    "kaeufer": 148,
-    "mint": "7F5Xamqc5eGTfJZE9EyMiPA5QSNziWua6zL1M1kTpump",
-    "name": "crema.click",
-    "sol": 85.40514734699995,
-    "spaet": false,
-    "symbol": "Crema",
-    "t": 1795828741.961214
-   },
-   {
-    "mint": "31yPP3Wwkm9QfNzQmGWjA4ggCsEWmTazDFv2Bbjfpump",
-    "spaet": true,
-    "t": 1795828771.3302586
-   },
    {
     "mint": "3Tix4KMmTp4PNwMXLcgJ7pKeZgPH1qH2W2cpEmfUpump",
     "spaet": true,
@@ -577,6 +561,44 @@
     "spaet": false,
     "symbol": "CHUMBIMP",
     "t": 1795832035.2334244
+   },
+   {
+    "dauer": 192.31333112716675,
+    "ersteller_verkauft": true,
+    "kaeufer": 19,
+    "mint": "ByZqSGtpnAskfAuFGJ7Y6wbMbUrwHnMzKiXfmEBZpump",
+    "name": "BetOnBlack",
+    "sol": 5.402178420999999,
+    "spaet": false,
+    "symbol": "BetOnBlak",
+    "t": 1795832131.6842227
+   },
+   {
+    "dauer": 308.8732578754425,
+    "ersteller_verkauft": true,
+    "kaeufer": 18,
+    "mint": "AKnrR58WdkuedtDjjj39S3tHwbEUkVVagCqsv4GLpump",
+    "name": "Jensen",
+    "sol": 1.992331607,
+    "spaet": false,
+    "symbol": "Jensen",
+    "t": 1795832218.9316955
+   },
+   {
+    "mint": "9VQpv9yPJpavxCKy7PYfvWfU3Pp8RKqpYNaWZvwkpump",
+    "spaet": true,
+    "t": 1795832345.4071462
+   },
+   {
+    "dauer": 74.41070866584778,
+    "ersteller_verkauft": false,
+    "kaeufer": 131,
+    "mint": "v8d6H7jaKz1gHpCiLTPgHiXQXk6J2FNnPY5J9vapump",
+    "name": "GTA 7 VII",
+    "sol": 85.00535930800002,
+    "spaet": false,
+    "symbol": "GTA 7 VII",
+    "t": 1795832371.698143
    }
   ],
   "uebersicht": 1795830927.475963
