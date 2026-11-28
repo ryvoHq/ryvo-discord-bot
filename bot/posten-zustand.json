@@ -2,7 +2,7 @@
  "aktien_tag": "2026-11-27",
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-27",
- "ebenen_krypto": "2026-11-27",
+ "ebenen_krypto": "2026-11-28",
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
@@ -309,29 +309,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 845,
+ "laeufe": 846,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795842801.9154005
   ],
   "stunde": [
-   {
-    "dauer": 2402.69287276268,
-    "ersteller_verkauft": false,
-    "kaeufer": 169,
-    "mint": "3N77W25zTjKXRWztBS2S7eAJStEYyGXjZpMA9hxwpump",
-    "name": "Snowball",
-    "sol": 84.87833508200004,
-    "spaet": false,
-    "symbol": "Snowball",
-    "t": 1795841947.773759
-   },
-   {
-    "mint": "2317Z3LepUD64GFJcQnZEMrFxqKQdtaKqQJNePuM6bWk",
-    "spaet": true,
-    "t": 1795841984.0517292
-   },
    {
     "mint": "3MxSaF32zAv4sfGVKVR8uuifmiaCRZPxdkionS5Ypump",
     "spaet": true,
@@ -420,6 +404,32 @@
     "spaet": false,
     "symbol": "WLFI",
     "t": 1795845419.7416465
+   },
+   {
+    "mint": "9MTFuuSCHrNmaoNrDW8HVhD4pWdv2rZxVAnNVY8npump",
+    "spaet": true,
+    "t": 1795845558.8691256
+   },
+   {
+    "mint": "EjdrRG2si1FQ3Bme5g6WSYNHJDrsKUrbGB4Z5xaopump",
+    "spaet": true,
+    "t": 1795845590.557968
+   },
+   {
+    "dauer": 163.90155124664307,
+    "ersteller_verkauft": true,
+    "kaeufer": 29,
+    "mint": "8yKrutS9QNR2cAjS2joePcvuyvskD6346s5PNSBwpump",
+    "name": "SRICE",
+    "sol": 1.0427472490000005,
+    "spaet": false,
+    "symbol": "$SRICE",
+    "t": 1795845600.134197
+   },
+   {
+    "mint": "24eDZJLXyppqXCu4hXPoS9qqMHkJYq4zwJkdooeVpump",
+    "spaet": true,
+    "t": 1795845708.8870997
    }
   ],
   "uebersicht": 1795841855.3694134
