@@ -309,24 +309,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 826,
+ "laeufe": 827,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795839109.7476873
   ],
   "stunde": [
-   {
-    "dauer": 272.179404258728,
-    "ersteller_verkauft": true,
-    "kaeufer": 24,
-    "mint": "GCbBpPCZ1UjLuzffgwRp3gNEP5avVag8a9CTexm9pump",
-    "name": "$CHIMPSHOT",
-    "sol": 0.13922917899999998,
-    "spaet": false,
-    "symbol": "CHIMP",
-    "t": 1795836853.1080413
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -464,6 +453,33 @@
     "spaet": false,
     "symbol": "STENKS",
     "t": 1795840244.0184608
+   },
+   {
+    "mint": "CRZ1EPyhvqckvBXGBDz8J9amCfKHtnVPBgbDtXCHpump",
+    "spaet": true,
+    "t": 1795840372.9014845
+   },
+   {
+    "dauer": 182.39825534820557,
+    "ersteller_verkauft": true,
+    "kaeufer": 20,
+    "mint": "HLyB56H8mtLYNEQYRgZfe2fJhE45g1FAM5YCjuSkpump",
+    "name": "BARONG",
+    "sol": 0.5887172299999994,
+    "spaet": false,
+    "symbol": "BARONG",
+    "t": 1795840507.7432091
+   },
+   {
+    "dauer": 166.75103640556335,
+    "ersteller_verkauft": true,
+    "kaeufer": 23,
+    "mint": "HnRr6rDa1LcC17DK2EtPeygfcEjPp9jaaP5ppbYspump",
+    "name": "Breastcoin",
+    "sol": 1.0154816839999996,
+    "spaet": false,
+    "symbol": "BTC",
+    "t": 1795840605.6645029
    }
   ],
   "uebersicht": 1795838209.4951334
