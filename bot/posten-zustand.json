@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 922,
+ "laeufe": 923,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -326,44 +326,6 @@
    1795866518.6348646
   ],
   "stunde": [
-   {
-    "dauer": 31.48819613456726,
-    "ersteller_verkauft": true,
-    "kaeufer": 15,
-    "mint": "2KussCMzU9tkomCy2WMQSYu93cpTegBbebrL5bAEpump",
-    "name": "GTA6",
-    "sol": 2.8948148419999997,
-    "spaet": false,
-    "symbol": "GTA",
-    "t": 1795863266.6132019
-   },
-   {
-    "mint": "2B3LavRALyzf52WNjtT9DYaA9zxK8uAh4dGuzmQUpump",
-    "spaet": true,
-    "t": 1795863388.0476556
-   },
-   {
-    "dauer": 762.4284801483154,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "5f9C5onbKqkwTNYEhhWZxeHkME2ytNYJEXvkxsrvpump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 0.08935487899999994,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795863392.542562
-   },
-   {
-    "dauer": 82.70866823196411,
-    "ersteller_verkauft": false,
-    "kaeufer": 15,
-    "mint": "5AezL7mkf89PGsq9r6siH6wZGtrstNcDfDARH4npump",
-    "name": "Tesla",
-    "sol": 1.149684522,
-    "spaet": false,
-    "symbol": "TESLA",
-    "t": 1795863411.7346144
-   },
    {
     "mint": "3cR3vZnefmntjakefYEsYMj8RMqpMQu99L4XRBsppump",
     "spaet": true,
@@ -581,6 +543,49 @@
     "mint": "9HD1ZCxa539uzapHPqf3LknUx5ENR8iXhNSTEjyapump",
     "spaet": true,
     "t": 1795866697.850371
+   },
+   {
+    "dauer": 152.2722725868225,
+    "ersteller_verkauft": true,
+    "kaeufer": 13,
+    "mint": "8eL8C4qLaZocZc9SefniSXdKWAD7kW5mdawwCBXMpump",
+    "name": "makemerich",
+    "sol": 0.18763200300000002,
+    "spaet": false,
+    "symbol": "mmrich",
+    "t": 1795866853.1973999
+   },
+   {
+    "dauer": 133.94677877426147,
+    "ersteller_verkauft": true,
+    "kaeufer": 3,
+    "mint": "7in8p3npCGYjuRMFFoSi8UMBcHXNVx5hqBhEfvQTpump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795866881.4275346
+   },
+   {
+    "mint": "DbUpd3uzW4KxAujwQ3axyqTcoF78fXSi1fv9ddpRpump",
+    "spaet": true,
+    "t": 1795866948.0616858
+   },
+   {
+    "mint": "6gkyWNSST5roufAM26dd3ZMNHKDdAHTSSKczkDhspump",
+    "spaet": true,
+    "t": 1795867026.9578643
+   },
+   {
+    "dauer": 144.55262565612793,
+    "ersteller_verkauft": true,
+    "kaeufer": 28,
+    "mint": "7ckRc2nvrxgJjtUGuNBRGrD4CGNFoyQ1JtxCirhzpump",
+    "name": "makemerich",
+    "sol": 0.142210235,
+    "spaet": false,
+    "symbol": "mmrich",
+    "t": 1795867131.849496
    }
   ],
   "uebersicht": 1795865317.7976964
