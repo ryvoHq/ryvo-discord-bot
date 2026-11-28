@@ -301,7 +301,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 777,
+ "laeufe": 778,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,17 +311,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 51.16679239273071,
-    "ersteller_verkauft": true,
-    "kaeufer": 249,
-    "mint": "HHs1s3uiTghagPxKZK4Vouc4zXzhsSFcjFrXwQHKpump",
-    "name": "Artificial Intelligence Company",
-    "sol": 84.48422237199998,
-    "spaet": false,
-    "symbol": "AIC",
-    "t": 1795823358.9849265
-   },
    {
     "dauer": 217.8690881729126,
     "ersteller_verkauft": false,
