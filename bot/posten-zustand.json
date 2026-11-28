@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 936,
+ "laeufe": 937,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -325,43 +325,6 @@
    1795870516.9806318
   ],
   "stunde": [
-   {
-    "mint": "BDQb7ye5mjUWPfQ4AhhxKUw319JRTijvpo5M8XJZpump",
-    "spaet": true,
-    "t": 1795867248.1363933
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "T6si9pfq43oqLQjkoyJ7VM4Xvjt3faHMdkvqRSWpump",
-    "name": "USOI",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "USOI",
-    "t": 1795867305.5305998
-   },
-   {
-    "dauer": 69.19339084625244,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "3ikxmAVammNjnmtfVzb59v4G3YcLBA5qphAADnorpump",
-    "name": "BITCOIN",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BITCOIN",
-    "t": 1795867347.5952597
-   },
-   {
-    "mint": "EYwQgWVMxyq8vtLpWDiJ36CDzLtpckhmiA84c857pump",
-    "spaet": true,
-    "t": 1795867355.7491798
-   },
-   {
-    "mint": "CY4nb52GcFC5Ch1VoZ3GvWv4EUNizuHbC763XDowpump",
-    "spaet": true,
-    "t": 1795867482.0218394
-   },
    {
     "dauer": 43.27305555343628,
     "ersteller_verkauft": true,
@@ -578,6 +541,28 @@
     "spaet": false,
     "symbol": "SELL",
     "t": 1795870783.3753538
+   },
+   {
+    "dauer": 10.911731719970703,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "CSWQnEdbZJ7Tteoq5Ykr9KdiWUaaRmspXBSSLGzCpump",
+    "name": "Bankrupting New Buyers",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BNB",
+    "t": 1795870829.0411704
+   },
+   {
+    "dauer": 5.07881760597229,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "8RLf2ZBgeVpQSju7774EUF5eNFN4VNkCSsB3MkQapump",
+    "name": "EVERYONE BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795870874.4077833
    }
   ],
   "uebersicht": 1795868951.8121321
