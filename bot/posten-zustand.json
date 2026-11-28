@@ -305,27 +305,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 784,
+ "laeufe": 785,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795825443.837948,
    1795826643.6076992,
    1795826643.6076992,
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 110.57433819770813,
-    "ersteller_verkauft": true,
-    "kaeufer": 333,
-    "mint": "Ckx9KwPxeajJujfLuzmwGicHuQL8nwfELBKUQr4Npump",
-    "name": "Sloppy Joe",
-    "sol": 85.0053599169999,
-    "spaet": false,
-    "symbol": "Joe",
-    "t": 1795825374.8100464
-   },
    {
     "dauer": 56.01304912567139,
     "ersteller_verkauft": true,
@@ -478,6 +466,16 @@
     "mint": "31yPP3Wwkm9QfNzQmGWjA4ggCsEWmTazDFv2Bbjfpump",
     "spaet": true,
     "t": 1795828771.3302586
+   },
+   {
+    "mint": "3Tix4KMmTp4PNwMXLcgJ7pKeZgPH1qH2W2cpEmfUpump",
+    "spaet": true,
+    "t": 1795828941.879427
+   },
+   {
+    "mint": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump",
+    "spaet": true,
+    "t": 1795829003.3418665
    }
   ],
   "uebersicht": 1795826643.6076992
