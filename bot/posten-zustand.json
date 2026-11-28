@@ -328,71 +328,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 982,
+ "laeufe": 983,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
-   1795880237.8543587,
    1795881437.611222,
    1795882682.5676491,
    1795883283.491524
   ],
   "stunde": [
-   {
-    "dauer": 5.379673004150391,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "AGgijtYmQYtADquGHP6CGyDznoYwaLgmMcgh2brPpump",
-    "name": "a gud company",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "agudcompan",
-    "t": 1795880081.283679
-   },
-   {
-    "dauer": 177.89068627357483,
-    "ersteller_verkauft": false,
-    "kaeufer": 141,
-    "mint": "124aL8KLgkrDHGT2mewgGoEwxAHrfNndRuMQTFh4pump",
-    "name": "Meta | Official Team",
-    "sol": 33.10359432,
-    "spaet": false,
-    "symbol": "Meta",
-    "t": 1795880102.952969
-   },
-   {
-    "dauer": 1299.5686218738556,
-    "ersteller_verkauft": true,
-    "kaeufer": 20,
-    "mint": "Ds7caCuocia1Cpef34EZB6A8Arb6daxedHUoZhA1pump",
-    "name": "$HAVE A GOOD DAY",
-    "sol": 0.4921697299999993,
-    "spaet": false,
-    "symbol": "$LA BEAST",
-    "t": 1795880108.6645422
-   },
-   {
-    "dauer": 0.0011506080627441406,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "B6JwxRFd5Nomou9v2CELN3rjgwVxCzoAZbZqLHszpump",
-    "name": "Timmy",
-    "sol": 85.00535906900001,
-    "spaet": false,
-    "symbol": "TIMMY",
-    "t": 1795880199.2594259
-   },
-   {
-    "dauer": 148.14342069625854,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "CLJsrDvTHnVRJmHR9MVgJ3qS6pxeC9PSZcYcYykUpump",
-    "name": "HIKARU",
-    "sol": 0.32641076300000016,
-    "spaet": false,
-    "symbol": "HARU",
-    "t": 1795880225.4907682
-   },
    {
     "dauer": 110.44205045700073,
     "ersteller_verkauft": true,
@@ -599,6 +543,66 @@
     "spaet": false,
     "symbol": "Coca-Cola",
     "t": 1795883519.2026865
+   },
+   {
+    "dauer": 207.55597829818726,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "9QwQRdyER6KjG6Z5NbVG1BDBn1JkEQVR6bRJsmPRpump",
+    "name": "flying high",
+    "sol": 0.23054814099999998,
+    "spaet": false,
+    "symbol": "High",
+    "t": 1795883595.791153
+   },
+   {
+    "dauer": 167.8014621734619,
+    "ersteller_verkauft": true,
+    "kaeufer": 6,
+    "mint": "7Tofo9Pp2MuMvvCNQRSGD1j2AV4tPtjPJxGqU7kYpump",
+    "name": "EVERYONE SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795883606.1630235
+   },
+   {
+    "dauer": 82.33375120162964,
+    "ersteller_verkauft": true,
+    "kaeufer": 23,
+    "mint": "H4qB9i7FmbJMoochZW1jKGFPBg1XBtwfvJjjw4ZNpump",
+    "name": "ANTHROPIC S-1",
+    "sol": 0.19571046100000036,
+    "spaet": false,
+    "symbol": "IPO",
+    "t": 1795883606.8595324
+   },
+   {
+    "dauer": 61.39445090293884,
+    "ersteller_verkauft": true,
+    "kaeufer": 8,
+    "mint": "7e7Dwr5WRcimqBZi6g7eVswkETSBzcgzJEcvkbeApump",
+    "name": "MAX",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "MAX",
+    "t": 1795883692.6007802
+   },
+   {
+    "dauer": 27.329014778137207,
+    "ersteller_verkauft": true,
+    "kaeufer": 7,
+    "mint": "7LvHYNTnh3pb9wDRBGc5ZfyYpXTj1R4Foh6ZZFaKpump",
+    "name": "MAX",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "MAX",
+    "t": 1795883764.9619958
+   },
+   {
+    "mint": "GMnQrwUxTWwoRtsnkDL1SS6UgGcfnwQnAoDGK3jNpump",
+    "spaet": true,
+    "t": 1795883855.047066
    }
   ],
   "uebersicht": 1795880537.8372564
