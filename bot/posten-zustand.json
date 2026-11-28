@@ -322,36 +322,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 958,
+ "laeufe": 959,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795873556.4473472,
-   1795875655.691484
+   1795875655.691484,
+   1795877193.8568563
   ],
   "stunde": [
-   {
-    "dauer": 587.2130296230316,
-    "ersteller_verkauft": false,
-    "kaeufer": 908,
-    "mint": "EvN4RDyoqUTpCcrvz5QTAdHVqypgxV4MCR77Bfnjpump",
-    "name": "John Stockman",
-    "sol": 91.49836526599975,
-    "spaet": false,
-    "symbol": "John",
-    "t": 1795873485.3202434
-   },
-   {
-    "dauer": 637.4227101802826,
-    "ersteller_verkauft": false,
-    "kaeufer": 201,
-    "mint": "8b26nAYzKAZgVV7cvvFp8UqS2EzvjGFuopCjS4Zxpump",
-    "name": "SpaceX",
-    "sol": 84.547667009,
-    "spaet": false,
-    "symbol": "SpaceX",
-    "t": 1795873553.6097474
-   },
    {
     "dauer": 38.1602578163147,
     "ersteller_verkauft": true,
@@ -572,6 +550,55 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795876859.0986557
+   },
+   {
+    "dauer": 498.6901912689209,
+    "ersteller_verkauft": false,
+    "kaeufer": 102,
+    "mint": "DTdGF9yiTGztxGqYJ4YXWM89dG8CJjr7xRRWXHk7pump",
+    "name": "Apple official",
+    "sol": 84.759615427,
+    "spaet": false,
+    "symbol": "Apple",
+    "t": 1795876969.051574
+   },
+   {
+    "dauer": 121.44699287414551,
+    "ersteller_verkauft": true,
+    "kaeufer": 240,
+    "mint": "FHgeRHmAzkzEQBQJVjNRVC6sZibiFbscDp1tPjKTpump",
+    "name": "mElons",
+    "sol": 85.12764962199995,
+    "spaet": false,
+    "symbol": "mElons",
+    "t": 1795876992.714712
+   },
+   {
+    "dauer": 1218.48508644104,
+    "ersteller_verkauft": true,
+    "kaeufer": 5,
+    "mint": "GxX62Ebjg4DUbM2Qv3mzEz3dKMgqpMkkrSVpZppapump",
+    "name": "flying guy",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "fg",
+    "t": 1795877125.3829432
+   },
+   {
+    "dauer": 379.176531791687,
+    "ersteller_verkauft": false,
+    "kaeufer": 713,
+    "mint": "2rNXHv3NmzbvD3TSixKtSgY47yDNUGXA5wnvdY6jpump",
+    "name": "Official 2027",
+    "sol": 85.11393031999984,
+    "spaet": false,
+    "symbol": "2027",
+    "t": 1795877141.3257644
+   },
+   {
+    "mint": "Hj5ipbL5xx3Ff2jVfLfGcNk67V5MHmt5FgateqTqpump",
+    "spaet": true,
+    "t": 1795877169.4814563
    }
   ],
   "uebersicht": 1795876893.0700972
