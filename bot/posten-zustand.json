@@ -317,29 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 904,
+ "laeufe": 905,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "mint": "DToXPC7kNpFvkPaXX3UcBotVN3KjjM2VktaxzX5Spump",
-    "spaet": true,
-    "t": 1795858441.5150807
-   },
-   {
-    "dauer": 238.3460075855255,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "5GDjRzehvaZZw6xpMVyd7EcczkiXcdZmPY8rtTCupump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 0.24255292699999978,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795858650.8716586
-   },
    {
     "mint": "5sLr8kSix1nH199QkEZcLVeSipHFSmTiqn76bq1kpump",
     "spaet": true,
@@ -500,6 +484,11 @@
     "spaet": false,
     "symbol": "SAVPIR",
     "t": 1795861857.538565
+   },
+   {
+    "mint": "5SVVA2zCztU9t5wyyZpxH7JGxuzLgQMQEErCWLxPpump",
+    "spaet": true,
+    "t": 1795862199.9105113
    }
   ],
   "uebersicht": 1795861674.999723
