@@ -309,22 +309,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 850,
+ "laeufe": 851,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 852.2500479221344,
-    "ersteller_verkauft": false,
-    "kaeufer": 402,
-    "mint": "kLguqEWqfbGkV7Sz8h674nKBwiYqKiNSS79RSUcpump",
-    "name": "United Fidelity BANKRUPT ",
-    "sol": 77.97968536899992,
-    "spaet": false,
-    "symbol": "BANKRUPT",
-    "t": 1795843503.452375
-   },
    {
     "mint": "2NRt2vXPBXsq4ngxcEUMqySDw767MGwwPduLAzwUtXed",
     "spaet": true,
@@ -423,6 +412,28 @@
     "spaet": false,
     "symbol": "FERSPE",
     "t": 1795846752.8805683
+   },
+   {
+    "dauer": 153.52685356140137,
+    "ersteller_verkauft": true,
+    "kaeufer": 9,
+    "mint": "DCrp2eD3L4ZKbqdt8BzKiRZiemrkDbcoh2nQmqS2pump",
+    "name": "🐸 Moon Frog",
+    "sol": 0.17424126099999993,
+    "spaet": false,
+    "symbol": "$MFRG",
+    "t": 1795847274.2039354
+   },
+   {
+    "dauer": 1458.368350982666,
+    "ersteller_verkauft": true,
+    "kaeufer": 148,
+    "mint": "9QWaXqTJ8VxKwbxP3T36vdpXDv1SPEEEUCzxhm8Mpump",
+    "name": "Groo",
+    "sol": 49.91724657899999,
+    "spaet": false,
+    "symbol": "Groo",
+    "t": 1795847301.1462367
    }
   ],
   "uebersicht": 1795846141.988093
