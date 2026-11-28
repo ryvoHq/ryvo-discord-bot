@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 961,
+ "laeufe": 962,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -659,6 +659,17 @@
     "spaet": false,
     "symbol": "fg",
     "t": 1795877781.861394
+   },
+   {
+    "dauer": 167.05664825439453,
+    "ersteller_verkauft": true,
+    "kaeufer": 11,
+    "mint": "FWaG73iwuuWTJR4FnBXEMKNvmxkQ86gZurbubQkhpump",
+    "name": "PEPE TEST",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "PEPE",
+    "t": 1795878087.0701928
    }
   ],
   "uebersicht": 1795876893.0700972
