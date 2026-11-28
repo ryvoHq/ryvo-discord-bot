@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 972,
+ "laeufe": 973,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,22 +330,6 @@
    1795880237.8543587
   ],
   "stunde": [
-   {
-    "mint": "Dy2fe3MEeVB6DsNF9hw5jT1DUH13fGXnD7gdWrgYpump",
-    "spaet": true,
-    "t": 1795877262.2048907
-   },
-   {
-    "dauer": 126.68413019180298,
-    "ersteller_verkauft": true,
-    "kaeufer": 6,
-    "mint": "9PkVwp8HSiXgcn6d6qXXd8seyxH18AprmXSX9YCapump",
-    "name": "TEST COIN",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "TEST COIN",
-    "t": 1795877480.8434334
-   },
    {
     "dauer": 680.3405392169952,
     "ersteller_verkauft": true,
@@ -692,6 +676,44 @@
     "spaet": false,
     "symbol": "MoonCoin",
     "t": 1795880773.0381315
+   },
+   {
+    "dauer": 66.46212148666382,
+    "ersteller_verkauft": false,
+    "kaeufer": 221,
+    "mint": "8U4DBxBCNk5VcKUpRJtQZm9Kott5o5ogNQ71qaSpump",
+    "name": "Sector",
+    "sol": 85.00535937999992,
+    "spaet": false,
+    "symbol": "SECTOR",
+    "t": 1795880866.700091
+   },
+   {
+    "dauer": 218.3974323272705,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "8MtD1PwxRmEXXERLCeSWrSeVbJwibVFe7ufKeztfpump",
+    "name": "Retarded Nigger",
+    "sol": 0.5115670269999998,
+    "spaet": false,
+    "symbol": "RETARD",
+    "t": 1795881031.6134398
+   },
+   {
+    "mint": "9QDgPpMvsRQwoMmfaWtQah2bjjRFym8YS1xwYCcspump",
+    "spaet": true,
+    "t": 1795881089.8286526
+   },
+   {
+    "dauer": 406.76878476142883,
+    "ersteller_verkauft": true,
+    "kaeufer": 28,
+    "mint": "FdbPg5iuGQxERSDMK9P76tkmca6vx2HHrH9pRJwQpump",
+    "name": "TÜRK COİN",
+    "sol": 0.11422568399999992,
+    "spaet": false,
+    "symbol": "T.C",
+    "t": 1795881134.1212099
    }
   ],
   "uebersicht": 1795880537.8372564
