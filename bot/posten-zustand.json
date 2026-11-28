@@ -328,7 +328,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 983,
+ "laeufe": 984,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
@@ -337,17 +337,6 @@
    1795883283.491524
   ],
   "stunde": [
-   {
-    "dauer": 110.44205045700073,
-    "ersteller_verkauft": true,
-    "kaeufer": 27,
-    "mint": "9bNqBvAKYvoySMZWadNYgkFuMS3G66yok7KinkEzpump",
-    "name": "WINNER",
-    "sol": 0.24995696800000017,
-    "spaet": false,
-    "symbol": "WINNER",
-    "t": 1795880325.638658
-   },
    {
     "dauer": 112.1651656627655,
     "ersteller_verkauft": true,
@@ -603,9 +592,58 @@
     "mint": "GMnQrwUxTWwoRtsnkDL1SS6UgGcfnwQnAoDGK3jNpump",
     "spaet": true,
     "t": 1795883855.047066
+   },
+   {
+    "dauer": 25.899722576141357,
+    "ersteller_verkauft": false,
+    "kaeufer": 86,
+    "mint": "D93retv2ARUMciip7EA4rUWtu653QhjQKCkni1FPpump",
+    "name": "Grand Theft Attention",
+    "sol": 85.00535922400007,
+    "spaet": false,
+    "symbol": "ATTN",
+    "t": 1795883909.6126344
+   },
+   {
+    "dauer": 40.0584671497345,
+    "ersteller_verkauft": true,
+    "kaeufer": 189,
+    "mint": "CMdNEME95ePsAqFCJsCRfDwYa5uiJ3kbs32HPMFnpump",
+    "name": "Fluid intelligence",
+    "sol": 85.00535935799996,
+    "spaet": false,
+    "symbol": "FI",
+    "t": 1795883917.6457713
+   },
+   {
+    "mint": "F1aGWw6nDzqVYig3zpkALMgwX6PpoDRjfjoyShYdpump",
+    "spaet": true,
+    "t": 1795883927.7992573
+   },
+   {
+    "dauer": 119.47209310531616,
+    "ersteller_verkauft": true,
+    "kaeufer": 264,
+    "mint": "EeZ7k4dDZigMXqJqsoj9BvkedbZkoE5ZQ81cdst6pump",
+    "name": "BOTCOIN",
+    "sol": 85.00257379499999,
+    "spaet": false,
+    "symbol": "BTC",
+    "t": 1795884089.0260468
+   },
+   {
+    "dauer": 629.5478775501251,
+    "ersteller_verkauft": false,
+    "kaeufer": 14,
+    "mint": "DhjygAr4zg7WSSGRRzsVtKtgJ1eXrQDd5iAFzmKepump",
+    "name": "Moon Pepe",
+    "sol": -0.03407710699999994,
+    "spaet": false,
+    "symbol": "MPEPE",
+    "t": 1795884152.5068707
    }
   ],
-  "uebersicht": 1795880537.8372564
+  "uebersicht": 1795884182.2414935
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
