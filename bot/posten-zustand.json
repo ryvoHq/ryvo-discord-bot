@@ -322,18 +322,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 941,
+ "laeufe": 942,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795870516.9806318
+   1795870516.9806318,
+   1795872617.0749443
   ],
   "stunde": [
-   {
-    "mint": "Er1H8HV48KSqx4Mz2d6HcnzHBAtDxfmV1SN45ZfQpump",
-    "spaet": true,
-    "t": 1795868887.8794422
-   },
    {
     "dauer": 905.0714576244354,
     "ersteller_verkauft": false,
@@ -581,9 +577,20 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795872248.381763
+   },
+   {
+    "dauer": 853.6164345741272,
+    "ersteller_verkauft": false,
+    "kaeufer": 616,
+    "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump",
+    "name": "Fantasy Index 6900",
+    "sol": 62.961846654999924,
+    "spaet": false,
+    "symbol": "FIX6900",
+    "t": 1795872441.0104346
    }
   ],
-  "uebersicht": 1795868951.8121321
+  "uebersicht": 1795872617.0749443
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
