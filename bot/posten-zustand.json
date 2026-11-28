@@ -305,10 +305,12 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 793,
+ "laeufe": 794,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795831527.3126388
+  ],
   "stunde": [
    {
     "dauer": 299.5597097873688,
@@ -455,6 +457,44 @@
     "spaet": false,
     "symbol": "HANS",
     "t": 1795831137.8062627
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "RFbznvsJLcYJJTDALMtuTS3aWsaeRZcP3ThREJKpump",
+    "name": "SPCX7F",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "SPCX7F",
+    "t": 1795831425.741882
+   },
+   {
+    "mint": "APzRGfpMJYJp23SZRckSVNjxh76c6EEEuh9am9nrpump",
+    "spaet": true,
+    "t": 1795831441.6793158
+   },
+   {
+    "dauer": 142.93177223205566,
+    "ersteller_verkauft": true,
+    "kaeufer": 301,
+    "mint": "4y6MCVxaBY1mXoufWN7urs9xHYim4Mj3gDzMfNVkpump",
+    "name": "Dawkoin",
+    "sol": 85.00536010199991,
+    "spaet": false,
+    "symbol": "DAWKOIN",
+    "t": 1795831496.7003963
+   },
+   {
+    "dauer": 396.0841073989868,
+    "ersteller_verkauft": true,
+    "kaeufer": 286,
+    "mint": "5vGRfzbX2rUYdTKfJnbgbAdv9wTv4YuTgfU7iLFapump",
+    "name": "Encrypted Inu",
+    "sol": 85.00532752300002,
+    "spaet": false,
+    "symbol": "EI",
+    "t": 1795831516.5228226
    }
   ],
   "uebersicht": 1795830927.475963
