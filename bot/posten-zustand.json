@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 849,
+ "laeufe": 850,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -412,6 +412,17 @@
     "spaet": false,
     "symbol": "WLFI",
     "t": 1795846738.9938989
+   },
+   {
+    "dauer": 185.10839414596558,
+    "ersteller_verkauft": true,
+    "kaeufer": 10,
+    "mint": "GcTnzQmdTckNQAQLNABN1Zi4m2G1bGzQLDd8jwpTpump",
+    "name": "Feral Specter",
+    "sol": 0.27174900500000004,
+    "spaet": false,
+    "symbol": "FERSPE",
+    "t": 1795846752.8805683
    }
   ],
   "uebersicht": 1795846141.988093
