@@ -311,37 +311,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 897,
+ "laeufe": 898,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795856772.57658,
    1795857372.4745736,
    1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 416.3258059024811,
-    "ersteller_verkauft": false,
-    "kaeufer": 25,
-    "mint": "yzNMMt6swJzTtyAz2ENfFzVM2UuLdEiBV8j4ZRMpump",
-    "name": "🐸 Moon Frog",
-    "sol": 0.3134402209999992,
-    "spaet": false,
-    "symbol": "$MFRG",
-    "t": 1795856683.471354
-   },
-   {
-    "dauer": 2106.2012791633606,
-    "ersteller_verkauft": false,
-    "kaeufer": 257,
-    "mint": "4nQLJ8aFXW3tTwnrstXrVqzbDH5u9eTaqc5F2Baypump",
-    "name": "Robinhood",
-    "sol": 85.52072737000012,
-    "spaet": false,
-    "symbol": "Robinhood",
-    "t": 1795856704.611795
-   },
    {
     "mint": "TwegSx1dAyTbpAAfgef8vsqqUVfz3Yjjuw3Z6Nopump",
     "spaet": true,
