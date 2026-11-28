@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 833,
+ "laeufe": 834,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,22 +319,6 @@
    1795841255.624771
   ],
   "stunde": [
-   {
-    "mint": "4EydKwponjbGErbBb5Upd49rQy9Q7zey8Nu1yYTapump",
-    "spaet": true,
-    "t": 1795838759.0220819
-   },
-   {
-    "dauer": 402.2520639896393,
-    "ersteller_verkauft": false,
-    "kaeufer": 497,
-    "mint": "3rVr2RBzEXXKf1cVvZ6HBvFg2XmBK4iMgZv9q9q4pump",
-    "name": "Ricecoin",
-    "sol": 77.66356618799976,
-    "spaet": false,
-    "symbol": "RICE",
-    "t": 1795838824.9273167
-   },
    {
     "dauer": 107.01480603218079,
     "ersteller_verkauft": false,
@@ -547,6 +531,7 @@
   "HYPE": 1795801340.5389876,
   "MOODENG": 1795682429.2791297,
   "SOL": 1795791003.9843273,
+  "TRUMP": 1795842503.0793285,
   "XRP": 1795791003.9843273,
   "xyz:NVDA": 1795791003.9843273,
   "xyz:SILVER": 1795757465.3953183,
