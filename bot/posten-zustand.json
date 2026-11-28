@@ -328,7 +328,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 985,
+ "laeufe": 986,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
@@ -338,44 +338,6 @@
    1795884482.4202523
   ],
   "stunde": [
-   {
-    "dauer": 218.3974323272705,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "8MtD1PwxRmEXXERLCeSWrSeVbJwibVFe7ufKeztfpump",
-    "name": "Retarded Nigger",
-    "sol": 0.5115670269999998,
-    "spaet": false,
-    "symbol": "RETARD",
-    "t": 1795881031.6134398
-   },
-   {
-    "mint": "9QDgPpMvsRQwoMmfaWtQah2bjjRFym8YS1xwYCcspump",
-    "spaet": true,
-    "t": 1795881089.8286526
-   },
-   {
-    "dauer": 406.76878476142883,
-    "ersteller_verkauft": true,
-    "kaeufer": 28,
-    "mint": "FdbPg5iuGQxERSDMK9P76tkmca6vx2HHrH9pRJwQpump",
-    "name": "TÜRK COİN",
-    "sol": 0.11422568399999992,
-    "spaet": false,
-    "symbol": "T.C",
-    "t": 1795881134.1212099
-   },
-   {
-    "dauer": 384.82456064224243,
-    "ersteller_verkauft": false,
-    "kaeufer": 697,
-    "mint": "6diBjGnvBMwcvSsaZJK2W5CkPp6KQDE1qcMcQFispump",
-    "name": "Frostline",
-    "sol": 86.31315168199968,
-    "spaet": false,
-    "symbol": "FROST",
-    "t": 1795881143.9886587
-   },
    {
     "dauer": 59.25012803077698,
     "ersteller_verkauft": true,
@@ -642,6 +604,22 @@
     "spaet": false,
     "symbol": "Nike",
     "t": 1795884482.3755906
+   },
+   {
+    "mint": "9PGt6yqAW8XJPeBdfMzc2zxPqQeijGgyTahpK2Bppump",
+    "spaet": true,
+    "t": 1795884489.6195796
+   },
+   {
+    "dauer": 264.15325117111206,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "GuDnfnKWKiUqeUQ7EviNDj1wCbq3E8UHwHNoG2mNpump",
+    "name": "MAX",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "MAX",
+    "t": 1795884538.07702
    }
   ],
   "uebersicht": 1795884182.2414935
