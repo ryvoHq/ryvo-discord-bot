@@ -322,26 +322,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 955,
+ "laeufe": 956,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795872617.0749443,
    1795873556.4473472,
    1795875655.691484
   ],
   "stunde": [
-   {
-    "dauer": 853.6164345741272,
-    "ersteller_verkauft": false,
-    "kaeufer": 616,
-    "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump",
-    "name": "Fantasy Index 6900",
-    "sol": 62.961846654999924,
-    "spaet": false,
-    "symbol": "FIX6900",
-    "t": 1795872441.0104346
-   },
    {
     "dauer": 120.16481494903564,
     "ersteller_verkauft": false,
@@ -552,6 +540,38 @@
     "mint": "HHzUPcfetiSFo7cJatdmQV67P85uoCCgiHMWLYjMpump",
     "spaet": true,
     "t": 1795875776.9638212
+   },
+   {
+    "mint": "HHF3AJ8oriKDhPESdx2yZZkyLz9F5VoQDu6ghDXsthfQ",
+    "spaet": true,
+    "t": 1795876004.489859
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "hUU4M2aEGEmtBvUbbJTJ5kw38kRApFU1gf4WLN7pump",
+    "name": "Federal Oil Dividend Fund",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "FODF",
+    "t": 1795876018.8370821
+   },
+   {
+    "mint": "5jjJWZfTTaZtG74zSpiEZbMBHNM2jieHEXM2UZvapump",
+    "spaet": true,
+    "t": 1795876044.2982647
+   },
+   {
+    "dauer": 198.02910256385803,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "85BNmFenZ1g4mLgYSTpZwG6YHxrCrihBsqskTUEvpump",
+    "name": "JUMP COIN",
+    "sol": 0.1060720800000001,
+    "spaet": false,
+    "symbol": "JUMP",
+    "t": 1795876113.4086294
    }
   ],
   "uebersicht": 1795872617.0749443
