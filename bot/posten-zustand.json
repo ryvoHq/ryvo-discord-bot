@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 911,
+ "laeufe": 912,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -503,6 +503,33 @@
     "spaet": false,
     "symbol": "dogbaton",
     "t": 1795863792.4729676
+   },
+   {
+    "mint": "F9NKmsjGhBcet8ghgSiRY9sk92uexVvbyyenHfp5pump",
+    "spaet": true,
+    "t": 1795863832.6324527
+   },
+   {
+    "dauer": 123.91644787788391,
+    "ersteller_verkauft": true,
+    "kaeufer": 37,
+    "mint": "E5hz7TVLdXVSmZF4EynsshaqX1oQgkRFsrik9usPpump",
+    "name": "time",
+    "sol": 0.8603694620000008,
+    "spaet": false,
+    "symbol": "time",
+    "t": 1795863883.2390833
+   },
+   {
+    "dauer": 81.16247653961182,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "9wU3UETaEeb6uuN1CtZKL4swJiaJu4jLwP6k7HPVpump",
+    "name": "MONEYY",
+    "sol": 4.867263523999998,
+    "spaet": false,
+    "symbol": "MONY",
+    "t": 1795864040.8601446
    }
   ],
   "uebersicht": 1795861674.999723
