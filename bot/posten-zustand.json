@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 838,
+ "laeufe": 839,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,22 +319,6 @@
    1795842801.9154005
   ],
   "stunde": [
-   {
-    "dauer": 228.72311186790466,
-    "ersteller_verkauft": true,
-    "kaeufer": 11,
-    "mint": "nbSvcYCLoof8WtAgraemmtRjyhGnfCcY4N2P7nUpump",
-    "name": "STENKS",
-    "sol": 0.29909190499999994,
-    "spaet": false,
-    "symbol": "STENKS",
-    "t": 1795840244.0184608
-   },
-   {
-    "mint": "CRZ1EPyhvqckvBXGBDz8J9amCfKHtnVPBgbDtXCHpump",
-    "spaet": true,
-    "t": 1795840372.9014845
-   },
    {
     "dauer": 182.39825534820557,
     "ersteller_verkauft": true,
