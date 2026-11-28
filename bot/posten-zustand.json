@@ -311,57 +311,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 886,
+ "laeufe": 887,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795856772.57658
+   1795856772.57658,
+   1795857372.4745736
   ],
   "stunde": [
-   {
-    "dauer": 79.20457744598389,
-    "ersteller_verkauft": false,
-    "kaeufer": 172,
-    "mint": "3q9ZG22JGx7PgtcJScRPWAbEtyGsLwmhYSHd49zapump",
-    "name": "PEPE",
-    "sol": 84.679792105,
-    "spaet": false,
-    "symbol": "PEPE",
-    "t": 1795853504.8884017
-   },
-   {
-    "dauer": 105.30880165100098,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "8TYpKxuS4NCS9sk32UzRmEfBuNPfN3MHZ8BWg7wxpump",
-    "name": "Weird Cat",
-    "sol": 0.611278998,
-    "spaet": false,
-    "symbol": "WEIRDCAT",
-    "t": 1795853552.5941257
-   },
-   {
-    "dauer": 455.93614315986633,
-    "ersteller_verkauft": false,
-    "kaeufer": 22,
-    "mint": "5EJUA3UQBjqr2M4RtWiqRyFUCRnEqqVZ92iJhw7Ypump",
-    "name": "BABY SHIB",
-    "sol": 0.10884215299999986,
-    "spaet": false,
-    "symbol": "SHIB",
-    "t": 1795853589.6735332
-   },
-   {
-    "dauer": 156.4521927833557,
-    "ersteller_verkauft": true,
-    "kaeufer": 28,
-    "mint": "2yTE1CRuKMJUEyvUuSQ6oLopgXxcvCrb2b9UEnK5pump",
-    "name": "Doomed Rocket",
-    "sol": 0.1582129560000001,
-    "spaet": false,
-    "symbol": "DOOROC",
-    "t": 1795853658.305719
-   },
    {
     "dauer": 44.07745409011841,
     "ersteller_verkauft": false,
@@ -562,9 +519,42 @@
     "mint": "TwegSx1dAyTbpAAfgef8vsqqUVfz3Yjjuw3Z6Nopump",
     "spaet": true,
     "t": 1795856945.6789942
+   },
+   {
+    "dauer": 842.4025528430939,
+    "ersteller_verkauft": false,
+    "kaeufer": 713,
+    "mint": "CgFd8qqLXgN92GgPnCeTRofMZnd6cm6A8Uzo3gVRERLY",
+    "name": "Rally",
+    "sol": 85.41236224399972,
+    "spaet": false,
+    "symbol": "RALLY",
+    "t": 1795857073.2334616
+   },
+   {
+    "dauer": 1260.5883693695068,
+    "ersteller_verkauft": false,
+    "kaeufer": 148,
+    "mint": "UVrbah1Jj4vvEN3xJZm9egQH65SSgSstpVWJwHopump",
+    "name": "FomoFamily | Offical Team",
+    "sol": 85.00535944199999,
+    "spaet": false,
+    "symbol": "FOMO",
+    "t": 1795857237.7943668
+   },
+   {
+    "dauer": 337.8991596698761,
+    "ersteller_verkauft": true,
+    "kaeufer": 26,
+    "mint": "JKpxhaykuctb3uoHr72rTCtfqPd6N23cajZTHABpump",
+    "name": "FreakHouse",
+    "sol": -4.797879070999994,
+    "spaet": false,
+    "symbol": "FHC",
+    "t": 1795857312.4718823
    }
   ],
-  "uebersicht": 1795853493.8036962
+  "uebersicht": 1795857372.4745736
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
