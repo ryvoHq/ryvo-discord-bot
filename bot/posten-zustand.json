@@ -317,46 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 907,
+ "laeufe": 908,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 259.96880412101746,
-    "ersteller_verkauft": true,
-    "kaeufer": 23,
-    "mint": "HFJrupqVA53AJDF2np1fMGxmhvNiLHi3dq3U7DJ6mayy",
-    "name": "Waffle the Sleepy Sloth",
-    "sol": 0.7392139879999999,
-    "spaet": false,
-    "symbol": "WAFFLOTH",
-    "t": 1795859331.4374785
-   },
-   {
-    "dauer": 233.6958339214325,
-    "ersteller_verkauft": true,
-    "kaeufer": 32,
-    "mint": "q9HBtkgFk2Wowdt4gA9zBsuGYnwjtKr65hjcZNYpump",
-    "name": "The Amazon Monkey",
-    "sol": 0.092997258000001,
-    "spaet": false,
-    "symbol": "ELIZABETH",
-    "t": 1795859396.6184273
-   },
-   {
-    "dauer": 109.34211039543152,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "LHueLzV4Unb9KwjvuCMqUP1vbbkWiFtLPGZUbDspump",
-    "name": "🐸 Moon Frog",
-    "sol": 0.291064712,
-    "spaet": false,
-    "symbol": "$MFRG",
-    "t": 1795859563.2396631
-   },
    {
     "dauer": 145.6388876438141,
     "ersteller_verkauft": false,
@@ -479,6 +446,17 @@
     "spaet": false,
     "symbol": "pumpcat",
     "t": 1795862774.8160555
+   },
+   {
+    "dauer": 577.6035943031311,
+    "ersteller_verkauft": false,
+    "kaeufer": 155,
+    "mint": "FTgGAcUcPXQCcfK4ABeFUyTUV3ws4bsSjk4U2HRpump",
+    "name": "Twitter | Official Team",
+    "sol": 82.02335958300003,
+    "spaet": false,
+    "symbol": "X",
+    "t": 1795862991.0316074
    }
   ],
   "uebersicht": 1795861674.999723
