@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 817,
+ "laeufe": 818,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -429,9 +429,31 @@
     "spaet": false,
     "symbol": "CHIMP",
     "t": 1795836853.1080413
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "sM97MjadsNL9jgDjvPYj7dRVLtfwxSZTSwjeaCFpump",
+    "name": "United Oil Dividend Fund",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "U0DF",
+    "t": 1795838001.666639
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "rYNx4UerhGyPSyrc373Wy1FmDu2LTQBiD49QG3Mpump",
+    "name": "Project Cyber",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "PCB",
+    "t": 1795838086.89511
    }
   ],
-  "uebersicht": 1795834570.3698478
+  "uebersicht": 1795838209.4951334
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
