@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 944,
+ "laeufe": 945,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,33 +330,6 @@
    1795872617.0749443
   ],
   "stunde": [
-   {
-    "dauer": 174.03670859336853,
-    "ersteller_verkauft": true,
-    "kaeufer": 30,
-    "mint": "FXZBBfb7Uwnc8U5r1yHywtHUzXiPoHtKnTN8NXQfpump",
-    "name": "The Toad Cat",
-    "sol": 0.2780531669999998,
-    "spaet": false,
-    "symbol": "TOAD",
-    "t": 1795869373.5884213
-   },
-   {
-    "mint": "EDTwUYKPdnEu1iDu7AUevgWPx7kqawpQRa9f11X2pump",
-    "spaet": true,
-    "t": 1795869421.3376744
-   },
-   {
-    "dauer": 1406.35689163208,
-    "ersteller_verkauft": true,
-    "kaeufer": 36,
-    "mint": "4hs45C1bG5kbEW74L4GxVoPhA8EJY1HkL3ZnVwNTpump",
-    "name": "GTA 6",
-    "sol": 0.0350865110000008,
-    "spaet": false,
-    "symbol": "GTA",
-    "t": 1795869494.8756971
-   },
    {
     "dauer": 142.09710144996643,
     "ersteller_verkauft": true,
@@ -588,6 +561,11 @@
     "spaet": false,
     "symbol": "$SANTA",
     "t": 1795872947.9317226
+   },
+   {
+    "mint": "A5PBhCQS2EuJFQ1NVH7yR2SpSDvhkRDi1FhysVM2pump",
+    "spaet": true,
+    "t": 1795873165.7468915
    }
   ],
   "uebersicht": 1795872617.0749443
