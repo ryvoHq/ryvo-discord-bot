@@ -317,13 +317,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 925,
+ "laeufe": 926,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795865618.2703478,
    1795866217.9941115,
-   1795866518.6348646
+   1795866518.6348646,
+   1795868051.495723
   ],
   "stunde": [
    {
@@ -592,6 +593,49 @@
     "spaet": false,
     "symbol": "$CAT",
     "t": 1795867621.4783792
+   },
+   {
+    "mint": "57uooyjwYX2kpSGN3QnBLWAwk4KMZYbkp5e8f7i7pump",
+    "spaet": true,
+    "t": 1795867781.099018
+   },
+   {
+    "dauer": 456.38521242141724,
+    "ersteller_verkauft": false,
+    "kaeufer": 131,
+    "mint": "BEx8HaF3r4QByFnzc5pAwyTSCSsxGZCFwAca424tpump",
+    "name": "Rockstar Games",
+    "sol": 85.005359202,
+    "spaet": false,
+    "symbol": "Rockstar",
+    "t": 1795867804.8979242
+   },
+   {
+    "mint": "CmEJfeTQM8VmAts3PtFrKgtSU9MkC7CvRiJpPuoNpump",
+    "spaet": true,
+    "t": 1795867822.757209
+   },
+   {
+    "dauer": 0.006125926971435547,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "JE6Wx8ZzGEUkMWxFvPnq4QSZqwDbLnKkf6ppjj9epump",
+    "name": "CS 1.6 Web",
+    "sol": 85.005359083,
+    "spaet": false,
+    "symbol": "CS",
+    "t": 1795867969.9527369
+   },
+   {
+    "dauer": 845.3499338626862,
+    "ersteller_verkauft": false,
+    "kaeufer": 692,
+    "mint": "2sAKJvmN8E8twDoGEtSYBCdj8MCySXkgs5hynvetpump",
+    "name": "motionmkts.com",
+    "sol": 85.6669740019996,
+    "spaet": false,
+    "symbol": "motion",
+    "t": 1795868019.0617611
    }
   ],
   "uebersicht": 1795865317.7976964
