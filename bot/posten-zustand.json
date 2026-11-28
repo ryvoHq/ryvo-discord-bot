@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 844,
+ "laeufe": 845,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -399,6 +399,27 @@
     "mint": "76HvWEpdsusJVoY9D91bhainYH3PfhqxVeQwURNcpump",
     "spaet": true,
     "t": 1795845181.170794
+   },
+   {
+    "mint": "FqKU5CbDqL4rHGzR8pMtYWVYoU3yyvgDCeaKXyUspump",
+    "spaet": true,
+    "t": 1795845251.7079272
+   },
+   {
+    "mint": "22c19BBf6LFqEnDNemMHaM8nNKARwX5GkPaa3oVFpump",
+    "spaet": true,
+    "t": 1795845254.0400252
+   },
+   {
+    "dauer": 111.44966244697571,
+    "ersteller_verkauft": true,
+    "kaeufer": 157,
+    "mint": "wtSHXLLKHQUBxkqxZ1hM7sM7CVZoEb7M33JHx7Lpump",
+    "name": "We Literally Fuck Investors",
+    "sol": 82.93597499599997,
+    "spaet": false,
+    "symbol": "WLFI",
+    "t": 1795845419.7416465
    }
   ],
   "uebersicht": 1795841855.3694134
