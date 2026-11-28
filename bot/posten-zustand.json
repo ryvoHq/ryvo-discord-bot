@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 866,
+ "laeufe": 867,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -406,6 +406,11 @@
     "spaet": false,
     "symbol": "Zhaki",
     "t": 1795851199.2236104
+   },
+   {
+    "mint": "6aJmVyNtyHtcjE8NpfHsZhdwHJpQ7FEFEPrtwCiqpump",
+    "spaet": true,
+    "t": 1795851345.0439694
    }
   ],
   "uebersicht": 1795849782.068453
