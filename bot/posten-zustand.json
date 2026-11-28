@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 880,
+ "laeufe": 881,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -553,6 +553,17 @@
     "spaet": false,
     "symbol": "BetOnBlak",
     "t": 1795855110.6872413
+   },
+   {
+    "dauer": 226.74527144432068,
+    "ersteller_verkauft": false,
+    "kaeufer": 28,
+    "mint": "6MfCjZLiBm38PCziUv1dbbYEmnnRamnpZzgLdLaUpump",
+    "name": "🐸 Moon Frog",
+    "sol": 0.37516167700000025,
+    "spaet": false,
+    "symbol": "$MFRG",
+    "t": 1795855342.0100834
    }
   ],
   "uebersicht": 1795853493.8036962
