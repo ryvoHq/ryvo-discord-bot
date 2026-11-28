@@ -322,80 +322,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 973,
+ "laeufe": 974,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795879637.9204814,
-   1795880237.8543587
+   1795880237.8543587,
+   1795881437.611222
   ],
   "stunde": [
-   {
-    "dauer": 680.3405392169952,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "5zE7N4gNaCJmPo1F12Tr6Y1DY1M3C3Jy9qxmkbuSpump",
-    "name": "EVERYONE SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795877620.6375062
-   },
-   {
-    "dauer": 239.435391664505,
-    "ersteller_verkauft": true,
-    "kaeufer": 27,
-    "mint": "JbMHNn9gPpiybbkS641m4C62RZzUJQ7aS67ZZaxpump",
-    "name": "BILLIONAIRE CAT 💸",
-    "sol": 0.059860195000000074,
-    "spaet": false,
-    "symbol": "$BCAT",
-    "t": 1795877647.9488714
-   },
-   {
-    "dauer": 69.01014280319214,
-    "ersteller_verkauft": true,
-    "kaeufer": 6,
-    "mint": "5XjU4XfCZu6Vi3bwqUKziXyozX3ginXYqM7ewq87pump",
-    "name": "LUCIA V2",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "LUCIA V2",
-    "t": 1795877663.7027178
-   },
-   {
-    "dauer": 312.29348707199097,
-    "ersteller_verkauft": true,
-    "kaeufer": 44,
-    "mint": "EWPfEb1Q6ekv6xBi5GUHZWtjv4gcDFAdZVoS4DaKpump",
-    "name": "4EST PUMP",
-    "sol": 0.006579300000000364,
-    "spaet": false,
-    "symbol": "4EST",
-    "t": 1795877686.8070471
-   },
-   {
-    "dauer": 216.2106430530548,
-    "ersteller_verkauft": false,
-    "kaeufer": 151,
-    "mint": "bxh41SEbbEfj547uEao1WLtafnXxWcotgcyikxZpump",
-    "name": "Google | Official Team",
-    "sol": 84.6299127909999,
-    "spaet": false,
-    "symbol": "Gemini",
-    "t": 1795877742.4772666
-   },
-   {
-    "dauer": 273.02531266212463,
-    "ersteller_verkauft": true,
-    "kaeufer": 30,
-    "mint": "6wq5qUz8L2xrotNYvJbzpGCU984KSYAeA4iQZ2Kzpump",
-    "name": "flying guy",
-    "sol": 0.11257317300000004,
-    "spaet": false,
-    "symbol": "fg",
-    "t": 1795877781.861394
-   },
    {
     "dauer": 167.05664825439453,
     "ersteller_verkauft": true,
@@ -714,6 +649,28 @@
     "spaet": false,
     "symbol": "T.C",
     "t": 1795881134.1212099
+   },
+   {
+    "dauer": 384.82456064224243,
+    "ersteller_verkauft": false,
+    "kaeufer": 697,
+    "mint": "6diBjGnvBMwcvSsaZJK2W5CkPp6KQDE1qcMcQFispump",
+    "name": "Frostline",
+    "sol": 86.31315168199968,
+    "spaet": false,
+    "symbol": "FROST",
+    "t": 1795881143.9886587
+   },
+   {
+    "dauer": 59.25012803077698,
+    "ersteller_verkauft": true,
+    "kaeufer": 286,
+    "mint": "HLSreoB6RNByRWJTTqRaYhXj389vJHEgkVq8CQ4Hpump",
+    "name": "Selfvalue",
+    "sol": 84.88684094600004,
+    "spaet": false,
+    "symbol": "Selfvalue",
+    "t": 1795881364.8517318
    }
   ],
   "uebersicht": 1795880537.8372564
