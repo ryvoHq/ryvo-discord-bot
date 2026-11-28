@@ -317,53 +317,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 932,
+ "laeufe": 933,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795866217.9941115,
    1795866518.6348646,
    1795868051.495723
   ],
   "stunde": [
-   {
-    "mint": "CtWubr1oRBxoqaweCQNDXwr2dJYqbjhoWB9sUd7Bpump",
-    "spaet": true,
-    "t": 1795866019.6476147
-   },
-   {
-    "dauer": 612.4306185245514,
-    "ersteller_verkauft": false,
-    "kaeufer": 707,
-    "mint": "ANxUJcRwevw9xcWMQNrwgpzcdeSgXzNq6hLUxGG3pump",
-    "name": "怒ワレ",
-    "sol": 85.19566462099972,
-    "spaet": false,
-    "symbol": "OKOWARE",
-    "t": 1795866037.5116944
-   },
-   {
-    "dauer": 127.52152299880981,
-    "ersteller_verkauft": true,
-    "kaeufer": 29,
-    "mint": "8mW5JsVBpDMTm5dM8PiCbE6f2vVhBVao4XAZeQPupump",
-    "name": "runner of the day",
-    "sol": 0.09385820700000014,
-    "spaet": false,
-    "symbol": "runner",
-    "t": 1795866047.878495
-   },
-   {
-    "dauer": 300.65423583984375,
-    "ersteller_verkauft": false,
-    "kaeufer": 149,
-    "mint": "GTXyMteWZHnXab13XY5KT1EE2eBpRKjyBEj3NPCJpump",
-    "name": "MoonBoy",
-    "sol": 85.00535932600003,
-    "spaet": false,
-    "symbol": "MoonBoy",
-    "t": 1795866187.4859602
-   },
    {
     "mint": "6QkUe2KCMsH6eeHm2Pifn7dFNSC6CjHzUVAk2HuVpump",
     "spaet": true,
@@ -648,6 +609,17 @@
     "spaet": false,
     "symbol": "GTA",
     "t": 1795869494.8756971
+   },
+   {
+    "dauer": 142.09710144996643,
+    "ersteller_verkauft": true,
+    "kaeufer": 5,
+    "mint": "7pV3MBDjCMHGxrnzgSrURHXkRELbFVSGGPZKYkMMpump",
+    "name": "ₜₘ",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "ₜₘ",
+    "t": 1795869844.9199238
    }
   ],
   "uebersicht": 1795868951.8121321
