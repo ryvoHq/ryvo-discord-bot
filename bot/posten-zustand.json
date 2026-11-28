@@ -317,32 +317,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 929,
+ "laeufe": 930,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795865618.2703478,
    1795866217.9941115,
    1795866518.6348646,
    1795868051.495723
   ],
   "stunde": [
-   {
-    "dauer": 238.53640341758728,
-    "ersteller_verkauft": true,
-    "kaeufer": 400,
-    "mint": "5gBCc4MYQjA9nvyRDZQKdSxLeyKGjTVGhPaMkD13pump",
-    "name": "Dodo la grenouille",
-    "sol": 84.66467506099987,
-    "spaet": false,
-    "symbol": "DODO",
-    "t": 1795865573.9867983
-   },
-   {
-    "mint": "9ABJGuzf4EqmaRAmy7ZPzU74uCNtBgMJSuQ2To6Fpump",
-    "spaet": true,
-    "t": 1795865600.155408
-   },
    {
     "dauer": 91.20620632171631,
     "ersteller_verkauft": true,
@@ -643,6 +626,17 @@
     "mint": "Er1H8HV48KSqx4Mz2d6HcnzHBAtDxfmV1SN45ZfQpump",
     "spaet": true,
     "t": 1795868887.8794422
+   },
+   {
+    "dauer": 905.0714576244354,
+    "ersteller_verkauft": false,
+    "kaeufer": 26,
+    "mint": "CdCv4vQpqZtiEKsqUSrjXkq8mGg4BKiWHAmgq8Supump",
+    "name": "even a devil may cry ",
+    "sol": 1.784821228,
+    "spaet": false,
+    "symbol": "Devil May Cry",
+    "t": 1795869050.8788512
    }
   ],
   "uebersicht": 1795868951.8121321
