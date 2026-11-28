@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 926,
+ "laeufe": 927,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -327,11 +327,6 @@
    1795868051.495723
   ],
   "stunde": [
-   {
-    "mint": "GpG61ySpcKmKXvJVYJwUVYSKKPrT2XdmNXDwoa6Rpump",
-    "spaet": true,
-    "t": 1795864661.860486
-   },
    {
     "mint": "xEYk7169UGTUeTZpnK6bE5ewPCjsvYfCiaAKPcppump",
     "spaet": true,
@@ -636,6 +631,28 @@
     "spaet": false,
     "symbol": "motion",
     "t": 1795868019.0617611
+   },
+   {
+    "dauer": 200.04220533370972,
+    "ersteller_verkauft": true,
+    "kaeufer": 529,
+    "mint": "8yUDvFWAHXBXSdgcRJZ7cWtFb1DZ1dwaQeYhb7kEpump",
+    "name": "Flip Flop Cat",
+    "sol": 85.00536058399976,
+    "spaet": false,
+    "symbol": "FlipFlop",
+    "t": 1795868290.5303564
+   },
+   {
+    "dauer": 322.49025797843933,
+    "ersteller_verkauft": false,
+    "kaeufer": 149,
+    "mint": "7eRMyS4Jd23KNYrJMsQR2pWMhiMYitMFQd397fdzpump",
+    "name": "Baboon Smirk",
+    "sol": 85.00986713900002,
+    "spaet": false,
+    "symbol": "Zhaki",
+    "t": 1795868321.5008996
    }
   ],
   "uebersicht": 1795865317.7976964
