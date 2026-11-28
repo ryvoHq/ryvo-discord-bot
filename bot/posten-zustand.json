@@ -301,16 +301,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 767,
+ "laeufe": 768,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "SjVFmcRwepM5N5Bp9GXjCkDe24knT1Ymh6MAiYdpump",
-    "spaet": true,
-    "t": 1795820354.6366653
-   },
    {
     "mint": "AXHMGojYf5UB1PmTpMeWhM1UR9GRUP8ejLeBZ2cWpump",
     "spaet": true,
@@ -554,6 +549,22 @@
     "spaet": false,
     "symbol": "BF69420",
     "t": 1795823884.7800102
+   },
+   {
+    "mint": "HNZ4ZUb8T7wV3ZDSqhSQ4cuVBpeNS5ur41WycQjvpump",
+    "spaet": true,
+    "t": 1795823951.2850387
+   },
+   {
+    "dauer": 46.23642349243164,
+    "ersteller_verkauft": true,
+    "kaeufer": 170,
+    "mint": "2ryHMGePG1767SYTfRRQhh1giFd4tSzYEua4Fw3Kpump",
+    "name": "Supermassive",
+    "sol": 85.00535929,
+    "spaet": false,
+    "symbol": "SM",
+    "t": 1795824050.8818808
    }
   ],
   "uebersicht": 1795823000.229913
