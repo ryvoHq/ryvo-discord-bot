@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 782,
+ "laeufe": 783,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -315,39 +315,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 176.30135488510132,
-    "ersteller_verkauft": false,
-    "kaeufer": 144,
-    "mint": "efyZMDeHj1BnMeb4fU6rKGNRhUrkfEZjhQ4oC4tpump",
-    "name": "Anthropic | Official Team",
-    "sol": 85.058633335,
-    "spaet": false,
-    "symbol": "Anthropic",
-    "t": 1795824652.2225895
-   },
-   {
-    "dauer": 74.24981713294983,
-    "ersteller_verkauft": true,
-    "kaeufer": 266,
-    "mint": "DPUfEEquGmdVgx8aX9wXRjfe4naLimpy73BjAYMKpump",
-    "name": "Cats",
-    "sol": 81.80564069699994,
-    "spaet": false,
-    "symbol": "Cats",
-    "t": 1795824686.3973775
-   },
-   {
-    "dauer": 151.59566235542297,
-    "ersteller_verkauft": true,
-    "kaeufer": 455,
-    "mint": "3TQo1nESjZF9QMEhQuGT4gkQD8tzEMFUryjvNDLqpump",
-    "name": "Christian AI",
-    "sol": 86.63320069799985,
-    "spaet": false,
-    "symbol": "CI",
-    "t": 1795824835.4448743
-   },
    {
     "dauer": 118.85052061080933,
     "ersteller_verkauft": false,
@@ -516,6 +483,17 @@
     "spaet": false,
     "symbol": "ballsackdorkl",
     "t": 1795827570.177398
+   },
+   {
+    "dauer": 299.5597097873688,
+    "ersteller_verkauft": true,
+    "kaeufer": 28,
+    "mint": "Ceq2V5uC8sVpWVUiCAnmLRXfNCf2tjGxFABEfRcUpump",
+    "name": "PENIS",
+    "sol": 0.13838610400000018,
+    "spaet": false,
+    "symbol": "#Penissad",
+    "t": 1795828208.392255
    }
   ],
   "uebersicht": 1795826643.6076992
