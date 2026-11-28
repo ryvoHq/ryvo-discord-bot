@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 962,
+ "laeufe": 963,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,43 +330,6 @@
    1795877193.8568563
   ],
   "stunde": [
-   {
-    "dauer": 199.20754766464233,
-    "ersteller_verkauft": false,
-    "kaeufer": 133,
-    "mint": "14dxyCmVr96qC2h3SgZqvGzm4DXXHLkcw2xZeAwVpump",
-    "name": "TikTok | Official Team",
-    "sol": 85.250451498,
-    "spaet": false,
-    "symbol": "TikTok US",
-    "t": 1795874526.2701972
-   },
-   {
-    "mint": "gGUroLU4SSS2gFBJBFj3TrWbciHhQLbTCBy1ov3pump",
-    "spaet": true,
-    "t": 1795874573.634951
-   },
-   {
-    "mint": "DqTMppoGMwuCge3sRyfFYw48moBM1wetr79cvs73pump",
-    "spaet": true,
-    "t": 1795874643.73776
-   },
-   {
-    "dauer": 0.0006215572357177734,
-    "ersteller_verkauft": false,
-    "kaeufer": 11,
-    "mint": "NifiKQLLrEPFv13wmpTfywQMNA1pvooyyhN9tf9pump",
-    "name": "do nothing and win",
-    "sol": 85.00535906600001,
-    "spaet": false,
-    "symbol": "nothing",
-    "t": 1795874663.0878682
-   },
-   {
-    "mint": "2YppuUHxS65mifkrsiqKCwH4bEeYxmLFvY3WFckbpump",
-    "spaet": true,
-    "t": 1795874764.506598
-   },
    {
     "mint": "7ghj9UzTfVd27rScpwBowLgjj7hje8MCBFR4jnkFpump",
     "spaet": true,
@@ -670,6 +633,16 @@
     "spaet": false,
     "symbol": "PEPE",
     "t": 1795878087.0701928
+   },
+   {
+    "mint": "5aR3NWJwmpNVGXDqrFk9GQgoF8x3LWgrMqPUMxtPpump",
+    "spaet": true,
+    "t": 1795878124.4421911
+   },
+   {
+    "mint": "Gfa7Gzq9q3zndhUJtauv7VCkQxuiBDftPioAm1ubpump",
+    "spaet": true,
+    "t": 1795878350.9986632
    }
   ],
   "uebersicht": 1795876893.0700972
