@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 837,
+ "laeufe": 838,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,21 +319,6 @@
    1795842801.9154005
   ],
   "stunde": [
-   {
-    "mint": "Cek7GapLWHSraLUd3wXdoGmX1mkYpVf3vPeREcTipump",
-    "spaet": true,
-    "t": 1795839828.4458737
-   },
-   {
-    "mint": "ExnNTdVZy6FVQJG8muBSEpDaFcp2tBcuLU8Tfz3Cpump",
-    "spaet": true,
-    "t": 1795839973.246588
-   },
-   {
-    "mint": "FXDb1yhYRidbBs6ik4uhWVJRZ2XV6qjcEPg6Xesrpump",
-    "spaet": true,
-    "t": 1795840091.438511
-   },
    {
     "dauer": 228.72311186790466,
     "ersteller_verkauft": true,
@@ -495,6 +480,17 @@
     "spaet": false,
     "symbol": "FLOAT",
     "t": 1795842794.4744048
+   },
+   {
+    "dauer": 852.2500479221344,
+    "ersteller_verkauft": false,
+    "kaeufer": 402,
+    "mint": "kLguqEWqfbGkV7Sz8h674nKBwiYqKiNSS79RSUcpump",
+    "name": "United Fidelity BANKRUPT ",
+    "sol": 77.97968536899992,
+    "spaet": false,
+    "symbol": "BANKRUPT",
+    "t": 1795843503.452375
    }
   ],
   "uebersicht": 1795841855.3694134
