@@ -3,7 +3,7 @@
  "board_nachricht": "1575119657957064872",
  "chart_tag": "2026-11-28",
  "ebenen_krypto": "2026-11-28",
- "ebenen_trad": "2026-11-27",
+ "ebenen_trad": "2026-11-28",
  "ezb_tag": "2026-11-27",
  "gesehen": [
   "https://www.thehindu.com/brandhub/pr-release/binance-pay-dk-bank-and-tether-sign-mou-to-expand-stablecoin-payments-to-merchants-across-bhutan-starting-with-usd/article71753941.ece",
@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 923,
+ "laeufe": 924,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -326,48 +326,6 @@
    1795866518.6348646
   ],
   "stunde": [
-   {
-    "mint": "3cR3vZnefmntjakefYEsYMj8RMqpMQu99L4XRBsppump",
-    "spaet": true,
-    "t": 1795863566.1672103
-   },
-   {
-    "mint": "HyzaRjpC2T4LxTroS1FPBubssUmvrhDsdd4K8v79pump",
-    "spaet": true,
-    "t": 1795863652.11478
-   },
-   {
-    "mint": "DT5hmUppUXvcziVxoAkLk6sjNJU8G9fqyXmGPx75pump",
-    "spaet": true,
-    "t": 1795863657.2019174
-   },
-   {
-    "dauer": 155.5637390613556,
-    "ersteller_verkauft": true,
-    "kaeufer": 36,
-    "mint": "AfzQBp6TKTmccU7czddqGqxH58YxDfXQyUzn2x69pump",
-    "name": "Feral Specter",
-    "sol": 0.25918431599999925,
-    "spaet": false,
-    "symbol": "FERSPE",
-    "t": 1795863729.6072028
-   },
-   {
-    "dauer": 94.28713870048523,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "Aknhj4WdMZVvt44NpaoJHMGKgFpGNNNbC7vntVp1pump",
-    "name": "dogbaton",
-    "sol": 1.0625645420000007,
-    "spaet": false,
-    "symbol": "dogbaton",
-    "t": 1795863792.4729676
-   },
-   {
-    "mint": "F9NKmsjGhBcet8ghgSiRY9sk92uexVvbyyenHfp5pump",
-    "spaet": true,
-    "t": 1795863832.6324527
-   },
    {
     "dauer": 123.91644787788391,
     "ersteller_verkauft": true,
@@ -586,6 +544,49 @@
     "spaet": false,
     "symbol": "mmrich",
     "t": 1795867131.849496
+   },
+   {
+    "dauer": 159.43309545516968,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "2eTfwHWKdJgTKPHLoJX4ysv4sqmjyJG8XRo4LvHrpump",
+    "name": "EVERYONE BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795867160.3680072
+   },
+   {
+    "mint": "BDQb7ye5mjUWPfQ4AhhxKUw319JRTijvpo5M8XJZpump",
+    "spaet": true,
+    "t": 1795867248.1363933
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "T6si9pfq43oqLQjkoyJ7VM4Xvjt3faHMdkvqRSWpump",
+    "name": "USOI",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USOI",
+    "t": 1795867305.5305998
+   },
+   {
+    "dauer": 69.19339084625244,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "3ikxmAVammNjnmtfVzb59v4G3YcLBA5qphAADnorpump",
+    "name": "BITCOIN",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BITCOIN",
+    "t": 1795867347.5952597
+   },
+   {
+    "mint": "EYwQgWVMxyq8vtLpWDiJ36CDzLtpckhmiA84c857pump",
+    "spaet": true,
+    "t": 1795867355.7491798
    }
   ],
   "uebersicht": 1795865317.7976964
@@ -605,8 +606,8 @@
  },
  "signale": {
   "fvg:BTC": {
-   "t": 1795791600000,
-   "zeit": 1795795246.890649
+   "t": 1795863600000,
+   "zeit": 1795867450.2924542
   },
   "fvg:ETH": {
    "t": 1795791600000,
