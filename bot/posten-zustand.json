@@ -309,42 +309,16 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 834,
+ "laeufe": 835,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795839109.7476873,
    1795840955.4945881,
    1795841255.624771,
-   1795841255.624771
+   1795841255.624771,
+   1795842801.9154005
   ],
   "stunde": [
-   {
-    "dauer": 107.01480603218079,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "HujkUPE5McxSDWnNnEv9wSVVe5yLkDhNLUQJ8WCgpump",
-    "name": "Doom$croll",
-    "sol": 0.7552729880000009,
-    "spaet": false,
-    "symbol": "D$",
-    "t": 1795838911.0259337
-   },
-   {
-    "mint": "AF9Mimzone9VzWpBgr5u8fadpqUeds8aPChU879PATZN",
-    "spaet": true,
-    "t": 1795839092.1268396
-   },
-   {
-    "mint": "CcjgygsqfecmANocQU7KCA62FQ5ykc6UxHzoMUiWpump",
-    "spaet": true,
-    "t": 1795839160.4835477
-   },
-   {
-    "mint": "9cmL8R2jZjKss6uYiQpQFphv6ygfirZQJEpEatKGpump",
-    "spaet": true,
-    "t": 1795839177.9536464
-   },
    {
     "mint": "AQTtWNbr8HmYjWznN4auPjPFkhKSgsKVWvUfUzRbpump",
     "spaet": true,
@@ -521,6 +495,38 @@
     "mint": "2317Z3LepUD64GFJcQnZEMrFxqKQdtaKqQJNePuM6bWk",
     "spaet": true,
     "t": 1795841984.0517292
+   },
+   {
+    "mint": "3MxSaF32zAv4sfGVKVR8uuifmiaCRZPxdkionS5Ypump",
+    "spaet": true,
+    "t": 1795842635.212832
+   },
+   {
+    "dauer": 306.4241828918457,
+    "ersteller_verkauft": false,
+    "kaeufer": 304,
+    "mint": "7rUMBAXwQP4XszazSXiRxUiXY7tEaGtD3AZmA4oZpump",
+    "name": "I Am Not Corrupt",
+    "sol": 98.4368675900002,
+    "spaet": false,
+    "symbol": "TRUMP",
+    "t": 1795842645.5207448
+   },
+   {
+    "mint": "9E7JAwvHdrQA1rFJZcmyi6EscJ26JDMjDQ2JKL2Fpump",
+    "spaet": true,
+    "t": 1795842736.008661
+   },
+   {
+    "dauer": 426.8708577156067,
+    "ersteller_verkauft": true,
+    "kaeufer": 47,
+    "mint": "GVTnVq7xcKTrx2Fwg5czjxAz9j6jinmuhykkb15ypump",
+    "name": "FLOAT",
+    "sol": 52.77071265,
+    "spaet": false,
+    "symbol": "FLOAT",
+    "t": 1795842794.4744048
    }
   ],
   "uebersicht": 1795841855.3694134
