@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 795,
+ "laeufe": 796,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -539,6 +539,44 @@
     "mint": "4pM3qpou17aZA7oMELxbQRNoEmSoK2X39nE4Tzfnpump",
     "spaet": true,
     "t": 1795831819.8410358
+   },
+   {
+    "dauer": 183.67437052726746,
+    "ersteller_verkauft": true,
+    "kaeufer": 16,
+    "mint": "2qbMK4BVRGvdQgTdrnqc4ksdjTQdvzvrBJqsBBeSpump",
+    "name": "Jensen",
+    "sol": 10.479420860999998,
+    "spaet": false,
+    "symbol": "Jensen",
+    "t": 1795831888.6067853
+   },
+   {
+    "dauer": 219.95843410491943,
+    "ersteller_verkauft": false,
+    "kaeufer": 32,
+    "mint": "QkHSYSx5QvoV3NUnCGtvLm2mfR7N3pjq4HAabuSpump",
+    "name": "XILIX",
+    "sol": 0.08494385999999998,
+    "spaet": false,
+    "symbol": "XILIX",
+    "t": 1795831985.1205957
+   },
+   {
+    "mint": "FDBJAzaJkbsvtVspCfqrDGvwtHjmPcLnGwgsMFrUpump",
+    "spaet": true,
+    "t": 1795832025.384648
+   },
+   {
+    "dauer": 457.5042073726654,
+    "ersteller_verkauft": true,
+    "kaeufer": 11,
+    "mint": "9tedb2AAHjaq4gFkkbumQXJx9owwyVrbvBLEYzkfpump",
+    "name": "Chumbimp",
+    "sol": 85.005359105,
+    "spaet": false,
+    "symbol": "CHUMBIMP",
+    "t": 1795832035.2334244
    }
   ],
   "uebersicht": 1795830927.475963
