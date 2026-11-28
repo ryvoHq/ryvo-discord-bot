@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 968,
+ "laeufe": 969,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,33 +330,6 @@
    1795879637.9204814
   ],
   "stunde": [
-   {
-    "mint": "5jjJWZfTTaZtG74zSpiEZbMBHNM2jieHEXM2UZvapump",
-    "spaet": true,
-    "t": 1795876044.2982647
-   },
-   {
-    "dauer": 198.02910256385803,
-    "ersteller_verkauft": false,
-    "kaeufer": 23,
-    "mint": "85BNmFenZ1g4mLgYSTpZwG6YHxrCrihBsqskTUEvpump",
-    "name": "JUMP COIN",
-    "sol": 0.1060720800000001,
-    "spaet": false,
-    "symbol": "JUMP",
-    "t": 1795876113.4086294
-   },
-   {
-    "dauer": 110.99104738235474,
-    "ersteller_verkauft": true,
-    "kaeufer": 271,
-    "mint": "3pXp3UsnNwBBCTYdDsWrTPNFUK7cH21K2ZbrSCUFpump",
-    "name": "Mona Lisa",
-    "sol": 73.17274131499995,
-    "spaet": false,
-    "symbol": "MONALISA",
-    "t": 1795876317.2759836
-   },
    {
     "mint": "HnRPNwcYZFhsuRg5ChqdBEUR7DLx1XrGXdYkuSBqpump",
     "spaet": true,
@@ -669,6 +642,39 @@
     "spaet": false,
     "symbol": "BRAINROT",
     "t": 1795879502.1213806
+   },
+   {
+    "dauer": 0.0004138946533203125,
+    "ersteller_verkauft": false,
+    "kaeufer": 7,
+    "mint": "EweaX95AVjpbhxTPAYbA1ns8ieLgkqTr4syozhNRpump",
+    "name": "No bears allowed",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "nobears",
+    "t": 1795879646.0782773
+   },
+   {
+    "dauer": 167.66636776924133,
+    "ersteller_verkauft": false,
+    "kaeufer": 37,
+    "mint": "Gy5GTZEmvc6vUHjAHmXFUf7HoycMboCKnjEoJvaxpump",
+    "name": "HEAD fix check",
+    "sol": 0.160025583,
+    "spaet": false,
+    "symbol": "fix",
+    "t": 1795879652.4998052
+   },
+   {
+    "dauer": 174.90998244285583,
+    "ersteller_verkauft": true,
+    "kaeufer": 19,
+    "mint": "FRPmhx5dtLkKNfRgUoEV6aP67QfPWUKQfQ2q64k8x9a9",
+    "name": "Yarmo Uvren",
+    "sol": 0.3137726170000003,
+    "spaet": false,
+    "symbol": "UVRE",
+    "t": 1795879760.7683253
    }
   ],
   "uebersicht": 1795876893.0700972
