@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 879,
+ "laeufe": 880,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -542,6 +542,17 @@
     "spaet": false,
     "symbol": "COMM",
     "t": 1795854817.8111813
+   },
+   {
+    "dauer": 31.359594583511353,
+    "ersteller_verkauft": false,
+    "kaeufer": 13,
+    "mint": "2KqAjugtgRkjQUtsEeTX7pd6vAJ2LU3FLAvjuNaTpump",
+    "name": "BetOnBlack",
+    "sol": 0.43673784700000007,
+    "spaet": false,
+    "symbol": "BetOnBlak",
+    "t": 1795855110.6872413
    }
   ],
   "uebersicht": 1795853493.8036962
