@@ -305,40 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 809,
+ "laeufe": 810,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795835469.9827614
   ],
   "stunde": [
-   {
-    "dauer": 308.8732578754425,
-    "ersteller_verkauft": true,
-    "kaeufer": 18,
-    "mint": "AKnrR58WdkuedtDjjj39S3tHwbEUkVVagCqsv4GLpump",
-    "name": "Jensen",
-    "sol": 1.992331607,
-    "spaet": false,
-    "symbol": "Jensen",
-    "t": 1795832218.9316955
-   },
-   {
-    "mint": "9VQpv9yPJpavxCKy7PYfvWfU3Pp8RKqpYNaWZvwkpump",
-    "spaet": true,
-    "t": 1795832345.4071462
-   },
-   {
-    "dauer": 74.41070866584778,
-    "ersteller_verkauft": false,
-    "kaeufer": 131,
-    "mint": "v8d6H7jaKz1gHpCiLTPgHiXQXk6J2FNnPY5J9vapump",
-    "name": "GTA 7 VII",
-    "sol": 85.00535930800002,
-    "spaet": false,
-    "symbol": "GTA 7 VII",
-    "t": 1795832371.698143
-   },
    {
     "dauer": 340.36369919776917,
     "ersteller_verkauft": false,
@@ -515,6 +488,27 @@
     "spaet": false,
     "symbol": "PCB",
     "t": 1795835656.0515852
+   },
+   {
+    "mint": "8C1npLb8P1e5jrf7pw9N7xEcj5MCtrk4fG1j1Hynpump",
+    "spaet": true,
+    "t": 1795835793.995259
+   },
+   {
+    "dauer": 152.467942237854,
+    "ersteller_verkauft": true,
+    "kaeufer": 15,
+    "mint": "3cAyvFEc3u14ivQVA9fuNFaETKR5AzWGJe8kwr2rPtZT",
+    "name": "Capo Winter Arc",
+    "sol": 0.04020729599999996,
+    "spaet": false,
+    "symbol": "WINTERARC",
+    "t": 1795835839.7758665
+   },
+   {
+    "mint": "ExKWd2Gbck3eemAPAaoVNKrrvy5tUtrJyevrqRXPpump",
+    "spaet": true,
+    "t": 1795835899.4011803
    }
   ],
   "uebersicht": 1795834570.3698478
