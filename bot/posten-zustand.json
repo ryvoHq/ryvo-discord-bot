@@ -305,33 +305,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 792,
+ "laeufe": 793,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 64.63931798934937,
-    "ersteller_verkauft": false,
-    "kaeufer": 47,
-    "mint": "KCx2UW8FAh6rTXcRn5TrQ4zX8SS7VonJQzZE1n7pump",
-    "name": "Claude | Official",
-    "sol": 50.26048186700001,
-    "spaet": false,
-    "symbol": "Claude AI",
-    "t": 1795827422.0095618
-   },
-   {
-    "dauer": 110.36646294593811,
-    "ersteller_verkauft": false,
-    "kaeufer": 173,
-    "mint": "FGbSgoUdrrjAnSwtLGtr5rodgYgF5CcZLbqpN7QmctYx",
-    "name": "ballsackdorkl",
-    "sol": 60.20852481599992,
-    "spaet": false,
-    "symbol": "ballsackdorkl",
-    "t": 1795827570.177398
-   },
    {
     "dauer": 299.5597097873688,
     "ersteller_verkauft": true,
@@ -466,6 +444,17 @@
     "mint": "28GQ3Mg66RGTA47jVvukvdfhKXgrYJ7rRF4zoNhipump",
     "spaet": true,
     "t": 1795830923.8155966
+   },
+   {
+    "dauer": 171.25406312942505,
+    "ersteller_verkauft": true,
+    "kaeufer": 11,
+    "mint": "FSWtUpndQUqu5xCJVu5yZf8pH26fRStFFxYJSZV3pump",
+    "name": "HANS",
+    "sol": 9.955383529,
+    "spaet": false,
+    "symbol": "HANS",
+    "t": 1795831137.8062627
    }
   ],
   "uebersicht": 1795830927.475963
