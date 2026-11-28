@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 959,
+ "laeufe": 960,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,28 +330,6 @@
    1795877193.8568563
   ],
   "stunde": [
-   {
-    "dauer": 38.1602578163147,
-    "ersteller_verkauft": true,
-    "kaeufer": 84,
-    "mint": "C5nqYMAGAk6npZw4ugeqinzq5LRiv3BWknubr75mpump",
-    "name": "Rustles Jr",
-    "sol": 85.00535925700002,
-    "spaet": false,
-    "symbol": "RUSTLESJR",
-    "t": 1795873605.3770275
-   },
-   {
-    "dauer": 419.4155251979828,
-    "ersteller_verkauft": true,
-    "kaeufer": 2,
-    "mint": "2B8Kg2VPRM6ceM7TSr8wkq2yktTVoYrbibTWHdPcpump",
-    "name": "EVERYONE BUY ",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795873853.2851293
-   },
    {
     "dauer": 71.54703760147095,
     "ersteller_verkauft": false,
@@ -599,6 +577,33 @@
     "mint": "Hj5ipbL5xx3Ff2jVfLfGcNk67V5MHmt5FgateqTqpump",
     "spaet": true,
     "t": 1795877169.4814563
+   },
+   {
+    "dauer": 99.87207555770874,
+    "ersteller_verkauft": true,
+    "kaeufer": 7,
+    "mint": "ahgMrwuobjkWijrHaMgvapr41nAwhHMrnckY8fppump",
+    "name": "#",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "#",
+    "t": 1795877197.0027719
+   },
+   {
+    "mint": "Dy2fe3MEeVB6DsNF9hw5jT1DUH13fGXnD7gdWrgYpump",
+    "spaet": true,
+    "t": 1795877262.2048907
+   },
+   {
+    "dauer": 126.68413019180298,
+    "ersteller_verkauft": true,
+    "kaeufer": 6,
+    "mint": "9PkVwp8HSiXgcn6d6qXXd8seyxH18AprmXSX9YCapump",
+    "name": "TEST COIN",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "TEST COIN",
+    "t": 1795877480.8434334
    }
   ],
   "uebersicht": 1795876893.0700972
