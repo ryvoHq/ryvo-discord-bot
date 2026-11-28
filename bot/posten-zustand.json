@@ -322,51 +322,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 939,
+ "laeufe": 940,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795870516.9806318
   ],
   "stunde": [
-   {
-    "dauer": 200.04220533370972,
-    "ersteller_verkauft": true,
-    "kaeufer": 529,
-    "mint": "8yUDvFWAHXBXSdgcRJZ7cWtFb1DZ1dwaQeYhb7kEpump",
-    "name": "Flip Flop Cat",
-    "sol": 85.00536058399976,
-    "spaet": false,
-    "symbol": "FlipFlop",
-    "t": 1795868290.5303564
-   },
-   {
-    "dauer": 322.49025797843933,
-    "ersteller_verkauft": false,
-    "kaeufer": 149,
-    "mint": "7eRMyS4Jd23KNYrJMsQR2pWMhiMYitMFQd397fdzpump",
-    "name": "Baboon Smirk",
-    "sol": 85.00986713900002,
-    "spaet": false,
-    "symbol": "Zhaki",
-    "t": 1795868321.5008996
-   },
-   {
-    "mint": "FdLKjNYufdT4rwQXw6cABgqNbhKHC46sQ1cUuSkPpump",
-    "spaet": true,
-    "t": 1795868390.9809585
-   },
-   {
-    "dauer": 859.7039566040039,
-    "ersteller_verkauft": false,
-    "kaeufer": 155,
-    "mint": "LGzFq31PovLxFFHuf93mhjwVBDC8nBnosoVryuepump",
-    "name": "Google Gemini",
-    "sol": 85.00535960700002,
-    "spaet": false,
-    "symbol": "Gemini",
-    "t": 1795868416.6952627
-   },
    {
     "mint": "Er1H8HV48KSqx4Mz2d6HcnzHBAtDxfmV1SN45ZfQpump",
     "spaet": true,
@@ -572,6 +534,42 @@
     "spaet": false,
     "symbol": "ULTRA",
     "t": 1795871677.9408987
+   },
+   {
+    "mint": "7ahensCTHrxPc96icyGu3d96YDN5rNgJXXmhuzsfpump",
+    "spaet": true,
+    "t": 1795871759.8309028
+   },
+   {
+    "mint": "BPLvWRQQdmXnj56b6HkBtCyHZ3fxecFYhiYGaYQspump",
+    "spaet": true,
+    "t": 1795871817.3957498
+   },
+   {
+    "dauer": 1986.6321794986725,
+    "ersteller_verkauft": false,
+    "kaeufer": 233,
+    "mint": "F4hffGvL474Afibk5q3uiK77qgEP9BaoJWT67xQJpump",
+    "name": "Rockstar Games",
+    "sol": 84.47168009900004,
+    "spaet": false,
+    "symbol": "Rockstar",
+    "t": 1795871826.9223876
+   },
+   {
+    "mint": "rYpxLTaFAaMMbu61rRb4MbX3qbZMmuLd3K7dgS3pump",
+    "spaet": true,
+    "t": 1795871885.7267818
+   },
+   {
+    "mint": "xA3t43mfCd66kV7hSE4HQC5ZQZmA7SV97aHhgZxpump",
+    "spaet": true,
+    "t": 1795871887.1581032
+   },
+   {
+    "mint": "4xGPgtW48MRjGxQ32JsVAgEWQ486H9yUyqF4MK1zSDbk",
+    "spaet": true,
+    "t": 1795871993.8435175
    }
   ],
   "uebersicht": 1795868951.8121321
