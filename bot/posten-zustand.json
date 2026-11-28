@@ -317,18 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 917,
+ "laeufe": 918,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795865618.2703478
   ],
   "stunde": [
-   {
-    "mint": "5SVVA2zCztU9t5wyyZpxH7JGxuzLgQMQEErCWLxPpump",
-    "spaet": true,
-    "t": 1795862199.9105113
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -515,6 +510,33 @@
     "mint": "9ABJGuzf4EqmaRAmy7ZPzU74uCNtBgMJSuQ2To6Fpump",
     "spaet": true,
     "t": 1795865600.155408
+   },
+   {
+    "dauer": 91.20620632171631,
+    "ersteller_verkauft": true,
+    "kaeufer": 15,
+    "mint": "GxgiyprzbyvxMCyD8LN5zYAEjzmbDpJGEdnxqGQ2pump",
+    "name": "BONKERS",
+    "sol": 0.7177308449999997,
+    "spaet": false,
+    "symbol": "$BONKERS",
+    "t": 1795865690.1560636
+   },
+   {
+    "dauer": 379.3790452480316,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "AVbZwv7yfuh6BBxP3eeoYKeYm6nKoPU4s7tdh541pump",
+    "name": "Nobody Paid",
+    "sol": 0.8334895429999991,
+    "spaet": false,
+    "symbol": "NOBODY",
+    "t": 1795865745.0983622
+   },
+   {
+    "mint": "FLVzUK76ZVSMhKhUXwbgSnPBMVEhnrUtwDr3LSLDpump",
+    "spaet": true,
+    "t": 1795865780.2779477
    }
   ],
   "uebersicht": 1795865317.7976964
