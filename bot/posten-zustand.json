@@ -305,40 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 813,
+ "laeufe": 814,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795835469.9827614
   ],
   "stunde": [
-   {
-    "mint": "Dc4mgVR2m9GkuhGSPjPAqjszbvXjc6ERJkBHHrP3pump",
-    "spaet": true,
-    "t": 1795833173.3739433
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "GWWSMCBgq1C6KzX5Uj87Z8fhnWcWGFT2LrC1norEpump",
-    "name": "World Oil Fund Institution",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "WOFI",
-    "t": 1795833293.7586622
-   },
-   {
-    "dauer": 0.0022745132446289062,
-    "ersteller_verkauft": false,
-    "kaeufer": 2,
-    "mint": "96FAoa1jdSHVNcA6KSmXrudaWrnVk6xr9wWJHsSgpump",
-    "name": "Chumbimp",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "CHUMBIMP",
-    "t": 1795833327.9415777
-   },
    {
     "mint": "6h5nZKanTTJLMTXnYqj6uTr4t4G2RFXthiyxM2R9pump",
     "spaet": true,
@@ -503,6 +476,17 @@
     "mint": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump",
     "spaet": true,
     "t": 1795836122.599751
+   },
+   {
+    "dauer": 272.179404258728,
+    "ersteller_verkauft": true,
+    "kaeufer": 24,
+    "mint": "GCbBpPCZ1UjLuzffgwRp3gNEP5avVag8a9CTexm9pump",
+    "name": "$CHIMPSHOT",
+    "sol": 0.13922917899999998,
+    "spaet": false,
+    "symbol": "CHIMP",
+    "t": 1795836853.1080413
    }
   ],
   "uebersicht": 1795834570.3698478
