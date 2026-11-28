@@ -317,27 +317,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 914,
+ "laeufe": 915,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "5biPCbzYts4nnZgoN9ogTskxX1cc4N3LFiFzuHRspump",
-    "spaet": true,
-    "t": 1795861130.3921952
-   },
-   {
-    "dauer": 146.6074366569519,
-    "ersteller_verkauft": true,
-    "kaeufer": 31,
-    "mint": "C8oMdkntabMNyXYheVWvjBmStUwYXJS3RC14n6mMpump",
-    "name": "Screaming Vandal",
-    "sol": 0.03197199200000153,
-    "spaet": false,
-    "symbol": "SCRVAN",
-    "t": 1795861302.7404234
-   },
    {
     "mint": "BhfgeQrNCJmPsDMaUBJjysewfu9rL5kuMN6guU3pump",
     "spaet": true,
@@ -509,6 +493,11 @@
     "mint": "GpG61ySpcKmKXvJVYJwUVYSKKPrT2XdmNXDwoa6Rpump",
     "spaet": true,
     "t": 1795864661.860486
+   },
+   {
+    "mint": "xEYk7169UGTUeTZpnK6bE5ewPCjsvYfCiaAKPcppump",
+    "spaet": true,
+    "t": 1795864771.778778
    }
   ],
   "uebersicht": 1795861674.999723
