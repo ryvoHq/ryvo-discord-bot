@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 878,
+ "laeufe": 879,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,27 +319,6 @@
    1795853134.447712
   ],
   "stunde": [
-   {
-    "mint": "6ddeEkuJq8c3WdoNrQgVC4WbFL9HgM9dnxvjNM8Bpump",
-    "spaet": true,
-    "t": 1795851090.2511642
-   },
-   {
-    "dauer": 237.6752805709839,
-    "ersteller_verkauft": false,
-    "kaeufer": 151,
-    "mint": "8rTiQX85cSrg4G2EtQLMXu6zXTLEgjZsSNU9zgZPpump",
-    "name": "Baboon Smirk",
-    "sol": 84.83149723500004,
-    "spaet": false,
-    "symbol": "Zhaki",
-    "t": 1795851199.2236104
-   },
-   {
-    "mint": "6aJmVyNtyHtcjE8NpfHsZhdwHJpQ7FEFEPrtwCiqpump",
-    "spaet": true,
-    "t": 1795851345.0439694
-   },
    {
     "dauer": 254.97266101837158,
     "ersteller_verkauft": false,
@@ -530,6 +509,39 @@
     "spaet": false,
     "symbol": "SCRVAN",
     "t": 1795854660.9234958
+   },
+   {
+    "dauer": 145.50723910331726,
+    "ersteller_verkauft": true,
+    "kaeufer": 2,
+    "mint": "6RT3nB3dHVvHo5NdPaD9xVjFe36hJCdLZgKURkXLpump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795854705.4245803
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "SekQzZ1Xur2V1WwrnsBeM2JG7feLGdYnG6oPQT2pump",
+    "name": "USFF",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USFF",
+    "t": 1795854803.2283986
+   },
+   {
+    "dauer": 115.0989921092987,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "5AYGocXP3URni1YYFAzU2C7Q8pYUi7WF7rskkn1pump",
+    "name": "COMM",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "COMM",
+    "t": 1795854817.8111813
    }
   ],
   "uebersicht": 1795853493.8036962
