@@ -305,67 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 807,
+ "laeufe": 808,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
-   1795831827.3987043
+   1795835469.9827614
   ],
   "stunde": [
-   {
-    "dauer": 164.3795623779297,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "3U9xScBNMHNnqhAkemXepebueZRnUNhzqEPKTom9pump",
-    "name": "JUMP COIN",
-    "sol": 0.3966801889999999,
-    "spaet": false,
-    "symbol": "JUMP",
-    "t": 1795831586.5290246
-   },
-   {
-    "dauer": 283.5339367389679,
-    "ersteller_verkauft": true,
-    "kaeufer": 24,
-    "mint": "4udUydVFqP5mP6LpMsEQCZwdoFH68ybU4AR3vx5epump",
-    "name": "CÓDEX",
-    "sol": 3.7479053199999974,
-    "spaet": false,
-    "symbol": "CÓDEX",
-    "t": 1795831638.8480422
-   },
-   {
-    "mint": "GpQaMqaTZFfGp1W6QtfGpeD3Ru61KMFd6pgWb6Wupump",
-    "spaet": true,
-    "t": 1795831745.3133574
-   },
-   {
-    "dauer": 1463.0891699790955,
-    "ersteller_verkauft": true,
-    "kaeufer": 10,
-    "mint": "J2udMg5qVb6AJgEGgGyzKV7jBcGd2sFLdUAd8RMNpump",
-    "name": "dfsd",
-    "sol": 7.769196407999997,
-    "spaet": false,
-    "symbol": "FDSFDSF",
-    "t": 1795831760.5053546
-   },
-   {
-    "dauer": 236.92936730384827,
-    "ersteller_verkauft": true,
-    "kaeufer": 450,
-    "mint": "6NZANPwagg8qLrfi2mk9HyCXWWAVnhsv4CiqWuHPpump",
-    "name": "Dawkoins",
-    "sol": 82.78812361699993,
-    "spaet": false,
-    "symbol": "DAW",
-    "t": 1795831811.3427732
-   },
-   {
-    "mint": "4pM3qpou17aZA7oMELxbQRNoEmSoK2X39nE4Tzfnpump",
-    "spaet": true,
-    "t": 1795831819.8410358
-   },
    {
     "dauer": 183.67437052726746,
     "ersteller_verkauft": true,
@@ -581,6 +527,22 @@
     "spaet": false,
     "symbol": "STROKE",
     "t": 1795835028.1817155
+   },
+   {
+    "mint": "7q91LDPqeecGGBxae2eSLftETTiwysaPChRBPdupump",
+    "spaet": true,
+    "t": 1795835190.0449972
+   },
+   {
+    "dauer": 284.0816025733948,
+    "ersteller_verkauft": false,
+    "kaeufer": 307,
+    "mint": "8ASicxj71iDN41xyMX4ocqJ8SdzjF6RYS1AHvkddqihb",
+    "name": "vicecat",
+    "sol": 51.81530444500001,
+    "spaet": false,
+    "symbol": "VICECAT",
+    "t": 1795835255.3472621
    }
   ],
   "uebersicht": 1795834570.3698478
