@@ -317,36 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 900,
+ "laeufe": 901,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795857372.4745736,
    1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 1260.5883693695068,
-    "ersteller_verkauft": false,
-    "kaeufer": 148,
-    "mint": "UVrbah1Jj4vvEN3xJZm9egQH65SSgSstpVWJwHopump",
-    "name": "FomoFamily | Offical Team",
-    "sol": 85.00535944199999,
-    "spaet": false,
-    "symbol": "FOMO",
-    "t": 1795857237.7943668
-   },
-   {
-    "dauer": 337.8991596698761,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "JKpxhaykuctb3uoHr72rTCtfqPd6N23cajZTHABpump",
-    "name": "FreakHouse",
-    "sol": -4.797879070999994,
-    "spaet": false,
-    "symbol": "FHC",
-    "t": 1795857312.4718823
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -539,6 +516,11 @@
     "spaet": false,
     "symbol": "$MFRG",
     "t": 1795860731.712493
+   },
+   {
+    "mint": "ECqVUWjQ3dMfet2qEsYdfHFH1h6xiSacxmX9UqNUpump",
+    "spaet": true,
+    "t": 1795860799.6654077
    }
   ],
   "uebersicht": 1795857372.4745736
