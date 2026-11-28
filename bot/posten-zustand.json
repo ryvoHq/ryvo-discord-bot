@@ -6,6 +6,10 @@
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://tribune.com.pk/story/2642703/spi-inflation-moderates-to-single-digits",
+  "https://economictimes.indiatimes.com/world/business/us-dollar-rises-bond-treasury-yields-jump-but-thanksgiving-holiday-fails-to-cheer-bitcoin/articleshow/136235420.cms",
+  "https://fortune.com/2026/11/27/inflation-squeezing-americans-so-hard-rising-grocery-bills-top-reason-cut-back-black-friday-shopping/",
+  "https://www.bnnbloomberg.ca/business/international/2026/11/27/us-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-reuters-exclusive/",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesarbeitsagentur-schulden-von-zehn-milliarden-und-trueber-arbeitsmarkt-201723118.html",
   "https://economictimes.indiatimes.com/industry/energy/oil-gas/iraq-reclaims-no-2-spot-in-indias-oil-imports-as-gulf-supplies-recover-despite-iran-attacks/articleshow/136232273.cms",
   "https://www.livemint.com/market/canadian-dollar-holds-on-to-weekly-gain-as-investors-bet-on-december-rate-hike-11795807102867.html",
@@ -76,16 +80,16 @@
   "https://www.moneycontrol.com/news/business/markets/asian-stocks-rise-for-second-day-crude-oil-gains-14089933.html",
   "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-range-bound-ahead-of-rbi-policy-amid-data-uncertainty/articleshow/136206473.cms",
   "https://economictimes.indiatimes.com/markets/forex/rupee-slides-to-92-44-as-crude-oil-prices-rise/articleshow/136206425.cms",
-  "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-for-second-day-crude-oil-gains/articleshow/136206178.cms",
-  "https://www.businesstimes.com.sg/international/cautious-consumers-gear-black-friday-inflation-woes-bite",
-  "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
-  "https://www.businesstimes.com.sg/international/tokyo-inflation-accelerates-backing-case-boj-rate-hike",
   "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
   "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+  "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-for-second-day-crude-oil-gains/articleshow/136206178.cms",
+  "https://www.businesstimes.com.sg/international/cautious-consumers-gear-black-friday-inflation-woes-bite",
+  "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
+  "https://www.businesstimes.com.sg/international/tokyo-inflation-accelerates-backing-case-boj-rate-hike",
   "https://www.dw.com/de/ki-wirbelt-arbeitsmarkt-laut-ba-chefin-durcheinander/a-79910561",
   "https://www.straitstimes.com/world/argentina-bans-its-central-bank-from-printing-money-for-the-government",
   "https://www.independent.co.uk/news/uk/home-news/bank-of-england-labour-tax-hike-customers-b3092462.html",
@@ -301,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 781,
+ "laeufe": 782,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -311,28 +315,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 25.26981806755066,
-    "ersteller_verkauft": false,
-    "kaeufer": 126,
-    "mint": "4qFwbK9Usb7h12BKzjf8edSEbX8oxLhpKJVHLRWnpump",
-    "name": "aurbit",
-    "sol": 85.00535936499998,
-    "spaet": false,
-    "symbol": "aurbit",
-    "t": 1795824294.8225336
-   },
-   {
-    "dauer": 170.09626483917236,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "D9Bjwb72CMTteYERPpNrBvPgi23dvaZ2ynH3VooApump",
-    "name": "Street Fighter: Black Friday",
-    "sol": 0.1620472570000004,
-    "spaet": false,
-    "symbol": "SALE",
-    "t": 1795824302.1900935
-   },
    {
     "dauer": 176.30135488510132,
     "ersteller_verkauft": false,
