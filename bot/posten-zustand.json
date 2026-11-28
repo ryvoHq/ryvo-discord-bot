@@ -305,16 +305,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 791,
+ "laeufe": 792,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "ERoFrbjKasNyMCC6CUZLdfVUffWswLQEkg9TcpqLpump",
-    "spaet": true,
-    "t": 1795827288.7337954
-   },
    {
     "dauer": 64.63931798934937,
     "ersteller_verkauft": false,
@@ -466,9 +461,14 @@
     "spaet": false,
     "symbol": "Samsung",
     "t": 1795830540.0584443
+   },
+   {
+    "mint": "28GQ3Mg66RGTA47jVvukvdfhKXgrYJ7rRF4zoNhipump",
+    "spaet": true,
+    "t": 1795830923.8155966
    }
   ],
-  "uebersicht": 1795826643.6076992
+  "uebersicht": 1795830927.475963
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
