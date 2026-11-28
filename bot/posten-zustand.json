@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 801,
+ "laeufe": 802,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -556,6 +556,27 @@
     "spaet": false,
     "symbol": "CHUMBIMP",
     "t": 1795833327.9415777
+   },
+   {
+    "mint": "6h5nZKanTTJLMTXnYqj6uTr4t4G2RFXthiyxM2R9pump",
+    "spaet": true,
+    "t": 1795833557.9361308
+   },
+   {
+    "dauer": 72.85473418235779,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "3pfitZfwyMGxesWmz19RE9xawbocxNmM4iZqwMhvpump",
+    "name": "Jensen",
+    "sol": 8.522877846000004,
+    "spaet": false,
+    "symbol": "Jensen",
+    "t": 1795833569.3805707
+   },
+   {
+    "mint": "BRRktKPa8m4dMrQ1fT6fLJABQjYUqLaEhPuMHxUvpump",
+    "spaet": true,
+    "t": 1795833656.7656999
    }
   ],
   "uebersicht": 1795830927.475963
