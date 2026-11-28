@@ -305,35 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 816,
+ "laeufe": 817,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795835469.9827614
   ],
   "stunde": [
-   {
-    "dauer": 92.52789664268494,
-    "ersteller_verkauft": false,
-    "kaeufer": 57,
-    "mint": "xN1FM5rj9XwB3Aw3ASasNdK799q7e1G3VCDcSHNpump",
-    "name": "Google Gemini",
-    "sol": 49.050762586000005,
-    "spaet": false,
-    "symbol": "Gemini",
-    "t": 1795834140.0961254
-   },
-   {
-    "dauer": 461.1876657009125,
-    "ersteller_verkauft": false,
-    "kaeufer": 232,
-    "mint": "un72oFTLVHFPTAKVBrsnrEuV3EZocdWfGZ1q6aSpump",
-    "name": "ni hao cat",
-    "sol": 88.02643070899957,
-    "spaet": false,
-    "symbol": "小猫仙人",
-    "t": 1795834261.7048035
-   },
    {
     "dauer": 168.04117107391357,
     "ersteller_verkauft": false,
