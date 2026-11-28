@@ -305,24 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 812,
+ "laeufe": 813,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795835469.9827614
   ],
   "stunde": [
-   {
-    "dauer": 340.36369919776917,
-    "ersteller_verkauft": false,
-    "kaeufer": 122,
-    "mint": "J5z9v4xNmu92MoGqM5z4fqew7H1AUArothMgTKXrpump",
-    "name": "Snowball",
-    "sol": 82.01014194300001,
-    "spaet": false,
-    "symbol": "Snowball",
-    "t": 1795832964.191322
-   },
    {
     "mint": "Dc4mgVR2m9GkuhGSPjPAqjszbvXjc6ERJkBHHrP3pump",
     "spaet": true,
