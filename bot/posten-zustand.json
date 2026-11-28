@@ -6,6 +6,8 @@
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://www.moneycontrol.com/news/business/commodities/crude-oil-snaps-3-week-losing-streak-why-brent-is-back-near-100-as-middle-east-tensions-flare-14090641.html",
+  "https://www.n-tv.de/wirtschaft/Nahles-erwartet-Aufschwung-am-Arbeitsmarkt-fruehestens-im-Sommer-id31587731.html",
   "https://www.livemint.com/market/cryptocurrency/bitcoin-slips-back-below-60-000-missing-out-on-wall-street-rally-from-thanksgiving-break-11795829583101.html",
   "https://www.theglobeandmail.com/investing/personal-finance/article-wealthsimple-changes-interest-rate-cuts-chequing-rollback-perks/",
   "https://economictimes.indiatimes.com/news/international/world-news/us-shoppers-brave-bad-weather-and-inflation-to-chase-black-friday-bargains/articleshow/136236252.cms",
@@ -61,6 +63,12 @@
   "https://www.moneycontrol.com/world/us-pushed-venezuela-iraq-to-consider-leaving-opec-report-article-14090218.html",
   "https://www.thehindubusinessline.com/news/world/us-reportedly-pushed-venezuela-iraq-to-consider-leaving-opec/article71749638.ece",
   "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-sap-zeigt-wie-ki-den-arbeitsmarkt-wirklich-veraendert/100273130.html",
   "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spains-pablo-hernandez-de-cos-set-to-become-next-ecb-president-as-netherlands-backs-candidacy/articleshow/136211541.cms",
   "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
@@ -72,12 +80,6 @@
   "https://www.thehindubusinessline.com/markets/indian-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/article71749426.ece",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-short-term-bond-yields-edge-higher-on-inflation-rate-hike-bets/articleshow/136208946.cms",
   "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist/article71749311.ece",
-  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
-  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://financialpost.com/press-releases/pr-newswire/viabtc-to-showcase-a-decade-of-mining-expertise-and-one-stop-asset-management-at-blockchain-life-2026/",
   "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-japan-calls-safeguards-against-digital-money-ai-risks",
   "https://www.n-tv.de/regionales/baden-wuerttemberg/Arbeitslosigkeit-bei-Menschen-mit-Behinderung-steigt-id31583220.html",
@@ -309,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 859,
+ "laeufe": 860,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -420,9 +422,14 @@
     "mint": "81iYiWMHiyy9uef77EYRjUXD14rAFtR2XeepbesQpump",
     "spaet": true,
     "t": 1795849474.216078
+   },
+   {
+    "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump",
+    "spaet": true,
+    "t": 1795849542.7932477
    }
   ],
-  "uebersicht": 1795846141.988093
+  "uebersicht": 1795849782.068453
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
