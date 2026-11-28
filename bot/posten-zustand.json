@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 894,
+ "laeufe": 895,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,28 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "6zYqYgrSVHz3f4dGHUuwNKnDvwjzHqEAxyekmhzRpump",
-    "name": "Broccoli",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "BROCCOLI",
-    "t": 1795855791.0095234
-   },
-   {
-    "dauer": 206.24217104911804,
-    "ersteller_verkauft": true,
-    "kaeufer": 17,
-    "mint": "5n22fu8v2qDpDh9wvAHFbWZiAh6xPXyFdeiXK4Brpump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 0.038026810999999994,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795855894.7384596
-   },
    {
     "mint": "AjV88VasPKE1UsjL7fxxmafiy8PFxaf6Ncx9T9Ropump",
     "spaet": true,
@@ -545,6 +523,33 @@
     "spaet": false,
     "symbol": "Dog Think",
     "t": 1795859147.9478369
+   },
+   {
+    "mint": "FXoNzkvUppoURKDGZjcYKozuDhqiB7Dem8qinZ5Lpump",
+    "spaet": true,
+    "t": 1795859241.035933
+   },
+   {
+    "dauer": 259.96880412101746,
+    "ersteller_verkauft": true,
+    "kaeufer": 23,
+    "mint": "HFJrupqVA53AJDF2np1fMGxmhvNiLHi3dq3U7DJ6mayy",
+    "name": "Waffle the Sleepy Sloth",
+    "sol": 0.7392139879999999,
+    "spaet": false,
+    "symbol": "WAFFLOTH",
+    "t": 1795859331.4374785
+   },
+   {
+    "dauer": 233.6958339214325,
+    "ersteller_verkauft": true,
+    "kaeufer": 32,
+    "mint": "q9HBtkgFk2Wowdt4gA9zBsuGYnwjtKr65hjcZNYpump",
+    "name": "The Amazon Monkey",
+    "sol": 0.092997258000001,
+    "spaet": false,
+    "symbol": "ELIZABETH",
+    "t": 1795859396.6184273
    }
   ],
   "uebersicht": 1795857372.4745736
