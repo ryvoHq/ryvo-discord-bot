@@ -6,6 +6,12 @@
  "ebenen_trad": "2026-11-28",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://www.moneycontrol.com/news/cryptocurrency/removal-of-jensen-huang-from-nvidia-was-potentially-government-driven-says-binance-s-cz-14090939.html",
+  "https://www.moneycontrol.com/news/cryptocurrency/binance-team-and-the-ecosystem-got-a-bit-complacent-says-co-founder-cz-following-6-3-bn-hack-14090903.html",
+  "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-aims-to-bring-crypto-equities-etfs-and-payments-under-one-platform-richard-teng/articleshow/136248399.cms",
+  "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+  "https://www.thenationalnews.com/business/2026/11/28/binance-founder-acknowledges-security-complacency-on-63-hack-and-calls-for-crypto-industry-alliance/",
+  "https://www.thehindubusinessline.com/economy/upcoming-inflation-prints-may-face-upside-risks-due-to-base-effect-el-nino-wedding-demands-finmin-report/article71754621.ece",
   "https://www.moneycontrol.com/news/business/binance-gets-preliminary-approval-to-establish-asia-hub-in-bhutan-14090863.html",
   "https://www.bangkokpost.com/business/general/3362811/binance-preparing-to-establish-asia-hub-in-bhutan",
   "https://www.n-tv.de/wirtschaft/Lagardes-Abgang-macht-EZB-Spitze-wieder-zur-Maenner-Bastion-id31588422.html",
@@ -35,6 +41,10 @@
   "https://www.business-standard.com/markets/news/it-bank-heavyweights-drag-markets-down-1-amid-rising-crude-oil-prices-126112701207_1.html",
   "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_week_on_week-27-nov-2026-185190-article/",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/hessens-arbeitsmarkt-mehr-stellen-aber-schwierigkeiten-fuer-akademiker-201722245.html",
+  "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.moneycontrol.com/news/business/banks/rupee-recovery-eases-pressure-on-rbi-to-use-rate-hikes-as-currency-defence-14090215.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
   "https://www.thehindu.com/news/national/andhra-pradesh/sec-schedules-indirect-elections-to-deputy-mayor-vice-chairperson-posts-on-december-5/article71751086.ece",
@@ -42,12 +52,8 @@
   "https://www.business-standard.com/content/press-releases-ani/wazirx-on-bitcoin-s-recovery-and-its-liquidity-test-126112701068_1.html",
   "https://www.theglobeandmail.com/business/article-binance-withdrawals-reopen-after-crypto-platform-completes-recovery/",
   "https://www.moneycontrol.com/news/business/banks/rbi-allows-white-label-atm-operators-to-source-cash-from-multiple-banks-buy-directly-from-central-bank-14090496.html",
-  "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
   "https://www.businesstimes.com.sg/companies-markets/energy-commodities/opec-set-keep-oil-production-targets-steady-sources-say",
   "https://www.deutschlandfunk.de/langzeitarbeitslose-bewerten-angebote-der-jobcenter-laut-studie-oft-als-unpassend-100.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
-  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
   "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
@@ -322,8 +328,8 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 977,
- "lagebrief_stand": 1795836600,
+ "laeufe": 978,
+ "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
    1795879637.9204814,
@@ -331,37 +337,6 @@
    1795881437.611222
   ],
   "stunde": [
-   {
-    "mint": "RKtsuqtyBSxFoKR6GrxDLTdduxUrk3sEpvQ3bJ1pump",
-    "spaet": true,
-    "t": 1795878578.7842596
-   },
-   {
-    "dauer": 367.27452778816223,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "CAmetfGbxybgp14Wk75UM6cexghoPA5Hi45tVyfQpump",
-    "name": "flying guy",
-    "sol": 0.0018130439999997118,
-    "spaet": false,
-    "symbol": "fg",
-    "t": 1795878590.2186458
-   },
-   {
-    "mint": "HmUNKgRu1yM3JyzAcMWkx6NoiH96k3AQh1M53qvQpump",
-    "spaet": true,
-    "t": 1795878693.167552
-   },
-   {
-    "mint": "4emy1VS6LFFCCqhsRdnCQGUAUd4Ay5fRdC3gMQwjpump",
-    "spaet": true,
-    "t": 1795878749.8379178
-   },
-   {
-    "mint": "8RRx5ySNFnxKePWTZswy596fBk5zRSLCGgkp1JWrpump",
-    "spaet": true,
-    "t": 1795878766.8288746
-   },
    {
     "mint": "3vXroL7im1nrUPuVq7xiAmx8cDDG5sQyZUMm4sPcpump",
     "spaet": true,
@@ -661,6 +636,22 @@
     "spaet": false,
     "symbol": "MoonShiba",
     "t": 1795881594.1510847
+   },
+   {
+    "dauer": 167.09768509864807,
+    "ersteller_verkauft": false,
+    "kaeufer": 26,
+    "mint": "81zuXS2NQtGEsksNUW2bX8HLPCozadWWGL9VDEhPpump",
+    "name": "AURACOIN",
+    "sol": 0.06121121799999963,
+    "spaet": false,
+    "symbol": "$AURA",
+    "t": 1795882291.4935243
+   },
+   {
+    "mint": "7JvDioz1dP5UqoPTiBt1412fAZQKyfznpxSYFPbfpump",
+    "spaet": true,
+    "t": 1795882372.7216003
    }
   ],
   "uebersicht": 1795880537.8372564
