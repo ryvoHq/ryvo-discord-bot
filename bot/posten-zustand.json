@@ -317,33 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 916,
+ "laeufe": 917,
  "lagebrief_stand": 1795836600,
  "meme": {
-  "sofort": [],
+  "sofort": [
+   1795865618.2703478
+  ],
   "stunde": [
-   {
-    "dauer": 177.11750411987305,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "WkyX5jBAyNLiQ7VHFeSPYVuUb8aW6gTP1ferKrxpump",
-    "name": "cat cow",
-    "sol": 0.2369321419999998,
-    "spaet": false,
-    "symbol": "$CCOW",
-    "t": 1795861826.7504213
-   },
-   {
-    "dauer": 90.00236940383911,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "HbYi3jYkUVJjhbYeRkqegYfoaZtKuDmxbSUg8QUGpump",
-    "name": "Savage Piranha",
-    "sol": 0.7555274440000008,
-    "spaet": false,
-    "symbol": "SAVPIR",
-    "t": 1795861857.538565
-   },
    {
     "mint": "5SVVA2zCztU9t5wyyZpxH7JGxuzLgQMQEErCWLxPpump",
     "spaet": true,
@@ -519,6 +499,22 @@
     "spaet": false,
     "symbol": "Bros",
     "t": 1795865261.13315
+   },
+   {
+    "dauer": 238.53640341758728,
+    "ersteller_verkauft": true,
+    "kaeufer": 400,
+    "mint": "5gBCc4MYQjA9nvyRDZQKdSxLeyKGjTVGhPaMkD13pump",
+    "name": "Dodo la grenouille",
+    "sol": 84.66467506099987,
+    "spaet": false,
+    "symbol": "DODO",
+    "t": 1795865573.9867983
+   },
+   {
+    "mint": "9ABJGuzf4EqmaRAmy7ZPzU74uCNtBgMJSuQ2To6Fpump",
+    "spaet": true,
+    "t": 1795865600.155408
    }
   ],
   "uebersicht": 1795865317.7976964
