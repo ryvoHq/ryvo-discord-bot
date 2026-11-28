@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 829,
+ "laeufe": 830,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -548,6 +548,17 @@
     "spaet": false,
     "symbol": "WLFI",
     "t": 1795841110.6615648
+   },
+   {
+    "dauer": 344.9569489955902,
+    "ersteller_verkauft": false,
+    "kaeufer": 283,
+    "mint": "5mw3x8ezNwwtZR4J7oxUZ3uzErFcSEUmoqXwWVs1pump",
+    "name": "crime is legal",
+    "sol": 59.381423887999816,
+    "spaet": false,
+    "symbol": "CRIME",
+    "t": 1795841466.2383933
    }
   ],
   "uebersicht": 1795838209.4951334
