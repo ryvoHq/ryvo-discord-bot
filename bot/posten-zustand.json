@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 887,
+ "laeufe": 888,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,17 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "dauer": 44.07745409011841,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "Ck2zKqgmkGzDmWot6EzqYXFbJQLCi1KjNsPUTBuEpump",
-    "name": "EVERYONE SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795853776.8606896
-   },
    {
     "dauer": 137.08053421974182,
     "ersteller_verkauft": true,
