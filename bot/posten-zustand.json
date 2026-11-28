@@ -309,23 +309,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 823,
+ "laeufe": 824,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795839109.7476873
   ],
   "stunde": [
-   {
-    "mint": "ExKWd2Gbck3eemAPAaoVNKrrvy5tUtrJyevrqRXPpump",
-    "spaet": true,
-    "t": 1795835899.4011803
-   },
-   {
-    "mint": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump",
-    "spaet": true,
-    "t": 1795836122.599751
-   },
    {
     "dauer": 272.179404258728,
     "ersteller_verkauft": true,
@@ -421,6 +411,33 @@
     "mint": "AQTtWNbr8HmYjWznN4auPjPFkhKSgsKVWvUfUzRbpump",
     "spaet": true,
     "t": 1795839231.6303682
+   },
+   {
+    "dauer": 185.45622634887695,
+    "ersteller_verkauft": false,
+    "kaeufer": 9,
+    "mint": "GGatn9GfrvRgFMFZy9ZSaTsKmpwnzCTogmocLHCjpump",
+    "name": "Frogger",
+    "sol": 85.00535906699997,
+    "spaet": false,
+    "symbol": "Frogger",
+    "t": 1795839543.851007
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "AqXE6DVxYN3vszY6k6fH62BNNTourrDV3jJ3tYopump",
+    "name": "United States Asset Reserve",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "USAR",
+    "t": 1795839722.5115612
+   },
+   {
+    "mint": "6v4Ep2JAEKiCAZ9BfHkX8XfxYHQ1U1KmHSvwqk4spump",
+    "spaet": true,
+    "t": 1795839752.7315454
    }
   ],
   "uebersicht": 1795838209.4951334
