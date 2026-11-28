@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 927,
+ "laeufe": 928,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -327,11 +327,6 @@
    1795868051.495723
   ],
   "stunde": [
-   {
-    "mint": "xEYk7169UGTUeTZpnK6bE5ewPCjsvYfCiaAKPcppump",
-    "spaet": true,
-    "t": 1795864771.778778
-   },
    {
     "mint": "D8J4PbXBF4dASbBKoyeJq8fWXJzZkRDur4K9USzJP7YD",
     "spaet": true,
@@ -653,6 +648,22 @@
     "spaet": false,
     "symbol": "Zhaki",
     "t": 1795868321.5008996
+   },
+   {
+    "mint": "FdLKjNYufdT4rwQXw6cABgqNbhKHC46sQ1cUuSkPpump",
+    "spaet": true,
+    "t": 1795868390.9809585
+   },
+   {
+    "dauer": 859.7039566040039,
+    "ersteller_verkauft": false,
+    "kaeufer": 155,
+    "mint": "LGzFq31PovLxFFHuf93mhjwVBDC8nBnosoVryuepump",
+    "name": "Google Gemini",
+    "sol": 85.00535960700002,
+    "spaet": false,
+    "symbol": "Gemini",
+    "t": 1795868416.6952627
    }
   ],
   "uebersicht": 1795865317.7976964
