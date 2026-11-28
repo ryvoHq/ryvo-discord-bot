@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 954,
+ "laeufe": 955,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -331,17 +331,6 @@
    1795875655.691484
   ],
   "stunde": [
-   {
-    "dauer": 100.90652990341187,
-    "ersteller_verkauft": true,
-    "kaeufer": 10,
-    "mint": "Hgb1bL5g4bnpDVzHyx6ojhA5tDSQGq8dicSgz7UGpump",
-    "name": "EVERYONE BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795872248.381763
-   },
    {
     "dauer": 853.6164345741272,
     "ersteller_verkauft": false,
@@ -558,6 +547,11 @@
     "spaet": false,
     "symbol": "PLANIMAL",
     "t": 1795875649.1375282
+   },
+   {
+    "mint": "HHzUPcfetiSFo7cJatdmQV67P85uoCCgiHMWLYjMpump",
+    "spaet": true,
+    "t": 1795875776.9638212
    }
   ],
   "uebersicht": 1795872617.0749443
