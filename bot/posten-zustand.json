@@ -322,25 +322,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 945,
+ "laeufe": 946,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795870516.9806318,
-   1795872617.0749443
+   1795872617.0749443,
+   1795873556.4473472
   ],
   "stunde": [
-   {
-    "dauer": 142.09710144996643,
-    "ersteller_verkauft": true,
-    "kaeufer": 5,
-    "mint": "7pV3MBDjCMHGxrnzgSrURHXkRELbFVSGGPZKYkMMpump",
-    "name": "ₜₘ",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "ₜₘ",
-    "t": 1795869844.9199238
-   },
    {
     "mint": "8KJvzhNMoqyen6P6oYsqm1KzujGPTKwyTzvaQhfYpump",
     "spaet": true,
@@ -566,6 +556,28 @@
     "mint": "A5PBhCQS2EuJFQ1NVH7yR2SpSDvhkRDi1FhysVM2pump",
     "spaet": true,
     "t": 1795873165.7468915
+   },
+   {
+    "dauer": 587.2130296230316,
+    "ersteller_verkauft": false,
+    "kaeufer": 908,
+    "mint": "EvN4RDyoqUTpCcrvz5QTAdHVqypgxV4MCR77Bfnjpump",
+    "name": "John Stockman",
+    "sol": 91.49836526599975,
+    "spaet": false,
+    "symbol": "John",
+    "t": 1795873485.3202434
+   },
+   {
+    "dauer": 637.4227101802826,
+    "ersteller_verkauft": false,
+    "kaeufer": 201,
+    "mint": "8b26nAYzKAZgVV7cvvFp8UqS2EzvjGFuopCjS4Zxpump",
+    "name": "SpaceX",
+    "sol": 84.547667009,
+    "spaet": false,
+    "symbol": "SpaceX",
+    "t": 1795873553.6097474
    }
   ],
   "uebersicht": 1795872617.0749443
