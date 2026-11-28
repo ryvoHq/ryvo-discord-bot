@@ -317,37 +317,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 912,
+ "laeufe": 913,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "AzLcYfPej8Zurkx5sJaFBu3QUPNbrDbaV6QA3YbQpump",
-    "spaet": true,
-    "t": 1795860520.4795914
-   },
-   {
-    "mint": "4newt1R5fGEoCKdf9XBgiR6B43iacmnVAR2d4Wt8pump",
-    "spaet": true,
-    "t": 1795860535.4697707
-   },
-   {
-    "dauer": 117.96387839317322,
-    "ersteller_verkauft": true,
-    "kaeufer": 19,
-    "mint": "AhqGGHfkVoLgY32fdvhcxLmar69nHD2v1GCZNS8Rpump",
-    "name": "🐸 Moon Frog",
-    "sol": 0.2803886429999997,
-    "spaet": false,
-    "symbol": "$MFRG",
-    "t": 1795860731.712493
-   },
-   {
-    "mint": "ECqVUWjQ3dMfet2qEsYdfHFH1h6xiSacxmX9UqNUpump",
-    "spaet": true,
-    "t": 1795860799.6654077
-   },
    {
     "mint": "5biPCbzYts4nnZgoN9ogTskxX1cc4N3LFiFzuHRspump",
     "spaet": true,
