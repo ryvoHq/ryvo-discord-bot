@@ -305,35 +305,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 790,
+ "laeufe": 791,
  "lagebrief_stand": 1795793700,
  "meme": {
-  "sofort": [
-   1795826943.7383316
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 1075.2282536029816,
-    "ersteller_verkauft": false,
-    "kaeufer": 577,
-    "mint": "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6",
-    "name": "Vicewire",
-    "sol": 78.49275755400004,
-    "spaet": false,
-    "symbol": "Vicewire",
-    "t": 1795826731.815993
-   },
-   {
-    "dauer": 58.98062205314636,
-    "ersteller_verkauft": true,
-    "kaeufer": 220,
-    "mint": "7kDJrynuRG2QDtNgEyTrQfXJqrbRcGb3PYviG92Kpump",
-    "name": "Aurora",
-    "sol": 84.05099505499996,
-    "spaet": false,
-    "symbol": "Aurora",
-    "t": 1795826757.7987254
-   },
    {
     "mint": "ERoFrbjKasNyMCC6CUZLdfVUffWswLQEkg9TcpqLpump",
     "spaet": true,
@@ -479,6 +455,17 @@
     "spaet": false,
     "symbol": "eiˣ",
     "t": 1795830164.9566796
+   },
+   {
+    "dauer": 86.51124882698059,
+    "ersteller_verkauft": false,
+    "kaeufer": 130,
+    "mint": "TdCRMEYZqoQVVsDuwuYDbncUmWD1u9uQQoFvMc8pump",
+    "name": "SAMSUNG",
+    "sol": 85.005359318,
+    "spaet": false,
+    "symbol": "Samsung",
+    "t": 1795830540.0584443
    }
   ],
   "uebersicht": 1795826643.6076992
