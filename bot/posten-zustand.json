@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 960,
+ "laeufe": 961,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,17 +330,6 @@
    1795877193.8568563
   ],
   "stunde": [
-   {
-    "dauer": 71.54703760147095,
-    "ersteller_verkauft": false,
-    "kaeufer": 153,
-    "mint": "5mL92bMeMqi5ZeVJS4A1BX5PQj9jXEM4NpH1o8G7pump",
-    "name": "Snow Share",
-    "sol": 84.80876371600003,
-    "spaet": false,
-    "symbol": "SNOWSHAR",
-    "t": 1795874087.9125357
-   },
    {
     "dauer": 199.20754766464233,
     "ersteller_verkauft": false,
@@ -604,6 +593,72 @@
     "spaet": false,
     "symbol": "TEST COIN",
     "t": 1795877480.8434334
+   },
+   {
+    "dauer": 680.3405392169952,
+    "ersteller_verkauft": true,
+    "kaeufer": 4,
+    "mint": "5zE7N4gNaCJmPo1F12Tr6Y1DY1M3C3Jy9qxmkbuSpump",
+    "name": "EVERYONE SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795877620.6375062
+   },
+   {
+    "dauer": 239.435391664505,
+    "ersteller_verkauft": true,
+    "kaeufer": 27,
+    "mint": "JbMHNn9gPpiybbkS641m4C62RZzUJQ7aS67ZZaxpump",
+    "name": "BILLIONAIRE CAT 💸",
+    "sol": 0.059860195000000074,
+    "spaet": false,
+    "symbol": "$BCAT",
+    "t": 1795877647.9488714
+   },
+   {
+    "dauer": 69.01014280319214,
+    "ersteller_verkauft": true,
+    "kaeufer": 6,
+    "mint": "5XjU4XfCZu6Vi3bwqUKziXyozX3ginXYqM7ewq87pump",
+    "name": "LUCIA V2",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "LUCIA V2",
+    "t": 1795877663.7027178
+   },
+   {
+    "dauer": 312.29348707199097,
+    "ersteller_verkauft": true,
+    "kaeufer": 44,
+    "mint": "EWPfEb1Q6ekv6xBi5GUHZWtjv4gcDFAdZVoS4DaKpump",
+    "name": "4EST PUMP",
+    "sol": 0.006579300000000364,
+    "spaet": false,
+    "symbol": "4EST",
+    "t": 1795877686.8070471
+   },
+   {
+    "dauer": 216.2106430530548,
+    "ersteller_verkauft": false,
+    "kaeufer": 151,
+    "mint": "bxh41SEbbEfj547uEao1WLtafnXxWcotgcyikxZpump",
+    "name": "Google | Official Team",
+    "sol": 84.6299127909999,
+    "spaet": false,
+    "symbol": "Gemini",
+    "t": 1795877742.4772666
+   },
+   {
+    "dauer": 273.02531266212463,
+    "ersteller_verkauft": true,
+    "kaeufer": 30,
+    "mint": "6wq5qUz8L2xrotNYvJbzpGCU984KSYAeA4iQZ2Kzpump",
+    "name": "flying guy",
+    "sol": 0.11257317300000004,
+    "spaet": false,
+    "symbol": "fg",
+    "t": 1795877781.861394
    }
   ],
   "uebersicht": 1795876893.0700972
