@@ -301,62 +301,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 774,
+ "laeufe": 775,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795825443.837948
   ],
   "stunde": [
-   {
-    "dauer": 727.898487329483,
-    "ersteller_verkauft": true,
-    "kaeufer": 22,
-    "mint": "cAKjvzwktvZ5Uuke3BCDpTCTh4A559NkV99v3RPpump",
-    "name": "The Chosen",
-    "sol": 0.3652985180000002,
-    "spaet": false,
-    "symbol": "Comeandsee",
-    "t": 1795822587.8519678
-   },
-   {
-    "dauer": 126.57155728340149,
-    "ersteller_verkauft": false,
-    "kaeufer": 135,
-    "mint": "MGWLLAYqn6SvmvH6oDdGpSTc8wbbj8gYkVQSNQ6pump",
-    "name": "Google Gemini",
-    "sol": 83.65277809799997,
-    "spaet": false,
-    "symbol": "Gemini",
-    "t": 1795822590.7820559
-   },
-   {
-    "dauer": 87.74008512496948,
-    "ersteller_verkauft": true,
-    "kaeufer": 290,
-    "mint": "HV4J1bNFu59mEwXZY4yz58E9yorvNw5pAGindxNGpump",
-    "name": "hac",
-    "sol": 85.28137828699994,
-    "spaet": false,
-    "symbol": "hac",
-    "t": 1795822595.0162883
-   },
-   {
-    "dauer": 35.803380727767944,
-    "ersteller_verkauft": true,
-    "kaeufer": 196,
-    "mint": "29bwoQiYhDWk3bzHWFFxiJ7fFqVsby2NA4FAvXH8pump",
-    "name": "Trump Effect",
-    "sol": 83.20042849199993,
-    "spaet": false,
-    "symbol": "TE",
-    "t": 1795822727.4294748
-   },
-   {
-    "mint": "9YZfqcxcCkv5rE17UaPCr1zph3mqT66AY6SjcCyQpump",
-    "spaet": true,
-    "t": 1795822740.952605
-   },
    {
     "dauer": 286.66203451156616,
     "ersteller_verkauft": false,
