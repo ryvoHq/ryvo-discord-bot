@@ -301,47 +301,16 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 776,
+ "laeufe": 777,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795825443.837948,
    1795826643.6076992,
-   1795826643.6076992
+   1795826643.6076992,
+   1795826943.7383316
   ],
   "stunde": [
-   {
-    "mint": "H91uyMDK5au3v8JF33b6kdp45Ytbt6Wz4XxSgR9Npump",
-    "spaet": true,
-    "t": 1795823102.5195107
-   },
-   {
-    "dauer": 30.12178325653076,
-    "ersteller_verkauft": true,
-    "kaeufer": 171,
-    "mint": "4MwJyVAvVym257DiiCVm2BNfe4bpQavDSWg9hTgTpump",
-    "name": "The Tailers",
-    "sol": 85.00535932699998,
-    "spaet": false,
-    "symbol": "Tailers",
-    "t": 1795823103.632596
-   },
-   {
-    "dauer": 190.05169701576233,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "8ZAm19CBczWwbKG7ZjPxVQ2KHLsGGDFSRndkd8i1pump",
-    "name": "Gucci Rick",
-    "sol": 0.6009486919999999,
-    "spaet": false,
-    "symbol": "RICK",
-    "t": 1795823105.0220344
-   },
-   {
-    "mint": "8XJzPg4ENptSj5g7pFcvnadniBuEuLEQHzAUexSnpump",
-    "spaet": true,
-    "t": 1795823322.6980472
-   },
    {
     "dauer": 51.16679239273071,
     "ersteller_verkauft": true,
@@ -581,6 +550,28 @@
     "spaet": false,
     "symbol": "Coinmas",
     "t": 1795826563.1391184
+   },
+   {
+    "dauer": 1075.2282536029816,
+    "ersteller_verkauft": false,
+    "kaeufer": 577,
+    "mint": "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6",
+    "name": "Vicewire",
+    "sol": 78.49275755400004,
+    "spaet": false,
+    "symbol": "Vicewire",
+    "t": 1795826731.815993
+   },
+   {
+    "dauer": 58.98062205314636,
+    "ersteller_verkauft": true,
+    "kaeufer": 220,
+    "mint": "7kDJrynuRG2QDtNgEyTrQfXJqrbRcGb3PYviG92Kpump",
+    "name": "Aurora",
+    "sol": 84.05099505499996,
+    "spaet": false,
+    "symbol": "Aurora",
+    "t": 1795826757.7987254
    }
   ],
   "uebersicht": 1795826643.6076992
