@@ -311,24 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 883,
+ "laeufe": 884,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795853134.447712
   ],
   "stunde": [
-   {
-    "dauer": 863.0173358917236,
-    "ersteller_verkauft": true,
-    "kaeufer": 665,
-    "mint": "BXH3poWUV5frLeh9P1r3rzF7w8c8uLDtC4zvcZjipump",
-    "name": "artisan cash",
-    "sol": 74.32198142099992,
-    "spaet": false,
-    "symbol": "Artisan",
-    "t": 1795852846.0650918
-   },
    {
     "dauer": 796.1109986305237,
     "ersteller_verkauft": true,
@@ -568,6 +557,28 @@
     "spaet": false,
     "symbol": "NVIDIA",
     "t": 1795856165.2190356
+   },
+   {
+    "dauer": 1574.537071466446,
+    "ersteller_verkauft": false,
+    "kaeufer": 145,
+    "mint": "4xqhZKtWUq9TRSw2aX445DQh3fH7FcFo6jrZCqvppump",
+    "name": "MoonBoy",
+    "sol": 85.07162513500002,
+    "spaet": false,
+    "symbol": "MoonBoy",
+    "t": 1795856207.9723656
+   },
+   {
+    "dauer": 409.88202238082886,
+    "ersteller_verkauft": false,
+    "kaeufer": 16,
+    "mint": "HrnE42CjKmQnVDqtLu1259jUHfqZ2ihEwp2SeB49pump",
+    "name": "LMAO",
+    "sol": 1.9187905709999988,
+    "spaet": false,
+    "symbol": "LMAO",
+    "t": 1795856462.1519222
    }
   ],
   "uebersicht": 1795853493.8036962
