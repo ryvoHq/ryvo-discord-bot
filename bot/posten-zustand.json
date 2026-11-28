@@ -311,35 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 882,
+ "laeufe": 883,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795853134.447712
   ],
   "stunde": [
-   {
-    "dauer": 87.35245132446289,
-    "ersteller_verkauft": true,
-    "kaeufer": 5,
-    "mint": "E9k6cXhwoHLbFPMFtZJ7q9uhS2Ai4faPYuMYBVZFpump",
-    "name": "DONT BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795852290.6105564
-   },
-   {
-    "dauer": 424.2841053009033,
-    "ersteller_verkauft": true,
-    "kaeufer": 32,
-    "mint": "9rzfrp7g3EJA6xRtuteeFYeYxdtByotENrKNpsHypump",
-    "name": "small dick energy wif",
-    "sol": -0.08218818700000068,
-    "spaet": false,
-    "symbol": "smallwif",
-    "t": 1795852359.3598382
-   },
    {
     "dauer": 863.0173358917236,
     "ersteller_verkauft": true,
@@ -563,6 +541,33 @@
     "spaet": false,
     "symbol": "BROCCOLI",
     "t": 1795855791.0095234
+   },
+   {
+    "dauer": 206.24217104911804,
+    "ersteller_verkauft": true,
+    "kaeufer": 17,
+    "mint": "5n22fu8v2qDpDh9wvAHFbWZiAh6xPXyFdeiXK4Brpump",
+    "name": "🍌 BANANA WIZARD",
+    "sol": 0.038026810999999994,
+    "spaet": false,
+    "symbol": "$BWIZ",
+    "t": 1795855894.7384596
+   },
+   {
+    "mint": "AjV88VasPKE1UsjL7fxxmafiy8PFxaf6Ncx9T9Ropump",
+    "spaet": true,
+    "t": 1795855971.912475
+   },
+   {
+    "dauer": 497.3837151527405,
+    "ersteller_verkauft": false,
+    "kaeufer": 129,
+    "mint": "CtvgHuV7MhwypXUg1BfsqSHxvQ7rZdDyS1SiMuempump",
+    "name": "NVIDIA Newsroom",
+    "sol": 84.789915151,
+    "spaet": false,
+    "symbol": "NVIDIA",
+    "t": 1795856165.2190356
    }
   ],
   "uebersicht": 1795853493.8036962
