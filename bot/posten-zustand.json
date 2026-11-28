@@ -317,50 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 901,
+ "laeufe": 902,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "7NYyHXSzeyG2EHFb8HyfGYTmmhbs4gCDon6LmEvipump",
-    "name": "Timothy the Hippo",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "TIMOTHY",
-    "t": 1795857525.223413
-   },
-   {
-    "mint": "GXeWXQ8vDyj33X1EQZgG3Cc5Wyd6c6eEqNWU6xn3pump",
-    "spaet": true,
-    "t": 1795857568.3853385
-   },
-   {
-    "dauer": 152.85737562179565,
-    "ersteller_verkauft": true,
-    "kaeufer": 14,
-    "mint": "5syXzbnA9S1GtqEENCpQna3EyKS2mhpeHBJ3uEW8pump",
-    "name": "Weird Cat",
-    "sol": 0.5199734500000005,
-    "spaet": false,
-    "symbol": "WEIRDCAT",
-    "t": 1795857646.9020205
-   },
-   {
-    "mint": "DhxLfVjew9w481bnxhZLSjqugKoGW98He5mUQmespump",
-    "spaet": true,
-    "t": 1795857748.6609883
-   },
-   {
-    "mint": "GMNPusTuHzJTTuWvi2T6psigM5QWu6Zmvewtv47Mpump",
-    "spaet": true,
-    "t": 1795857762.5137706
-   },
    {
     "dauer": 175.973708152771,
     "ersteller_verkauft": false,
@@ -521,6 +484,22 @@
     "mint": "ECqVUWjQ3dMfet2qEsYdfHFH1h6xiSacxmX9UqNUpump",
     "spaet": true,
     "t": 1795860799.6654077
+   },
+   {
+    "mint": "5biPCbzYts4nnZgoN9ogTskxX1cc4N3LFiFzuHRspump",
+    "spaet": true,
+    "t": 1795861130.3921952
+   },
+   {
+    "dauer": 146.6074366569519,
+    "ersteller_verkauft": true,
+    "kaeufer": 31,
+    "mint": "C8oMdkntabMNyXYheVWvjBmStUwYXJS3RC14n6mMpump",
+    "name": "Screaming Vandal",
+    "sol": 0.03197199200000153,
+    "spaet": false,
+    "symbol": "SCRVAN",
+    "t": 1795861302.7404234
    }
   ],
   "uebersicht": 1795857372.4745736
