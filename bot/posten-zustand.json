@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 949,
+ "laeufe": 950,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,28 +330,6 @@
    1795873556.4473472
   ],
   "stunde": [
-   {
-    "dauer": 5.07881760597229,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "8RLf2ZBgeVpQSju7774EUF5eNFN4VNkCSsB3MkQapump",
-    "name": "EVERYONE BUY",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BUY",
-    "t": 1795870874.4077833
-   },
-   {
-    "dauer": 243.24005365371704,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "6yCRDUPZxJ75ti9nq2u5QHh6Hz2XLzen4EWEE86gpump",
-    "name": "DERPCAT",
-    "sol": 0.6615345870000007,
-    "spaet": false,
-    "symbol": "DERP",
-    "t": 1795871140.7912269
-   },
    {
     "dauer": 205.5929319858551,
     "ersteller_verkauft": true,
@@ -561,6 +539,38 @@
     "spaet": false,
     "symbol": "SNOWSHAR",
     "t": 1795874087.9125357
+   },
+   {
+    "dauer": 199.20754766464233,
+    "ersteller_verkauft": false,
+    "kaeufer": 133,
+    "mint": "14dxyCmVr96qC2h3SgZqvGzm4DXXHLkcw2xZeAwVpump",
+    "name": "TikTok | Official Team",
+    "sol": 85.250451498,
+    "spaet": false,
+    "symbol": "TikTok US",
+    "t": 1795874526.2701972
+   },
+   {
+    "mint": "gGUroLU4SSS2gFBJBFj3TrWbciHhQLbTCBy1ov3pump",
+    "spaet": true,
+    "t": 1795874573.634951
+   },
+   {
+    "mint": "DqTMppoGMwuCge3sRyfFYw48moBM1wetr79cvs73pump",
+    "spaet": true,
+    "t": 1795874643.73776
+   },
+   {
+    "dauer": 0.0006215572357177734,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "NifiKQLLrEPFv13wmpTfywQMNA1pvooyyhN9tf9pump",
+    "name": "do nothing and win",
+    "sol": 85.00535906600001,
+    "spaet": false,
+    "symbol": "nothing",
+    "t": 1795874663.0878682
    }
   ],
   "uebersicht": 1795872617.0749443
