@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 943,
+ "laeufe": 944,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,28 +330,6 @@
    1795872617.0749443
   ],
   "stunde": [
-   {
-    "dauer": 103.83963823318481,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "3kZAWBBqkjwm2z8w2rbspUjvQYFjXwVnDtef9knCpump",
-    "name": "PIKMAN",
-    "sol": 2.406857454,
-    "spaet": false,
-    "symbol": "PIKMAN",
-    "t": 1795869290.393706
-   },
-   {
-    "dauer": 131.73228526115417,
-    "ersteller_verkauft": true,
-    "kaeufer": 25,
-    "mint": "5taBarikZihAoeNPJcpN6wPP1f4zvpxb7rQpzGRKpump",
-    "name": "dogbaton",
-    "sol": 0.6638021190000001,
-    "spaet": false,
-    "symbol": "dogbaton",
-    "t": 1795869300.9205763
-   },
    {
     "dauer": 174.03670859336853,
     "ersteller_verkauft": true,
@@ -577,6 +555,39 @@
     "spaet": false,
     "symbol": "FIX6900",
     "t": 1795872441.0104346
+   },
+   {
+    "dauer": 120.16481494903564,
+    "ersteller_verkauft": false,
+    "kaeufer": 459,
+    "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump",
+    "name": "Bagwork",
+    "sol": 82.68238881599939,
+    "spaet": false,
+    "symbol": "Bagwork",
+    "t": 1795872824.71252
+   },
+   {
+    "dauer": 6.17519474029541,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "9C19jyhDzmq8ey78byP6QimDTz58PooNuc3feVLfpump",
+    "name": "EVERYONE BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795872843.6716325
+   },
+   {
+    "dauer": 217.94320631027222,
+    "ersteller_verkauft": true,
+    "kaeufer": 19,
+    "mint": "HRtBmBzJHoPQTYkMrmbjQyS61o7cqhUJnE3GHLCdpump",
+    "name": "HOHOCOIN",
+    "sol": 0.5535659750000004,
+    "spaet": false,
+    "symbol": "$SANTA",
+    "t": 1795872947.9317226
    }
   ],
   "uebersicht": 1795872617.0749443
