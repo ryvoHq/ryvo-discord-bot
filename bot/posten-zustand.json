@@ -317,18 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 903,
+ "laeufe": 904,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "mint": "4cZsB6UgdUBTi13JMusBap9r2qGW1MPrdaSVAYkSpump",
-    "spaet": true,
-    "t": 1795858210.617411
-   },
    {
     "mint": "DToXPC7kNpFvkPaXX3UcBotVN3KjjM2VktaxzX5Spump",
     "spaet": true,
@@ -483,6 +478,28 @@
     "mint": "BhfgeQrNCJmPsDMaUBJjysewfu9rL5kuMN6guU3pump",
     "spaet": true,
     "t": 1795861668.8081713
+   },
+   {
+    "dauer": 177.11750411987305,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "WkyX5jBAyNLiQ7VHFeSPYVuUb8aW6gTP1ferKrxpump",
+    "name": "cat cow",
+    "sol": 0.2369321419999998,
+    "spaet": false,
+    "symbol": "$CCOW",
+    "t": 1795861826.7504213
+   },
+   {
+    "dauer": 90.00236940383911,
+    "ersteller_verkauft": true,
+    "kaeufer": 26,
+    "mint": "HbYi3jYkUVJjhbYeRkqegYfoaZtKuDmxbSUg8QUGpump",
+    "name": "Savage Piranha",
+    "sol": 0.7555274440000008,
+    "spaet": false,
+    "symbol": "SAVPIR",
+    "t": 1795861857.538565
    }
   ],
   "uebersicht": 1795861674.999723
