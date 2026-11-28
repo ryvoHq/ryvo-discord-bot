@@ -311,22 +311,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 867,
+ "laeufe": 868,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 209.1886944770813,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "EbtbZka1SS8eppu5uGgVG87pPvuRtAmTtxXvy7PBpump",
-    "name": "DICE",
-    "sol": 0.9003648339999998,
-    "spaet": false,
-    "symbol": "DICE",
-    "t": 1795848214.409169
-   },
    {
     "mint": "CpQmkCUPJsSYW7XNUVgG8h4xTApyKZ1vKEztoA1xpump",
     "spaet": true,
