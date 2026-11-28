@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 804,
+ "laeufe": 805,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -313,11 +313,6 @@
    1795831827.3987043
   ],
   "stunde": [
-   {
-    "mint": "28GQ3Mg66RGTA47jVvukvdfhKXgrYJ7rRF4zoNhipump",
-    "spaet": true,
-    "t": 1795830923.8155966
-   },
    {
     "dauer": 171.25406312942505,
     "ersteller_verkauft": true,
@@ -594,7 +589,7 @@
     "t": 1795834261.7048035
    }
   ],
-  "uebersicht": 1795830927.475963
+  "uebersicht": 1795834570.3698478
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
