@@ -322,34 +322,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 967,
+ "laeufe": 968,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795877193.8568563
+   1795877193.8568563,
+   1795879637.9204814
   ],
   "stunde": [
-   {
-    "mint": "HHzUPcfetiSFo7cJatdmQV67P85uoCCgiHMWLYjMpump",
-    "spaet": true,
-    "t": 1795875776.9638212
-   },
-   {
-    "mint": "HHF3AJ8oriKDhPESdx2yZZkyLz9F5VoQDu6ghDXsthfQ",
-    "spaet": true,
-    "t": 1795876004.489859
-   },
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "hUU4M2aEGEmtBvUbbJTJ5kw38kRApFU1gf4WLN7pump",
-    "name": "Federal Oil Dividend Fund",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "FODF",
-    "t": 1795876018.8370821
-   },
    {
     "mint": "5jjJWZfTTaZtG74zSpiEZbMBHNM2jieHEXM2UZvapump",
     "spaet": true,
@@ -656,6 +636,39 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795879112.4899542
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "Hiy58sc6XNsaCMtK2A1JQoKu421Sxd7pFaUoD6KSpump",
+    "name": "United Global Oil Supply",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "UGOS",
+    "t": 1795879351.016591
+   },
+   {
+    "dauer": 468.15376806259155,
+    "ersteller_verkauft": true,
+    "kaeufer": 665,
+    "mint": "6izFEmv5ja1QJuoJgXB5gwKrhCEbvqLhgF7tUERBpump",
+    "name": "Mealmas",
+    "sol": 68.19184437799974,
+    "spaet": false,
+    "symbol": "Mealmas",
+    "t": 1795879473.8220034
+   },
+   {
+    "dauer": 200.2768771648407,
+    "ersteller_verkauft": true,
+    "kaeufer": 33,
+    "mint": "2UcMkjCsdnkZmzbrXTa7rS7p6HfSi1V7VpDzZMsZpump",
+    "name": "BRAINROT COIN",
+    "sol": 0.1758285889999999,
+    "spaet": false,
+    "symbol": "BRAINROT",
+    "t": 1795879502.1213806
    }
   ],
   "uebersicht": 1795876893.0700972
