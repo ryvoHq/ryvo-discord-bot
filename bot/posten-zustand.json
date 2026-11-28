@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 974,
+ "laeufe": 975,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -331,22 +331,6 @@
    1795881437.611222
   ],
   "stunde": [
-   {
-    "dauer": 167.05664825439453,
-    "ersteller_verkauft": true,
-    "kaeufer": 11,
-    "mint": "FWaG73iwuuWTJR4FnBXEMKNvmxkQ86gZurbubQkhpump",
-    "name": "PEPE TEST",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "PEPE",
-    "t": 1795878087.0701928
-   },
-   {
-    "mint": "5aR3NWJwmpNVGXDqrFk9GQgoF8x3LWgrMqPUMxtPpump",
-    "spaet": true,
-    "t": 1795878124.4421911
-   },
    {
     "mint": "Gfa7Gzq9q3zndhUJtauv7VCkQxuiBDftPioAm1ubpump",
     "spaet": true,
@@ -671,6 +655,17 @@
     "spaet": false,
     "symbol": "Selfvalue",
     "t": 1795881364.8517318
+   },
+   {
+    "dauer": 174.55105090141296,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "28HNZChCkC775dYZ5uhWSHAzP4dW6ERENLTLbpwEpump",
+    "name": "MoonSbiba",
+    "sol": 0.44841712200000006,
+    "spaet": false,
+    "symbol": "MoonShiba",
+    "t": 1795881594.1510847
    }
   ],
   "uebersicht": 1795880537.8372564
