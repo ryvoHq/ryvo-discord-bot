@@ -322,31 +322,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 947,
+ "laeufe": 948,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795870516.9806318,
    1795872617.0749443,
    1795873556.4473472
   ],
   "stunde": [
-   {
-    "mint": "8KJvzhNMoqyen6P6oYsqm1KzujGPTKwyTzvaQhfYpump",
-    "spaet": true,
-    "t": 1795870261.1072981
-   },
-   {
-    "dauer": 502.8064296245575,
-    "ersteller_verkauft": false,
-    "kaeufer": 528,
-    "mint": "3V8dPY9yH4TSHm11fx6Po7XJ8xPzSjcf8W9Q3QhXpump",
-    "name": "Bankrupting New Buyers",
-    "sol": 81.2895787739998,
-    "spaet": false,
-    "symbol": "BNB",
-    "t": 1795870437.7245765
-   },
    {
     "dauer": 88.71159315109253,
     "ersteller_verkauft": true,
@@ -600,6 +583,17 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795873853.2851293
+   },
+   {
+    "dauer": 71.54703760147095,
+    "ersteller_verkauft": false,
+    "kaeufer": 153,
+    "mint": "5mL92bMeMqi5ZeVJS4A1BX5PQj9jXEM4NpH1o8G7pump",
+    "name": "Snow Share",
+    "sol": 84.80876371600003,
+    "spaet": false,
+    "symbol": "SNOWSHAR",
+    "t": 1795874087.9125357
    }
   ],
   "uebersicht": 1795872617.0749443
