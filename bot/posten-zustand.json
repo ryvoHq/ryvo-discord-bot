@@ -311,38 +311,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 863,
+ "laeufe": 864,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 153.52685356140137,
-    "ersteller_verkauft": true,
-    "kaeufer": 9,
-    "mint": "DCrp2eD3L4ZKbqdt8BzKiRZiemrkDbcoh2nQmqS2pump",
-    "name": "🐸 Moon Frog",
-    "sol": 0.17424126099999993,
-    "spaet": false,
-    "symbol": "$MFRG",
-    "t": 1795847274.2039354
-   },
-   {
-    "dauer": 1458.368350982666,
-    "ersteller_verkauft": true,
-    "kaeufer": 148,
-    "mint": "9QWaXqTJ8VxKwbxP3T36vdpXDv1SPEEEUCzxhm8Mpump",
-    "name": "Groo",
-    "sol": 49.91724657899999,
-    "spaet": false,
-    "symbol": "Groo",
-    "t": 1795847301.1462367
-   },
-   {
-    "mint": "9TNeUGMQRULGUSxa2MQQ1r7G3g9Xet7q1ux7SLjdznzj",
-    "spaet": true,
-    "t": 1795847372.9882371
-   },
    {
     "mint": "6HVwJdFszAvdm6NwLaeGbj6eZkz5DorUYqaXE92pump",
     "spaet": true,
@@ -411,6 +384,17 @@
     "spaet": false,
     "symbol": "Claude",
     "t": 1795850440.2909133
+   },
+   {
+    "dauer": 45.458290100097656,
+    "ersteller_verkauft": false,
+    "kaeufer": 6,
+    "mint": "8Y24KBnY9gaNWDaxohxtEU1gxESvfwdYeGFuHJKpump",
+    "name": "Useless Shitty Dollar 1  ",
+    "sol": 85.005359063,
+    "spaet": false,
+    "symbol": "USD1",
+    "t": 1795850776.4644818
    }
   ],
   "uebersicht": 1795849782.068453
