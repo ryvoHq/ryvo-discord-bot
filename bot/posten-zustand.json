@@ -317,45 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 906,
+ "laeufe": 907,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795860121.709722
   ],
   "stunde": [
-   {
-    "mint": "5sLr8kSix1nH199QkEZcLVeSipHFSmTiqn76bq1kpump",
-    "spaet": true,
-    "t": 1795859115.8852575
-   },
-   {
-    "dauer": 878.4635384082794,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "CmaLapN9C2c4npjLoS4uRpicSzZoWJadNVYaTyx2pump",
-    "name": "DATA CENTER V",
-    "sol": 0.07796263200000023,
-    "spaet": false,
-    "symbol": "DCV",
-    "t": 1795859138.7661853
-   },
-   {
-    "dauer": 620.2639970779419,
-    "ersteller_verkauft": true,
-    "kaeufer": 40,
-    "mint": "53SpLXQYrNFWhKej2zTVwAseKV9am9v89mRQZWZ9pump",
-    "name": "Dog Think",
-    "sol": 0.5581761889999985,
-    "spaet": false,
-    "symbol": "Dog Think",
-    "t": 1795859147.9478369
-   },
-   {
-    "mint": "FXoNzkvUppoURKDGZjcYKozuDhqiB7Dem8qinZ5Lpump",
-    "spaet": true,
-    "t": 1795859241.035933
-   },
    {
     "dauer": 259.96880412101746,
     "ersteller_verkauft": true,
@@ -500,6 +468,17 @@
     "spaet": false,
     "symbol": "USFF",
     "t": 1795862335.256495
+   },
+   {
+    "dauer": 50.10295796394348,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "8L8PWijpqZc1xqxRHivPwyfPccSS2vn6fabV22kgpump",
+    "name": "pumpcat",
+    "sol": 0.9135046549999996,
+    "spaet": false,
+    "symbol": "pumpcat",
+    "t": 1795862774.8160555
    }
   ],
   "uebersicht": 1795861674.999723
