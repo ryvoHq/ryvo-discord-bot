@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 892,
+ "laeufe": 893,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,17 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "dauer": 31.359594583511353,
-    "ersteller_verkauft": false,
-    "kaeufer": 13,
-    "mint": "2KqAjugtgRkjQUtsEeTX7pd6vAJ2LU3FLAvjuNaTpump",
-    "name": "BetOnBlack",
-    "sol": 0.43673784700000007,
-    "spaet": false,
-    "symbol": "BetOnBlak",
-    "t": 1795855110.6872413
-   },
    {
     "dauer": 226.74527144432068,
     "ersteller_verkauft": false,
@@ -529,6 +518,17 @@
     "mint": "DToXPC7kNpFvkPaXX3UcBotVN3KjjM2VktaxzX5Spump",
     "spaet": true,
     "t": 1795858441.5150807
+   },
+   {
+    "dauer": 238.3460075855255,
+    "ersteller_verkauft": false,
+    "kaeufer": 23,
+    "mint": "5GDjRzehvaZZw6xpMVyd7EcczkiXcdZmPY8rtTCupump",
+    "name": "🍌 BANANA WIZARD",
+    "sol": 0.24255292699999978,
+    "spaet": false,
+    "symbol": "$BWIZ",
+    "t": 1795858650.8716586
    }
   ],
   "uebersicht": 1795857372.4745736
