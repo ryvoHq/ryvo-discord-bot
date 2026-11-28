@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 893,
+ "laeufe": 894,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -319,17 +319,6 @@
    1795857372.4745736
   ],
   "stunde": [
-   {
-    "dauer": 226.74527144432068,
-    "ersteller_verkauft": false,
-    "kaeufer": 28,
-    "mint": "6MfCjZLiBm38PCziUv1dbbYEmnnRamnpZzgLdLaUpump",
-    "name": "🐸 Moon Frog",
-    "sol": 0.37516167700000025,
-    "spaet": false,
-    "symbol": "$MFRG",
-    "t": 1795855342.0100834
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -529,6 +518,33 @@
     "spaet": false,
     "symbol": "$BWIZ",
     "t": 1795858650.8716586
+   },
+   {
+    "mint": "5sLr8kSix1nH199QkEZcLVeSipHFSmTiqn76bq1kpump",
+    "spaet": true,
+    "t": 1795859115.8852575
+   },
+   {
+    "dauer": 878.4635384082794,
+    "ersteller_verkauft": true,
+    "kaeufer": 26,
+    "mint": "CmaLapN9C2c4npjLoS4uRpicSzZoWJadNVYaTyx2pump",
+    "name": "DATA CENTER V",
+    "sol": 0.07796263200000023,
+    "spaet": false,
+    "symbol": "DCV",
+    "t": 1795859138.7661853
+   },
+   {
+    "dauer": 620.2639970779419,
+    "ersteller_verkauft": true,
+    "kaeufer": 40,
+    "mint": "53SpLXQYrNFWhKej2zTVwAseKV9am9v89mRQZWZ9pump",
+    "name": "Dog Think",
+    "sol": 0.5581761889999985,
+    "spaet": false,
+    "symbol": "Dog Think",
+    "t": 1795859147.9478369
    }
   ],
   "uebersicht": 1795857372.4745736
