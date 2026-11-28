@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 873,
+ "laeufe": 874,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -449,6 +449,50 @@
     "spaet": false,
     "symbol": "GETPAID",
     "t": 1795853377.6614916
+   },
+   {
+    "dauer": 79.20457744598389,
+    "ersteller_verkauft": false,
+    "kaeufer": 172,
+    "mint": "3q9ZG22JGx7PgtcJScRPWAbEtyGsLwmhYSHd49zapump",
+    "name": "PEPE",
+    "sol": 84.679792105,
+    "spaet": false,
+    "symbol": "PEPE",
+    "t": 1795853504.8884017
+   },
+   {
+    "dauer": 105.30880165100098,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "8TYpKxuS4NCS9sk32UzRmEfBuNPfN3MHZ8BWg7wxpump",
+    "name": "Weird Cat",
+    "sol": 0.611278998,
+    "spaet": false,
+    "symbol": "WEIRDCAT",
+    "t": 1795853552.5941257
+   },
+   {
+    "dauer": 455.93614315986633,
+    "ersteller_verkauft": false,
+    "kaeufer": 22,
+    "mint": "5EJUA3UQBjqr2M4RtWiqRyFUCRnEqqVZ92iJhw7Ypump",
+    "name": "BABY SHIB",
+    "sol": 0.10884215299999986,
+    "spaet": false,
+    "symbol": "SHIB",
+    "t": 1795853589.6735332
+   },
+   {
+    "dauer": 156.4521927833557,
+    "ersteller_verkauft": true,
+    "kaeufer": 28,
+    "mint": "2yTE1CRuKMJUEyvUuSQ6oLopgXxcvCrb2b9UEnK5pump",
+    "name": "Doomed Rocket",
+    "sol": 0.1582129560000001,
+    "spaet": false,
+    "symbol": "DOOROC",
+    "t": 1795853658.305719
    }
   ],
   "uebersicht": 1795853493.8036962
