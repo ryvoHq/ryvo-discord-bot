@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 942,
+ "laeufe": 943,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,17 +330,6 @@
    1795872617.0749443
   ],
   "stunde": [
-   {
-    "dauer": 905.0714576244354,
-    "ersteller_verkauft": false,
-    "kaeufer": 26,
-    "mint": "CdCv4vQpqZtiEKsqUSrjXkq8mGg4BKiWHAmgq8Supump",
-    "name": "even a devil may cry ",
-    "sol": 1.784821228,
-    "spaet": false,
-    "symbol": "Devil May Cry",
-    "t": 1795869050.8788512
-   },
    {
     "dauer": 103.83963823318481,
     "ersteller_verkauft": true,
