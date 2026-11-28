@@ -309,11 +309,12 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 827,
+ "laeufe": 828,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795839109.7476873
+   1795839109.7476873,
+   1795840955.4945881
   ],
   "stunde": [
    {
@@ -480,6 +481,33 @@
     "spaet": false,
     "symbol": "BTC",
     "t": 1795840605.6645029
+   },
+   {
+    "mint": "7yizwJWbcayGTzF9xpibm3j1T2dvHj1vAtk9tqLfpump",
+    "spaet": true,
+    "t": 1795840657.394586
+   },
+   {
+    "dauer": 249.72379398345947,
+    "ersteller_verkauft": true,
+    "kaeufer": 24,
+    "mint": "DXFjCxVHmkgcruH7xV8SwePEybouYDznu8tX1gdtpump",
+    "name": "Karen Kat",
+    "sol": 0.02561606200000005,
+    "spaet": false,
+    "symbol": "KAREN",
+    "t": 1795840716.2868824
+   },
+   {
+    "dauer": 458.90439772605896,
+    "ersteller_verkauft": false,
+    "kaeufer": 369,
+    "mint": "EUkFDTry511qdU6PDPKGXzDx157W9MCAS8sJoeWxpump",
+    "name": "さいたまトークン",
+    "sol": 85.30863755799993,
+    "spaet": false,
+    "symbol": "SAITAMA",
+    "t": 1795840930.994449
    }
   ],
   "uebersicht": 1795838209.4951334
