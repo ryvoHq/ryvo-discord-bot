@@ -328,60 +328,16 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 980,
+ "laeufe": 981,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
-   1795879637.9204814,
    1795880237.8543587,
    1795881437.611222,
-   1795882682.5676491
+   1795882682.5676491,
+   1795883283.491524
   ],
   "stunde": [
-   {
-    "dauer": 468.15376806259155,
-    "ersteller_verkauft": true,
-    "kaeufer": 665,
-    "mint": "6izFEmv5ja1QJuoJgXB5gwKrhCEbvqLhgF7tUERBpump",
-    "name": "Mealmas",
-    "sol": 68.19184437799974,
-    "spaet": false,
-    "symbol": "Mealmas",
-    "t": 1795879473.8220034
-   },
-   {
-    "dauer": 200.2768771648407,
-    "ersteller_verkauft": true,
-    "kaeufer": 33,
-    "mint": "2UcMkjCsdnkZmzbrXTa7rS7p6HfSi1V7VpDzZMsZpump",
-    "name": "BRAINROT COIN",
-    "sol": 0.1758285889999999,
-    "spaet": false,
-    "symbol": "BRAINROT",
-    "t": 1795879502.1213806
-   },
-   {
-    "dauer": 0.0004138946533203125,
-    "ersteller_verkauft": false,
-    "kaeufer": 7,
-    "mint": "EweaX95AVjpbhxTPAYbA1ns8ieLgkqTr4syozhNRpump",
-    "name": "No bears allowed",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "nobears",
-    "t": 1795879646.0782773
-   },
-   {
-    "dauer": 167.66636776924133,
-    "ersteller_verkauft": false,
-    "kaeufer": 37,
-    "mint": "Gy5GTZEmvc6vUHjAHmXFUf7HoycMboCKnjEoJvaxpump",
-    "name": "HEAD fix check",
-    "sol": 0.160025583,
-    "spaet": false,
-    "symbol": "fix",
-    "t": 1795879652.4998052
-   },
    {
     "dauer": 174.90998244285583,
     "ersteller_verkauft": true,
@@ -621,6 +577,44 @@
     "mint": "GGE3JUzPWcuFNEe3zyhRBqMNUmoqivRv4iUrBtDSpump",
     "spaet": true,
     "t": 1795882873.1272917
+   },
+   {
+    "mint": "DtfvSxPxP7RvmJLfHzcHZq1ZrXL7HBsuEhigd45npump",
+    "spaet": true,
+    "t": 1795883047.854995
+   },
+   {
+    "dauer": 981.1701889038086,
+    "ersteller_verkauft": false,
+    "kaeufer": 610,
+    "mint": "H8LY9ihCwemc4Dnq4fYyMKgo8x9Y1mKs9mACB4123HDC",
+    "name": "fill",
+    "sol": 79.94989074899999,
+    "spaet": false,
+    "symbol": "FILL",
+    "t": 1795883067.255774
+   },
+   {
+    "dauer": 568.5086388587952,
+    "ersteller_verkauft": false,
+    "kaeufer": 131,
+    "mint": "FCTKDK3j8zPeVqNjHRd9egwWp3NqTqUDLb8ZgJUopump",
+    "name": "Rockstar Games",
+    "sol": 85.018544625,
+    "spaet": false,
+    "symbol": "Rockstar",
+    "t": 1795883094.7455826
+   },
+   {
+    "dauer": 58.75030183792114,
+    "ersteller_verkauft": true,
+    "kaeufer": 242,
+    "mint": "6eXdEXPrJzZN2p6iqpAh3cEbu8nuHMacpLfJeMaHpump",
+    "name": "Hope",
+    "sol": 85.005359394,
+    "spaet": false,
+    "symbol": "HOPE",
+    "t": 1795883206.406824
    }
   ],
   "uebersicht": 1795880537.8372564
