@@ -317,7 +317,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 930,
+ "laeufe": 931,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -326,33 +326,6 @@
    1795868051.495723
   ],
   "stunde": [
-   {
-    "dauer": 91.20620632171631,
-    "ersteller_verkauft": true,
-    "kaeufer": 15,
-    "mint": "GxgiyprzbyvxMCyD8LN5zYAEjzmbDpJGEdnxqGQ2pump",
-    "name": "BONKERS",
-    "sol": 0.7177308449999997,
-    "spaet": false,
-    "symbol": "$BONKERS",
-    "t": 1795865690.1560636
-   },
-   {
-    "dauer": 379.3790452480316,
-    "ersteller_verkauft": true,
-    "kaeufer": 21,
-    "mint": "AVbZwv7yfuh6BBxP3eeoYKeYm6nKoPU4s7tdh541pump",
-    "name": "Nobody Paid",
-    "sol": 0.8334895429999991,
-    "spaet": false,
-    "symbol": "NOBODY",
-    "t": 1795865745.0983622
-   },
-   {
-    "mint": "FLVzUK76ZVSMhKhUXwbgSnPBMVEhnrUtwDr3LSLDpump",
-    "spaet": true,
-    "t": 1795865780.2779477
-   },
    {
     "dauer": 62.97749876976013,
     "ersteller_verkauft": true,
@@ -637,6 +610,55 @@
     "spaet": false,
     "symbol": "Devil May Cry",
     "t": 1795869050.8788512
+   },
+   {
+    "dauer": 103.83963823318481,
+    "ersteller_verkauft": true,
+    "kaeufer": 26,
+    "mint": "3kZAWBBqkjwm2z8w2rbspUjvQYFjXwVnDtef9knCpump",
+    "name": "PIKMAN",
+    "sol": 2.406857454,
+    "spaet": false,
+    "symbol": "PIKMAN",
+    "t": 1795869290.393706
+   },
+   {
+    "dauer": 131.73228526115417,
+    "ersteller_verkauft": true,
+    "kaeufer": 25,
+    "mint": "5taBarikZihAoeNPJcpN6wPP1f4zvpxb7rQpzGRKpump",
+    "name": "dogbaton",
+    "sol": 0.6638021190000001,
+    "spaet": false,
+    "symbol": "dogbaton",
+    "t": 1795869300.9205763
+   },
+   {
+    "dauer": 174.03670859336853,
+    "ersteller_verkauft": true,
+    "kaeufer": 30,
+    "mint": "FXZBBfb7Uwnc8U5r1yHywtHUzXiPoHtKnTN8NXQfpump",
+    "name": "The Toad Cat",
+    "sol": 0.2780531669999998,
+    "spaet": false,
+    "symbol": "TOAD",
+    "t": 1795869373.5884213
+   },
+   {
+    "mint": "EDTwUYKPdnEu1iDu7AUevgWPx7kqawpQRa9f11X2pump",
+    "spaet": true,
+    "t": 1795869421.3376744
+   },
+   {
+    "dauer": 1406.35689163208,
+    "ersteller_verkauft": true,
+    "kaeufer": 36,
+    "mint": "4hs45C1bG5kbEW74L4GxVoPhA8EJY1HkL3ZnVwNTpump",
+    "name": "GTA 6",
+    "sol": 0.0350865110000008,
+    "spaet": false,
+    "symbol": "GTA",
+    "t": 1795869494.8756971
    }
   ],
   "uebersicht": 1795868951.8121321
