@@ -317,25 +317,15 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 919,
+ "laeufe": 920,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
    1795865618.2703478,
-   1795866217.9941115
+   1795866217.9941115,
+   1795866518.6348646
   ],
   "stunde": [
-   {
-    "dauer": 50.10295796394348,
-    "ersteller_verkauft": false,
-    "kaeufer": 20,
-    "mint": "8L8PWijpqZc1xqxRHivPwyfPccSS2vn6fabV22kgpump",
-    "name": "pumpcat",
-    "sol": 0.9135046549999996,
-    "spaet": false,
-    "symbol": "pumpcat",
-    "t": 1795862774.8160555
-   },
    {
     "dauer": 577.6035943031311,
     "ersteller_verkauft": false,
@@ -576,6 +566,22 @@
     "spaet": false,
     "symbol": "MoonBoy",
     "t": 1795866187.4859602
+   },
+   {
+    "mint": "6QkUe2KCMsH6eeHm2Pifn7dFNSC6CjHzUVAk2HuVpump",
+    "spaet": true,
+    "t": 1795866361.6479638
+   },
+   {
+    "dauer": 833.4464802742004,
+    "ersteller_verkauft": false,
+    "kaeufer": 601,
+    "mint": "3JfzkFiB95EY8ZvE3TtsKQcQ4Sf2M1SMzZKu1JNwkoqw",
+    "name": "ハチワレ",
+    "sol": 85.38847225799991,
+    "spaet": false,
+    "symbol": "Hachiware",
+    "t": 1795866367.9965765
    }
   ],
   "uebersicht": 1795865317.7976964
