@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 805,
+ "laeufe": 806,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -313,17 +313,6 @@
    1795831827.3987043
   ],
   "stunde": [
-   {
-    "dauer": 171.25406312942505,
-    "ersteller_verkauft": true,
-    "kaeufer": 11,
-    "mint": "FSWtUpndQUqu5xCJVu5yZf8pH26fRStFFxYJSZV3pump",
-    "name": "HANS",
-    "sol": 9.955383529,
-    "spaet": false,
-    "symbol": "HANS",
-    "t": 1795831137.8062627
-   },
    {
     "dauer": 0.0,
     "ersteller_verkauft": false,
@@ -587,6 +576,28 @@
     "spaet": false,
     "symbol": "小猫仙人",
     "t": 1795834261.7048035
+   },
+   {
+    "dauer": 168.04117107391357,
+    "ersteller_verkauft": false,
+    "kaeufer": 21,
+    "mint": "7Eq8bfgZLg14txhquAQxy8Mq8vPrYtYjz4Muz4nypump",
+    "name": "turtle god ",
+    "sol": 0.5684910799999998,
+    "spaet": false,
+    "symbol": "turtle ",
+    "t": 1795834614.655563
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "G9hfoutbDmpELbTfyQmM397GeDAxEkhkdWtKw7kpump",
+    "name": "Kairium",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "KAI",
+    "t": 1795834723.7163875
    }
   ],
   "uebersicht": 1795834570.3698478
