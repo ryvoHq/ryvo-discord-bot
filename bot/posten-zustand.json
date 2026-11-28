@@ -311,33 +311,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 861,
+ "laeufe": 862,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "dauer": 0.0019729137420654297,
-    "ersteller_verkauft": false,
-    "kaeufer": 19,
-    "mint": "4HEfa8ytHJk75E4qdThEbtNdyGRg2qfQHMo8nu2Cpump",
-    "name": "We Literally Fuck Investors",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "WLFI",
-    "t": 1795846738.9938989
-   },
-   {
-    "dauer": 185.10839414596558,
-    "ersteller_verkauft": true,
-    "kaeufer": 10,
-    "mint": "GcTnzQmdTckNQAQLNABN1Zi4m2G1bGzQLDd8jwpTpump",
-    "name": "Feral Specter",
-    "sol": 0.27174900500000004,
-    "spaet": false,
-    "symbol": "FERSPE",
-    "t": 1795846752.8805683
-   },
    {
     "dauer": 153.52685356140137,
     "ersteller_verkauft": true,
