@@ -322,75 +322,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 971,
+ "laeufe": 972,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795877193.8568563,
    1795879637.9204814,
    1795880237.8543587
   ],
   "stunde": [
-   {
-    "dauer": 498.6901912689209,
-    "ersteller_verkauft": false,
-    "kaeufer": 102,
-    "mint": "DTdGF9yiTGztxGqYJ4YXWM89dG8CJjr7xRRWXHk7pump",
-    "name": "Apple official",
-    "sol": 84.759615427,
-    "spaet": false,
-    "symbol": "Apple",
-    "t": 1795876969.051574
-   },
-   {
-    "dauer": 121.44699287414551,
-    "ersteller_verkauft": true,
-    "kaeufer": 240,
-    "mint": "FHgeRHmAzkzEQBQJVjNRVC6sZibiFbscDp1tPjKTpump",
-    "name": "mElons",
-    "sol": 85.12764962199995,
-    "spaet": false,
-    "symbol": "mElons",
-    "t": 1795876992.714712
-   },
-   {
-    "dauer": 1218.48508644104,
-    "ersteller_verkauft": true,
-    "kaeufer": 5,
-    "mint": "GxX62Ebjg4DUbM2Qv3mzEz3dKMgqpMkkrSVpZppapump",
-    "name": "flying guy",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "fg",
-    "t": 1795877125.3829432
-   },
-   {
-    "dauer": 379.176531791687,
-    "ersteller_verkauft": false,
-    "kaeufer": 713,
-    "mint": "2rNXHv3NmzbvD3TSixKtSgY47yDNUGXA5wnvdY6jpump",
-    "name": "Official 2027",
-    "sol": 85.11393031999984,
-    "spaet": false,
-    "symbol": "2027",
-    "t": 1795877141.3257644
-   },
-   {
-    "mint": "Hj5ipbL5xx3Ff2jVfLfGcNk67V5MHmt5FgateqTqpump",
-    "spaet": true,
-    "t": 1795877169.4814563
-   },
-   {
-    "dauer": 99.87207555770874,
-    "ersteller_verkauft": true,
-    "kaeufer": 7,
-    "mint": "ahgMrwuobjkWijrHaMgvapr41nAwhHMrnckY8fppump",
-    "name": "#",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "#",
-    "t": 1795877197.0027719
-   },
    {
     "mint": "Dy2fe3MEeVB6DsNF9hw5jT1DUH13fGXnD7gdWrgYpump",
     "spaet": true,
@@ -731,6 +670,28 @@
     "spaet": false,
     "symbol": "WINNER",
     "t": 1795880325.638658
+   },
+   {
+    "dauer": 112.1651656627655,
+    "ersteller_verkauft": true,
+    "kaeufer": 362,
+    "mint": "9V7CKzBPz5osWSMvAQgJCHgXCWiYmAVg3bFULGPjpump",
+    "name": "Timmy",
+    "sol": 85.00535977700002,
+    "spaet": false,
+    "symbol": "TIMMY",
+    "t": 1795880660.5495186
+   },
+   {
+    "dauer": 238.75803518295288,
+    "ersteller_verkauft": true,
+    "kaeufer": 45,
+    "mint": "28HLZ29DQRGmRU2JdTtEUvN77ncxHQqWiU5kLUjbpump",
+    "name": "Moon Coin",
+    "sol": 0.17224366600000002,
+    "spaet": false,
+    "symbol": "MoonCoin",
+    "t": 1795880773.0381315
    }
   ],
   "uebersicht": 1795880537.8372564
