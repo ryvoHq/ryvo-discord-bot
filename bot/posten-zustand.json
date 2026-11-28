@@ -301,43 +301,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 770,
+ "laeufe": 771,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "GarXkFtt2CSW1E9i7dxKzcasnvP38qwFxyafPzqopump",
-    "spaet": true,
-    "t": 1795821266.0700068
-   },
-   {
-    "dauer": 370.0120348930359,
-    "ersteller_verkauft": false,
-    "kaeufer": 9,
-    "mint": "578xVMx5bt2ErQRNzJnPq6iKCmhLXb5Xc6s9aLs6pump",
-    "name": "🍌 BANANA WIZARD",
-    "sol": 0.75825461,
-    "spaet": false,
-    "symbol": "$BWIZ",
-    "t": 1795821353.7852962
-   },
-   {
-    "mint": "4WFyQFp93hcezn9g58n5v4ADt1wBYajTwksgAUL3pump",
-    "spaet": true,
-    "t": 1795821491.844529
-   },
-   {
-    "dauer": 159.7564549446106,
-    "ersteller_verkauft": false,
-    "kaeufer": 456,
-    "mint": "EgD7ugTPh8QTrA1NYF5WN6X6bvMUv8HzB3ezn7Yepump",
-    "name": "There Is No Meme",
-    "sol": 81.22805718499995,
-    "spaet": false,
-    "symbol": "IPOY",
-    "t": 1795821497.654965
-   },
    {
     "dauer": 67.01252055168152,
     "ersteller_verkauft": true,
@@ -604,6 +572,27 @@
     "spaet": false,
     "symbol": "CI",
     "t": 1795824835.4448743
+   },
+   {
+    "dauer": 118.85052061080933,
+    "ersteller_verkauft": false,
+    "kaeufer": 31,
+    "mint": "VeeVfh2kbgMp1FNSL18VdrePjjs24EVmyE3f3T1pump",
+    "name": "Mr Lucky☘️ coin",
+    "sol": 0.2901141879999969,
+    "spaet": false,
+    "symbol": "LKY☘️",
+    "t": 1795824897.2143512
+   },
+   {
+    "mint": "8GvRyqhfqxZWjSYiPVdTe1inAm3NQM2c8BAKget8pump",
+    "spaet": true,
+    "t": 1795824940.3314495
+   },
+   {
+    "mint": "2xu3o3EfwwrPhmE7CCyfssfkNLjuHpnkFkHNwWRapump",
+    "spaet": true,
+    "t": 1795824982.5451376
    }
   ],
   "uebersicht": 1795823000.229913
