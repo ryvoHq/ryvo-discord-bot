@@ -6,6 +6,10 @@
  "ebenen_trad": "2026-11-27",
  "ezb_tag": "2026-11-27",
  "gesehen": [
+  "https://www.livemint.com/market/cryptocurrency/bitcoin-slips-back-below-60-000-missing-out-on-wall-street-rally-from-thanksgiving-break-11795829583101.html",
+  "https://www.theglobeandmail.com/investing/personal-finance/article-wealthsimple-changes-interest-rate-cuts-chequing-rollback-perks/",
+  "https://economictimes.indiatimes.com/news/international/world-news/us-shoppers-brave-bad-weather-and-inflation-to-chase-black-friday-bargains/articleshow/136236252.cms",
+  "https://www.hindustantimes.com/world-news/us-news/black-friday-shoppers-flock-to-stores-despite-inflation-and-bad-weather-101795830640577.html",
   "https://tribune.com.pk/story/2642703/spi-inflation-moderates-to-single-digits",
   "https://economictimes.indiatimes.com/world/business/us-dollar-rises-bond-treasury-yields-jump-but-thanksgiving-holiday-fails-to-cheer-bitcoin/articleshow/136235420.cms",
   "https://fortune.com/2026/11/27/inflation-squeezing-americans-so-hard-rising-grocery-bills-top-reason-cut-back-black-friday-shopping/",
@@ -68,6 +72,12 @@
   "https://www.thehindubusinessline.com/markets/indian-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/article71749426.ece",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-short-term-bond-yields-edge-higher-on-inflation-rate-hike-bets/articleshow/136208946.cms",
   "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist/article71749311.ece",
+  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://financialpost.com/press-releases/pr-newswire/viabtc-to-showcase-a-decade-of-mining-expertise-and-one-stop-asset-management-at-blockchain-life-2026/",
   "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-japan-calls-safeguards-against-digital-money-ai-risks",
   "https://www.n-tv.de/regionales/baden-wuerttemberg/Arbeitslosigkeit-bei-Menschen-mit-Behinderung-steigt-id31583220.html",
@@ -80,12 +90,6 @@
   "https://www.moneycontrol.com/news/business/markets/asian-stocks-rise-for-second-day-crude-oil-gains-14089933.html",
   "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-range-bound-ahead-of-rbi-policy-amid-data-uncertainty/articleshow/136206473.cms",
   "https://economictimes.indiatimes.com/markets/forex/rupee-slides-to-92-44-as-crude-oil-prices-rise/articleshow/136206425.cms",
-  "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-  "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-  "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
-  "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
-  "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
   "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-for-second-day-crude-oil-gains/articleshow/136206178.cms",
   "https://www.businesstimes.com.sg/international/cautious-consumers-gear-black-friday-inflation-woes-bite",
   "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
@@ -305,24 +309,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 820,
- "lagebrief_stand": 1795793700,
+ "laeufe": 821,
+ "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795835469.9827614
+   1795839109.7476873
   ],
   "stunde": [
-   {
-    "dauer": 284.0816025733948,
-    "ersteller_verkauft": false,
-    "kaeufer": 307,
-    "mint": "8ASicxj71iDN41xyMX4ocqJ8SdzjF6RYS1AHvkddqihb",
-    "name": "vicecat",
-    "sol": 51.81530444500001,
-    "spaet": false,
-    "symbol": "VICECAT",
-    "t": 1795835255.3472621
-   },
    {
     "mint": "9hy3se1dP6Q5vuCjqwYkNQpbR8eL3cxRUcqA3t3Ypump",
     "spaet": true,
@@ -423,6 +416,33 @@
     "mint": "4EydKwponjbGErbBb5Upd49rQy9Q7zey8Nu1yYTapump",
     "spaet": true,
     "t": 1795838759.0220819
+   },
+   {
+    "dauer": 402.2520639896393,
+    "ersteller_verkauft": false,
+    "kaeufer": 497,
+    "mint": "3rVr2RBzEXXKf1cVvZ6HBvFg2XmBK4iMgZv9q9q4pump",
+    "name": "Ricecoin",
+    "sol": 77.66356618799976,
+    "spaet": false,
+    "symbol": "RICE",
+    "t": 1795838824.9273167
+   },
+   {
+    "dauer": 107.01480603218079,
+    "ersteller_verkauft": false,
+    "kaeufer": 20,
+    "mint": "HujkUPE5McxSDWnNnEv9wSVVe5yLkDhNLUQJ8WCgpump",
+    "name": "Doom$croll",
+    "sol": 0.7552729880000009,
+    "spaet": false,
+    "symbol": "D$",
+    "t": 1795838911.0259337
+   },
+   {
+    "mint": "AF9Mimzone9VzWpBgr5u8fadpqUeds8aPChU879PATZN",
+    "spaet": true,
+    "t": 1795839092.1268396
    }
   ],
   "uebersicht": 1795838209.4951334
