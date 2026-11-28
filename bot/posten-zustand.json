@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 888,
+ "laeufe": 889,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -541,6 +541,33 @@
     "spaet": false,
     "symbol": "FHC",
     "t": 1795857312.4718823
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "7NYyHXSzeyG2EHFb8HyfGYTmmhbs4gCDon6LmEvipump",
+    "name": "Timothy the Hippo",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "TIMOTHY",
+    "t": 1795857525.223413
+   },
+   {
+    "mint": "GXeWXQ8vDyj33X1EQZgG3Cc5Wyd6c6eEqNWU6xn3pump",
+    "spaet": true,
+    "t": 1795857568.3853385
+   },
+   {
+    "dauer": 152.85737562179565,
+    "ersteller_verkauft": true,
+    "kaeufer": 14,
+    "mint": "5syXzbnA9S1GtqEENCpQna3EyKS2mhpeHBJ3uEW8pump",
+    "name": "Weird Cat",
+    "sol": 0.5199734500000005,
+    "spaet": false,
+    "symbol": "WEIRDCAT",
+    "t": 1795857646.9020205
    }
   ],
   "uebersicht": 1795857372.4745736
