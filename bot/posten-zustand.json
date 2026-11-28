@@ -317,24 +317,14 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 918,
+ "laeufe": 919,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795865618.2703478
+   1795865618.2703478,
+   1795866217.9941115
   ],
   "stunde": [
-   {
-    "dauer": 0.0,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "A9K5uonhav67L1cqXVyVhFbHEykfDJpBBz5VSRLpump",
-    "name": "USFF",
-    "sol": 85.005359057,
-    "spaet": false,
-    "symbol": "USFF",
-    "t": 1795862335.256495
-   },
    {
     "dauer": 50.10295796394348,
     "ersteller_verkauft": false,
@@ -537,6 +527,55 @@
     "mint": "FLVzUK76ZVSMhKhUXwbgSnPBMVEhnrUtwDr3LSLDpump",
     "spaet": true,
     "t": 1795865780.2779477
+   },
+   {
+    "dauer": 62.97749876976013,
+    "ersteller_verkauft": true,
+    "kaeufer": 31,
+    "mint": "HqU3aYfbtz7ahtHb7UxxD4X48spL1CLeNCiwRHvpump",
+    "name": "GOOP HEAD",
+    "sol": 3.688665325000002,
+    "spaet": false,
+    "symbol": "GOOPER",
+    "t": 1795865992.2345433
+   },
+   {
+    "mint": "CtWubr1oRBxoqaweCQNDXwr2dJYqbjhoWB9sUd7Bpump",
+    "spaet": true,
+    "t": 1795866019.6476147
+   },
+   {
+    "dauer": 612.4306185245514,
+    "ersteller_verkauft": false,
+    "kaeufer": 707,
+    "mint": "ANxUJcRwevw9xcWMQNrwgpzcdeSgXzNq6hLUxGG3pump",
+    "name": "怒ワレ",
+    "sol": 85.19566462099972,
+    "spaet": false,
+    "symbol": "OKOWARE",
+    "t": 1795866037.5116944
+   },
+   {
+    "dauer": 127.52152299880981,
+    "ersteller_verkauft": true,
+    "kaeufer": 29,
+    "mint": "8mW5JsVBpDMTm5dM8PiCbE6f2vVhBVao4XAZeQPupump",
+    "name": "runner of the day",
+    "sol": 0.09385820700000014,
+    "spaet": false,
+    "symbol": "runner",
+    "t": 1795866047.878495
+   },
+   {
+    "dauer": 300.65423583984375,
+    "ersteller_verkauft": false,
+    "kaeufer": 149,
+    "mint": "GTXyMteWZHnXab13XY5KT1EE2eBpRKjyBEj3NPCJpump",
+    "name": "MoonBoy",
+    "sol": 85.00535932600003,
+    "spaet": false,
+    "symbol": "MoonBoy",
+    "t": 1795866187.4859602
    }
   ],
   "uebersicht": 1795865317.7976964
