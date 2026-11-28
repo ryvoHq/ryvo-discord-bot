@@ -301,27 +301,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-27",
  "lab_tageslog": [],
- "laeufe": 768,
+ "laeufe": 769,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "AXHMGojYf5UB1PmTpMeWhM1UR9GRUP8ejLeBZ2cWpump",
-    "spaet": true,
-    "t": 1795820766.844417
-   },
-   {
-    "dauer": 409.2594721317291,
-    "ersteller_verkauft": false,
-    "kaeufer": 14,
-    "mint": "9tA3nqqJqYJTH6ukAsWS1YJApFQaXvzBq3EwaLEHpump",
-    "name": "Black Friday Kitty",
-    "sol": 0.4917032840000003,
-    "spaet": false,
-    "symbol": "$BFKITTY",
-    "t": 1795820800.8096857
-   },
    {
     "mint": "Bhj8AutNrUfxg2aR2gkNzraTVYXywm7Hus8H3sjKpump",
     "spaet": true,
@@ -565,6 +549,33 @@
     "spaet": false,
     "symbol": "SM",
     "t": 1795824050.8818808
+   },
+   {
+    "mint": "FqW5dBX86Lpv36f65LbQ1ppPUe6PaGzQTtART3kgpump",
+    "spaet": true,
+    "t": 1795824258.156594
+   },
+   {
+    "dauer": 25.26981806755066,
+    "ersteller_verkauft": false,
+    "kaeufer": 126,
+    "mint": "4qFwbK9Usb7h12BKzjf8edSEbX8oxLhpKJVHLRWnpump",
+    "name": "aurbit",
+    "sol": 85.00535936499998,
+    "spaet": false,
+    "symbol": "aurbit",
+    "t": 1795824294.8225336
+   },
+   {
+    "dauer": 170.09626483917236,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "D9Bjwb72CMTteYERPpNrBvPgi23dvaZ2ynH3VooApump",
+    "name": "Street Fighter: Black Friday",
+    "sol": 0.1620472570000004,
+    "spaet": false,
+    "symbol": "SALE",
+    "t": 1795824302.1900935
    }
   ],
   "uebersicht": 1795823000.229913
