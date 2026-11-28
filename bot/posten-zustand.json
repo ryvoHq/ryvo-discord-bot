@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 948,
+ "laeufe": 949,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,39 +330,6 @@
    1795873556.4473472
   ],
   "stunde": [
-   {
-    "dauer": 88.71159315109253,
-    "ersteller_verkauft": true,
-    "kaeufer": 4,
-    "mint": "7Piy8veZspafxK5GnUw4J2M8sqguTAuX6FZk16Tcpump",
-    "name": "EVERYONE SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795870621.8319757
-   },
-   {
-    "dauer": 109.56920909881592,
-    "ersteller_verkauft": true,
-    "kaeufer": 7,
-    "mint": "5UZpDSYuro5rZWd12oCUdjEFh4YCUE7sTkftV1Njpump",
-    "name": "SELL",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "SELL",
-    "t": 1795870783.3753538
-   },
-   {
-    "dauer": 10.911731719970703,
-    "ersteller_verkauft": false,
-    "kaeufer": 1,
-    "mint": "CSWQnEdbZJ7Tteoq5Ykr9KdiWUaaRmspXBSSLGzCpump",
-    "name": "Bankrupting New Buyers",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "BNB",
-    "t": 1795870829.0411704
-   },
    {
     "dauer": 5.07881760597229,
     "ersteller_verkauft": false,
