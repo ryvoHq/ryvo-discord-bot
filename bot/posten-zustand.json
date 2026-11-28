@@ -305,7 +305,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 785,
+ "laeufe": 786,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
@@ -314,28 +314,6 @@
    1795826943.7383316
   ],
   "stunde": [
-   {
-    "dauer": 56.01304912567139,
-    "ersteller_verkauft": true,
-    "kaeufer": 210,
-    "mint": "46L6XvNUiXQcLrM2cEgiKaQhXD5QZGJVBknGAPrTpump",
-    "name": "Luciano",
-    "sol": 85.00535933799992,
-    "spaet": false,
-    "symbol": "LUCIANO",
-    "t": 1795825580.551582
-   },
-   {
-    "dauer": 0.00019693374633789062,
-    "ersteller_verkauft": false,
-    "kaeufer": 12,
-    "mint": "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump",
-    "name": "Memeball",
-    "sol": 85.00535905699999,
-    "spaet": false,
-    "symbol": "Memeball",
-    "t": 1795825615.1758995
-   },
    {
     "dauer": 50.39607334136963,
     "ersteller_verkauft": true,
@@ -476,6 +454,44 @@
     "mint": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump",
     "spaet": true,
     "t": 1795829003.3418665
+   },
+   {
+    "mint": "TUACYDL7GeVQxnoUTKjyMNTYNuViZF2cLTDFmZPpump",
+    "spaet": true,
+    "t": 1795829117.6925275
+   },
+   {
+    "dauer": 208.75274014472961,
+    "ersteller_verkauft": true,
+    "kaeufer": 10,
+    "mint": "HQBNdJVcLkve2RieJPChoimXy1CJEpfHFc7gNDJNpump",
+    "name": "wrappedape",
+    "sol": 0.928354537,
+    "spaet": false,
+    "symbol": "wApe",
+    "t": 1795829119.9960177
+   },
+   {
+    "dauer": 101.20330715179443,
+    "ersteller_verkauft": false,
+    "kaeufer": 143,
+    "mint": "26Sfh5y1iLHjY2fAXwpU5PsAnkFuyCfsXKXHo1Rgpump",
+    "name": "Official Grand Theft Auto VI",
+    "sol": 85.00535937300003,
+    "spaet": false,
+    "symbol": "GTAVI",
+    "t": 1795829198.738496
+   },
+   {
+    "dauer": 101.7347903251648,
+    "ersteller_verkauft": false,
+    "kaeufer": 397,
+    "mint": "9cZ36xyCcAo1SwDmTS7dNAkXt5J799cQsf3Tu6xEpump",
+    "name": "Ultimate Hard Man",
+    "sol": 85.03498977800005,
+    "spaet": false,
+    "symbol": "Pete",
+    "t": 1795829224.6885557
    }
   ],
   "uebersicht": 1795826643.6076992
