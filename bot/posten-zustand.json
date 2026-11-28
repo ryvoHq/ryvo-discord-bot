@@ -311,7 +311,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 874,
+ "laeufe": 875,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -493,6 +493,17 @@
     "spaet": false,
     "symbol": "DOOROC",
     "t": 1795853658.305719
+   },
+   {
+    "dauer": 44.07745409011841,
+    "ersteller_verkauft": false,
+    "kaeufer": 3,
+    "mint": "Ck2zKqgmkGzDmWot6EzqYXFbJQLCi1KjNsPUTBuEpump",
+    "name": "EVERYONE SELL",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "SELL",
+    "t": 1795853776.8606896
    }
   ],
   "uebersicht": 1795853493.8036962
