@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 951,
+ "laeufe": 952,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,43 +330,6 @@
    1795873556.4473472
   ],
   "stunde": [
-   {
-    "mint": "9iC3PPNdwBVZQLfdwE8JLusMXDkJjpGkAJJ3W1vR3zJi",
-    "spaet": true,
-    "t": 1795871526.4625876
-   },
-   {
-    "dauer": 134.22792196273804,
-    "ersteller_verkauft": false,
-    "kaeufer": 460,
-    "mint": "DGTzszV5JdbG6iBAFN6GJtcv1sTd2FZkaib9k6FfLXsq",
-    "name": "KyunCoin",
-    "sol": 86.97005037099964,
-    "spaet": false,
-    "symbol": "Kyun",
-    "t": 1795871554.40512
-   },
-   {
-    "mint": "21Z5XF5Rc9GkXCHoyXTdJ549A2DyriUxJhd6j6Ztpump",
-    "spaet": true,
-    "t": 1795871613.7529807
-   },
-   {
-    "mint": "7KfePEwUqjVZKg4kQjoLSPFfayBomgcek2VT7oapump",
-    "spaet": true,
-    "t": 1795871663.8599684
-   },
-   {
-    "dauer": 118.53006315231323,
-    "ersteller_verkauft": false,
-    "kaeufer": 26,
-    "mint": "8Gv1cgYH3R7h1Mo9PDwqRi5LGXTGoNchYruC4vk1pump",
-    "name": "ULTRAPAID",
-    "sol": 0.4335550359999995,
-    "spaet": false,
-    "symbol": "ULTRA",
-    "t": 1795871677.9408987
-   },
    {
     "mint": "7ahensCTHrxPc96icyGu3d96YDN5rNgJXXmhuzsfpump",
     "spaet": true,
@@ -559,6 +522,44 @@
     "mint": "7ghj9UzTfVd27rScpwBowLgjj7hje8MCBFR4jnkFpump",
     "spaet": true,
     "t": 1795875017.8924673
+   },
+   {
+    "mint": "5uQ1JcBKY9SVY22BZnc9mHpd94jnWHpVKo68Wf5Qpump",
+    "spaet": true,
+    "t": 1795875075.5007207
+   },
+   {
+    "dauer": 0.0008487701416015625,
+    "ersteller_verkauft": false,
+    "kaeufer": 11,
+    "mint": "q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump",
+    "name": "do nothing and win",
+    "sol": 85.00535906599998,
+    "spaet": false,
+    "symbol": "nothing",
+    "t": 1795875186.598215
+   },
+   {
+    "dauer": 79.35226893424988,
+    "ersteller_verkauft": false,
+    "kaeufer": 121,
+    "mint": "F5BgYaqKL8rZDLUkHN6rY6EqyoHJrTmjdFfcMRw1pump",
+    "name": "MoonBoy",
+    "sol": 83.66727980900001,
+    "spaet": false,
+    "symbol": "MoonBoy",
+    "t": 1795875194.94595
+   },
+   {
+    "dauer": 185.09405732154846,
+    "ersteller_verkauft": false,
+    "kaeufer": 27,
+    "mint": "9raaacUT1XrUKv3sjbh8nfyuhLhtrCda6zcKZ2LQpump",
+    "name": "fix check",
+    "sol": 0.2550008529999998,
+    "spaet": false,
+    "symbol": "Dogfix",
+    "t": 1795875222.4972742
    }
   ],
   "uebersicht": 1795872617.0749443
