@@ -311,25 +311,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 881,
+ "laeufe": 882,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795852234.6433523,
    1795853134.447712
   ],
   "stunde": [
-   {
-    "dauer": 254.97266101837158,
-    "ersteller_verkauft": false,
-    "kaeufer": 543,
-    "mint": "HpzTDpPKruZN9VkiphHAoyUWy5Yrg8Y2J3TLAUj3pump",
-    "name": "Tremp Family",
-    "sol": 83.9822915329996,
-    "spaet": false,
-    "symbol": "TREMPS",
-    "t": 1795852105.9770086
-   },
    {
     "dauer": 87.35245132446289,
     "ersteller_verkauft": true,
@@ -564,6 +552,17 @@
     "spaet": false,
     "symbol": "$MFRG",
     "t": 1795855342.0100834
+   },
+   {
+    "dauer": 0.0,
+    "ersteller_verkauft": false,
+    "kaeufer": 1,
+    "mint": "6zYqYgrSVHz3f4dGHUuwNKnDvwjzHqEAxyekmhzRpump",
+    "name": "Broccoli",
+    "sol": 85.005359057,
+    "spaet": false,
+    "symbol": "BROCCOLI",
+    "t": 1795855791.0095234
    }
   ],
   "uebersicht": 1795853493.8036962
