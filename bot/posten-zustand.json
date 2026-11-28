@@ -305,40 +305,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 819,
+ "laeufe": 820,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [
    1795835469.9827614
   ],
   "stunde": [
-   {
-    "dauer": 331.2311294078827,
-    "ersteller_verkauft": false,
-    "kaeufer": 3,
-    "mint": "AsYsKCkLJm7hCbGWdy7oKQrHNNpC51p9s4ffXMGGpump",
-    "name": "Emerald city",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "OZ",
-    "t": 1795835002.989971
-   },
-   {
-    "dauer": 292.32369589805603,
-    "ersteller_verkauft": true,
-    "kaeufer": 26,
-    "mint": "5kaMDiuApkfQQkGmJk24nXwUpygf7SBfoi14sQD6pump",
-    "name": "STROKE",
-    "sol": 0.4787078319999999,
-    "spaet": false,
-    "symbol": "STROKE",
-    "t": 1795835028.1817155
-   },
-   {
-    "mint": "7q91LDPqeecGGBxae2eSLftETTiwysaPChRBPdupump",
-    "spaet": true,
-    "t": 1795835190.0449972
-   },
    {
     "dauer": 284.0816025733948,
     "ersteller_verkauft": false,
@@ -440,6 +413,16 @@
     "spaet": false,
     "symbol": "FML",
     "t": 1795838338.7984881
+   },
+   {
+    "mint": "6p2w5YcZqTDv31J7kFh2XaEbB7HQgGWp35DWrUPMpump",
+    "spaet": true,
+    "t": 1795838546.7947392
+   },
+   {
+    "mint": "4EydKwponjbGErbBb5Upd49rQy9Q7zey8Nu1yYTapump",
+    "spaet": true,
+    "t": 1795838759.0220819
    }
   ],
   "uebersicht": 1795838209.4951334
