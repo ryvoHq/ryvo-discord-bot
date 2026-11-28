@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 957,
+ "laeufe": 958,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,11 +330,6 @@
    1795875655.691484
   ],
   "stunde": [
-   {
-    "mint": "A5PBhCQS2EuJFQ1NVH7yR2SpSDvhkRDi1FhysVM2pump",
-    "spaet": true,
-    "t": 1795873165.7468915
-   },
    {
     "dauer": 587.2130296230316,
     "ersteller_verkauft": false,
@@ -555,9 +550,31 @@
     "mint": "HnRPNwcYZFhsuRg5ChqdBEUR7DLx1XrGXdYkuSBqpump",
     "spaet": true,
     "t": 1795876337.7526262
+   },
+   {
+    "dauer": 0.000274658203125,
+    "ersteller_verkauft": false,
+    "kaeufer": 7,
+    "mint": "9HMNRRRhvnDgEtshp2WjW6tQu6vvHWZ9Akgeosedpump",
+    "name": "Mona Lisa",
+    "sol": 85.00535905699999,
+    "spaet": false,
+    "symbol": "Mona Lisa",
+    "t": 1795876611.2451937
+   },
+   {
+    "dauer": 155.07418060302734,
+    "ersteller_verkauft": true,
+    "kaeufer": 5,
+    "mint": "4oypdMwi3wS6sViStZaGjnqVZxYkGtuhGH8XwwN8pump",
+    "name": "FIRST BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795876859.0986557
    }
   ],
-  "uebersicht": 1795872617.0749443
+  "uebersicht": 1795876893.0700972
  },
  "momentum_sperre": {
   "BTC": 1795791003.9843273,
