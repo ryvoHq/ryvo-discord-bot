@@ -328,7 +328,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 981,
+ "laeufe": 982,
  "lagebrief_stand": 1795879800,
  "meme": {
   "sofort": [
@@ -338,33 +338,6 @@
    1795883283.491524
   ],
   "stunde": [
-   {
-    "dauer": 174.90998244285583,
-    "ersteller_verkauft": true,
-    "kaeufer": 19,
-    "mint": "FRPmhx5dtLkKNfRgUoEV6aP67QfPWUKQfQ2q64k8x9a9",
-    "name": "Yarmo Uvren",
-    "sol": 0.3137726170000003,
-    "spaet": false,
-    "symbol": "UVRE",
-    "t": 1795879760.7683253
-   },
-   {
-    "mint": "7D4yQ9YZUQ4XpoUbph3d9cMCtiw7zFvxDDEzr1WRpump",
-    "spaet": true,
-    "t": 1795879950.5399058
-   },
-   {
-    "dauer": 624.8902251720428,
-    "ersteller_verkauft": false,
-    "kaeufer": 448,
-    "mint": "jQ3R6wx1Mb6fQAkstCTfqkhgaC69UrueYmFLLu3pump",
-    "name": "Mona Lisa",
-    "sol": 0.0,
-    "spaet": false,
-    "symbol": "Mona",
-    "t": 1795879978.4470682
-   },
    {
     "dauer": 5.379673004150391,
     "ersteller_verkauft": false,
@@ -615,6 +588,17 @@
     "spaet": false,
     "symbol": "HOPE",
     "t": 1795883206.406824
+   },
+   {
+    "dauer": 96.24790406227112,
+    "ersteller_verkauft": false,
+    "kaeufer": 126,
+    "mint": "HzBNNxYSHXWtSRD9GEXTpnHBL5dBhe4z6wbgA7Kpump",
+    "name": "CocaCola | Offical",
+    "sol": 84.60073127500003,
+    "spaet": false,
+    "symbol": "Coca-Cola",
+    "t": 1795883519.2026865
    }
   ],
   "uebersicht": 1795880537.8372564
