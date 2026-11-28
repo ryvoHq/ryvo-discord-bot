@@ -322,7 +322,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 963,
+ "laeufe": 964,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
@@ -330,16 +330,6 @@
    1795877193.8568563
   ],
   "stunde": [
-   {
-    "mint": "7ghj9UzTfVd27rScpwBowLgjj7hje8MCBFR4jnkFpump",
-    "spaet": true,
-    "t": 1795875017.8924673
-   },
-   {
-    "mint": "5uQ1JcBKY9SVY22BZnc9mHpd94jnWHpVKo68Wf5Qpump",
-    "spaet": true,
-    "t": 1795875075.5007207
-   },
    {
     "dauer": 0.0008487701416015625,
     "ersteller_verkauft": false,
@@ -643,6 +633,27 @@
     "mint": "Gfa7Gzq9q3zndhUJtauv7VCkQxuiBDftPioAm1ubpump",
     "spaet": true,
     "t": 1795878350.9986632
+   },
+   {
+    "mint": "RKtsuqtyBSxFoKR6GrxDLTdduxUrk3sEpvQ3bJ1pump",
+    "spaet": true,
+    "t": 1795878578.7842596
+   },
+   {
+    "dauer": 367.27452778816223,
+    "ersteller_verkauft": true,
+    "kaeufer": 22,
+    "mint": "CAmetfGbxybgp14Wk75UM6cexghoPA5Hi45tVyfQpump",
+    "name": "flying guy",
+    "sol": 0.0018130439999997118,
+    "spaet": false,
+    "symbol": "fg",
+    "t": 1795878590.2186458
+   },
+   {
+    "mint": "HmUNKgRu1yM3JyzAcMWkx6NoiH96k3AQh1M53qvQpump",
+    "spaet": true,
+    "t": 1795878693.167552
    }
   ],
   "uebersicht": 1795876893.0700972
