@@ -322,47 +322,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 966,
+ "laeufe": 967,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795875655.691484,
    1795877193.8568563
   ],
   "stunde": [
-   {
-    "dauer": 172.94120144844055,
-    "ersteller_verkauft": false,
-    "kaeufer": 150,
-    "mint": "4Hv8T8NQojXJJinB64fKgLq4iNrrSrSni2TcyRbMpump",
-    "name": "Snow Share",
-    "sol": 85.00936068099995,
-    "spaet": false,
-    "symbol": "SNOWSHAR",
-    "t": 1795875586.613179
-   },
-   {
-    "dauer": 184.42038989067078,
-    "ersteller_verkauft": true,
-    "kaeufer": 33,
-    "mint": "4fPvmLxt4RNvwTzV9EtxwAsujhjkRsTm6Rt9mS4Upump",
-    "name": "You guys are getting paid?",
-    "sol": 0.6576258279999998,
-    "spaet": false,
-    "symbol": "GETPAID",
-    "t": 1795875630.722007
-   },
-   {
-    "dauer": 505.076735496521,
-    "ersteller_verkauft": false,
-    "kaeufer": 717,
-    "mint": "ECDVGEF3Y61wwwDjg7rzMEAVQVYpwzABFqwcMMJrpump",
-    "name": "Planimal",
-    "sol": 75.10345998499945,
-    "spaet": false,
-    "symbol": "PLANIMAL",
-    "t": 1795875649.1375282
-   },
    {
     "mint": "HHzUPcfetiSFo7cJatdmQV67P85uoCCgiHMWLYjMpump",
     "spaet": true,
@@ -668,6 +634,28 @@
     "spaet": false,
     "symbol": "BUY",
     "t": 1795878957.794052
+   },
+   {
+    "dauer": 221.2879617214203,
+    "ersteller_verkauft": false,
+    "kaeufer": 7,
+    "mint": "5u2bU3kVFoheDYaEWK8vhjV2m1RvUGseRn8vKk9Ypump",
+    "name": "Vico Coin",
+    "sol": 85.00535906600003,
+    "spaet": false,
+    "symbol": "VICO",
+    "t": 1795879103.0261927
+   },
+   {
+    "dauer": 103.58122134208679,
+    "ersteller_verkauft": false,
+    "kaeufer": 2,
+    "mint": "3RrjWE5nkct8vz756iZSLjS9vnujJnoKTqRGenpQpump",
+    "name": "BUY",
+    "sol": 0.0,
+    "spaet": false,
+    "symbol": "BUY",
+    "t": 1795879112.4899542
    }
   ],
   "uebersicht": 1795876893.0700972
