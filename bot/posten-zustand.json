@@ -317,30 +317,13 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 933,
+ "laeufe": 934,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [
-   1795866518.6348646,
    1795868051.495723
   ],
   "stunde": [
-   {
-    "mint": "6QkUe2KCMsH6eeHm2Pifn7dFNSC6CjHzUVAk2HuVpump",
-    "spaet": true,
-    "t": 1795866361.6479638
-   },
-   {
-    "dauer": 833.4464802742004,
-    "ersteller_verkauft": false,
-    "kaeufer": 601,
-    "mint": "3JfzkFiB95EY8ZvE3TtsKQcQ4Sf2M1SMzZKu1JNwkoqw",
-    "name": "ハチワレ",
-    "sol": 85.38847225799991,
-    "spaet": false,
-    "symbol": "Hachiware",
-    "t": 1795866367.9965765
-   },
    {
     "mint": "5EyFwnABw6HTVAN9ZkZ2biP8NdRzN7rb9bRDdK7cpump",
     "spaet": true,
