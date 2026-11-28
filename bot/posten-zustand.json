@@ -309,7 +309,7 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 851,
+ "laeufe": 852,
  "lagebrief_stand": 1795836600,
  "meme": {
   "sofort": [],
@@ -434,6 +434,16 @@
     "spaet": false,
     "symbol": "Groo",
     "t": 1795847301.1462367
+   },
+   {
+    "mint": "9TNeUGMQRULGUSxa2MQQ1r7G3g9Xet7q1ux7SLjdznzj",
+    "spaet": true,
+    "t": 1795847372.9882371
+   },
+   {
+    "mint": "6HVwJdFszAvdm6NwLaeGbj6eZkz5DorUYqaXE92pump",
+    "spaet": true,
+    "t": 1795847566.6326456
    }
   ],
   "uebersicht": 1795846141.988093
