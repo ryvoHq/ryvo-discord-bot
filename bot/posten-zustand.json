@@ -317,24 +317,11 @@
  "lab_log_tag": "2026-11-27",
  "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 910,
+ "laeufe": 911,
  "lagebrief_stand": 1795836600,
  "meme": {
-  "sofort": [
-   1795860121.709722
-  ],
+  "sofort": [],
   "stunde": [
-   {
-    "dauer": 2298.7573614120483,
-    "ersteller_verkauft": false,
-    "kaeufer": 940,
-    "mint": "2n5tTb5UXKABFXYRxDEjtDpWFh5ZFk7oRcNLDML5pump",
-    "name": "Smoothie",
-    "sol": 87.50530379599982,
-    "spaet": false,
-    "symbol": "SMOOTH",
-    "t": 1795859987.3364828
-   },
    {
     "mint": "AzLcYfPej8Zurkx5sJaFBu3QUPNbrDbaV6QA3YbQpump",
     "spaet": true,
@@ -479,6 +466,43 @@
     "spaet": false,
     "symbol": "TESLA",
     "t": 1795863411.7346144
+   },
+   {
+    "mint": "3cR3vZnefmntjakefYEsYMj8RMqpMQu99L4XRBsppump",
+    "spaet": true,
+    "t": 1795863566.1672103
+   },
+   {
+    "mint": "HyzaRjpC2T4LxTroS1FPBubssUmvrhDsdd4K8v79pump",
+    "spaet": true,
+    "t": 1795863652.11478
+   },
+   {
+    "mint": "DT5hmUppUXvcziVxoAkLk6sjNJU8G9fqyXmGPx75pump",
+    "spaet": true,
+    "t": 1795863657.2019174
+   },
+   {
+    "dauer": 155.5637390613556,
+    "ersteller_verkauft": true,
+    "kaeufer": 36,
+    "mint": "AfzQBp6TKTmccU7czddqGqxH58YxDfXQyUzn2x69pump",
+    "name": "Feral Specter",
+    "sol": 0.25918431599999925,
+    "spaet": false,
+    "symbol": "FERSPE",
+    "t": 1795863729.6072028
+   },
+   {
+    "dauer": 94.28713870048523,
+    "ersteller_verkauft": true,
+    "kaeufer": 21,
+    "mint": "Aknhj4WdMZVvt44NpaoJHMGKgFpGNNNbC7vntVp1pump",
+    "name": "dogbaton",
+    "sol": 1.0625645420000007,
+    "spaet": false,
+    "symbol": "dogbaton",
+    "t": 1795863792.4729676
    }
   ],
   "uebersicht": 1795861674.999723
