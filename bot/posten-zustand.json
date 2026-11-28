@@ -299,18 +299,13 @@
  "indizes_tag": "2026-11-27",
  "krypto_tag": "2026-11-27",
  "lab_log_tag": "2026-11-27",
- "lab_scan": "2026-11-27",
+ "lab_scan": "2026-11-28",
  "lab_tageslog": [],
- "laeufe": 769,
+ "laeufe": 770,
  "lagebrief_stand": 1795793700,
  "meme": {
   "sofort": [],
   "stunde": [
-   {
-    "mint": "Bhj8AutNrUfxg2aR2gkNzraTVYXywm7Hus8H3sjKpump",
-    "spaet": true,
-    "t": 1795821114.6154983
-   },
    {
     "mint": "GarXkFtt2CSW1E9i7dxKzcasnvP38qwFxyafPzqopump",
     "spaet": true,
@@ -576,6 +571,39 @@
     "spaet": false,
     "symbol": "SALE",
     "t": 1795824302.1900935
+   },
+   {
+    "dauer": 176.30135488510132,
+    "ersteller_verkauft": false,
+    "kaeufer": 144,
+    "mint": "efyZMDeHj1BnMeb4fU6rKGNRhUrkfEZjhQ4oC4tpump",
+    "name": "Anthropic | Official Team",
+    "sol": 85.058633335,
+    "spaet": false,
+    "symbol": "Anthropic",
+    "t": 1795824652.2225895
+   },
+   {
+    "dauer": 74.24981713294983,
+    "ersteller_verkauft": true,
+    "kaeufer": 266,
+    "mint": "DPUfEEquGmdVgx8aX9wXRjfe4naLimpy73BjAYMKpump",
+    "name": "Cats",
+    "sol": 81.80564069699994,
+    "spaet": false,
+    "symbol": "Cats",
+    "t": 1795824686.3973775
+   },
+   {
+    "dauer": 151.59566235542297,
+    "ersteller_verkauft": true,
+    "kaeufer": 455,
+    "mint": "3TQo1nESjZF9QMEhQuGT4gkQD8tzEMFUryjvNDLqpump",
+    "name": "Christian AI",
+    "sol": 86.63320069799985,
+    "spaet": false,
+    "symbol": "CI",
+    "t": 1795824835.4448743
    }
   ],
   "uebersicht": 1795823000.229913
